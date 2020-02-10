@@ -1,0 +1,12 @@
+
+* 2020
+** 2020-01 January
+*** 2020-01-16 Thursday
+**** 
+   Entered on [2020-01-16 Thu 07:14]
+**** 
+   Entered on [2020-01-16 Thu 07:15]
+     [[file:~/.emacs][file:~/.emacs]]
+**** BLAH
+   Entered on 
+    [[file:~/.emacs::(global-set-key%20(kbd%20"\C-b")%20'org-switchb)]]

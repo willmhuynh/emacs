@@ -1,0 +1,32 @@
+# -*-  eval: (anki-editor-mode) -*-
+#+TAGS: 
+#+OPTIONS: ^:nil
+* Dispatch
+** [2020-02-04 Tue 08:40]
+ [[file:e:/emacs/DB/MP/Log/Feb20.org::*Abx%20-%20Folic%20Acid][Abx - Folic Acid]]
+ :PROPERTIES:
+ :ANKI:NOTE_TYPE: Basic
+ :ANKI_DECK: 0emacs
+ :TAGS:
+ :END:
+*** Front
+M External Antimicrobials
+*** Back
+Bulbasaur + Chikorita + Treecko + Grapploct 
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_•_pokemon_Bulbasaur_i_dunno_chikorita_treecko_sniv.png]]
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_grapploct_-_Google_Search_-_Google_Chrome.png]]
+Bulbasaur, space
+B-lactams
+ PCN
+ Naf/Oxa
+
+Chikorita, chicken
+(vines = vanc, chicken = dapto)
+Vancomycin
+Daptomycin
+
+Treecko
+aztreonam, - penem (carba, imi, erta, mero)
+
+Grapploct
+Cephalosporins

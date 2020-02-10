@@ -1,0 +1,146 @@
+#+SEQ_TODO: TODO HY 1 3 5  | DONE
+#+TAGS:   Mindpalace Mnemonic BUZZ sx px dx tx ddx DB
+#+TAGS: { GIR(g) HO(h) CardioPulmEndo(c) NeuroPsy(n) MSK Repro(r) }
+#+TAGS: { Imm(i) BC Micro Path Pharm PHS } 
+#+TAGS: subtypes
+#+TITLE: Med School Notes
+
+* emacs Notes
+** Commands
+C-C C-o Open hyperlink
+C-c C-q/c TAG header
+M-S-L/R move Level & Children
+S-L/R TODO
+
+C-x 5 b open in new window
+C-x 2/3
+
+** Guide
+   https://orgmode.org/guide/
+   https://orgmode.org/manual/Built_002din-table-editor.html
+** Modes
+Modes
+Ivy Mode
+Visual Line Mode
+Anki Editor Mode
+
+* Overview
+** [[E:\Programs\ShareX-portable\000 Sharex\2020-01\ApplicationFrameHost_u2vjtAUUQq.jpg][Map]]
+** File path e:/emacs/DB/MS/S or P
+
+
+* SYSTEMS
+** GIR GI+R                                                  :Bell:Cambridge:
+ [[e:/emacs/DB/MS/S/GIR/G.org][GI]]
+ [[e:/emacs/DB/MS/S/CPE/R.org][Renal]]
+** HO HemOnc                                                           :39th:
+ [[e:/emacs/DB/MS/S/HO/H.org][Hem]]
+ [[e:/emacs/DB/MS/S/HO/O.org][Onc]]
+** CPE CardioPulmEndo                                   :Kirm:Rainbow:StuSup:
+ [[e:/emacs/DB/MS/S/CPE/C.org][Cardio]]
+ [[e:/emacs/DB/MS/S/CPE/P.org][Pulm]]
+ [[e:/emacs/DB/MS/S/CPE/E.org][Endo]]
+** NP NeuroPsy                                                         :ROKC:
+ [[e:/emacs/DB/MS/S/NP/N.org][Neuro]]
+ [[e:/emacs/DB/MS/S/NP/P.org][Psy]]
+** M MSK                                                              :Vista:
+ [[e:/emacs/DB/MS/S/M/M.org][MSK]]
+** R Repro                                                            :Falls:
+ [[e:/emacs/DB/MS/S/R/M.org][Male]]
+ [[e:/emacs/DB/MS/S/R/F.org][Female]]
+ [[e:/emacs/DB/MS/S/R/R.org][Repro]]
+
+* Principles
+** I Immuno                                                            :IOMB:
+ [[e:/emacs/DB/MS/P/I/I.org][Imm]]
+** B BC                                                                :IOMB:
+ [[e:/emacs/DB/MS/P/B/B.org][Bio]]
+** M Micro                                                             :IOMB:
+ [[e:/emacs/DB/MS/P/M/M.org][Micro]]
+** Pa Path                                                              :Heb:
+ [[e:/emacs/DB/MS/P/Pa/Pa.org][Path]]
+** Ph Pharm                                                             :Heb:
+ [[e:/emacs/DB/MS/P/Ph/Ph.org][Pharm]]
+** P PHS                                                                :Heb:
+ [[e:/emacs/DB/MS/P/P/P.org][PHS]]
+ [[e:/emacs/DB/MS/P/P/S.org][Stat]]
+
+
+
+
+* Org Drill Notes
+[[E:/emacs/DB/drill/drill.org]]
+
+
+* Mindpalace [0/0]
+  :PROPERTIES: 
+HTTPS://ORGMODE.ORG/MANUAL/BUILT_002DIN-TABLE-EDITOR.HTML#BUILT_002DIN-TABLE-EDITOR
+NAVIGATION
+M-A BACK
+M-E NEXT
+TABLE EDITING
+M-S-LEFT KILL COLUMN
+M-S-RIGHT INSERT NEW COLUMN TO LEFT
+M-S-UP KILL ROW
+M-S-DOWN NEW ROW
+S-DIR MOVE CELL
+M-DIR MOVE COLUMN/ROW
+C-C COMMANDS
+-/RET NEW ROW BELOW
+^ SORT
+
+  :END: 
+ Databases
+   [[E:/emacs/DB/MP/anchors.org]]
+   [[E:/emacs/DB/MP/MP.org]] 
+
+* UNSORTED
+* Abx  [0/1]
+# sorted by path affected; 
+# static v cidal?
+# guidelines, prophyl
+** Externals
+*** Bulbasaur
+=B-lactams
+PCN
+ Ureido-
+ Anti-staph
+Carbapenem
+Aztreonam
+Ceph
+=Polymyxin
+=Glycopeptides
+=Epoxides
+=Dapto
+** Enzymes, Nucleic Acids
+*** Bellsprout
+=Nitroimidazoles
+=Fluoro
+=Rifamycin
+** Ribosomes
+*** 30
+**** Tetra
+**** Aminog
+**** Glycycyclines
+*** 50
+**** Macro
+**** Amphenicols
+**** Licosamides
+**** Oxazolidinones
+** Folic acid
+*** Sulfonamides
+*** Diaminopyrimidines
+ 
+** Lipopeptides
+
+** Monobactams
+** TMP-SMX
+** Nitrofuran
+** Rifamycin
+** INH
+** Pyrazinamide
+** Etham
+** Dap
+** CI
+
+
