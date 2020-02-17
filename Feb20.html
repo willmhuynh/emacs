@@ -1,0 +1,3745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-02-16 Sun 21:43 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgf3dbffa">1. Vista</a>
+<ul>
+<li><a href="#org39468a8">1.1. Courtyard - Cell wall Abx**</a></li>
+<li><a href="#orge72cc0b">1.2. Lobby</a></li>
+<li><a href="#orgee62a12">1.3. Home</a>
+<ul>
+<li><a href="#orgdc39b34">1.3.1. Bed</a></li>
+<li><a href="#orgcc61aed">1.3.2. Window</a></li>
+<li><a href="#orgd2f06e9">1.3.3. Closet</a></li>
+<li><a href="#org7722b15">1.3.4. 4th Floor</a></li>
+</ul>
+</li>
+<li><a href="#org8f50325">1.4. 12</a></li>
+<li><a href="#org00c2853">1.5. Amenities</a>
+<ul>
+<li><a href="#orgbd968fc">1.5.1. Pool</a></li>
+<li><a href="#orgd0bd8ef">1.5.2. Gym</a></li>
+<li><a href="#org0da08be">1.5.3. Laundry</a></li>
+<li><a href="#org5bd5cbd">1.5.4. Mail</a></li>
+<li><a href="#org72da358">1.5.5. <span class="todo TODO">TODO</span> Front yard</a></li>
+<li><a href="#org6bfb864">1.5.6. Theatre</a></li>
+<li><a href="#org9aab532">1.5.7. Board room</a></li>
+<li><a href="#orgb18b243">1.5.8. Party room</a></li>
+</ul>
+</li>
+<li><a href="#orgd1cfd4b">1.6. Stab grab</a></li>
+<li><a href="#org0943605">1.7. Vietnam Cafe</a>
+<ul>
+<li><a href="#orgf56c9be">1.7.1. lot</a></li>
+<li><a href="#org8270351">1.7.2. stairs</a></li>
+<li><a href="#org0caaddf">1.7.3. entrance</a></li>
+</ul>
+</li>
+<li><a href="#orgd878b75">1.8. Cross Walk</a></li>
+</ul>
+</li>
+<li><a href="#orga909dfc">2. KUMC - School</a>
+<ul>
+<li>
+<ul>
+<li><a href="#org989e964">2.0.1. Hemenway</a></li>
+<li><a href="#orge574ac7">2.0.2. 1st year lecture</a></li>
+<li><a href="#orgfb0ef0e">2.0.3. 2nd year lecture</a></li>
+<li><a href="#org16a0bb4">2.0.4. Courtyard</a></li>
+<li><a href="#org75fe852">2.0.5. 1st Floor</a></li>
+<li><a href="#org4f68d06">2.0.6. 2nd Floor</a></li>
+<li><a href="#org5901bb7">2.0.7. 3rd Floor</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orgd4747e5">3. KUMC - Lib</a>
+<ul>
+<li><a href="#org8906885">3.1. Ed Supp</a></li>
+<li><a href="#org6183fed">3.2. 1st</a></li>
+<li><a href="#org3bcff43">3.3. 2nd</a></li>
+<li><a href="#org92a5d01">3.4. Outside</a></li>
+<li><a href="#org611f168">3.5. Crosswalk</a></li>
+</ul>
+</li>
+<li><a href="#org53772b6">4. KUMC - Bell</a>
+<ul>
+<li>
+<ul>
+<li><a href="#orgca7f2f3">4.0.1. Cafeteria</a></li>
+<li><a href="#org527d0b3">4.0.2. Grill, Gyro place</a></li>
+<li><a href="#org898ddd1">4.0.3. Burgers, soups</a></li>
+<li><a href="#org5d1a37b">4.0.4. Sandwiche</a></li>
+<li><a href="#orge1e9642">4.0.5. Salad Bar</a></li>
+<li><a href="#org00a4fee">4.0.6. Check out</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org7d00d51">5. KUMC - Cambridge</a>
+<ul>
+<li><a href="#orgd4388c7">5.1. Entrance</a></li>
+<li><a href="#org9ca2603">5.2. Liquor Store</a></li>
+</ul>
+</li>
+<li><a href="#orgb73f845">6. KUMC - Student Health</a>
+<ul>
+<li>
+<ul>
+<li><a href="#org36e6654">6.0.1. Dr. SB</a></li>
+<li><a href="#org993192a">6.0.2. Stairs</a></li>
+<li><a href="#orgc736757">6.0.3. Auditorium</a></li>
+<li><a href="#orgd674354">6.0.4. Lobby</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org7d2183c">7. Kirmayer</a>
+<ul>
+<li>
+<ul>
+<li><a href="#orge52c10b">7.0.1. Pool</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org8e29a1b">8. ROKC, Underground</a>
+<ul>
+<li><a href="#orge460ad2">8.1. Inside</a>
+<ul>
+<li><a href="#orga028f52">8.1.1. Island</a></li>
+<li><a href="#org5117487">8.1.2. Wall</a></li>
+<li><a href="#orgada3cfb">8.1.3. Cave</a></li>
+<li><a href="#org7c190e7">8.1.4. Gym</a></li>
+</ul>
+</li>
+<li><a href="#orgfee586c">8.2. Parking Lot</a></li>
+</ul>
+</li>
+<li><a href="#org8cee4cb">9. ROKC North</a>
+<ul>
+<li><a href="#org6a0639d">9.1. Outside</a></li>
+<li><a href="#org5650b88">9.2. Boulder</a></li>
+<li><a href="#orgd64a2a5">9.3. Tall</a></li>
+</ul>
+</li>
+<li><a href="#org915e3c4">10. <span class="todo TODO">TODO</span> YMCA</a>
+<ul>
+<li><a href="#orgccb977c">10.1. Quality Hill</a>
+<ul>
+<li><a href="#org99d1ec0">10.1.1. Outside</a></li>
+<li><a href="#orgdeb2cc6">10.1.2. Entrance &amp; Front Desk</a></li>
+<li><a href="#orge05145e">10.1.3. Dance floor</a></li>
+<li><a href="#org7d80460">10.1.4. Gym</a></li>
+</ul>
+</li>
+<li><a href="#org7ac44d3">10.2. Red Bridge</a>
+<ul>
+<li><a href="#org7b027ce">10.2.1. Locker</a></li>
+<li><a href="#orgdee10c2">10.2.2. Zumba</a></li>
+<li><a href="#org9ac9670">10.2.3. Clock in</a></li>
+</ul>
+</li>
+<li><a href="#orge3bd63c">10.3. North</a>
+<ul>
+<li><a href="#org73a3bc6">10.3.1. Entrance</a></li>
+<li><a href="#orge3a647a">10.3.2. Gram Indeterminate</a></li>
+<li><a href="#orgc10ce22">10.3.3. Zumba</a></li>
+</ul>
+</li>
+<li><a href="#orgc17982f">10.4. East</a></li>
+</ul>
+</li>
+<li><a href="#orge6278cc">11. CVS</a>
+<ul>
+<li><a href="#org76ef403">11.1. CVS</a>
+<ul>
+<li><a href="#orgdcadaef">11.1.1. Isle 1 - Abx</a></li>
+<li><a href="#org4ac9fc0">11.1.2. Isle 2 - Roids</a></li>
+<li><a href="#orgc19c6ca">11.1.3. Pain</a></li>
+</ul>
+</li>
+<li><a href="#orgf7a7159">11.2. Hawaii Chopstix</a></li>
+<li><a href="#org2b479c5">11.3. McDonalds</a></li>
+<li><a href="#orgcef4830">11.4. Dillons</a></li>
+</ul>
+</li>
+<li><a href="#orge5a845f">12. Sullivan</a></li>
+<li><a href="#orgdc1b245">13. <span class="todo TODO">TODO</span> Pricechopper</a>
+<ul>
+<li>
+<ul>
+<li><a href="#org439eca7">13.0.1. String - parking lot</a></li>
+<li><a href="#org876c33c">13.0.2. Entrance - Zipper</a></li>
+<li><a href="#orge146e8f">13.0.3. Drug section</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orge2a3fa9">14. Its 5</a>
+<ul>
+<li><a href="#orgc058990">14.1. Onc</a></li>
+<li><a href="#orga9e6fe2">14.2. Back</a></li>
+<li><a href="#org9a2f77d">14.3. Checkout</a></li>
+</ul>
+</li>
+<li><a href="#orgde10848">15. Falls</a>
+<ul>
+<li><a href="#org5b85818">15.1. Pool</a>
+<ul>
+<li><a href="#orgce522b3">15.1.1. Entrance</a></li>
+<li><a href="#org77ada62">15.1.2. BBQ</a></li>
+<li><a href="#orgc2ce883">15.1.3. Water</a></li>
+<li><a href="#org2ea3518">15.1.4. Deep End</a></li>
+<li><a href="#org7a4d9f9">15.1.5. Rock fall</a></li>
+</ul>
+</li>
+<li><a href="#org1dd1880">15.2. Old Room</a></li>
+<li><a href="#orgb028f54">15.3. Lobby</a></li>
+</ul>
+</li>
+<li><a href="#org41f78d0">16. Oliver St Home</a>
+<ul>
+<li>
+<ul>
+<li><a href="#org313e145">16.0.1. Mom</a></li>
+<li><a href="#org8413b8b">16.0.2. Dad</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org1da3444">17. Stoneybrook Home</a>
+<ul>
+<li>
+<ul>
+<li><a href="#orgfccb36c">17.0.1. Parking Lot</a></li>
+<li><a href="#org3534370">17.0.2. Basement</a></li>
+<li><a href="#orgcc978f0">17.0.3. Dad room</a></li>
+<li><a href="#orgb126fcb">17.0.4. Living Room</a></li>
+<li><a href="#org82fef6c">17.0.5. Mom room</a></li>
+<li><a href="#org3820b6e">17.0.6. Scott</a></li>
+<li><a href="#org7e073e4">17.0.7. Room</a></li>
+<li><a href="#org6c13b47">17.0.8. Backyard</a></li>
+</ul>
+</li>
+<li><a href="#orge9d86f7">17.1. Harrison Park</a></li>
+</ul>
+</li>
+<li><a href="#org7986765">18. AYCE Sushi</a></li>
+<li><a href="#org43c5500">19. Misc Notes</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgf3dbffa" class="outline-2">
+<h2 id="orgf3dbffa"><span class="section-number-2">1</span> Vista</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org39468a8" class="outline-3">
+<h3 id="org39468a8"><span class="section-number-3">1.1</span> Courtyard - Cell wall Abx**</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+B-lacs
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orgec4b0e8"></a>Bulbasaur<br />
+<div class="outline-text-6" id="text-1-1-0-0-1">
+<p>
+Wooden staff : Sudo, staph
+   space-shaped bulb - b-lactam sketchies
+   two penis vines - PCN, DICKloxacillin(naf)
+</p>
+</div>
+</li>
+
+<li><a id="org6bf8ba9"></a><span class="todo TODO">TODO</span> Grapploct, Torchic<br />
+<div class="outline-text-6" id="text-1-1-0-0-2">
+<p>
+(Arms)
+1 &amp; 2 - PEck &amp; HENS
+3 - Green (s. vir &amp; HACEK)
+4
+</p>
+
+<p>
+Proteus, E. Coli, Kleb
+H. inf, Enterbac, Neiss, Serratia
+</p>
+
+<p>
+Cephalosporins
+</p>
+</div>
+</li>
+
+<li><a id="orgf4dd729"></a>Chikorita, chicken<br />
+<div class="outline-text-6" id="text-1-1-0-0-3">
+<p>
+(vines = vanc, chicken = dapto)
+Vancomycin
+Daptomycin
+</p>
+</div>
+</li>
+<li><a id="org57984a8"></a>Treecko<br />
+<div class="outline-text-6" id="text-1-1-0-0-4">
+<p>
+Lips - monobactams
+Penis - -penems
+last of 3 grass starters - cilastin, inh renal ehyropeptiase I
+(carba, imi, erta, mero)
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-orge72cc0b" class="outline-3">
+<h3 id="orge72cc0b"><span class="section-number-3">1.2</span> Lobby</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Vitamins <sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
+</p>
+</div>
+</div>
+<div id="outline-container-orgee62a12" class="outline-3">
+<h3 id="orgee62a12"><span class="section-number-3">1.3</span> Home</h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+<div id="outline-container-orgdc39b34" class="outline-4">
+<h4 id="orgdc39b34"><span class="section-number-4">1.3.1</span> Bed</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<p>
+Sleep, stress
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org9569e2e"></a>Drowzy<br />
+<div class="outline-text-6" id="text-1-3-1-0-1">
+<p>
+ Theta - 1/2
+K, spindles - 3
+3 - delta, deep 
+ non-REM disorders (terror)
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgcc61aed" class="outline-4">
+<h4 id="orgcc61aed"><span class="section-number-4">1.3.2</span> Window</h4>
+<div class="outline-text-4" id="text-1-3-2">
+</div>
+<ol class="org-ol">
+<li><a id="org7e930b9"></a>Cordelia<br />
+<div class="outline-text-6" id="text-1-3-2-0-1">
+<p>
+Cortisol
+Cushing
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151g.png" alt="20_02_151g.png" />
+</p>
+
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151b.png" alt="20_02_151b.png" />
+</p>
+</div>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-orgd2f06e9" class="outline-4">
+<h4 id="orgd2f06e9"><span class="section-number-4">1.3.3</span> Closet</h4>
+<div class="outline-text-4" id="text-1-3-3">
+<p>
+Tumor markers <sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7722b15" class="outline-4">
+<h4 id="org7722b15"><span class="section-number-4">1.3.4</span> 4th Floor</h4>
+<div class="outline-text-4" id="text-1-3-4">
+<p>
+Cancers<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org8f50325" class="outline-3">
+<h3 id="org8f50325"><span class="section-number-3">1.4</span> 12</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+F. Repro
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orgef27d8c"></a>Castform<br />
+<div class="outline-text-6" id="text-1-4-0-0-1">
+<p>
+Breasts
+</p>
+
+<p>
+Progesterone
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org00c2853" class="outline-3">
+<h3 id="org00c2853"><span class="section-number-3">1.5</span> Amenities</h3>
+<div class="outline-text-3" id="text-1-5">
+</div>
+<div id="outline-container-orgbd968fc" class="outline-4">
+<h4 id="orgbd968fc"><span class="section-number-4">1.5.1</span> Pool</h4>
+<div class="outline-text-4" id="text-1-5-1">
+<p>
+ADRENAL
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orgf495462"></a>Anna (Feh)<br />
+<div class="outline-text-6" id="text-1-5-1-0-1">
+<p>
+ADD-renal
+CONN - she's a CONN artist
+ :Salty:
+</p>
+</div>
+</li>
+<li><a id="org60db0d1"></a>Sharena<br />
+<div class="outline-text-6" id="text-1-5-1-0-2">
+<p>
+Adrenal insuff
+Metyraponyta - Metyrapone, inhib 11b hydrox (cortisol production)
+Android 16 - Tx w/ roids
+</p>
+</div>
+</li>
+<li><a id="org9e3c50a"></a>Plusle<br />
+<div class="outline-text-6" id="text-1-5-1-0-3">
+<p>
+ADDison
+</p>
+<ul class="org-ul">
+<li>Tanning -</li>
+</ul>
+<p>
+(primary ad insuf) 
+</p>
+</div>
+</li>
+<li><a id="org45401f2"></a>Minun<br /></li>
+
+<li><a id="orgbc31bf0"></a>COrdelia<br />
+<div class="outline-text-6" id="text-1-5-1-0-5">
+<p>
+Cortisol
+Inhib pit gland &gt; MSH &amp; ACTH
+</p>
+</div>
+</li>
+
+
+<li><a id="orgb981824"></a><span class="todo TODO">TODO</span> Reinhardt<br />
+<div class="outline-text-6" id="text-1-5-1-0-6">
+<p>
+RTA
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_RTA_-_OneNotey.png" alt="20_02_RTA_-_OneNotey.png" />
+</p>
+
+<p>
+Ampho - 1
+</p>
+</div>
+</li>
+<li><a id="org9a2b644"></a><span class="todo TODO">TODO</span> Olwen<br />
+<div class="outline-text-6" id="text-1-5-1-0-7">
+<p>
+RAAS
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Google1q.png" alt="20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Google1q.png" />
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgd0bd8ef" class="outline-4">
+<h4 id="orgd0bd8ef"><span class="section-number-4">1.5.2</span> Gym</h4>
+<div class="outline-text-4" id="text-1-5-2">
+<p>
+Anti
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151h.png" alt="20_02_151h.png" />
+</p>
+</div>
+</div>
+<div id="outline-container-org0da08be" class="outline-4">
+<h4 id="org0da08be"><span class="section-number-4">1.5.3</span> Laundry</h4>
+<div class="outline-text-4" id="text-1-5-3">
+<p>
+Acid-Base
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_161y.png" alt="20_02_161y.png" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5bd5cbd" class="outline-4">
+<h4 id="org5bd5cbd"><span class="section-number-4">1.5.4</span> Mail</h4>
+</div>
+<div id="outline-container-org72da358" class="outline-4">
+<h4 id="org72da358"><span class="section-number-4">1.5.5</span> <span class="todo TODO">TODO</span> Front yard</h4>
+<div class="outline-text-4" id="text-1-5-5">
+<p>
+Vasculitis<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org8f2399c"></a>Entrance<br />
+<div class="outline-text-5" id="text-1-5-5-1">
+<p>
+Small
+</p>
+</div>
+</li>
+<li><a id="org486fac4"></a>Island<br />
+<div class="outline-text-5" id="text-1-5-5-2">
+<p>
+Mid
+</p>
+</div>
+</li>
+<li><a id="orgf3fbfe3"></a>Exit<br />
+<div class="outline-text-5" id="text-1-5-5-3">
+<p>
+Large
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org966461a"></a>Effie<br />
+<div class="outline-text-6" id="text-1-5-5-3-1">
+<p>
+GCA 
+Walls - rheumatica; 
+<a href="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_">file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_</a>
+</p>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-org6bfb864" class="outline-4">
+<h4 id="org6bfb864"><span class="section-number-4">1.5.6</span> Theatre</h4>
+<div class="outline-text-4" id="text-1-5-6">
+<p>
+Epilepsy
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org302d098"></a>Tow machine<br />
+<div class="outline-text-6" id="text-1-5-6-0-1">
+<p>
+Phenytoin
+ADR hyperplasia; SJS, neuro
+</p>
+</div>
+</li>
+<li><a id="org2c123cf"></a>Sable (llama)<br />
+<div class="outline-text-6" id="text-1-5-6-0-2">
+<p>
+Steven Johnson, Lamotrigine
+</p>
+</div>
+</li>
+<li><a id="org4f9831e"></a>Vi<br />
+<div class="outline-text-6" id="text-1-5-6-0-3">
+<p>
+Valproate
+V - liver shape; hepatotox; pancreatitis
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org9aab532" class="outline-4">
+<h4 id="org9aab532"><span class="section-number-4">1.5.7</span> Board room</h4>
+</div>
+<div id="outline-container-orgb18b243" class="outline-4">
+<h4 id="orgb18b243"><span class="section-number-4">1.5.8</span> Party room</h4>
+</div>
+</div>
+<div id="outline-container-orgd1cfd4b" class="outline-3">
+<h3 id="orgd1cfd4b"><span class="section-number-3">1.6</span> Stab grab</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Hypersensitivity
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org3f00e5b"></a>Beautifly<br />
+<div class="outline-text-6" id="text-1-6-0-0-1">
+<p>
+Type 2
+AIHA
+Goodpasture
+</p>
+</div>
+</li>
+<li><a id="orgfbeaeed"></a>Butterfree<br />
+<div class="outline-text-6" id="text-1-6-0-0-2">
+<p>
+Type 3
+(PSGN)
+</p>
+</div>
+</li>
+<li><a id="org6f72de8"></a>Dustox<br />
+<div class="outline-text-6" id="text-1-6-0-0-3">
+<p>
+Type 4
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org0943605" class="outline-3">
+<h3 id="org0943605"><span class="section-number-3">1.7</span> Vietnam Cafe</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+GI, Germ
+</p>
+</div>
+<div id="outline-container-orgf56c9be" class="outline-4">
+<h4 id="orgf56c9be"><span class="section-number-4">1.7.1</span> lot</h4>
+<div class="outline-text-4" id="text-1-7-1">
+<p>
+ecto
+</p>
+
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151o.png" alt="20_02_151o.png" />
+</p>
+</div>
+
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_Ectoderm,_Endoderm,_&amp;_Mesoderm_-_YouTube_-_Google_1p.png" alt="20_02_Ectoderm,_Endoderm,_&amp;_Mesoderm_-_YouTube_-_Google_1p.png" />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org8270351" class="outline-4">
+<h4 id="org8270351"><span class="section-number-4">1.7.2</span> stairs</h4>
+<div class="outline-text-4" id="text-1-7-2">
+<p>
+meso
+</p>
+</div>
+</div>
+<div id="outline-container-org0caaddf" class="outline-4">
+<h4 id="org0caaddf"><span class="section-number-4">1.7.3</span> entrance</h4>
+<div class="outline-text-4" id="text-1-7-3">
+<p>
+endo
+</p>
+
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_1512.png" alt="20_02_1512.png" />
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd878b75" class="outline-3">
+<h3 id="orgd878b75"><span class="section-number-3">1.8</span> Cross Walk</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Brachial Plexus, Branchial Arches <sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orga909dfc" class="outline-2">
+<h2 id="orga909dfc"><span class="section-number-2">2</span> KUMC - School</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org989e964" class="outline-4">
+<h4 id="org989e964"><span class="section-number-4">2.0.1</span> Hemenway</h4>
+<div class="outline-text-4" id="text-2-0-1">
+<p>
+Lab
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orgb4df07f"></a>Tyrogue<br />
+<div class="outline-text-6" id="text-2-0-1-0-1">
+<p>
+Hitmonchan
+Hitmonlee
+Hitmontop
+</p>
+
+<p>
+TNR Disorders
+</p>
+
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151l.png" alt="20_02_151l.png" />
+</p>
+</div>
+
+<p>
+Fried
+GAA, AR
+overactive Frataxin - Fe into cells - mt (CNS/PNS)
+HCM &gt; death
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_123.png" alt="20_02_123.png" />
+</p>
+
+<p>
+Hunt
+4, can't aim (aggressive but chorea, psychosis)
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_(5)_Trinucleotide_Repeats_-_YouTube_-_Google_Chrom2.png" alt="20_02_(5)_Trinucleotide_Repeats_-_YouTube_-_Google_Chrom2.png" />
+</p>
+
+<p>
+MT
+GRIP
+CTG
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_125.png" alt="20_02_125.png" />
+Cataracts, testic atrophy, gammaglobulinemia
+</p>
+</div>
+</li>
+
+<li><a id="org05b3171"></a>Minun, Plusle<br />
+<div class="outline-text-6" id="text-2-0-1-0-2">
+<p>
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_Browse_(51_cards_shown;_1_selected).png" alt="20_02_Browse_(51_cards_shown;_1_selected).png" />
+Neg - 
+Pos -
+</p>
+</div>
+</li>
+<li><a id="orgb87954f"></a>Miltank<br />
+<div class="outline-text-6" id="text-2-0-1-0-3">
+<p>
+Hypercalcemia
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Googlem.png" alt="20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Googlem.png" />
+</p>
+</div>
+</li>
+
+
+<li><a id="org53df94a"></a>Jinx<br />
+<div class="outline-text-6" id="text-2-0-1-0-4">
+<p>
+Hyperlipidemias
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_15z.png" alt="20_02_15z.png" />
+</p>
+</div>
+</li>
+
+
+<li><a id="org7335241"></a>Wilson (Castaway)<br />
+<div class="outline-text-6" id="text-2-0-1-0-5">
+<p>
+Cu stick
+AR, 
+Liver, psych (gait, arthria), rings
+</p>
+
+<p>
+Tx penicillamine, zinc
+ATP7B mutation
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orge574ac7" class="outline-4">
+<h4 id="orge574ac7"><span class="section-number-4">2.0.2</span> 1st year lecture</h4>
+<div class="outline-text-4" id="text-2-0-2">
+<p>
+<span class="underline">_</span> Poison, Signaling Pathways
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org7c5e850"></a>Cordelia<br />
+<div class="outline-text-6" id="text-2-0-2-0-1">
+<p>
+CO
+cyto C oxidase
+</p>
+</div>
+</li>
+<li><a id="orgf34031f"></a>Jax<br />
+<div class="outline-text-6" id="text-2-0-2-0-2">
+<p>
+JAK-STAT
+ Non-receptor
+  EPO, TPO, GCSF, IL2, IFNy
+ acidophil - GH, PRL
+ e. thrombocythemia - activated TPO <img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Google22.png" alt="20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Google22.png" />
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-orgfb0ef0e" class="outline-4">
+<h4 id="orgfb0ef0e"><span class="section-number-4">2.0.3</span> 2nd year lecture</h4>
+<div class="outline-text-4" id="text-2-0-3">
+<p>
+<span class="underline">_</span> Thalamic Nuclei
+VPM - fine taste
+VPL - proprio
+M.gen - aud
+L.geniculate - vis (they opposite)
+</p>
+</div>
+</div>
+<div id="outline-container-org16a0bb4" class="outline-4">
+<h4 id="org16a0bb4"><span class="section-number-4">2.0.4</span> Courtyard</h4>
+<div class="outline-text-4" id="text-2-0-4">
+<p>
+Biochem
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org6fcb0b0"></a>Grag Kog<br />
+<div class="outline-text-6" id="text-2-0-4-0-1">
+<p>
+Fatty &amp; Amino acids <sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup>
+</p>
+
+<p>
+<span class="underline">_</span> Amino acids
+Pikachu (PKU)
+ pale, CNS, mousy odor
+</p>
+
+
+
+
+<p>
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_1519.png" alt="20_02_1519.png" />
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14f.png" alt="20_02_14f.png" />
+</p>
+
+<p>
+keto v gluco
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_(6)_Amino_Acids_-_YouTube_-_Google_Chromeg.png" alt="20_02_(6)_Amino_Acids_-_YouTube_-_Google_Chromeg.png" />
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_(6)_Amino_Acids_-_YouTube_-_Google_Chromeg.png" alt="20_02_(6)_Amino_Acids_-_YouTube_-_Google_Chromeg.png" />
+</p>
+</div>
+</li>
+
+<li><a id="org5cb4909"></a>Ezreal<br />
+<div class="outline-text-6" id="text-2-0-4-0-2">
+<p>
+Ras-MAPk
+GTP
+</p>
+</div>
+</li>
+<li><a id="org008582b"></a>Taric<br />
+<div class="outline-text-6" id="text-2-0-4-0-3">
+<p>
+TCA
+a-KG DH; req thiamine
+</p>
+</div>
+</li>
+</ol>
+
+<li><a id="orgc85ad73"></a>Stairs to 1st floor<br />
+<ol class="org-ol">
+<li><a id="org74b148c"></a>Skitty<br />
+<div class="outline-text-6" id="text-2-0-4-1-1">
+<p>
+Catecholamine <sup><a id="fnr.1.100" class="footref" href="#fn.1">1</a></sup>]
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_161x.png" alt="20_02_161x.png" />
+</p>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org75fe852" class="outline-4">
+<h4 id="org75fe852"><span class="section-number-4">2.0.5</span> 1st Floor</h4>
+<div class="outline-text-4" id="text-2-0-5">
+<p>
+ENT
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org9e050b3"></a>Lorenz<br />
+<div class="outline-text-6" id="text-2-0-5-0-1">
+<p>
+Gloucester : Glaucoma
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Google18.png" alt="20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Google18.png" />
+</p>
+</div>
+</li>
+
+<li><a id="org0f3dae6"></a>Lee Sin<br />
+<div class="outline-text-6" id="text-2-0-5-0-2">
+<p>
+Closed angle
+</p>
+</div>
+</li>
+<li><a id="org76bfd64"></a>Vel Koz<br />
+<div class="outline-text-6" id="text-2-0-5-0-3">
+<p>
+Open angle
+outflow - alec (musc agonist), - proat
+production - Bulbasaur (BBlocker), acetazolamide
+<span class="underline">_</span>
+Anatomy
+Superior meatus - drains sphenoid &amp; p.ethmoid
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org4f68d06" class="outline-4">
+<h4 id="org4f68d06"><span class="section-number-4">2.0.6</span> 2nd Floor</h4>
+<div class="outline-text-4" id="text-2-0-6">
+<p>
+Endo
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org7d0a5f0"></a>Front<br />
+<ol class="org-ol">
+<li><a id="orgf8bb999"></a>Lorenzf<br />
+<div class="outline-text-6" id="text-2-0-6-1-1">
+<p>
+Thyrsus - Thymus
+Thymoma - PRCAplasia 
+</p>
+</div>
+</li>
+</ol>
+</li>
+<li><a id="org3dc6540"></a>Back<br />
+<ol class="org-ol">
+<li><a id="orge40356b"></a>Lysithea<br />
+<div class="outline-text-6" id="text-2-0-6-2-1">
+<p>
+Thyroid (she has thyrsus)
+Calcitonin-cells
+gene <sup><a id="fnr.2.100" class="footref" href="#fn.2">2</a></sup>
+</p>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+
+
+
+<div id="outline-container-org5901bb7" class="outline-4">
+<h4 id="org5901bb7"><span class="section-number-4">2.0.7</span> 3rd Floor</h4>
+<div class="outline-text-4" id="text-2-0-7">
+<p>
+Female
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org798494f"></a>Castform<br />
+<div class="outline-text-6" id="text-2-0-7-0-1">
+<p>
+Boobs
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_(5)_Video_Question_Bank__Question_#10_-_YouTube_-a.png" alt="20_02_(5)_Video_Question_Bank__Question_#10_-_YouTube_-a.png" />
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_13b.png" alt="20_02_13b.png" />
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgd4747e5" class="outline-2">
+<h2 id="orgd4747e5"><span class="section-number-2">3</span> KUMC - Lib</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org8906885" class="outline-3">
+<h3 id="org8906885"><span class="section-number-3">3.1</span> Ed Supp</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+<span class="underline">_</span> 1st Room - Isles <span class="underline">_</span>
+Sail - (IL-4) has tutu bees (B cells &amp; Th2) make eggs (IgE &amp; G from M)
+</p>
+
+
+<p>
+<span class="underline">_</span> 2nd Room
+Cytokines
+CD markers, cytokines
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orga133673"></a>Caterpie<br /></li>
+<li><a id="orga919d1c"></a>Weedle<br />
+<div class="outline-text-6" id="text-3-1-0-0-2">
+<p>
+cytokines 10-20
+18 - neutro  b integrins to ICAM-1
+</p>
+</div>
+</li>
+<li><a id="orgf47498c"></a>Blipbug, dottler, orbeatle<br /></li>
+</ol>
+</div>
+<div id="outline-container-org6183fed" class="outline-3">
+<h3 id="org6183fed"><span class="section-number-3">3.2</span> 1st</h3>
+</div>
+<div id="outline-container-org3bcff43" class="outline-3">
+<h3 id="org3bcff43"><span class="section-number-3">3.3</span> 2nd</h3>
+</div>
+<div id="outline-container-org92a5d01" class="outline-3">
+<h3 id="org92a5d01"><span class="section-number-3">3.4</span> Outside</h3>
+<div class="outline-text-3" id="text-3-4">
+<p>
+Fungi
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org1b04807"></a>Pokemon<br />
+<div class="outline-text-6" id="text-3-4-0-0-1">
+<p>
+Pineco - -azole
+Froakie - Amphotericin
+</p>
+</div>
+</li>
+<li><a id="orgbb59492"></a>Silque<br />
+<div class="outline-text-6" id="text-3-4-0-0-2">
+<p>
+<span class="underline">_</span>  Aspergillus
+Haircut - HCC risk
+Scarecrow -<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_Aspergillus_Fumigatus_-_Asparagus_Farm_-_OneNote21.jpg" alt="20_02_Aspergillus_Fumigatus_-_Asparagus_Farm_-_OneNote21.jpg" /> 
+<b>Froakie</b> for invasive (nasal;
+  renal, endocarditis, CNS ring)
+aflatoxin prevents transcription
+<span class="underline">_</span> Mucoribiform plate
+<span class="underline">_</span> Cryptocock
+</p>
+</div>
+</li>
+
+
+
+<li><a id="org2819d46"></a>Jesse<br />
+<div class="outline-text-6" id="text-3-4-0-0-3">
+<p>
+Cutaneous mycoses
+Saying "OH K" - KOH stain
+Yellowbrick road - dermatophytes
+with a rose and spaghetti - shenk &amp; furfur
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org611f168" class="outline-3">
+<h3 id="org611f168"><span class="section-number-3">3.5</span> Crosswalk</h3>
+<div class="outline-text-3" id="text-3-5">
+<p>
+Orthro
+<span class="underline">_</span> RA <span class="underline">_</span> 
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orgd36d0ae"></a>Matthew &amp; Leila<br />
+<div class="outline-text-6" id="text-3-5-0-0-1">
+<p>
+MTX &amp; Leflunomide
+Matt has (oral ulcers)
+Matt pulls liver slot machine; shows all plates; new money shoots out
+ hepatotoxic, thrombocytopenia, pneumonitis
+Sydney is pregnant (pregnancy &amp; kidney impairment CI)
+Leila has yellow paper (mYELLOsuppression ADR)
+Leila doesn't gamble (liver &amp; preg CI)
+</p>
+</div>
+</li>
+<li><a id="orgd64989c"></a>Salad - Sulfur<br />
+<div class="outline-text-6" id="text-3-5-0-0-2">
+<p>
+Sulfasalazine
+Luke (FEH)  with a pen (leukopenia)
+Newt peeing in the salad &amp; Luke's pants (neutropneia, infertility)
+Zubat (Hemolytic anemia)
+</p>
+</div>
+</li>
+<li><a id="orgff078c6"></a>Clarine<br />
+<div class="outline-text-6" id="text-3-5-0-0-3">
+<p>
+(hydroxy)chloroquine
+needs glasses (ocular tox)
+</p>
+
+<p>
+<span class="underline">_</span> Biologics <span class="underline">_</span> 
+</p>
+</div>
+</li>
+<li><a id="org051df37"></a>Tofu(Wakfu) on window SILL,<br />
+<div class="outline-text-6" id="text-3-5-0-0-4">
+<p>
+tofacitinib, toCILizumab, abatacept
+</p>
+
+<p>
+Tofu jacking off unsuccessfully (JAK inhib)
+Tofu attacks Newt &amp; Zubat (neutropenia, anemia)
+</p>
+
+<p>
+Sill has shiny chrome bumper (CYP450 active) &amp; small bomb on an isle (IL-6)
+Isle is on top of a bunch of yurts &amp; livers (HTN, UTI, elevated liver enzymes)
+</p>
+</div>
+
+<ol class="org-ol">
+<li><a id="orged66f27"></a>in a tux<br />
+<div class="outline-text-7" id="text-3-5-0-0-4-1">
+<p>
+riTUXimab
+</p>
+</div>
+</li>
+<li><a id="org039723a"></a>hanging like a BAT<br />
+<div class="outline-text-7" id="text-3-5-0-0-4-2">
+<p>
+abatacept
+</p>
+</div>
+</li>
+</ol>
+</li>
+<li><a id="orgdb666d2"></a>Adam &amp; Eve w/ netflix, on the picnic table<br />
+<div class="outline-text-6" id="text-3-5-0-0-5">
+<p>
+Adalimumab, etanercept
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org53772b6" class="outline-2">
+<h2 id="org53772b6"><span class="section-number-2">4</span> KUMC - Bell</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+Cardio
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org35510c0"></a>Pichu<br />
+<div class="outline-text-6" id="text-4-0-0-0-1">
+<p>
+Shock
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_13c.png" alt="20_02_13c.png" />
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_13d.png" alt="20_02_13d.png" />
+</p>
+
+<p>
+II, III, AvF - RCA occlusion
+</p>
+</div>
+</li>
+<li><a id="org21baa0e"></a>Pikachu<br />
+<div class="outline-text-6" id="text-4-0-0-0-2">
+<p>
+ECGs
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151a.png" alt="20_02_151a.png" />
+</p>
+</div>
+</li>
+<li><a id="org7f5effd"></a><span class="todo TODO">TODO</span> Luvdisc dying<br />
+<div class="outline-text-6" id="text-4-0-0-0-3">
+<p>
+HF
+tide pod -iritide
+BNP &gt; cGMP <img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_1623.png" alt="20_02_1623.png" />
+</p>
+</div>
+</li>
+</ol>
+
+<div id="outline-container-orgca7f2f3" class="outline-4">
+<h4 id="orgca7f2f3"><span class="section-number-4">4.0.1</span> Cafeteria</h4>
+<div class="outline-text-4" id="text-4-0-1">
+<p>
+Arrythmias
+</p>
+</div>
+</div>
+<div id="outline-container-org527d0b3" class="outline-4">
+<h4 id="org527d0b3"><span class="section-number-4">4.0.2</span> Grill, Gyro place</h4>
+</div>
+<div id="outline-container-org898ddd1" class="outline-4">
+<h4 id="org898ddd1"><span class="section-number-4">4.0.3</span> Burgers, soups</h4>
+</div>
+<div id="outline-container-org5d1a37b" class="outline-4">
+<h4 id="org5d1a37b"><span class="section-number-4">4.0.4</span> Sandwiche</h4>
+</div>
+<div id="outline-container-orge1e9642" class="outline-4">
+<h4 id="orge1e9642"><span class="section-number-4">4.0.5</span> Salad Bar</h4>
+<div class="outline-text-4" id="text-4-0-5">
+<p>
+Class 4 Antiarrh
+verap
+Cheese drought - block calcium in slow-response cardiac tissue, slowing P4 &amp; 0 
+</p>
+
+<p>
+prevent recurrent nodal (PST)
+</p>
+</div>
+</div>
+<div id="outline-container-org00a4fee" class="outline-4">
+<h4 id="org00a4fee"><span class="section-number-4">4.0.6</span> Check out</h4>
+<div class="outline-text-4" id="text-4-0-6">
+</div>
+<ol class="org-ol">
+<li><a id="org58a9f62"></a>Nate (Pokemon)<br />
+<div class="outline-text-6" id="text-4-0-6-0-1">
+<p>
+Nitrate
+</p>
+</div>
+</li>
+
+<li><a id="orgce339a3"></a><span class="todo TODO">TODO</span> Antiarrhythmics<br />
+<div class="outline-text-6" id="text-4-0-6-0-2">
+<p>
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14k.png" alt="20_02_14k.png" />
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14j.png" alt="20_02_14j.png" />
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14l.png" alt="20_02_14l.png" />
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org7d00d51" class="outline-2">
+<h2 id="org7d00d51"><span class="section-number-2">5</span> KUMC - Cambridge</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-orgd4388c7" class="outline-3">
+<h3 id="orgd4388c7"><span class="section-number-3">5.1</span> Entrance</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Micro Gram PURPLE v. neg
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_16_%pn.2d.jpg" alt="20_02_16_%pn.2d.jpg" />
+</p>
+</div>
+
+<ol class="org-ol">
+<li><a id="org8e3aa18"></a>Claude<br />
+<div class="outline-text-6" id="text-5-1-0-0-1">
+<p>
+Babesiosis
+Maltese cross
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org9ca2603" class="outline-3">
+<h3 id="org9ca2603"><span class="section-number-3">5.2</span> Liquor Store</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Liver
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb73f845" class="outline-2">
+<h2 id="orgb73f845"><span class="section-number-2">6</span> KUMC - Student Health</h2>
+<div class="outline-text-2" id="text-6">
+<p>
+Psych
+</p>
+</div>
+<div id="outline-container-org36e6654" class="outline-4">
+<h4 id="org36e6654"><span class="section-number-4">6.0.1</span> Dr. SB</h4>
+<div class="outline-text-4" id="text-6-0-1">
+<p>
+Depression 
+sleep, interest, guilt; energy, concen, app, psychomotor, SI
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org78a982c"></a>Hel<br />
+<div class="outline-text-6" id="text-6-0-1-0-1">
+<p>
+multiple personality disorder
+</p>
+</div>
+</li>
+</ol>
+
+<li><a id="orgac260fc"></a><span class="todo TODO">TODO</span> Lobby<br />
+<div class="outline-text-5" id="text-6-0-1-1">
+<p>
+Aphasia
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_16_%pn.2b.jpg" alt="20_02_16_%pn.2b.jpg" />
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org993192a" class="outline-4">
+<h4 id="org993192a"><span class="section-number-4">6.0.2</span> Stairs</h4>
+<div class="outline-text-4" id="text-6-0-2">
+<p>
+Stroke
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151t.jpg" alt="20_02_151t.jpg" />
+ <sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc736757" class="outline-4">
+<h4 id="orgc736757"><span class="section-number-4">6.0.3</span> Auditorium</h4>
+<div class="outline-text-4" id="text-6-0-3">
+<p>
+Brain
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org356270c"></a>Dewpider<br />
+<div class="outline-text-6" id="text-6-0-3-0-1">
+<p>
+Hydrocephalus Normal
+ Triad Dementia, Gait, urge incont
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_2_-_PowerPoint5.png" alt="20_02_2_-_PowerPoint5.png" />
+</p>
+</div>
+</li>
+
+<li><a id="org561e5f3"></a>Araquanid -<br /></li>
+<li><a id="orgfe4cdfe"></a><span class="underline">_</span> Encephalitis<br />
+<div class="outline-text-6" id="text-6-0-3-0-3">
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151r.jpg" alt="20_02_151r.jpg" />
+</p>
+</div>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-orgd674354" class="outline-4">
+<h4 id="orgd674354"><span class="section-number-4">6.0.4</span> Lobby</h4>
+<div class="outline-text-4" id="text-6-0-4">
+<p>
+Cranial Nerves
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orgc521ea6"></a>Wand<br /></li>
+<li><a id="org7b8dc8b"></a>Tutu<br /></li>
+<li><a id="org6794b2b"></a>Tree<br /></li>
+<li><a id="org2601079"></a>Sailboat<br /></li>
+<li><a id="orge9283cd"></a>Horsea<br /></li>
+<li><a id="org4692819"></a>Bomb-omb<br /></li>
+<li><a id="orgc32e21a"></a>Dwarf<br />
+<div class="outline-text-6" id="text-6-0-4-0-7">
+<p>
+stomping (stapedius - dampens noise)
+tonging balloon (ant 2/3 taste)
+spitting - glands (subman, ling, lac)
+</p>
+</div>
+</li>
+<li><a id="org66d6c50"></a>Hourglass<br /></li>
+<li><a id="orga7b9e43"></a>Balloon<br />
+<div class="outline-text-6" id="text-6-0-4-0-9">
+<p>
+kiss dward (post 1/3 taste)
+</p>
+</div>
+</li>
+<li><a id="orgdeaee62"></a>Hen<br />
+<div class="outline-text-6" id="text-6-0-4-0-10">
+<p>
+Leaf - PARA #1
+</p>
+</div>
+</li>
+<li><a id="orgaad3e26"></a>Clothesline<br /></li>
+<li><a id="org1c9a448"></a>Whale<br /></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org7d2183c" class="outline-2">
+<h2 id="org7d2183c"><span class="section-number-2">7</span> Kirmayer</h2>
+<div class="outline-text-2" id="text-7">
+<p>
+Autonomics
+</p>
+</div>
+<div id="outline-container-orge52c10b" class="outline-4">
+<h4 id="orge52c10b"><span class="section-number-4">7.0.1</span> Pool</h4>
+<div class="outline-text-4" id="text-7-0-1">
+<p>
+Hernia
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org2d36554"></a>Alec<br />
+<div class="outline-text-6" id="text-7-0-1-0-1">
+<p>
+muscarinic
+</p>
+</div>
+</li>
+<li><a id="org1d7d1b4"></a><span class="todo TODO">TODO</span> Alice<br />
+<div class="outline-text-6" id="text-7-0-1-0-2">
+<p>
+antimuscarinic, atropine
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_2_-_PowerPoint4.png" alt="20_02_2_-_PowerPoint4.png" />
+ Blind, dry, retention
+</p>
+</div>
+</li>
+<li><a id="org2326268"></a>Alistar<br />
+<div class="outline-text-6" id="text-7-0-1-0-3">
+<p>
+Alpha
+</p>
+</div>
+</li>
+<li><a id="org5be383e"></a>Braum<br />
+<div class="outline-text-6" id="text-7-0-1-0-4">
+<p>
+Beta
+sexy sweat (AH, insulin)
+</p>
+</div>
+</li>
+<li><a id="org8906a84"></a>Ahri<br />
+<div class="outline-text-6" id="text-7-0-1-0-5">
+<p>
+a antag
+phFOXybenzamine
+</p>
+</div>
+</li>
+<li><a id="org111e930"></a>Blitz<br />
+<div class="outline-text-6" id="text-7-0-1-0-6">
+<p>
+B antag
+</p>
+</div>
+</li>
+<li><a id="org2b5710b"></a>Ephraim<br />
+<div class="outline-text-6" id="text-7-0-1-0-7">
+<p>
+Epi
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org8e29a1b" class="outline-2">
+<h2 id="org8e29a1b"><span class="section-number-2">8</span> ROKC, Underground</h2>
+<div class="outline-text-2" id="text-8">
+<p>
+Derm
+</p>
+</div>
+<div id="outline-container-orge460ad2" class="outline-3">
+<h3 id="orge460ad2"><span class="section-number-3">8.1</span> Inside</h3>
+<div class="outline-text-3" id="text-8-1">
+</div>
+<div id="outline-container-orga028f52" class="outline-4">
+<h4 id="orga028f52"><span class="section-number-4">8.1.1</span> Island</h4>
+</div>
+<div id="outline-container-org5117487" class="outline-4">
+<h4 id="org5117487"><span class="section-number-4">8.1.2</span> Wall</h4>
+</div>
+<div id="outline-container-orgada3cfb" class="outline-4">
+<h4 id="orgada3cfb"><span class="section-number-4">8.1.3</span> Cave</h4>
+<div class="outline-text-4" id="text-8-1-3">
+<p>
+Palms, soles
+</p>
+</div>
+</div>
+<div id="outline-container-org7c190e7" class="outline-4">
+<h4 id="org7c190e7"><span class="section-number-4">8.1.4</span> Gym</h4>
+<div class="outline-text-4" id="text-8-1-4">
+</div>
+<ol class="org-ol">
+<li><a id="org1d15e4a"></a><span class="todo TODO">TODO</span> - Coxsackie<br /></li>
+<li><a id="orgaf42eb8"></a>Milotic - Syph<br /></li>
+<li><a id="orgfdae475"></a>Pinchurchin - RMSF<br />
+<div class="outline-text-6" id="text-8-1-4-0-3">
+<p>
+<span class="underline">_</span> 
+</p>
+</div>
+</li>
+<li><a id="orgc649232"></a>Excadrill<br />
+<div class="outline-text-6" id="text-8-1-4-0-4">
+<p>
+Eczema
+Itching himself; ichthyosis vulgaris
+Filiagrin mutation (desquamation)
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgfee586c" class="outline-3">
+<h3 id="orgfee586c"><span class="section-number-3">8.2</span> Parking Lot</h3>
+<div class="outline-text-3" id="text-8-2">
+</div>
+<ol class="org-ol">
+<li><a id="orge0af5c8"></a>Jinx<br />
+<div class="outline-text-6" id="text-8-2-0-0-1">
+<p>
+neurocutaneous syndromes
+Sturge <img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14o.png" alt="20_02_14o.png" />
+</p>
+
+<p>
+Tuberous
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14p.png" alt="20_02_14p.png" />
+</p>
+
+<p>
+VHL
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14q.png" alt="20_02_14q.png" />
+</p>
+
+<p>
+NF
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14r.png" alt="20_02_14r.png" />
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14s.jpg" alt="20_02_14s.jpg" />
+</p>
+
+<p>
+NF
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14t.png" alt="20_02_14t.png" />
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14u.png" alt="20_02_14u.png" />
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14v.png" alt="20_02_14v.png" />
+</p>
+
+
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14w.png" alt="20_02_14w.png" />
+</p>
+</div>
+</div>
+</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org8cee4cb" class="outline-2">
+<h2 id="org8cee4cb"><span class="section-number-2">9</span> ROKC North</h2>
+<div class="outline-text-2" id="text-9">
+<p>
+Respiratory
+</p>
+</div>
+<div id="outline-container-org6a0639d" class="outline-3">
+<h3 id="org6a0639d"><span class="section-number-3">9.1</span> Outside</h3>
+<div class="outline-text-3" id="text-9-1">
+</div>
+<ol class="org-ol">
+<li><a id="orgd1966be"></a>Koffing<br />
+<div class="outline-text-6" id="text-9-1-0-0-1">
+<p>
+CURB-65
+for PNA
+Conf, BUN, RR, BP, 65
+2 = inpt
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_127.png" alt="20_02_127.png" />
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org5650b88" class="outline-3">
+<h3 id="org5650b88"><span class="section-number-3">9.2</span> Boulder</h3>
+<div class="outline-text-3" id="text-9-2">
+<p>
+Phys
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org7bfe649"></a><br />
+<div class="outline-text-6" id="text-9-2-0-0-1">
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151c.png" alt="20_02_151c.png" />
+</p>
+</div>
+</div>
+</li>
+
+<li><a id="org88d1a99"></a>Azir's Pyramid<br />
+<div class="outline-text-6" id="text-9-2-0-0-2">
+<p>
+Pulsus paradoxus
+Talys bride (tamponade), Oliver (OSA), Peri (carditis), Conrad (croup, asthma)
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-orgd64a2a5" class="outline-3">
+<h3 id="orgd64a2a5"><span class="section-number-3">9.3</span> Tall</h3>
+<div class="outline-text-3" id="text-9-3">
+</div>
+<ol class="org-ol">
+<li><a id="orgb3e9472"></a>Legion<br />
+<div class="outline-text-6" id="text-9-3-0-0-1">
+<p>
+w/ bloody axe (haem, morax)
+ PNA w/ COPD
+&gt; SS Cysteine <img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_Legionella_-_The_SS_Cysteine_Joins_the_Legion_-_26.png" alt="20_02_Legionella_-_The_SS_Cysteine_Joins_the_Legion_-_26.png" />
+</p>
+</div>
+</li>
+<li><a id="orgcd44973"></a>(asbestos)<br />
+<div class="outline-text-6" id="text-9-3-0-0-2">
+<p>
+lower lung (vs other - upper)
+</p>
+</div>
+</li>
+
+<li><a id="org83fada6"></a>Silque<br />
+<div class="outline-text-6" id="text-9-3-0-0-3">
+<p>
+Aspergillus
+ Invasive
+ -omas
+ allergic bronchopulmonary
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org8fbc8d7"></a>Froakie<br />
+<div class="outline-text-7" id="text-9-3-0-0-3-1">
+<p>
+Amphotericin for invasive
+</p>
+</div>
+</li>
+<li><a id="orgf8dd09a"></a>Android 16 (the hunky red head)<br />
+<div class="outline-text-7" id="text-9-3-0-0-3-2">
+<p>
+Corticosteroids for ABA
+</p>
+</div>
+</li>
+</ol>
+</li>
+<li><a id="org2c0a3fa"></a><span class="todo TODO">TODO</span> boo (dbz)<br /></li>
+<li><a id="orgc315043"></a>Peony (FEH)<br />
+<div class="outline-text-6" id="text-9-3-0-0-5">
+<p>
+PNA
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org915e3c4" class="outline-2">
+<h2 id="org915e3c4"><span class="section-number-2">10</span> <span class="todo TODO">TODO</span> YMCA</h2>
+<div class="outline-text-2" id="text-10">
+<p>
+Micro
+</p>
+</div>
+<div id="outline-container-orgccb977c" class="outline-3">
+<h3 id="orgccb977c"><span class="section-number-3">10.1</span> Quality Hill</h3>
+<div class="outline-text-3" id="text-10-1">
+<p>
+G-
+</p>
+</div>
+<div id="outline-container-org99d1ec0" class="outline-4">
+<h4 id="org99d1ec0"><span class="section-number-4">10.1.1</span> Outside</h4>
+<div class="outline-text-4" id="text-10-1-1">
+<p>
+Bacilli
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org29bea9a"></a>combee<br /></li>
+<li><a id="orga532d85"></a>Vibrava<br /></li>
+<li><a id="org8a5f285"></a>Heliolisk<br /></li>
+<li><a id="org3aa47e5"></a>Sudowoodo<br />
+<div class="outline-text-6" id="text-10-1-1-0-4">
+<p>
+<span class="underline">_</span> <span class="underline">_</span> 
+</p>
+</div>
+</li>
+<li><a id="org197578c"></a>Yamper, coalossal (coli),<br />
+<ol class="org-ol">
+<li><a id="orgff8e179"></a>UP :foam<br />
+<div class="outline-text-7" id="text-10-1-1-0-5-1">
+<p>
+#1 UTI uncomplicated
+green on EMB; P. fimbriae
+</p>
+</div>
+</li>
+</ol>
+</li>
+<li><a id="org472b440"></a>Oranguru, salamence<br /></li>
+<li><a id="orgd245d45"></a>Klefki (used to enter, serratia)<br /></li>
+<li><a id="orgfd91cee"></a>primeape (prot)<br /></li>
+</ol>
+</div>
+<div id="outline-container-orgdeb2cc6" class="outline-4">
+<h4 id="orgdeb2cc6"><span class="section-number-4">10.1.2</span> Entrance &amp; Front Desk</h4>
+<div class="outline-text-4" id="text-10-1-2">
+<p>
+Baccili - resp &amp; zoonotic
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org44cbb63"></a>Drowzy<br />
+<div class="outline-text-6" id="text-10-1-2-0-1">
+<p>
+Bordetella (he's bored
+</p>
+</div>
+</li>
+<li><a id="org94645ea"></a>Hypno<br />
+<div class="outline-text-6" id="text-10-1-2-0-2">
+<p>
+Influenza (he's influencing
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org18e3836"></a>Rifle<br />
+<div class="outline-text-7" id="text-10-1-2-0-2-1">
+<p>
+Rifampin
+Shotgun to dick - hepatotox, red fluids
+</p>
+</div>
+</li>
+<li><a id="orgb34af90"></a>Olaf, Legion<br />
+<div class="outline-text-7" id="text-10-1-2-0-2-2">
+<p>
+3Ceph or amox
+</p>
+</div>
+</li>
+</ol>
+</li>
+<li><a id="org6c0b887"></a>Legion (FEH)<br />
+<div class="outline-text-6" id="text-10-1-2-0-3">
+<p>
+Legionella
+</p>
+</div>
+</li>
+<li><a id="org7fb863b"></a>LIEbart (liepard)<br />
+<div class="outline-text-6" id="text-10-1-2-0-4">
+<p>
+Bartonella
+</p>
+</div>
+</li>
+<li><a id="orgc7d5869"></a>Lycanrock (dog)<br />
+<div class="outline-text-6" id="text-10-1-2-0-5">
+<p>
+Pasteurella
+</p>
+</div>
+</li>
+<li><a id="org814b3f4"></a>Lopunny<br />
+<div class="outline-text-6" id="text-10-1-2-0-6">
+<p>
+Francisella
+</p>
+</div>
+</li>
+<li><a id="org186b90f"></a>Miltank<br />
+<div class="outline-text-6" id="text-10-1-2-0-7">
+<p>
+Brucella
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orgcbd7a6f"></a>aurelion<br />
+<div class="outline-text-7" id="text-10-1-2-0-7-1">
+<p>
+Doxy
+</p>
+</div>
+</li>
+<li><a id="org171d8a7"></a>Hattrem<br />
+<div class="outline-text-7" id="text-10-1-2-0-7-2">
+<p>
+strep-tomycin
+</p>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-orge05145e" class="outline-4">
+<h4 id="orge05145e"><span class="section-number-4">10.1.3</span> Dance floor</h4>
+<div class="outline-text-4" id="text-10-1-3">
+<p>
+cocci
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org713351c"></a>Luvdisc (men)&#xa0;&#xa0;&#xa0;<span class="tag"><span class="axe">axe</span></span><br />
+<div class="outline-text-6" id="text-10-1-3-0-1">
+<p>
+N. men
+Moraxella
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org18939b2"></a>Primrose<br />
+<div class="outline-text-7" id="text-10-1-3-0-1-1">
+<p>
+with an ax (trimeth &amp; amox Tx moraxella)
+</p>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-org7d80460" class="outline-4">
+<h4 id="org7d80460"><span class="section-number-4">10.1.4</span> Gym</h4>
+</div>
+</div>
+<div id="outline-container-org7ac44d3" class="outline-3">
+<h3 id="org7ac44d3"><span class="section-number-3">10.2</span> Red Bridge</h3>
+<div class="outline-text-3" id="text-10-2">
+<p>
+G+, more like PURPLE bridge amirite? Cloyster?
+</p>
+</div>
+<div id="outline-container-org7b027ce" class="outline-4">
+<h4 id="org7b027ce"><span class="section-number-4">10.2.1</span> Locker</h4>
+<div class="outline-text-4" id="text-10-2-1">
+<p>
+Bacilli
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org32fdb19"></a>Legion2<br />
+<div class="outline-text-6" id="text-10-2-1-0-1">
+<p>
+Anthrax
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org9a2b0ad"></a>Wooloo<br />
+<div class="outline-text-7" id="text-10-2-1-0-1-1">
+<p>
+#wide mediastinum
+sheep herders
+</p>
+</div>
+</li>
+<li><a id="org1022e8a"></a>Zyra, aurelion<br />
+<div class="outline-text-7" id="text-10-2-1-0-1-2">
+<p>
+fluoro,-cycline 
+</p>
+</div>
+</li>
+<li><a id="orgfb40ee2"></a>Fury<br />
+<div class="outline-text-7" id="text-10-2-1-0-1-3">
+<p>
+LF - cleaves Map-k &gt; TNF-a &gt; eschar
+EF - activate cAMP &gt; edema
+</p>
+</div>
+</li>
+</ol>
+</li>
+<li><a id="org9b81f8f"></a>Remoraid<br />
+<div class="outline-text-6" id="text-10-2-1-0-2">
+<p>
+Bacteroides
+Amping (amp+sulf Tx)
+</p>
+</div>
+</li>
+<li><a id="org57a9be6"></a>Cloyster<br />
+<div class="outline-text-6" id="text-10-2-1-0-3">
+<p>
+Clostridia
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org33f5539"></a>Mario<br />
+<div class="outline-text-7" id="text-10-2-1-0-3-1">
+<p>
+Pipe for perfringens
+van or metro for dif
+club - shape of botulin
+</p>
+</div>
+</li>
+</ol>
+</li>
+<li><a id="org5851489"></a>Shellder<br />
+<div class="outline-text-6" id="text-10-2-1-0-4">
+<p>
+Corynebacteria
+Black pearl (shiny black on special medium)
+</p>
+</div>
+</li>
+
+<li><a id="org28bd1c5"></a>Delibird<br /></li>
+</ol>
+</div>
+<div id="outline-container-orgdee10c2" class="outline-4">
+<h4 id="orgdee10c2"><span class="section-number-4">10.2.2</span> Zumba</h4>
+<div class="outline-text-4" id="text-10-2-2">
+<p>
+Cocci
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org458f3b1"></a>Hattenna<br />
+<div class="outline-text-6" id="text-10-2-2-0-1">
+<p>
+Staph (wizard hat)
+</p>
+</div>
+</li>
+<li><a id="orgaad07f3"></a>Hattrem<br />
+<div class="outline-text-6" id="text-10-2-2-0-2">
+<p>
+Strep
+</p>
+</div>
+</li>
+
+<li><a id="orgcfc85b3"></a>Haterene<br />
+<div class="outline-text-6" id="text-10-2-2-0-3">
+<p>
+Enterococcus (she's inside the castle)
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org9ac9670" class="outline-4">
+<h4 id="org9ac9670"><span class="section-number-4">10.2.3</span> Clock in</h4>
+<div class="outline-text-4" id="text-10-2-3">
+</div>
+<ol class="org-ol">
+<li><a id="org9e7a7fd"></a>Noctowl<br />
+<div class="outline-text-6" id="text-10-2-3-0-1">
+<p>
+Nocardia
+</p>
+</div>
+</li>
+<li><a id="org45a7df5"></a>hoothoot<br />
+<div class="outline-text-6" id="text-10-2-3-0-2">
+<p>
+actinomyces
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orge3bd63c" class="outline-3">
+<h3 id="orge3bd63c"><span class="section-number-3">10.3</span> North</h3>
+<div class="outline-text-3" id="text-10-3">
+</div>
+<div id="outline-container-org73a3bc6" class="outline-4">
+<h4 id="org73a3bc6"><span class="section-number-4">10.3.1</span> Entrance</h4>
+<div class="outline-text-4" id="text-10-3-1">
+<p>
+Mycobacteria
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org2225d6a"></a>Sandshrew<br />
+<div class="outline-text-6" id="text-10-3-1-0-1">
+<p>
+M. leprae
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orge3a647a" class="outline-4">
+<h4 id="orge3a647a"><span class="section-number-4">10.3.2</span> Gram Indeterminate</h4>
+<div class="outline-text-4" id="text-10-3-2">
+</div>
+<ol class="org-ol">
+<li><a id="orgd2d704d"></a>Clamperl<br /></li>
+<li><a id="org07a3d4b"></a>Mareep<br />
+<div class="outline-text-6" id="text-10-3-2-0-2">
+<p>
+Coxiella
+</p>
+</div>
+</li>
+<li><a id="org968c189"></a>Gardevoir<br />
+<div class="outline-text-6" id="text-10-3-2-0-3">
+<p>
+Gardnerella
+</p>
+</div>
+</li>
+<li><a id="orgf8bf1ee"></a>Vel Koz<br />
+<div class="outline-text-6" id="text-10-3-2-0-4">
+<p>
+mycoplasma
+</p>
+</div>
+</li>
+<li><a id="orgbe4909d"></a>Pinchurchin<br />
+<div class="outline-text-6" id="text-10-3-2-0-5">
+<p>
+Ricket
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org7c9627c"></a>aurelion<br />
+<div class="outline-text-7" id="text-10-3-2-0-5-1">
+<p>
+tx cycline
+</p>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgc10ce22" class="outline-4">
+<h4 id="orgc10ce22"><span class="section-number-4">10.3.3</span> Zumba</h4>
+<div class="outline-text-4" id="text-10-3-3">
+</div>
+<ol class="org-ol">
+<li><a id="org7ec7458"></a>Lyme<br /></li>
+<li><a id="org7a02238"></a>Spinda<br />
+<div class="outline-text-6" id="text-10-3-3-0-2">
+<p>
+leptoSPIR
+</p>
+</div>
+</li>
+<li><a id="orgdaa3728"></a>Milotic<br />
+<div class="outline-text-6" id="text-10-3-3-0-3">
+<p>
+Syph, T. pal
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgc17982f" class="outline-3">
+<h3 id="orgc17982f"><span class="section-number-3">10.4</span> East</h3>
+<div class="outline-text-3" id="text-10-4">
+<p>
+Background
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orge131c17"></a>Rotom<br />
+<div class="outline-text-5" id="text-10-4-0-1">
+<p>
+Virulence Factors
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org1616f8e"></a>Heat - toxins<br />
+<div class="outline-text-6" id="text-10-4-0-1-1">
+<p>
+Endo - negs (gono LOS)
+Exo - A (pseudomonas, inactivate EF2 like c.dif)
+</p>
+</div>
+</li>
+<li><a id="org9486e12"></a>Frost  COLD-i;<br />
+<div class="outline-text-6" id="text-10-4-0-1-2">
+<p>
+Fimbriae, e. coli
+</p>
+</div>
+</li>
+
+<li><a id="org2c9dc30"></a>Fan<br />
+<div class="outline-text-6" id="text-10-4-0-1-3">
+<p>
+A protein - s. aur, Fc of IgG
+IgA protease - SHN
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org483884f"></a>hattrem, hypno, luvdisc<br /></li>
+</ol>
+</li>
+<li><a id="orgd732d51"></a>Mow - Mowing, with gas;<br />
+<div class="outline-text-6" id="text-10-4-0-1-4">
+<p>
+M protein, GAS
+</p>
+</div>
+</li>
+
+<li><a id="org13208d3"></a>Wash - capsular, Klefki w/ currant (RED - neg);<br />
+<div class="outline-text-6" id="text-10-4-0-1-5">
+<p>
+Klebsular polysacch g-, 
+</p>
+</div>
+</li>
+<li><a id="orgeda8086"></a>Phone<br /></li>
+<li><a id="orgb3535f9"></a>Bike<br /></li>
+</ol>
+</li>
+</ol>
+</div>
+</div>
+
+
+<div id="outline-container-orge6278cc" class="outline-2">
+<h2 id="orge6278cc"><span class="section-number-2">11</span> CVS</h2>
+<div class="outline-text-2" id="text-11">
+<p>
+pharm
+</p>
+</div>
+<div id="outline-container-org76ef403" class="outline-3">
+<h3 id="org76ef403"><span class="section-number-3">11.1</span> CVS</h3>
+<div class="outline-text-3" id="text-11-1">
+</div>
+<div id="outline-container-orgdcadaef" class="outline-4">
+<h4 id="orgdcadaef"><span class="section-number-4">11.1.1</span> Isle 1 - Abx</h4>
+<div class="outline-text-4" id="text-11-1-1">
+</div>
+<ol class="org-ol">
+<li><a id="orgd307f52"></a>Murcrow<br />
+<div class="outline-text-6" id="text-11-1-1-0-1">
+<p>
+Macro
+Clinda
+</p>
+</div>
+</li>
+<li><a id="org91c92c1"></a>Chrom<br />
+<div class="outline-text-6" id="text-11-1-1-0-2">
+<p>
+Chloramphenichol
+inhib 50S  PTT (peptidyltransferase)
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org4ac9fc0" class="outline-4">
+<h4 id="org4ac9fc0"><span class="section-number-4">11.1.2</span> Isle 2 - Roids</h4>
+<div class="outline-text-4" id="text-11-1-2">
+</div>
+<ol class="org-ol">
+<li><a id="orga4fb787"></a>Android 16<br />
+<div class="outline-text-6" id="text-11-1-2-0-1">
+<p>
+Jacket - Mineralocorticoid
+Top - Gluco
+ Neutro up; rest down
+Nakie - Androgenic
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-orgc19c6ca" class="outline-4">
+<h4 id="orgc19c6ca"><span class="section-number-4">11.1.3</span> Pain</h4>
+<div class="outline-text-4" id="text-11-1-3">
+<p>
+Azama - ASA
+ COX1; makes PGE2 which &gt; mucin/bic
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgf7a7159" class="outline-3">
+<h3 id="orgf7a7159"><span class="section-number-3">11.2</span> Hawaii Chopstix</h3>
+<div class="outline-text-3" id="text-11-2">
+<p>
+MABS
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org426f7df"></a>Alm<br />
+<div class="outline-text-6" id="text-11-2-0-0-1">
+<p>
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_13b.png" alt="20_02_13b.png" />
+playing cards - CD52
+Alemtuzumab
+</p>
+
+<p>
+Daclizumab - 25, MS
+</p>
+
+<p>
+Denosumab - 
+rANKL; osteoclasts
+</p>
+
+<p>
+E-cul car, C5, pretty nice heap
+Eculizumab - C5; PNH
+</p>
+
+<p>
+na-TAIL-izumab; multiple species have 4 legs
+MS, Crohn; alpha-4-integrin
+</p>
+
+<p>
+"OMAHA"
+Omalizumab
+Peyton Manning; jersey 18; IgE, allergic asthma
+</p>
+
+<p>
+Palivizumab
+RSV prophyl
+</p>
+
+<p>
+Ustekinumab
+"uste be 12, now I'm 23 with psoriasis"
+</p>
+
+<p>
+abcix
+IIa, IIIb
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org2b479c5" class="outline-3">
+<h3 id="org2b479c5"><span class="section-number-3">11.3</span> McDonalds</h3>
+<div class="outline-text-3" id="text-11-3">
+<p>
+DM
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org1e81bfb"></a>Slurpuff, Alcremie<br />
+<div class="outline-text-6" id="text-11-3-0-0-1">
+<p>
+DM, gluconeo
+</p>
+
+<p>
+cahill <img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_1625.png" alt="20_02_1625.png" />
+</p>
+</div>
+</li>
+
+<li><a id="orgaf07a0d"></a>Murcrow<br />
+<div class="outline-text-6" id="text-11-3-0-0-2">
+<p>
+Macrolide
+motilin agonist; alternative to metoclopramide for DM gastroparesis
+</p>
+</div>
+</li>
+
+
+<li><a id="org252857c"></a>Gaius<br />
+<div class="outline-text-6" id="text-11-3-0-0-3">
+<p>
+Glucagon
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_1510.png" alt="20_02_1510.png" />
+</p>
+</div>
+
+<ol class="org-ol">
+<li><a id="org3a7a150"></a>Drinking Milk<br />
+<div class="outline-text-7" id="text-11-3-0-0-3-1">
+<p>
+Galactose
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_1511.png" alt="20_02_1511.png" />
+</p>
+</div>
+</li>
+</ol>
+</li>
+
+
+<li><a id="orgd6647aa"></a>Hippopotas<br />
+<div class="outline-text-6" id="text-11-3-0-0-4">
+<ol class="org-ol">
+<li>Hippurate test; Gastly, Combee (camp), delibird, gardevoir</li>
+<li>Hep B</li>
+</ol>
+</div>
+</li>
+<li><a id="orgc542b64"></a>Hippowdon<br />
+<div class="outline-text-6" id="text-11-3-0-0-5">
+<ol class="org-ol">
+<li>Hep C</li>
+</ol>
+</div>
+</li>
+<li><a id="org7be2a0b"></a><span class="todo TODO">TODO</span> <span class="underline">_</span> Essential fructokinase def<br />
+<div class="outline-text-6" id="text-11-3-0-0-6">
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_1624.png" alt="20_02_1624.png" />
+</p>
+</div>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-orgcef4830" class="outline-3">
+<h3 id="orgcef4830"><span class="section-number-3">11.4</span> Dillons</h3>
+<div class="outline-text-3" id="text-11-4">
+<p>
+Children illnesses
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org6b47316"></a>Narcian<br />
+<div class="outline-text-6" id="text-11-4-0-0-1">
+<p>
+NAC
+cutting sulfur (cleaves disulfide bonds; for COPD)
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orge5a845f" class="outline-2">
+<h2 id="orge5a845f"><span class="section-number-2">12</span> Sullivan</h2>
+<div class="outline-text-2" id="text-12">
+<p>
+Anesthesia
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orge00a0eb"></a>Yuna<br />
+<div class="outline-text-6" id="text-12-0-0-0-1">
+<p>
+-curium
+non-depol relaxants
+atracurium - good for organ dysf
+</p>
+
+<p>
+__<sub>depol</sub>
+sucking a pole&#x2026; succinylcholine
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgdc1b245" class="outline-2">
+<h2 id="orgdc1b245"><span class="section-number-2">13</span> <span class="todo TODO">TODO</span> Pricechopper</h2>
+<div class="outline-text-2" id="text-13">
+<p>
+antivirals
+Virus<sup><a id="fnr.8" class="footref" href="#fn.8">8</a></sup>
+<a href="https://heyitsthatalmostdoctor.tumblr.com/tagged/Step-1-mnemonics">https://heyitsthatalmostdoctor.tumblr.com/tagged/Step-1-mnemonics</a>
+</p>
+</div>
+<div id="outline-container-org439eca7" class="outline-4">
+<h4 id="org439eca7"><span class="section-number-4">13.0.1</span> String - parking lot</h4>
+<div class="outline-text-4" id="text-13-0-1">
+<p>
+RNA
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org565e9c0"></a>Emboar<br />
+<div class="outline-text-6" id="text-13-0-1-0-1">
+<p>
+BOAR - Bunya - Orthomyxo, Arena, Reoviroidae
+Segmented RNA viruses - reassortment
+Reo is ico + naked
+rest are hel+ enveloped
+</p>
+</div>
+</li>
+</ol>
+
+<li><a id="org45317ec"></a>straight line (helical)<br />
+<ol class="org-ol">
+<li><a id="org40c186d"></a>Rhajat<br />
+<div class="outline-text-6" id="text-13-0-1-1-1">
+<p>
+Rhabdo
+Paramyxo
+Filo
+</p>
+</div>
+</li>
+</ol>
+</li>
+<li><a id="orge1697ce"></a>Dice icosahedral<br />
+<ol class="org-ol">
+<li><a id="org2191b5d"></a>Robin Grima<br />
+<div class="outline-text-6" id="text-13-0-1-2-1">
+<p>
+Naked Ico
+Calici
+Astro
+Hepe
+Rhydon - Picorno
+</p>
+</div>
+</li>
+<li><a id="org438bfac"></a>Robin F<br />
+<div class="outline-text-6" id="text-13-0-1-2-2">
+<p>
+Enveloped Ico
+Corona
+Toga
+Retro
+Flavi
+</p>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-org876c33c" class="outline-4">
+<h4 id="org876c33c"><span class="section-number-4">13.0.2</span> Entrance - Zipper</h4>
+<div class="outline-text-4" id="text-13-0-2">
+</div>
+<ol class="org-ol">
+<li><a id="orgae2cf39"></a>Aphelios<br />
+<div class="outline-text-5" id="text-13-0-2-1">
+<p>
+naked
+Parvo
+Papilloma
+Polyoma - JC, BK, Merkel
+Adeno
+</p>
+</div>
+</li>
+<li><a id="org487d0a0"></a>DiaNA<br />
+<div class="outline-text-5" id="text-13-0-2-2">
+<p>
+enveloped
+Hepabna (Hep B)
+Herp
+Pox
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orge146e8f" class="outline-4">
+<h4 id="orge146e8f"><span class="section-number-4">13.0.3</span> Drug section</h4>
+<div class="outline-text-4" id="text-13-0-3">
+</div>
+<ol class="org-ol">
+<li><a id="orgc5fc386"></a>Pit<br />
+<div class="outline-text-6" id="text-13-0-3-0-1">
+<p>
+Herpes
+DS, enveloped, linear DNA
+Shakey cart - foscarnet (lowers sz)
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orge2a3fa9" class="outline-2">
+<h2 id="orge2a3fa9"><span class="section-number-2">14</span> Its 5</h2>
+<div class="outline-text-2" id="text-14">
+<p>
+Onc, heme
+</p>
+</div>
+<div id="outline-container-orgc058990" class="outline-3">
+<h3 id="orgc058990"><span class="section-number-3">14.1</span> Onc</h3>
+<div class="outline-text-3" id="text-14-1">
+</div>
+<ol class="org-ol">
+<li><a id="org58fc167"></a>Lukas<br />
+<div class="outline-text-6" id="text-14-1-0-0-1">
+<p>
+Leukemia
+bone marrow failure, infiltration into reticuloendothelial system &gt; splenomeg
+Spear (cytoplasmic projections)
+Lukas sexy virgin (dry tap)
+ALL - 
+</p>
+</div>
+</li>
+<li><a id="org9cfee7e"></a>Pac-Man<br />
+<div class="outline-text-6" id="text-14-1-0-0-2">
+<p>
+Pancreas
+Happy &amp; yellow - painless jaundice
+</p>
+</div>
+</li>
+<li><a id="org7324412"></a>Yoshi<br />
+<div class="outline-text-6" id="text-14-1-0-0-3">
+<p>
+Esophagus
+Squished - squamous
+Pearls (keratin pearls, intracellulcar bridges)
+</p>
+
+
+<p>
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_Aplastic_Anemia_-_Heme_-_Medbullets_Step_23_-_Goo1.png" alt="20_02_Aplastic_Anemia_-_Heme_-_Medbullets_Step_23_-_Goo1.png" />
+hemolytic
+</p>
+</div>
+</li>
+<li><a id="orgdb9181b"></a>Samus<br />
+<div class="outline-text-6" id="text-14-1-0-0-4">
+<p>
+Uterushi
+</p>
+</div>
+</li>
+<li><a id="orgccde060"></a>Samus - Zero<br />
+<div class="outline-text-6" id="text-14-1-0-0-5">
+<p>
+Breast
+</p>
+</div>
+</li>
+
+<li><a id="org4e31bd3"></a>Squidward<br />
+<div class="outline-text-6" id="text-14-1-0-0-6">
+<p>
+Sq Cell
+CarE
+ Sq
+SarMe
+</p>
+</div>
+</li>
+<li><a id="org2838b42"></a>Patrick<br />
+<div class="outline-text-6" id="text-14-1-0-0-7">
+<p>
+Basal cell
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+
+<div id="outline-container-orga9e6fe2" class="outline-3">
+<h3 id="orga9e6fe2"><span class="section-number-3">14.2</span> Back</h3>
+<div class="outline-text-3" id="text-14-2">
+<p>
+Heme
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orga4c82ce"></a>Gun<br />
+<div class="outline-text-6" id="text-14-2-0-0-1">
+<p>
+Coag cascade <sup><a id="fnr.8.100" class="footref" href="#fn.8">8</a></sup>
+<a href="https://heyitsthatalmostdoctor.tumblr.com/post/161693928091/the-coagulation-cascade-made-complicated-to-make">https://heyitsthatalmostdoctor.tumblr.com/post/161693928091/the-coagulation-cascade-made-complicated-to-make</a>
+</p>
+</div>
+</li>
+
+<li><a id="orga382934"></a>Zubat<br />
+<div class="outline-text-6" id="text-14-2-0-0-2">
+<p>
+Ring
+Teardrop
+Smudge
+ <img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_14n.jpg" alt="20_02_14n.jpg" />
+Rouleux
+Reed-Sternberg
+</p>
+
+
+
+<p>
+hemolytic v.
+nonhemolytic (plastic lips - aplastic)
+micro
+</p>
+</div>
+
+<ol class="org-ol">
+<li><a id="orgc61f06a"></a>Crobat<br />
+<div class="outline-text-7" id="text-14-2-0-0-2-1">
+<p>
+macro
+Macrocytosis
+</p>
+</div>
+</li>
+</ol>
+</li>
+
+<li><a id="orgb9f2b34"></a>Hippowdon<br />
+<div class="outline-text-6" id="text-14-2-0-0-3">
+<p>
+Hep C a/w PCT
+PORPHYRIA
+</p>
+</div>
+</li>
+
+
+
+<li><a id="orgf1fd650"></a>Woobat<br />
+<div class="outline-text-6" id="text-14-2-0-0-4">
+<p>
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Googled.png" alt="20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Googled.png" />
+Hemophilia
+aPTT; Hemophilia A
+</p>
+</div>
+</li>
+
+<li><a id="org1a49aaf"></a>Gligar<br /></li>
+<li><a id="org948d2b2"></a>Noibat<br /></li>
+</ol>
+</div>
+
+<div id="outline-container-org9a2f77d" class="outline-3">
+<h3 id="org9a2f77d"><span class="section-number-3">14.3</span> Checkout</h3>
+<div class="outline-text-3" id="text-14-3">
+<p>
+Immunodef
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151m.png" alt="20_02_151m.png" />
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org7044a75"></a>Beedrill<br />
+<div class="outline-text-6" id="text-14-3-0-0-1">
+<p>
+WAS
+purpura (thrombocytopenic)
+eczema
+</p>
+</div>
+</li>
+<li><a id="orgb7f79ea"></a>Bruno<br />
+<div class="outline-text-6" id="text-14-3-0-0-2">
+<p>
+Bruton/ XLA (X-linked agammaglobulin)
+</p>
+</div>
+</li>
+
+<li><a id="org0cb3c7e"></a>Silque<br />
+<div class="outline-text-6" id="text-14-3-0-0-3">
+<p>
+SCID
+IL-2R gamma
+Dx - decreased T cell excision circles
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgde10848" class="outline-2">
+<h2 id="orgde10848"><span class="section-number-2">15</span> Falls</h2>
+<div class="outline-text-2" id="text-15">
+<p>
+Renal, M. Repro
+</p>
+</div>
+<div id="outline-container-org5b85818" class="outline-3">
+<h3 id="org5b85818"><span class="section-number-3">15.1</span> Pool</h3>
+<div class="outline-text-3" id="text-15-1">
+<p>
+Pee System
+</p>
+</div>
+<div id="outline-container-orgce522b3" class="outline-4">
+<h4 id="orgce522b3"><span class="section-number-4">15.1.1</span> Entrance</h4>
+<div class="outline-text-4" id="text-15-1-1">
+</div>
+<ol class="org-ol">
+<li><a id="org2a3fa24"></a>Porygon<br />
+<div class="outline-text-6" id="text-15-1-1-0-1">
+<p>
+PKD
+Liver &amp; Brain big; cysts &amp; cerebral aneurysms
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org77ada62" class="outline-4">
+<h4 id="org77ada62"><span class="section-number-4">15.1.2</span> BBQ</h4>
+<div class="outline-text-4" id="text-15-1-2">
+<p>
+Bladder
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc2ce883" class="outline-4">
+<h4 id="orgc2ce883"><span class="section-number-4">15.1.3</span> Water</h4>
+<div class="outline-text-4" id="text-15-1-3">
+<p>
+Diuretics
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orge775324"></a>ACE (One Piece)<br />
+<div class="outline-text-6" id="text-15-1-3-0-1">
+<p>
+Acetazolamide
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org2ea3518" class="outline-4">
+<h4 id="org2ea3518"><span class="section-number-4">15.1.4</span> Deep End</h4>
+<div class="outline-text-4" id="text-15-1-4">
+<p>
+STDs
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org7b9602c"></a>Milotic<br />
+<div class="outline-text-6" id="text-15-1-4-0-1">
+<p>
+Syphillis
+</p>
+</div>
+</li>
+<li><a id="orgfee4cdb"></a>Feebass<br />
+<div class="outline-text-6" id="text-15-1-4-0-2">
+<p>
+Chancroid
+"school of fish"
+gray/yellow exudate
+</p>
+</div>
+</li>
+<li><a id="orga3cf610"></a>Jinx<br />
+<div class="outline-text-6" id="text-15-1-4-0-3">
+<p>
+Cowdry A, multinucleated
+</p>
+</div>
+</li>
+<li><a id="orgc11ea56"></a>Luvdisc<br />
+<div class="outline-text-6" id="text-15-1-4-0-4">
+<p>
+Neisseria
+ DISseminated arthralgia, tenosynovitis, derm
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org7a4d9f9" class="outline-4">
+<h4 id="org7a4d9f9"><span class="section-number-4">15.1.5</span> Rock fall</h4>
+<div class="outline-text-4" id="text-15-1-5">
+<p>
+Nephrolithiasis
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orgb018de4"></a>Brianna w/ milk<br />
+<div class="outline-text-6" id="text-15-1-5-0-1">
+<p>
+Calcium oxalate; MC, Crohn, vit C
+</p>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org1dd1880" class="outline-3">
+<h3 id="org1dd1880"><span class="section-number-3">15.2</span> Old Room</h3>
+<div class="outline-text-3" id="text-15-2">
+<p>
+Male Repro, misc
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org691fa94"></a>Spinarak<br />
+<div class="outline-text-6" id="text-15-2-0-0-1">
+<p>
+Arachidonic Acid
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_16_%pn.2e.jpg" alt="20_02_16_%pn.2e.jpg" />
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orgc1e56dc"></a>Miso soup<br />
+<div class="outline-text-7" id="text-15-2-0-0-1-1">
+<p>
+Misoprostol
+PGE1 analog - vasodilator, induces labor
+yum (increases gastric mucous barrier)
+</p>
+</div>
+</li>
+</ol>
+</li>
+<li><a id="orgf7b4473"></a>Finn<br />
+<div class="outline-text-6" id="text-15-2-0-0-2">
+<p>
+Finasteride scratching balls and head (5-aR inhib) for BPH AND alopecia)
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgb028f54" class="outline-3">
+<h3 id="orgb028f54"><span class="section-number-3">15.3</span> Lobby</h3>
+<div class="outline-text-3" id="text-15-3">
+<p>
+Female Repro
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org41f78d0" class="outline-2">
+<h2 id="org41f78d0"><span class="section-number-2">16</span> Oliver St Home</h2>
+<div class="outline-text-2" id="text-16">
+<p>
+Ped, F. Repro 
+</p>
+</div>
+<div id="outline-container-org313e145" class="outline-4">
+<h4 id="org313e145"><span class="section-number-4">16.0.1</span> Mom</h4>
+<div class="outline-text-4" id="text-16-0-1">
+</div>
+<ol class="org-ol">
+<li><a id="org87ce2dc"></a>Trisomies<br />
+<div class="outline-text-6" id="text-16-0-1-0-1">
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151f.jpg" alt="20_02_151f.jpg" />
+</p>
+</div>
+</div>
+</li>
+<li><a id="orgf53b8cf"></a>Spinarak<br />
+<div class="outline-text-6" id="text-16-0-1-0-2">
+<p>
+Teratogens
+</p>
+</div>
+</li>
+<li><a id="orge0f43f7"></a>Neeko<br />
+<div class="outline-text-6" id="text-16-0-1-0-3">
+<p>
+iNFUNdibulopelvic ligament
+  ovarian vasc, in front of uterus
+ #torsion
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org8413b8b" class="outline-4">
+<h4 id="org8413b8b"><span class="section-number-4">16.0.2</span> Dad</h4>
+</div>
+</div>
+
+<div id="outline-container-org1da3444" class="outline-2">
+<h2 id="org1da3444"><span class="section-number-2">17</span> Stoneybrook Home</h2>
+<div class="outline-text-2" id="text-17">
+<p>
+Anatomy
+</p>
+</div>
+<div id="outline-container-orgfccb36c" class="outline-4">
+<h4 id="orgfccb36c"><span class="section-number-4">17.0.1</span> Parking Lot</h4>
+<div class="outline-text-4" id="text-17-0-1">
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_1516.png" alt="20_02_1516.png" />
+</p>
+</div>
+</div>
+
+
+<ol class="org-ol">
+<li><a id="orga57fb21"></a><span class="todo TODO">TODO</span> Celiac trunk branches<br />
+<div class="outline-text-6" id="text-17-0-1-0-1">
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_1513.png" alt="20_02_1513.png" />
+</p>
+</div>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org3534370" class="outline-4">
+<h4 id="org3534370"><span class="section-number-4">17.0.2</span> Basement</h4>
+</div>
+<div id="outline-container-orgcc978f0" class="outline-4">
+<h4 id="orgcc978f0"><span class="section-number-4">17.0.3</span> Dad room</h4>
+<div class="outline-text-4" id="text-17-0-3">
+<p>
+Legs
+Cross section, compartment syndrome
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_2_-_PowerPoint.png" alt="20_02_2_-_PowerPoint.png" />
+</p>
+
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_138.png" alt="20_02_138.png" />
+</p>
+</div>
+</div>
+
+
+
+<ol class="org-ol">
+<li><a id="org02bf16e"></a>Lickitung + tutu vs togepi whale<br />
+<div class="outline-text-6" id="text-17-0-3-0-1">
+<p>
+L2 (3;T12)
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_(5)_Lower_Extremity_Nerve_Injuries_-_YouTube_-_Goo1.png" alt="20_02_(5)_Lower_Extremity_Nerve_Injuries_-_YouTube_-_Goo1.png" />
+</p>
+</div>
+</li>
+
+<li><a id="orga2e33fa"></a>Opelverration game<br />
+<div class="outline-text-6" id="text-17-0-3-0-2">
+<p>
+Operator - obturator; pelvic surgery
+L4(2)
+adductor, obturator externus
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_132.png" alt="20_02_132.png" />
+</p>
+</div>
+</li>
+
+<li><a id="orgf2938ca"></a>Lickilicky! She's fem, sassy<br />
+<div class="outline-text-6" id="text-17-0-3-0-3">
+<p>
+saph
+L4(2) 
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_133.png" alt="20_02_133.png" />
+</p>
+</div>
+</li>
+<li><a id="org610b2a3"></a>Saizo<br />
+<div class="outline-text-6" id="text-17-0-3-0-4">
+<p>
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_back_saizo_fire_emblem_-_Google_Search_-_Google_Ch20.png" alt="20_02_back_saizo_fire_emblem_-_Google_Search_-_Google_Ch20.png" />
+S3 (L4)
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_134.png" alt="20_02_134.png" />
+semimem/tend, add magnus, BICEP FEMORIS
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org1cdbd27"></a><span class="todo TODO">TODO</span> <br />
+<div class="outline-text-7" id="text-17-0-3-0-4-1">
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_137.png" alt="20_02_137.png" />
+</p>
+</div>
+
+<p>
+<a href="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_136.png">Tibial</a>
+</p>
+
+<p>
+<a href="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_135.png">C. peroneal</a>; 
+</p>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-orgb126fcb" class="outline-4">
+<h4 id="orgb126fcb"><span class="section-number-4">17.0.4</span> Living Room</h4>
+<div class="outline-text-4" id="text-17-0-4">
+<p>
+Vertebra
+<span class="underline">_</span> 
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="org9af5134"></a>Clefairy<br /></li>
+<li><a id="org7329e81"></a>Togepi<br /></li>
+<li><a id="org7467c4e"></a>Lickitung<br /></li>
+<li><a id="org0ec9e28"></a>Sentret<br />
+<div class="outline-text-6" id="text-17-0-4-0-4">
+<p>
+:tutusail: 
+2-4, splanchnic
+leaf - para
+</p>
+</div>
+</li>
+<li><a id="orgd5808b7"></a>Celica<br />
+<div class="outline-text-6" id="text-17-0-4-0-5">
+<p>
+Celiac trunk (off Alm - Abd Aorta)
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_13a.png" alt="20_02_13a.png" />
+</p>
+
+<p>
+MAJOR ANASTAMOSIS
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_139.png" alt="20_02_139.png" />
+</p>
+</div>
+</li>
+</ol>
+</div>
+
+<div id="outline-container-org82fef6c" class="outline-4">
+<h4 id="org82fef6c"><span class="section-number-4">17.0.5</span> Mom room</h4>
+<div class="outline-text-4" id="text-17-0-5">
+<p>
+UE
+ARM-U, NAMe SOME
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_(6)_Upper_Extremity_Nerve_Injuries_-_YouTube_-_Gooe.png" alt="20_02_(6)_Upper_Extremity_Nerve_Injuries_-_YouTube_-_Gooe.png" />
+</p>
+</div>
+</div>
+<div id="outline-container-org3820b6e" class="outline-4">
+<h4 id="org3820b6e"><span class="section-number-4">17.0.6</span> Scott</h4>
+<div class="outline-text-4" id="text-17-0-6">
+<p>
+UE
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151e.png" alt="20_02_151e.png" />
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org7e073e4" class="outline-4">
+<h4 id="org7e073e4"><span class="section-number-4">17.0.7</span> Room</h4>
+<div class="outline-text-4" id="text-17-0-7">
+<p>
+MEN syndromes
+</p>
+</div>
+<ol class="org-ol">
+<li><a id="orgcd0ca40"></a>Ike<br />
+<div class="outline-text-6" id="text-17-0-7-0-1">
+<p>
+pit, parathyroid,  panc/GI (gastrinoma, insulinoma)
+</p>
+</div>
+</li>
+<li><a id="orgaafcee5"></a>Xander<br />
+<div class="outline-text-6" id="text-17-0-7-0-2">
+<p>
+MEN2
+Pheo, MTC, para/marf
+RET
+</p>
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org6c13b47" class="outline-4">
+<h4 id="org6c13b47"><span class="section-number-4">17.0.8</span> Backyard</h4>
+<div class="outline-text-4" id="text-17-0-8">
+<p>
+colon
+<a href="https://next.amboss.com/us/questions/ZSx1ZyDQ0/66">https://next.amboss.com/us/questions/ZSx1ZyDQ0/66</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orge9d86f7" class="outline-3">
+<h3 id="orge9d86f7"><span class="section-number-3">17.1</span> Harrison Park</h3>
+<div class="outline-text-3" id="text-17-1">
+</div>
+<ol class="org-ol">
+<li><a id="org5c94e9c"></a>Azir with a turbin &amp; greasy flute<br />
+<div class="outline-text-6" id="text-17-1-0-0-1">
+
+<div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_13c.png" alt="20_02_13c.png" />
+</p>
+</div>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org7986765" class="outline-2">
+<h2 id="org7986765"><span class="section-number-2">18</span> AYCE Sushi</h2>
+<div class="outline-text-2" id="text-18">
+<p>
+Vomit
+<a href="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_2_-_PowerPoint3.png">motion v chemo</a>
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org43c5500" class="outline-2">
+<h2 id="org43c5500"><span class="section-number-2">19</span> Misc Notes</h2>
+<div class="outline-text-2" id="text-19">
+<ul class="org-ul">
+<li>888</li>
+<li>East High</li>
+</ul>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Anchors</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">Subject</th>
+<th scope="col" class="org-left">Topic</th>
+<th scope="col" class="org-left">Source</th>
+<th scope="col" class="org-right">1</th>
+<th scope="col" class="org-right">2</th>
+<th scope="col" class="org-right">3</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Pokemon - Pharm</td>
+<td class="org-left">Grass</td>
+<td class="org-left">Antimicrobials, Fungi</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SkPh</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Bug</td>
+<td class="org-left">Bacteria</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SkM</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Poison</td>
+<td class="org-left">Viruses</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SkM</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Fire</td>
+<td class="org-left">Heme/Infl</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SkPh</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Water</td>
+<td class="org-left">STDs, Parasites</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ice</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Physic</td>
+<td class="org-left">NP, CNS</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SkPh</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Elec</td>
+<td class="org-left">CV</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SkPh</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Dark</td>
+<td class="org-left">Neo</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SkPh</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ghost</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Rock</td>
+<td class="org-left">GI</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SkPh</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ground</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Steel</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Normal</td>
+<td class="org-left">SMusc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SkPh</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Fight</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Flying</td>
+<td class="org-left">Pulm</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SkPh</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Dragon</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Fairy</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+<p>
+<a href="https://orgmode.org/orgcard.pdf">https://orgmode.org/orgcard.pdf</a>
+</p>
+</div>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara">vitamin</div></div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">
+Gene markers
+</p>
+
+<p class="footpara">
+<span class="underline">_</span> Thyroid
+BRAF - papillary; psam, orphan annie
+PAX8-PAR - follicular,  <span class="underline">early invasion</span>
+RET -<b>medullamyloid</b> 
+p53 - aplastic; undiff, pleo giant cells
+<span class="underline">_</span> Resp
+BRAF - small 
+ MYCL1
+ALK-EML4 - adeno
+!Krabs - KRAS - Kolon, resp, panc
+<span class="underline">_</span> Panc
+smad4/dpc4 - pan
+<span class="underline">_</span> Misc
+JAK2 marrow fibrosis
+</p>
+
+<p class="footpara">
+Oncogenes
+BRAF - small cellung
+ MYCL1
+<span class="underline">__</span> Resp
+ALK - EML4 fusion; adeno
+Krabs (KRAS - kolon, resp, panc
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">
+Cancers
+<span class="underline">_</span> Hodg
+<span class="underline">_</span> non-hodg
+DLBCL
+14,18 follicular
+8, 14 Burk
+11, 14 mantle
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> <div class="footpara"><div class="figure">
+<p><img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_Vasculitis_-_OneNote1k.jpg" alt="20_02_Vasculitis_-_OneNote1k.jpg" />
+</p>
+</div></div></div>
+
+<div class="footdef"><sup><a id="fn.5" class="footnum" href="#fnr.5">5</a></sup> <div class="footpara"><p class="footpara">
+Brachial Plexus
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151n.jpg" alt="20_02_151n.jpg" />
+Branchial Arch System
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_151d.png" alt="20_02_151d.png" />
+</p>
+<p>
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_16_(1)_Pharyngeal_Arch_System_and_its_Derivatives_-_Y3.jpg" alt="20_02_16_(1)_Pharyngeal_Arch_System_and_its_Derivatives_-_Y3.jpg" />
+1 - tympanic
+2-4 cerical sinus; overgrowth of 2
+2 - palatine tonsil
+3 - inf parathyroid, thymus
+4 - sup para, ultimobrachial body (parafollicular thyroid)
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.6" class="footnum" href="#fnr.6">6</a></sup> <div class="footpara"><p class="footpara">
+Amino Acids
+phe
+tyr
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.7" class="footnum" href="#fnr.7">7</a></sup> <div class="footpara">Rule of 4s</div></div>
+
+<div class="footdef"><sup><a id="fn.8" class="footnum" href="#fnr.8">8</a></sup> <div class="footpara"><p class="footpara">
+Mnemonics
+Bacteria
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_16_ShareX_-_Image_viewer1.png" alt="20_02_16_ShareX_-_Image_viewer1.png" />
+Viruses
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_16_ShareX_-_Image_viewer3.jpg" alt="20_02_16_ShareX_-_Image_viewer3.jpg" />
+Coag Cascade
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_16_20_02_16_chrome.2f.png_(1262×657)_-_Google_Chrome4.png" alt="20_02_16_20_02_16_chrome.2f.png_(1262×657)_-_Google_Chrome4.png" />
+Arachidonic acid
+<img src="file:///e:/Programs/ShareX-portable/000 Sharex/2020-02/20_02_16_ShareX_-_Image_viewer0.png" alt="20_02_16_ShareX_-_Image_viewer0.png" />
+</p></div></div>
+
+
+</div>
+</div></div>
+<div id="postamble" class="status">
+<p class="date">Created: 2020-02-16 Sun 21:43</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
