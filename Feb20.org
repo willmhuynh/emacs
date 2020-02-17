@@ -1,10 +1,20 @@
-#+OPTIONS: toc:3
+#+OPTIONS: toc:2
 #+ATTR_ORG: width 800
 #+TOC: listings
 #+TOC: tables
-* Vista 
-** Courtyard - Cell wall Abx** 
+#+TAGS: drill(d) mnemonic(m)
+* Vista                                                               :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: simple
+    :ID:       85564430-d249-4ca4-b154-9cd87b6c3dff
+    :END:
+Home sweet home
+** Courtyard - Cell wall Abx**
     B-lacs
+**** Courtyard
+     :PROPERTIES:
+     :ID:       cdf8b135-5dc6-4d05-a28f-1a0ec125d6de
+     :END:
 ***** Bulbasaur
 Wooden staff : Sudo, staph
    space-shaped bulb - b-lactam sketchies
@@ -34,7 +44,7 @@ Wooden staff : Sudo, staph
 ** Lobby
 Vitamins [fn:1]
 ** Home
-*** Bed
+**** Bed
 Sleep, stress
 ***** Drowzy
  Theta - 1/2
@@ -154,76 +164,82 @@ endo
 
 ** Cross Walk
 Brachial Plexus, Branchial Arches [fn:4]
-* KUMC - School
-*** Hemenway 
-    Lab
+
+* KUMC - School                                                       :drill:
+  :PROPERTIES:
+  :ID:       7f606fbb-af61-4276-8c3e-17336a201c8b
+  :DRILL_CARD_TYPE: simple
+  :END:
+Literal Mind Palace
+** Hemenway 
+   Lab
 ***** Tyrogue
-Hitmonchan
-Hitmonlee
-Hitmontop
+ Hitmonchan
+ Hitmonlee
+ Hitmontop
 
-TNR Disorders
-# XG FA HA MT
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151l.png]]
+ TNR Disorders
+ # XG FA HA MT
+ [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151l.png]]
 
-Fried
-GAA, AR
-overactive Frataxin - Fe into cells - mt (CNS/PNS)
-HCM > death
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_123.png]]
+ Fried
+ GAA, AR
+ overactive Frataxin - Fe into cells - mt (CNS/PNS)
+ HCM > death
+ [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_123.png]]
 
-Hunt
-4, can't aim (aggressive but chorea, psychosis)
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_(5)_Trinucleotide_Repeats_-_YouTube_-_Google_Chrom2.png]]
+ Hunt
+ 4, can't aim (aggressive but chorea, psychosis)
+ [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_(5)_Trinucleotide_Repeats_-_YouTube_-_Google_Chrom2.png]]
 
-MT
-GRIP
-CTG
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_125.png]]
-Cataracts, testic atrophy, gammaglobulinemia
+ MT
+ GRIP
+ CTG
+ [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_125.png]]
+ Cataracts, testic atrophy, gammaglobulinemia
 
 ***** Minun, Plusle 
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Browse_(51_cards_shown;_1_selected).png]]
-Neg - 
-Pos -
+ [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Browse_(51_cards_shown;_1_selected).png]]
+ Neg - 
+ Pos -
 ***** Miltank
-Hypercalcemia
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Googlem.png]]
+ Hypercalcemia
+ [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Googlem.png]]
 
 
 ***** Jinx
-Hyperlipidemias
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_15z.png]]
+ Hyperlipidemias
+ [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_15z.png]]
 
 
 ***** Wilson (Castaway)
-Cu stick
-AR, 
-Liver, psych (gait, arthria), rings
+ Cu stick
+ AR, 
+ Liver, psych (gait, arthria), rings
 
- Tx penicillamine, zinc
- ATP7B mutation
-*** 1st year lecture
+  Tx penicillamine, zinc
+  ATP7B mutation
+** 1st year lecture
 ___ Poison, Signaling Pathways
 ***** Cordelia
-CO
-cyto C oxidase
-***** Jax
+ CO
+ cyto C oxidase
+**** Jax
 JAK-STAT
  Non-receptor
   EPO, TPO, GCSF, IL2, IFNy
  acidophil - GH, PRL
  e. thrombocythemia - activated TPO [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Google22.png]]
 
-*** 2nd year lecture
+** 2nd year lecture
 ___ Thalamic Nuclei
 VPM - fine taste
 VPL - proprio
 M.gen - aud
 L.geniculate - vis (they opposite)
-*** Courtyard
+** Courtyard
 Biochem
-***** Grag Kog
+**** Grag Kog
 Fatty & Amino acids [fn:7]
 
 ___ Amino acids
@@ -240,27 +256,27 @@ keto v gluco
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_(6)_Amino_Acids_-_YouTube_-_Google_Chromeg.png]]
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_(6)_Amino_Acids_-_YouTube_-_Google_Chromeg.png]]
 
-***** Ezreal
+**** Ezreal
 Ras-MAPk
 GTP
-***** Taric
+**** Taric
 TCA
 a-KG DH; req thiamine
 
-**** Stairs to 1st floor
-***** Skitty
+*** Stairs to 1st floor
+**** Skitty
 Catecholamine [fn:1:vitamin]]
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_161x.png]]
 
-*** 1st Floor 
-    ENT
-***** Lorenz
+** 1st Floor 
+   ENT
+**** Lorenz
 Gloucester : Glaucoma
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Google18.png]]
 
-***** Lee Sin
+**** Lee Sin
 Closed angle
-***** Vel Koz
+**** Vel Koz
 Open angle
 outflow - alec (musc agonist), - proat
 production - Bulbasaur (BBlocker), acetazolamide
@@ -268,28 +284,33 @@ ___
 Anatomy
 Superior meatus - drains sphenoid & p.ethmoid
 
-*** 2nd Floor
+** 2nd Floor
 Endo
-**** Front
-***** Lorenzf
+*** Front
+**** Lorenzf
 Thyrsus - Thymus
 Thymoma - PRCAplasia 
-**** Back
-***** Lysithea
+*** Back
+**** Lysithea
 Thyroid (she has thyrsus)
 Calcitonin-cells
 gene [fn:6]
 
 
 
-*** 3rd Floor
+** 3rd Floor
 Female
-***** Castform 
+**** Castform 
 Boobs
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_(5)_Video_Question_Bank__Question_#10_-_YouTube_-a.png]]
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_13b.png]]
 
-* KUMC - Lib
+* KUMC - Lib                                                          :drill:
+  :PROPERTIES:
+  :ID:       65f9d378-bdd8-4748-aaa8-5e35648986ae
+  :DRILL_CARD_TYPE: simple
+  :END:
+Too many hours
 ** Ed Supp
 ___ 1st Room - Isles ___
 Sail - (IL-4) has tutu bees (B cells & Th2) make eggs (IgE & G from M)
@@ -365,7 +386,11 @@ abatacept
 ***** Adam & Eve w/ netflix, on the picnic table
 Adalimumab, etanercept
 
-* KUMC - Bell
+* KUMC - Bell                                                         :drill:
+  :PROPERTIES:
+  :ID:       d2ff75b9-e76a-4e56-97bc-a889ca77460c
+  :DRILL_CARD_TYPE: simple
+  :END:
 Cardio
 ***** Pichu
  Shock
@@ -381,28 +406,33 @@ HF
 tide pod -iritide
 BNP > cGMP [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_1623.png]]
 
-*** Cafeteria
+** Cafeteria
 Arrythmias
-*** Grill, Gyro place
-*** Burgers, soups
-*** Sandwiche
-*** Salad Bar
+** Grill, Gyro place
+** Burgers, soups
+** Sandwiche
+** Salad Bar
 Class 4 Antiarrh
 verap
 Cheese drought - block calcium in slow-response cardiac tissue, slowing P4 & 0 
 
 prevent recurrent nodal (PST)
-*** Check out
+** Check out
 
 ***** Nate (Pokemon)
-Nitrate
+ Nitrate
 
 ***** TODO Antiarrhythmics
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14k.png]]
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14j.png]]
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14l.png]]
+ [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14k.png]]
+ [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14j.png]]
+ [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14l.png]]
 
-* KUMC - Cambridge
+* KUMC - Cambridge                                                    :drill:
+  :PROPERTIES:
+  :ID:       953afbf3-4cb2-4811-bc7f-92682bd84429
+  :DRILL_CARD_TYPE: simple
+  :END:
+Future
 ** Entrance
 Micro Gram PURPLE v. neg
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_%pn.2d.jpg]]
@@ -414,75 +444,88 @@ Maltese cross
 ** Liquor Store
 Liver
 
-* KUMC - Student Health
+* KUMC - Student Health                                               :drill:
+  :PROPERTIES:
+  :ID:       f3518d02-b339-44ad-8d26-e0a4c9d82ac3
+  :DRILL_CARD_TYPE: simple
+  :END:
 Psych
-*** Dr. SB
+** Dr. SB
 Depression 
 sleep, interest, guilt; energy, concen, app, psychomotor, SI
-***** Hel
+**** Hel
 multiple personality disorder
 
-**** TODO Lobby
+*** TODO Lobby
 Aphasia
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_%pn.2b.jpg]]
-*** Stairs
+** Stairs
 Stroke
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151t.jpg]]
  [fn:5:Rule of 4s]
 
-*** Auditorium
+** Auditorium
 Brain
-***** Dewpider
+**** Dewpider
 Hydrocephalus Normal
  Triad Dementia, Gait, urge incont
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_2_-_PowerPoint5.png]]
 
-***** Araquanid - 
-***** ___ Encephalitis
+**** Araquanid - 
+**** ___ Encephalitis
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151r.jpg]]
 
-*** Lobby
+** Lobby
 Cranial Nerves
-***** Wand
-***** Tutu
-***** Tree
-***** Sailboat
-***** Horsea
-***** Bomb-omb
-***** Dwarf
+**** Wand
+**** Tutu
+**** Tree
+**** Sailboat
+**** Horsea
+**** Bomb-omb
+**** Dwarf
 stomping (stapedius - dampens noise)
 tonging balloon (ant 2/3 taste)
 spitting - glands (subman, ling, lac)
-***** Hourglass
-***** Balloon
+**** Hourglass
+**** Balloon
 kiss dward (post 1/3 taste)
-***** Hen
+**** Hen
 Leaf - PARA #1
-***** Clothesline
-***** Whale
-* Kirmayer
+**** Clothesline
+**** Whale
+* Kirmayer                                                            :drill:
+  :PROPERTIES:
+  :ID:       b423b1cd-332d-4b8b-ba29-6571cc1458a7
+  :DRILL_CARD_TYPE: simple
+  :END:
 Autonomics
-*** Pool
+** Pool
 Hernia
-***** Alec
+**** Alec
 muscarinic
-***** TODO Alice
+**** TODO Alice
 antimuscarinic, atropine
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_2_-_PowerPoint4.png]]
  Blind, dry, retention
-***** Alistar
+**** Alistar
 Alpha
-***** Braum
+**** Braum
 Beta
 sexy sweat (AH, insulin)
-***** Ahri
+**** Ahri
 a antag
 phFOXybenzamine
-***** Blitz
+**** Blitz
 B antag
-***** Ephraim 
+**** Ephraim 
 Epi
-* ROKC, Underground
+
+* ROKC, Underground                                                   :drill:
+  :PROPERTIES:
+  :ID:       39a8a447-1958-490e-8296-a4cb1416486c
+  :DRILL_CARD_TYPE: simple
+  :END:
 Derm
 ** Inside
 *** Island
@@ -521,10 +564,13 @@ NF
 
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14w.png]]
 
-* ROKC North
+* ROKC North                                                          :drill:
+  :PROPERTIES:
+  :ID:       828d8637-1ac1-4558-9965-bfc7b1d40d38
+  :DRILL_CARD_TYPE: simple
+  :END:
 Respiratory
 ** Outside
-
 ***** Koffing
 CURB-65
 for PNA
@@ -533,7 +579,7 @@ Conf, BUN, RR, BP, 65
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_127.png]]
 ** Boulder
 Phys
-***** 
+*** 
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151c.png]]
 
 ***** Azir's Pyramid
@@ -561,7 +607,11 @@ Aspergillus
 ***** Peony (FEH)
 PNA
 
-* TODO YMCA
+* TODO YMCA                                                           :drill:
+  :PROPERTIES:
+  :ID:       b67c03c1-be74-49bc-bf21-01605f04bc53
+  :DRILL_CARD_TYPE: simple
+  :END:
 Micro
 ** Quality Hill
 G-
@@ -702,10 +752,23 @@ Background
 ***** Bike
 
 
-* CVS
+* CVS                                                                 :drill:
+  :PROPERTIES:
+  :ID:       6b082012-50b6-4ade-8100-8ba583630361
+  :DRILL_CARD_TYPE: simple
+  :DRILL_LAST_INTERVAL: 0.0
+  :DRILL_REPEATS_SINCE_FAIL: 1
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 0.0
+  :DRILL_EASE: 2.5
+  :DRILL_LAST_QUALITY: 0
+  :DRILL_LAST_REVIEWED: [2020-02-16 Sun 23:45]
+  :END:
 pharm
 ** CVS
-*** Isle 1 - Abx
+*** Isle 1 -
+Abx
 ***** Murcrow 
 Macro
 Clinda
@@ -713,14 +776,16 @@ Clinda
  Chloramphenichol
  inhib 50S  PTT (peptidyltransferase)
 
-*** Isle 2 - Roids
+*** Isle 2 -
+Roids
 ***** Android 16
 Jacket - Mineralocorticoid
 Top - Gluco
  Neutro up; rest down
 Nakie - Androgenic
 
-*** Pain
+*** Pharm Desk
+Pain
 Azama - ASA
  COX1; makes PGE2 which > mucin/bic
 ** Hawaii Chopstix
@@ -788,8 +853,13 @@ Children illnesses
 ***** Narcian
 NAC
 cutting sulfur (cleaves disulfide bonds; for COPD)
-* Sullivan
+* Sullivan                                                            :drill:
+  :PROPERTIES:
+  :ID:       89617bc2-82e1-458b-b462-ecd695e45f61
+  :DRILL_CARD_TYPE: simple
+  :END:
 Anesthesia
+** Lobby
 ***** Yuna
 -curium
 non-depol relaxants
@@ -797,55 +867,64 @@ atracurium - good for organ dysf
 
 ___depol
 sucking a pole... succinylcholine
-* TODO Pricechopper 
+** Cleaning Room
+* TODO Pricechopper                                                   :drill:
+  :PROPERTIES:
+  :ID:       651438e7-47bc-460a-95ad-df6f1a35b6c8
+  :DRILL_CARD_TYPE: simple
+  :END:
 antivirals
 Virus[fn:8]
 [[https://heyitsthatalmostdoctor.tumblr.com/tagged/Step-1-mnemonics]]
-*** String - parking lot
+** String - parking lot
 RNA
-***** Emboar
+**** Emboar
 BOAR - Bunya - Orthomyxo, Arena, Reoviroidae
 Segmented RNA viruses - reassortment
 Reo is ico + naked
 rest are hel+ enveloped
 
-**** straight line (helical)
-***** Rhajat
+*** straight line (helical)
+**** Rhajat
 Rhabdo
 Paramyxo
 Filo
-**** Dice icosahedral 
-***** Robin Grima
+*** Dice icosahedral 
+**** Robin Grima
 Naked Ico
 Calici
 Astro
 Hepe
 Rhydon - Picorno
-***** Robin F
+**** Robin F
 Enveloped Ico
 Corona
 Toga
 Retro
 Flavi
-*** Entrance - Zipper
-**** Aphelios
+** Entrance - Zipper
+*** Aphelios
 naked
 Parvo
 Papilloma
 Polyoma - JC, BK, Merkel
 Adeno
-**** DiaNA
+*** DiaNA
 enveloped
 Hepabna (Hep B)
 Herp
 Pox
-*** Drug section
-***** Pit
+** Drug section
+**** Pit
 Herpes
 DS, enveloped, linear DNA
 Shakey cart - foscarnet (lowers sz)
 # Cidofovir preferred
-* Its 5
+* Its 5                                                               :drill:
+  :PROPERTIES:
+  :ID:       fdef2f16-6036-4de0-a2ee-cbe3eba669d8
+  :DRILL_CARD_TYPE: simple
+  :END:
 Onc, heme
 ** Onc
 ***** Lukas
@@ -932,8 +1011,21 @@ Bruton/ XLA (X-linked agammaglobulin)
 SCID
 IL-2R gamma
 Dx - decreased T cell excision circles
+* AYCE Sushi                                                          :drill:
+  :PROPERTIES:
+  :ID:       43bfed56-0b00-4025-90db-8c2debf29f68
+  :DRILL_CARD_TYPE: simple
+  :END:
+Vomit
+** Giant platter
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_2_-_PowerPoint3.png][motion v chemo]]
 
-* Falls
+
+* Falls                                                               :drill:
+  :PROPERTIES:
+  :ID:       7094555e-5bbb-41c2-bd62-dbfc5a08b942
+  :DRILL_CARD_TYPE: simple
+  :END:
 Renal, M. Repro
 ** Pool
 Pee System
@@ -979,32 +1071,38 @@ yum (increases gastric mucous barrier)
 Finasteride scratching balls and head (5-aR inhib) for BPH AND alopecia)
 ** Lobby
 Female Repro
-
-* Oliver St Home
+* Oliver St Home                                                      :drill:
+  :PROPERTIES:
+  :ID:       be5968fc-a1c3-49bd-ba4e-22217368d7cd
+  :DRILL_CARD_TYPE: simple
+  :END:
 Ped, F. Repro 
-*** Mom
+** Mom
 
-***** Trisomies
+**** Trisomies
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151f.jpg]]
-***** Spinarak
+**** Spinarak
 Teratogens
-***** Neeko
+**** Neeko
 iNFUNdibulopelvic ligament
   ovarian vasc, in front of uterus
  #torsion
-*** Dad
-
-* Stoneybrook Home
+** Dad
+* Stoneybrook Home                                                    :drill:
+  :PROPERTIES:
+  :ID:       1aada8d7-c1ae-4e3f-a063-4f5347ac8dab
+  :DRILL_CARD_TYPE: simple
+  :END:
 Anatomy
-*** Parking Lot 
+** Parking Lot 
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_1516.png]]
 
 
-***** TODO Celiac trunk branches 
+**** TODO Celiac trunk branches 
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_1513.png]]
 
-*** Basement
-*** Dad room
+** Basement
+** Dad room
 Legs
 Cross section, compartment syndrome
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_2_-_PowerPoint.png]]
@@ -1013,82 +1111,77 @@ Cross section, compartment syndrome
 
 
 
-***** Lickitung + tutu vs togepi whale
+**** Lickitung + tutu vs togepi whale
 # 1 *AbdominILL* surgery - ILLio
 L2 (3;T12)
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_(5)_Lower_Extremity_Nerve_Injuries_-_YouTube_-_Goo1.png]]
 # 2 Genitofemoral; L2 (1); cremaster
 # 3 LFC L3 (2); lazy fat clothing
 
-***** Opelverration game
+**** Opelverration game
 Operator - obturator; pelvic surgery
 L4(2)
 adductor, obturator externus
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_132.png]]
 
-***** Lickilicky! She's fem, sassy
+**** Lickilicky! She's fem, sassy
 # FEMoral - thigh flex, ext medial leg
 saph
 L4(2) 
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_133.png]]
-***** Saizo
+**** Saizo
 # Sciatic
 # smack dat ass (piriformis); discs
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_back_saizo_fire_emblem_-_Google_Search_-_Google_Ch20.png]]
 S3 (L4)
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_134.png]]
 semimem/tend, add magnus, BICEP FEMORIS
-****** TODO 
+***** TODO 
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_137.png]]
 # Poplitibiatarsal
   [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_136.png][Tibial]]
 # Lateral 
   [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_135.png][C. peroneal]]; 
 
-*** Living Room
+** Living Room
 Vertebra
 ___ 
-***** Clefairy
-***** Togepi
-***** Lickitung
-***** Sentret
+**** Clefairy
+**** Togepi
+**** Lickitung
+**** Sentret
 :tutusail: 
 2-4, splanchnic
 leaf - para
-***** Celica
+**** Celica
 Celiac trunk (off Alm - Abd Aorta)
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_13a.png]]
 
 MAJOR ANASTAMOSIS
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_139.png]]
 
-*** Mom room
+** Mom room
 UE
 ARM-U, NAMe SOME
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_(6)_Upper_Extremity_Nerve_Injuries_-_YouTube_-_Gooe.png]]
-*** Scott
+** Scott
 UE
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151e.png]]
 
-
-*** Room
+** Room
 MEN syndromes
-***** Ike
+**** Ike
 pit, parathyroid,  panc/GI (gastrinoma, insulinoma)
-***** Xander
+**** Xander
 MEN2
 Pheo, MTC, para/marf
 RET
-*** Backyard
+** Backyard
 colon
 [[https://next.amboss.com/us/questions/ZSx1ZyDQ0/66]]
 ** Harrison Park
 ***** Azir with a turbin & greasy flute
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_13c.png]]
-* AYCE Sushi
-Vomit
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_2_-_PowerPoint3.png][motion v chemo]]
-
 
 * Misc Notes
 - 888
@@ -1209,6 +1302,7 @@ Branchial Arch System
 12
 
 C-ollagen; hydr/redox
+
 
 
 

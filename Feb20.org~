@@ -1,10 +1,19 @@
-#+OPTIONS: toc:3
-#+ATTR_HTML: :width 50%
+#+OPTIONS: toc:2
+#+ATTR_ORG: width 800
 #+TOC: listings
 #+TOC: tables
-* Vista 
-** Courtyard - Cell wall Abx** 
+#+TAGS: drill(d) mnemonic(m)
+* Vista                                                               :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: multisided
+    :END:
+Home sweet home
+** Courtyard - Cell wall Abx**
     B-lacs
+**** Courtyard
+     :PROPERTIES:
+     :ID:       cdf8b135-5dc6-4d05-a28f-1a0ec125d6de
+     :END:
 ***** Bulbasaur
 Wooden staff : Sudo, staph
    space-shaped bulb - b-lactam sketchies
@@ -34,7 +43,7 @@ Wooden staff : Sudo, staph
 ** Lobby
 Vitamins [fn:1]
 ** Home
-*** Bed
+**** Bed
 Sleep, stress
 ***** Drowzy
  Theta - 1/2
@@ -154,7 +163,7 @@ endo
 
 ** Cross Walk
 Brachial Plexus, Branchial Arches [fn:4]
-* KUMC - School
+* KUMC - School                                                       :drill:
 *** Hemenway 
     Lab
 ***** Tyrogue
@@ -1209,6 +1218,7 @@ Branchial Arch System
 12
 
 C-ollagen; hydr/redox
+
 
 
 
