@@ -1,0 +1,8 @@
+* [0/1]
+** TODO #KylieJenner;
+   :PROPERTIES:
+   :SUBJECT:
+   :TOPIC: HYPERLIPidemias
+   :TAGS: Mnemonic
+   :END:
+

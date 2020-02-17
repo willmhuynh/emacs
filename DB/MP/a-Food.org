@@ -1,0 +1,13 @@
+* [0/1]
+** TODO #BrownSugarCube; subtypes
+   :PROPERTIES:
+   :SUBJECT: BC 
+   :TOPIC: Carb metab - inborn errors
+   :TAGS: 
+   :END:
+Fructose
+- Essential Fructokinase to F1P
+-- overactive HEXOKINASE to F6P
+--- which is then glycolysis
+[[E:\Programs\ShareX-portable\000 Sharex\2020-01\kAo1fO0Wny.png]]
+

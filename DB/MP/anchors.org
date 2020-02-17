@@ -1,0 +1,98 @@
+#+TAGS: Amboss(a) Pixorize(x) SkPh(s)  SkM(m) Dirty(d) FA(f)
+#+TAGS: phys(1) path(2)  pharm(3) micro(4) phys(5)
+#+Options: toc:2
+* Games
+** FE
+*** [[E:/emacs/DB/MP/a-FE.org]]
+** LoL
+*** [[E:/emacs/DB/MP/a-LoL.org]]
+** Arknights
+*** [[E:/emacs/DB/MP/a-AK.org]]
+** Pokemon
+*** [[E:/emacs/DB/MP/a-Pokemon.org]]
+** Other
+*** [[E:/emacs/DB/MP/a-Food.org]]
+*** [[E:/emacs/DB/MP/a-People.org]]
+*** [[E:/emacs/DB/MP/a-Misc.org]]
+
+
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_pegs_for_numbers_memory_-_Google_Search_-_Google_C.png]]
+
+* Notes
+  [[E:/emacs/DB/MP/Log/Feb20.org]]
+
+* Subgroup
+** Humans
+*** Peers
+***** Alec
+Muscarinic
+*** Celebs
+** Other Video games
+*** Nintendo
+*** Octopath traveler
+** Pokemon
+*** Starters
+Grass - Abx
+*** Grass
+**** Cotton
+**** Tree
+**** Fruit
+**** Spore                                                         :SkPh:SkM:
+Fungi & Antifungals
+*** Bug
+Micro
+Cytokines
+*** Poison
+*** Psychic
+Neuropsych
+*** Water
+**** Fish
+** Arknights
+Pathologies
+**** Nightmare
+Personality Disorder
+**** Warfarin
+Blood Disorders
+** LoL
+***** Zyra
+Fluoroquinolones
+***** Aurelion
+Doxycycline (cycle)
+***** Azir
+Azithromycin
+***** Heimer, Olaf
+Cephalosporins
+** FE
+***** Legion
+Anthrax, legionella
+Axe - amox
+* Unsorted
+** Antivirals
+*** HIV
+*** Hep
+*** HSV
+*** CMV
+
+* Table
+| Anchors         |        | Subject               | Topic | Source | 1 | 2 | 3 |   |
+|-----------------+--------+-----------------------+-------+--------+---+---+---+---|
+| Pokemon - Pharm | Grass  | Antimicrobials, Fungi |       | SkPh   |   |   |   |   |
+|                 | Bug    | Bacteria              |       | SkM    |   |   |   |   |
+|                 | Poison | Viruses               |       | SkM    |   |   |   |   |
+|                 | Fire   | Heme/Infl             |       | SkPh   |   |   |   |   |
+|                 | Water  | STDs, Parasites       |       |        |   |   |   |   |
+|                 | Ice    |                       |       |        |   |   |   |   |
+|                 | Physic | NP, CNS               |       | SkPh   |   |   |   |   |
+|                 | Elec   | CV                    |       | SkPh   |   |   |   |   |
+|                 | Dark   | Neo                   |       | SkPh   |   |   |   |   |
+|                 | Ghost  |                       |       |        |   |   |   |   |
+|                 | Rock   | GI                    |       | SkPh   |   |   |   |   |
+|                 | Ground |                       |       |        |   |   |   |   |
+|                 | Steel  |                       |       |        |   |   |   |   |
+|                 | Normal | SMusc                 |       | SkPh   |   |   |   |   |
+|                 | Fight  |                       |       |        |   |   |   |   |
+|                 | Flying | Pulm                  |       | SkPh   |   |   |   |   |
+|                 | Dragon |                       |       |        |   |   |   |   |
+|                 | Fairy  |                       |       |        |   |   |   |   |
+|                 |        |                       |       |        |   |   |   |   |
+

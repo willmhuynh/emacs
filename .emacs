@@ -14,6 +14,8 @@
 (require 'org-learn)
 (require 'org-drill)
 
+(setq org-image-actual-width nil)
+
 
 
 ;; this is the start of William's Shit lol

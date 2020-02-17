@@ -1,0 +1,4 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+#+TAGS: drill(d)
+
