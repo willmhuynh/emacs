@@ -81,6 +81,9 @@ CONN - she's a CONN artist
 Adrenal insuff
 Metyraponyta - Metyrapone, inhib 11b hydrox (cortisol production)
 Android 16 - Tx w/ roids
+
+
+Enzyme deficiencies
 ***** Plusle
    ADDison
    - Tanning -
@@ -788,36 +791,43 @@ Nakie - Androgenic
 Pain
 Azama - ASA
  COX1; makes PGE2 which > mucin/bic
-** Hawaii Chopstix
+** Hawaii Chopstix                                                    :drill:
+   :PROPERTIES:
+   :ID:       1b7d4006-1be8-4e60-b66b-ab0f7da80248
+   :END:
 MABS
-***** Alm
+**** Celica
+Celiac trunk (off Alm - Abd Aorta)
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_13a.png]]
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_1513.png]]
+MAJOR ANASTAMOSIS
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_139.png]]
+
+HY Pancreaticoduodenal arteries - connect what?
+**** Alm                                                              :drill:
+     :PROPERTIES:
+     :ID:       d4f51497-cf86-405a-8992-6a2cb7bea0ca
+     :END:
+Alm
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_13b.png]]
-playing cards - CD52
-Alemtuzumab
-
-Daclizumab - 25, MS
-
-Denosumab - 
-rANKL; osteoclasts
-
-E-cul car, C5, pretty nice heap
-Eculizumab - C5; PNH
-
-na-TAIL-izumab; multiple species have 4 legs
-MS, Crohn; alpha-4-integrin
-
-"OMAHA"
-Omalizumab
-Peyton Manning; jersey 18; IgE, allergic asthma
-
-Palivizumab
-RSV prophyl
-
-Ustekinumab
-"uste be 12, now I'm 23 with psoriasis"
-
-abcix
-IIa, IIIb
+*** 
+Mabs
+| alem         | 52                          |           |
+| dac          | 25, MS                      |           |
+|--------------+-----------------------------+-----------|
+| bevac        | VEGF                        |           |
+| cet          | EGFR                        |           |
+| ritux        |                             |           |
+| trastu       |                             |           |
+| inflix       | inflix inflam               |           |
+| daclizumab   |                             |           |
+| *eculizumab* | cool car - Pretty nice heap |           |
+| nat          | alpha-4; MS, Brianna        | MS, Crohn |
+| ustekinumab  | uste be 12, now 23          | pso       |
+| abciximab    |                             |           |
+| denosumab    | dinosaur socks              |           |
+| omalizumab   | OMAHA-CHOO                  | allergy   |
+| palivizumab  |                             |           |
 ** McDonalds
    DM
 ***** Slurpuff, Alcremie
@@ -1095,11 +1105,10 @@ iNFUNdibulopelvic ligament
   :END:
 Anatomy
 ** Parking Lot 
+Parkinson
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_1516.png]]
 
 
-**** TODO Celiac trunk branches 
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_1513.png]]
 
 ** Basement
 ** Dad room
@@ -1153,12 +1162,6 @@ ___
 :tutusail: 
 2-4, splanchnic
 leaf - para
-**** Celica
-Celiac trunk (off Alm - Abd Aorta)
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_13a.png]]
-
-MAJOR ANASTAMOSIS
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_139.png]]
 
 ** Mom room
 UE
@@ -1302,6 +1305,7 @@ Branchial Arch System
 12
 
 C-ollagen; hydr/redox
+
 
 
 

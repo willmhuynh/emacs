@@ -13,10 +13,14 @@
 
 (require 'org-learn)
 (require 'org-drill)
-
 (setq org-image-actual-width nil)
 (require 'org-annotate-file)
-(global-set-key (kbd "\C-cd") 'org-drill)
+(require 'org-bookmark)
+(require 'org-panel)
+(require 'org-toc)
+
+(global-set-key (kbd "C-c n") 'org-annotate-file)
+(global-set-key (kbd "C-c t") 'org-toc-show)
 
 
 
