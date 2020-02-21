@@ -4,6 +4,7 @@
 #+TOC: tables
 #+TAGS: drill(d) mnemonic(m)
 
+Does this work
 * Vista                                                               :drill:
     :PROPERTIES:
     :DRILL_CARD_TYPE: simple
