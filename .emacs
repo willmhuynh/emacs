@@ -8,6 +8,7 @@
 ;;(load "anki-cards.el")
 (let ((default-directory "E:/emacs/.emacs.d/"))
   (normal-top-level-add-subdirs-to-load-path))
+(setq org-agenda-files (quote ("C:/Users/willm/Documents/emacs/Feb20.org")))
 
 (package-initialize)
 
@@ -18,14 +19,31 @@
 (require 'org-bookmark)
 (require 'org-panel)
 (require 'org-toc)
+(require 'image+)
 
+(defun bookmark-show-org-annotations ()
+  "Opens the annotations window for the currently selected bookmark file."
+  (interactive)
+  (bookmark-bmenu-other-window)
+  (org-annotate-file)
+  ;; or, if you're using the http://bitbucket.org/nickdaly/org-annotate-file fork,
+  ;; (org-annotate-file-show-annotations)
+  )
+
+(global-set-key (kbd "C-c d") 'org-drill)
 (global-set-key (kbd "C-c n") 'org-annotate-file)
 (global-set-key (kbd "C-c t") 'org-toc-show)
 (global-set-key (kbd "C-c p") 'org-panel)
 (global-set-key (kbd "C-c m") 'list-bookmarks)
 (global-set-key (kbd "C-c s") 'bookmark-set)
 
-
+(global-set-key [C-mouse-wheel-up-event]  'text-scale-increase)
+(global-set-key  [C-mouse-wheel-down-event] 'text-scale-decrease)(global-set-key [C-mouse-4] 'text-scale-increase)
+(global-set-key [C-mouse-5] 'text-scale-decrease)
+(defadvice text-scale-increase (around all-buffers (arg) activate)
+  (dolist (buffer (buffer-list))
+    (with-current-buffer buffer
+      ad-do-it)))
 
 ;; this is the start of William's Shit lol
 ;; Completion Framework: Ivy / Swiper / Counsel
