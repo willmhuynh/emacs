@@ -8,7 +8,6 @@
 ;;(load "anki-cards.el")
 (let ((default-directory "E:/emacs/.emacs.d/"))
   (normal-top-level-add-subdirs-to-load-path))
-(setq org-agenda-files (quote ("C:/Users/willm/Documents/emacs/Feb20.org")))
 
 (package-initialize)
 
