@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "read-aloud" "20160923.500" "A simple interface to TTS engines" '((emacs "24.4")) :commit "c662366226abfb07204ab442b4f853ed85438d8a" :keywords '("multimedia") :authors '(("Alexander Gromnitsky" . "alexander.gromnitsky@gmail.com")) :maintainer '("Alexander Gromnitsky" . "alexander.gromnitsky@gmail.com") :url "https://github.com/gromnitsky/read-aloud.el")

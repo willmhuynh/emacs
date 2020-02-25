@@ -3,58 +3,39 @@
 #+TOC: listings
 #+TOC: tables
 #+TAGS: drill(d) mnemonic(m)
+**** Test
+[[file:E
 
 * Vista                                                               :drill:
     :PROPERTIES:
     :DRILL_CARD_TYPE: simple
     :ID:       85564430-d249-4ca4-b154-9cd87b6c3dff
     :END:
-Home sweet home
 Adrenal, GI, Sex, 
 ** Courtyard - Cell wall Abx**
-    B-lacs
-*** Courtyard
+B-lac Abx
+*** Courtyard, Bulbasaur
     :PROPERTIES:
-    :ID:       cdf8b135-5dc6-4d05-a28f-1a0ec125d6de
-    :END:
-**** Bulbasaur
-Wooden staff : Sudo, staph
-   two penis vines - PCN, DICKloxacillin(naf)
-**** TODO [#B] Grapploct, Torchic
-  (Arms)
-  1 & 2 - PEck & HENS
-  3 - Green (s. vir & HACEK)
-  4
-
-  Proteus, E. Coli, Kleb
-  H. inf, Enterbac, Neiss, Serratia
-
-  Cephalosporins
-
-**** Chikorita, chicken
-  (vines = vanc, chicken = dapto)
-  Vancomycin
-  Daptomycin
+    :ID:       cdf8b135-5dc6-4d05-a28f-1a0e
+**** Grapploct + Torchic
+Cephs
+**** Chikorita + Chicken
+Vanc & Dapto
 **** Treecko
-  Lips - monobactams
-  Penis - -penems
-  last of 3 grass starters - cilastin, inh renal ehyropeptiase I
-  (carba, imi, erta, mero)
-
+AzTREEonam, Monobactams
 ** Lobby
 Vitamins [fn:1]
 ** Home
 *** 4th Floor
 Cancers[fn:2]
 *** Desk
-**** Meds
-***** Buproprion - NE/Dop reuptake inhib
+**** Buproprion - NE/Dop reuptake inhib
 ADR insomnia, HA, sz
 Mirtazapine - good for sleep, anorexia
  a2 antag
-***** SSRIs
-***** Amphetamine
-***** Headache
+**** SSRIs
+**** Amphetamine
+**** Headache
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02-Wednesday\19_43_05.jpg]]
 
 *** Bed
@@ -70,7 +51,7 @@ K, spindles - 3
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02-Wednesday\19_28_00.jpg]]
 
 *** Closet
-Tumor markers [fn:6]
+Tumor markers [fn:3]
 *** Window
 ***** Cordelia
 Cortisol
@@ -87,9 +68,11 @@ Emtricitabine (nucleoside analogs)
 420 - gp41 * 120
 maraviroc (CCR5 inhib)
 *** 12 Em room
-***** Castform
+**** Castform
 Breasts
 Progesterone
+**** Snover
+Ovary
 *** 12 Lobby
 Vagina
 **** Flowers
@@ -139,7 +122,7 @@ Acid-Base
 
 *** Mail
 *** TODO Front yard
-Vasculitis[fn:3]
+Vasculitis[fn:4]
 **** Entrance
 Small
 ***** Lukas
@@ -229,7 +212,7 @@ So caring - Carcinoid
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02-Wednesday\19_14_18.jpg]]
 
 ** Cross Walk
-Brachial Plexus, Branchial Arches [fn:4]
+Brachial Plexus, Branchial Arches [fn:5]
 
 * TODO KUMC - School                                                  :drill:
   :PROPERTIES:
@@ -247,52 +230,12 @@ Brachial Plexus, Branchial Arches [fn:4]
 Literal Mind Palace
 ** Hemenway 
    Lab
-***** Tyrogue
- Hitmonchan
- Hitmonlee
- Hitmontop
+**** Tyrogue
+**** Minun, Plusle
+**** Miltank
+**** Jinx
+**** Wilson
 
- TNR Disorders
- # XG FA HA MT
- [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151l.png]]
-
- Fried
- GAA, AR
- overactive Frataxin - Fe into cells - mt (CNS/PNS)
- HCM > death
- [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_123.png]]
-
- Hunt
- 4, can't aim (aggressive but chorea, psychosis)
- [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_(5)_Trinucleotide_Repeats_-_YouTube_-_Google_Chrom2.png]]
-
- MT
- GRIP
- CTG
- [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_125.png]]
- Cataracts, testic atrophy, gammaglobulinemia
-
-***** Minun, Plusle 
- [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Browse_(51_cards_shown;_1_selected).png]]
- Neg - 
- Pos -
-***** Miltank
- Hypercalcemia
- [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Custom_session_from_Feb_10,_12PM_-_AMBOSS_-_Googlem.png]]
-
-
-***** Jinx
- Hyperlipidemias
- [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_15z.png]]
-
-
-***** Wilson (Castaway)
- Cu stick
- AR, 
- Liver, psych (gait, arthria), rings
-
-  Tx penicillamine, zinc
-  ATP7B mutation
 ** 1st year lecture
 Micro, Toxins, Signal Pathways
 *** M1 Sky
@@ -364,8 +307,6 @@ L.geniculate - vis (they opposite)
 **** Skitty
 Catecholamine
 Vitamins
-[fn:1]
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_161x.png]]
 *** Sidewalk
 **** Pyke
      :PROPERTIES:
@@ -427,7 +368,7 @@ Thymoma - PRCAplasia
 **** Lysithea
 Thyroid (she has thyrsus)
 Calcitonin-cells
-gene [fn:6]
+gene [fn:3]
 ***** Graves (lol)
 
 ***** Hanneman
@@ -548,7 +489,7 @@ Tofu jacking off unsuccessfully (JAK inhib)
 Tofu attacks Newt & Zubat (neutropenia, anemia)
 
 Sill has shiny chrome bumper (CYP450 active) & small bomb on an isle (IL-6)
-Isle is on top of a bunch of yurts & livers (HTN, UTI, elevated liver enzymes)[fn:11]
+Isle is on top of a bunch of yurts & livers (HTN, UTI, elevated liver enzymes)[fn:6]
 
 ****** in a tux
 riTUXimab
@@ -676,7 +617,7 @@ Aphasia
 ** KUSH Stairs
 Stroke
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151t.jpg]]
- [fn:5:Rule of 4s]
+ [fn:7]
 
 Pyramidal tract
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02-Wednesday\19_31_39.jpg]]
@@ -849,25 +790,10 @@ Dermatitis Herpetiformis
 *** Door
 **** Cassiopeia
 neurocutaneous syndromes
-***** W
-Sturge
-# from face, she fangs
- [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14o.png]]
-***** VHL
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14q.png]]
-***** NF1
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14r.png]]
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14s.jpg]]
-***** NF2
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14t.png]]
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14u.png]]
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14v.png]]
-
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14w.png]]
-***** Tuba tail
-use muscle
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_14p.png]]
-
+Sturge - W Fang
+NF1 - 
+NF2
+TS - Tail
 * ROKC North                                                          :drill:
   :PROPERTIES:
   :ID:       828d8637-1ac1-4558-9965-bfc7b1d40d38
@@ -996,7 +922,7 @@ EF - activate cAMP > edema
 ***** Remoraid
 Bacteroides
 Amping (amp+sulf Tx)
-***** Cloyster
+**** Cloyster
 Clostridia
 ****** Mario 
 Pipe for perfringens
@@ -1177,7 +1103,7 @@ DM, Cancer
     :ID:       f453fa47-ced9-41c2-b3bb-35fe7507a098
     :END:
 **** Grag Kog
-Fatty & Amino acids [fn:7]
+Fatty & Amino acids [fn:8]
 
 ___ Amino acids
 Pikachu (PKU)
@@ -1228,29 +1154,6 @@ Galactose
 nucleoside analog; inhib IMP dehydrogenase, which makes Grimmsnarl (GMP)
 *** Entrance
 **** Chris Christie
-M - phase drugs + ADRs
-3 classes
-***** 
- cristine - prevent poly
-  idiot - neuro
- -taxel - prevent breakdown
-  near restroom - nephro
- booo-lin - binds microtubule ends 
-  boo-boo - arth
-**** Plate 1
-x-linkers
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_18_23_35.jpg]]
--platin/busulfan - x-link
-cyc
--mustine
-**** 
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_18_27_30.jpg]]
-**** Plate 2
-Posse = -toposide; topo II
-**** 
-Abx
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_18_30_13.jpg]]
-
 *** McD Drive-thr
 Gluconeo
 cahill [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_1625.png]]
@@ -1284,7 +1187,7 @@ cutting sulfur (cleaves disulfide bonds; for COPD)
    :DRILL_CARD_TYPE: simple
    :END:
  antivirals
- Virus[fn:8]
+ Virus[fn:9]
  [[https://heyitsthatalmostdoctor.tumblr.com/tagged/Step-1-mnemonics]]
 *** String - parking lot
  RNA
@@ -1299,32 +1202,23 @@ cutting sulfur (cleaves disulfide bonds; for COPD)
  Rhabdo
  Paramyxo
  Filo -Marburg+Ebol
-**** Dice icosahedral 
-***** Robin Grima
- Naked Ico
- Calici
- Astro
- Hepe
- Rhydon - Picorno (HAV)
-***** Robin F
- Enveloped Ico
- Corona
- Toga
-  SETT - Vit A (RETinol) improves resp+GI+ocular protection
-  [[E:\Programs\ShareX-portable\000 Sharex\2020-02-Wednesday\19_24_46.jpg]]
-
- Retro
- Flavi - HCV Hippowdon
-*** Entrance - Zipper
+**** Grima
+Icosahedral ssRNA viruses
+***** Grima M
+Naked Ico RNA
+***** Grima F
+Enveloped Ico RNA
+*** PC Midlane
 DNA Viruses
 **** Aphelios
- naked
+ naked; pa pa PA shooting
  Parvo
  Papilloma
  Polyoma - JC, BK, Merkel
  Adeno
 **** DiaNA
  enveloped
+Herpes, Hippos, Pox boxes
  Hepabna (HBV) Hippopotas
  Herp
  Pox
@@ -1343,36 +1237,18 @@ Onc, heme
     :PROPERTIES:
     :ID:       7a5e9ec1-2573-4ab2-8f9c-e936e2fb91db
     :END:
-**** Lukas                                                            :drill:
-     :PROPERTIES:
-     :ID:       62d30100-bc1e-493d-baec-8ec21cdf68db
-     :END:
-     - Note taken on [2020-02-20 Thu 03:13] \\
-       bone marrow failure, infiltration into reticuloendothelial system > splenomeg
-Leukemia
-Spear (cytoplasmic projections)
-Lukas sexy virgin (dry tap)
-Apple - APL; t(15,17); atra
-ALL
 *** Column Cancer                                                     :drill:
     :PROPERTIES:
     :ID:       9188de2a-d291-4f94-8f5b-7c09f4c1e84a
     :END:
-**** Pac-Man
-     SCHEDULED: <2020-02-24 Mon>
+**** Lukas                                                            :drill:
      :PROPERTIES:
-     :ID:       dc17012f-5ccf-43fd-91ec-f6252ae1c098
-     :DRILL_LAST_INTERVAL: 4.14
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 5.0
-     :DRILL_EASE: 2.6
-     :DRILL_LAST_QUALITY: 5
-     :DRILL_LAST_REVIEWED: [2020-02-20 Thu 10:47]
+     :ID:       62d30100-bc1e-493d-baec-8ec21cdf68db
      :END:
+Leukemia
+
+**** Pac-Man
  Pancreas
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Wednesday\19_55_15.jpg]]
 # embryo
  Happy & yellow - painless jaundice
 **** Yoshi                                                            :drill:
@@ -1492,7 +1368,7 @@ Bleeding disorders
      :PROPERTIES:
      :ID:       1bdd5262-e375-486f-8eb9-ecdcc24934c9
      :END:
-Coag cascade [fn:8]
+Coag cascade [fn:9]
 https://heyitsthatalmostdoctor.tumblr.com/post/161693928091/the-coagulation-cascade-made-complicated-to-make
 **** Zubat
      :PROPERTIES:
@@ -1714,7 +1590,7 @@ a/w UC
 **** Random bitches
 Rett syndrome
 MECP2 on X-chromosome
-PBC - AMA[fn:9]
+PBC - AMA[fn:10]
 
 
 # elevated ALP, normal bili
@@ -1826,39 +1702,73 @@ RET
 colon, DJs
 Runner = Brunner glands; in D
 [[https://next.amboss.com/us/questions/ZSx1ZyDQ0/66]]
-Colon buzzwords [fn:10]
+Colon buzzwords [fn:11]
 ** Harrison Park
 **** Azir with a turbin & greasy flute
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_13c.png]]
 
-* Misc Notes
-- 888
-- East High
-| Anchors         |        | Subject               | Topic | Source | 1 | 2 | 3 |   |
-|-----------------+--------+-----------------------+-------+--------+---+---+---+---|
-| Pokemon - Pharm | Grass  | Antimicrobials, Fungi |       | SkPh   |   |   |   |   |
-|                 | Bug    | Bacteria              |       | SkM    |   |   |   |   |
-|                 | Poison | Viruses               |       | SkM    |   |   |   |   |
-|                 | Fire   | Heme/Infl             |       | SkPh   |   |   |   |   |
-|                 | Water  | STDs, Parasites       |       |        |   |   |   |   |
-|                 | Ice    |                       |       |        |   |   |   |   |
-|                 | Physic | NP, CNS               |       | SkPh   |   |   |   |   |
-|                 | Elec   | CV                    |       | SkPh   |   |   |   |   |
-|                 | Dark   | Neo                   |       | SkPh   |   |   |   |   |
-|                 | Ghost  |                       |       |        |   |   |   |   |
-|                 | Rock   | GI                    |       | SkPh   |   |   |   |   |
-|                 | Ground |                       |       |        |   |   |   |   |
-|                 | Steel  |                       |       |        |   |   |   |   |
-|                 | Normal | SMusc                 |       | SkPh   |   |   |   |   |
-|                 | Fight  |                       |       |        |   |   |   |   |
-|                 | Flying | Pulm                  |       | SkPh   |   |   |   |   |
-|                 | Dragon |                       |       |        |   |   |   |   |
-|                 | Fairy  |                       |       |        |   |   |   |   |
-|                 |        |                       |       |        |   |   |   |   |
-[[https://orgmode.org/orgcard.pdf]]
 * Footnotes
 
-[fn:11] 
+[fn:1]
+Catecholamine Pathway
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_161x.png]]
+
+[fn:2] Cancers
+___ Hodg
+___ non-hodg
+DLBCL
+14,18 follicular
+8, 14 Burk, starry sky, tingible macro
+11, 14 mantle
+
+Primary cerebral lymphoma - single ring-enhancing; a/w EBV + AIDs
+
+[fn:3] Gene markers
+# CAP = onc; low = tsg
+___ Thyroid
+BRAF - papillary; psam, orphan annie
+PAX8-PAR - follicular,  _early invasion_
+RET -*medullamyloid* 
+p53 - aplastic; undiff, pleo giant cells
+___ Resp
+BRAF - small 
+ MYCL1
+ALK-EML4 - adeno
+!Krabs - KRAS - Kolon, resp, panc
+___ Panc
+smad4/dpc4 - pan
+___ Misc
+JAK2 marrow fibrosis
+
+# Clothes hanger
+Oncogenes
+BRAF - small cellung
+ MYCL1
+____ Resp
+ALK - EML4 fusion; adeno
+Krabs (KRAS - kolon, resp, panc
+
+[fn:4] [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Vasculitis_-_OneNote1k.jpg]]
+
+[fn:5] 
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Thursday\20_15_36.jpg][Brachial Plexus]]
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151n.jpg]]
+Branchial Arch System
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151d.png]]
+:Pouches:
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_(1)_Pharyngeal_Arch_System_and_its_Derivatives_-_Y3.jpg]]
+1 - tympanic
+2-4 cerical sinus; overgrowth of 2
+2 - palatine tonsil
+3 - inf parathyroid, thymus
+4 - sup para, ultimobrachial body (parafollicular thyroid)
+
+ARCHES
+3 - stylopharyngeus - swallow elevation
+4 - cricothyroid (voice);
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Wednesday\19_23_39.jpg]]
+
+[fn:6] 
 CYP Drugs
 Substrate
 Warfarin
@@ -1905,93 +1815,14 @@ gemfibrozil
 ritonavir
 
 (quinidine,)
-[fn:10] Colon buzz words
-String - d.ileum; Crohn
-Pipe - descending ; UC
-ThumbprInt - Ischemic colitis; IBD
 
-[fn:9] Antibodies
-AMA - PBC (Amy w/ peanut butter cookie); mitochondrial
+[fn:7] Rule of 4s
 
-[fn:1] Vitamins
-1 thi
-2 ri; ninja (chei & conj)
-3 ni; tongue
-4 
-5 
-6 pyr; tram (transamination)
-7 bi; BOXylation axe hair (alopecia, derm)
-8
-9
-12
-
-C-ollagen; hydr/redox
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Tuesday\18_55_07.jpg]]
-
-
-[fn:6] Gene markers
-# CAP = onc; low = tsg
-___ Thyroid
-BRAF - papillary; psam, orphan annie
-PAX8-PAR - follicular,  _early invasion_
-RET -*medullamyloid* 
-p53 - aplastic; undiff, pleo giant cells
-___ Resp
-BRAF - small 
- MYCL1
-ALK-EML4 - adeno
-!Krabs - KRAS - Kolon, resp, panc
-___ Panc
-smad4/dpc4 - pan
-___ Misc
-JAK2 marrow fibrosis
-
-# Clothes hanger
-Oncogenes
-BRAF - small cellung
- MYCL1
-____ Resp
-ALK - EML4 fusion; adeno
-Krabs (KRAS - kolon, resp, panc
-
-[fn:2] Cancers
-___ Hodg
-___ non-hodg
-DLBCL
-14,18 follicular
-8, 14 Burk, starry sky, tingible macro
-11, 14 mantle
-
-Primary cerebral lymphoma - single ring-enhancing; a/w EBV + AIDs
-
-[fn:3] [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Vasculitis_-_OneNote1k.jpg]]
-
-[fn:4] 
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Thursday\20_15_36.jpg][Brachial Plexus]]
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151n.jpg]]
-Branchial Arch System
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151d.png]]
-:Pouches:
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_(1)_Pharyngeal_Arch_System_and_its_Derivatives_-_Y3.jpg]]
-1 - tympanic
-2-4 cerical sinus; overgrowth of 2
-2 - palatine tonsil
-3 - inf parathyroid, thymus
-4 - sup para, ultimobrachial body (parafollicular thyroid)
-
-ARCHES
-3 - stylopharyngeus - swallow elevation
-4 - cricothyroid (voice);
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Wednesday\19_23_39.jpg]]
-
-
-:END:
-
-[fn:7] Amino Acids
+[fn:8] Amino Acids
 phe
 tyr
 
-[fn:8]
+[fn:9]
 Mnemonics
 Bacteria
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_ShareX_-_Image_viewer1.png]]
@@ -2002,15 +1833,10 @@ Coag Cascade
 Arachidonic acid
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_ShareX_-_Image_viewer0.png]]
 
-[fn:5] Rule of 4s
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_ShareX_-_Image_viewer1.jpg]]
+[fn:10] Antibodies
+AMA - PBC (Amy w/ peanut butter cookie); mitochondrial
 
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151u.png]]
-1. 12 divide = midline
-2. Syndromes - motor are midline
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151v.jpg]]
-3. Syndromes - sensory are lateral
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151w.jpg]]
-
-
-
+[fn:11] Colon buzz words
+String - d.ileum; Crohn
+Pipe - descending ; UC
+ThumbprInt - Ischemic colitis; IBD

@@ -1,0 +1,7 @@
+# -*- org-download-image-dir: "~/Dropbox/journals/images/anki/"; org-download-heading-lvl: 0; org-download-method: directory; org-download-delete-image-after-download: nil; org-refile-targets: nil; eval: (anki-editor-mode); -*-
+#+TAGS: programming(p) cooking(C) economics(e) guitar(g)
+#+OPTIONS: ^:nil
+
+Nothing really to look here.
+
+* Dispatch Shelf
