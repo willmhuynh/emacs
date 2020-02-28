@@ -1,3 +1,4 @@
+
 # -*- org-download-image-dir: "~/Dropbox/journals/images/anki/"; org-download-heading-lvl: 0; org-download-method: directory; org-download-delete-image-after-download: nil; org-refile-targets: nil; eval: (anki-editor-mode); -*-
 #+TAGS: programming(p) cooking(C) economics(e) guitar(g)
 #+OPTIONS: ^:nil
@@ -5,3 +6,289 @@
 Nothing really to look here.
 
 * Dispatch Shelf
+
+* Aphelios, Diana
+  :PROPERTIES:
+  :ANKI_DECK: AE
+  :ANKI_NOTE_TYPE: SketchyPharm-6ac33
+  :ANKI_FAILURE_REASON: Wrong number of arguments: (3 . 3), 2
+  :END:
+
+** Extra Q
+Test
+** Extra A
+Another
+MEOW
+ASLDJHASLJFH
+** Extra
+Thing
+** Extra Q2
+WHY
+** Extra A2
+NO
+** Extra 2
+
+** Extra Q3
+
+** Extra A3
+
+** Extra 3
+
+** Extra Q4
+
+
+** Extra A4
+
+** Extra 4
+
+** Extra Q5
+
+** Extra A5
+
+** Extra 5
+
+** Extra Q6
+
+** Extra A6
+
+** Extra 6
+
+** Extra Q7
+
+** Extra A7
+
+** Extra 7
+
+** Extra Q8
+
+** Extra A8
+
+** Extra 8
+
+** Extra Q9
+
+** Extra A9
+
+** Extra 9
+
+** Extra Q10
+
+** Extra A10
+
+** Extra 10
+
+** Extra Q11
+
+** Extra A11
+
+** Extra 11
+
+** Extra Q12
+
+** Extra A12
+
+** Extra 12
+
+** Extra Q13
+
+** Extra A13
+
+** Extra 13
+
+** Extra Q14
+
+** Extra A14
+
+** Extra 14
+
+** Extra Q15
+
+** Extra A15
+
+** Extra 15
+
+** Extra Q16
+
+** Extra A16
+
+** Extra 16
+
+** Extra Q17
+
+** Extra A17
+
+** Extra 17
+
+** Extra Q18
+
+** Extra A18
+
+** Extra 18
+
+** Extra Q19
+
+** Extra A19
+
+** Extra 19
+
+** Extra Q20
+
+** Extra A20
+
+** Extra 20
+
+** Extra Q21
+
+** Extra A21
+
+** Extra 21
+
+** Extra Q22
+
+** Extra A22
+
+** Extra 22
+
+** Extra Q23
+
+** Extra A23
+
+** Extra 23
+
+** Extra Q24
+
+** Extra A24
+
+** Extra 24
+
+** Extra Q25
+
+** Extra A25
+
+** Extra 25
+
+** Extra Q26
+
+** Extra A26
+
+** Extra 26
+
+** Extra Q27
+
+** Extra A27
+
+** Extra 27
+
+** Extra Q28
+
+** Extra A28
+
+** Extra 28
+
+** Extra Q29
+
+** Extra A29
+
+** Extra 29
+
+** Extra Q30
+
+** Extra A30
+
+** Extra 30
+
+** Extra Q31
+
+** Extra A31
+
+** Extra 31
+
+** Extra Q32
+
+** Extra A32
+
+** Extra 32
+
+** Extra Q33
+
+** Extra A33
+
+** Extra 33
+
+** Extra Q34
+
+** Extra A34
+
+** Extra 34
+
+** Extra Q35
+
+** Extra A35
+
+** Extra 35
+
+** Extra Q36
+
+** Extra A36
+
+** Extra 36
+
+** Extra Q37
+
+** Extra A37
+
+** Extra 37
+
+** Extra Q38
+
+** Extra A38
+
+** Extra 38
+
+** Extra Q39
+
+** Extra A39
+
+** Extra 39
+
+** Extra Q40
+
+** Extra A40
+
+** Extra 40
+
+** Extra Q41
+
+** Extra A41
+
+** Extra 41
+
+** Extra Q42
+
+** Extra A42
+
+** Extra 42
+
+** Extra Q43
+
+** Extra A43
+
+** Extra 43
+
+** Extra Q44
+
+** Extra A44
+
+** Extra 44
+
+** Extra Q45
+
+** Extra A45
+
+** Extra 45
+
+** More About This Topic
+
+** Entire Sketch
+
+** Note ID

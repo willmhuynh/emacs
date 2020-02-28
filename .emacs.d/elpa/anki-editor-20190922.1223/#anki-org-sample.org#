@@ -1,3 +1,4 @@
+
 # -*- org-download-image-dir: "~/Dropbox/journals/images/anki/"; org-download-heading-lvl: 0; org-download-method: directory; org-download-delete-image-after-download: nil; org-refile-targets: nil; eval: (anki-editor-mode); -*-
 #+TAGS: programming(p) cooking(C) economics(e) guitar(g)
 #+OPTIONS: ^:nil
@@ -10,17 +11,15 @@ Nothing really to look here.
   :PROPERTIES:
   :ANKI_DECK: AE
   :ANKI_NOTE_TYPE: SketchyPharm-6ac33
-  :ANKI_FAILURE_REASON: Wrong number of arguments: (3 . 3), 2
+  :ANKI_FAILURE_REASON: Symbol’s function definition is void: err
   :END:
 
 ** Extra Q
 Test
 ** Extra A
-Another
-MEOW
+
 ** Extra
-Thing
-** Extra Q2
+Thing** Extra Q2
 WHY
 ** Extra A2
 NO

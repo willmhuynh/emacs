@@ -2,6 +2,15 @@
 (package-initialize)
 (ivy-mode 1)
 
+(require 'org-learn)
+(require 'org-drill)
+(setq org-image-actual-width nil)
+(require 'org-annotate-file)
+(require 'org-bookmark)
+(require 'org-panel)
+(require 'org-toc)
+(require 'image+)
+
 (setq inhibit-startup-message 1)
 ;; Place this file in C:\Users\Username\AppData\Roaming and point to the appropriate files
 (setq default-directory "C:/Users/Will/Documents/emacs")
