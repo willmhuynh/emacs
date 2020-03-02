@@ -2,14 +2,14 @@
 (package-initialize)
 ;(ivy-mode 1)
 
-(require 'org-learn)
-(require 'org-drill)
+;(require 'org-learn)
+;(require 'org-drill)
 (setq org-image-actual-width nil)
-(require 'org-annotate-file)
-(require 'org-bookmark)
-(require 'org-panel)
-(require 'org-toc)
-(require 'image+)
+;(require 'org-annotate-file)
+;(require 'org-bookmark)
+;(require 'org-panel)
+;(require 'org-toc)
+;(require 'image+)
 
 (setq inhibit-startup-message 1)
 ;; Place this file in C:\Users\Username\AppData\Roaming and point to the appropriate files
@@ -66,8 +66,13 @@
 
 ;; this is the start of William's Shit lol
 ;; Completion Framework: Ivy / Swiper / Counsel
-
 ;;Macros
+(global-set-key (kbd "C-c h") 'qlink)
+
+					;QLink w/ description
+(fset 'qlink
+   (lambda (&optional arg) "Keyboard macro." (interactive "p") (kmacro-exec-ring-item (quote ([91 91 25 93 91 93 93 left left] 0 "%d")) arg)))
+
 ;Mind Palace
 (fset 'mpx
       (lambda (&optional arg) "Keyboard macro." (interactive "p") (kmacro-exec-ring-item (quote ([tab 58 80 82 79 80 69 82 84 73 69 83 58 return tab 58 83 85 66 74 69 67 84 58 return tab 58 84 79 80 73 67 58 return tab 58 84 65 71 83 58 return tab 58 69 78 68 58 up up up up] 0 "%d")) arg)))

@@ -5,7 +5,6 @@
 #+TAGS: drill(d) mnemonic(m)
 
 * Unsorted
-
 *** Anchors
 **** Aphelios
  naked DNA viruses; pa pa PA shooting
@@ -524,7 +523,7 @@ So caring - Carcinoid
 ** Cross Walk
 Brachial Plexus, Branchial Arches [fn:5]
 
-* TODO KUMC - School                                                  :drill:
+* TODO KUMC - HEB                                                     :drill:
   :PROPERTIES:
   :ID:       7f606fbb-af61-4276-8c3e-17336a201c8b
   :DRILL_CARD_TYPE: simple
@@ -697,7 +696,7 @@ Boobs
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_(5)_Video_Question_Bank__Question_#10_-_YouTube_-a.png]]
 [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_13b.png]]
 
-* KUMC - Lib                                                          :drill:
+* KUMC - DYKES                                                        :drill:
   :PROPERTIES:
   :ID:       65f9d378-bdd8-4748-aaa8-5e35648986ae
   :DRILL_CARD_TYPE: simple
@@ -1018,10 +1017,6 @@ antimuscarinic, atropine
  Blind, dry, retention
 **** Alistar
 Alpha
-**** Braum
-Beta
-sexy sweat (AH, insulin)
-
 
 
 *** Dance 

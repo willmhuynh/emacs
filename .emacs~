@@ -1,6 +1,6 @@
 					; if init ain't loading, package-install ivy
 (package-initialize)
-(ivy-mode 1)
+;(ivy-mode 1)
 
 (require 'org-learn)
 (require 'org-drill)
