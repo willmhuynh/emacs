@@ -1,0 +1,503 @@
+:Properties:
+Basic & Clinical Pharmacology, 14e
+Chapter 11: Antihypertensive Agents
+Neal L. Benowitz
+
+Drugs
+PREPARATIONS AVAILABLE
+GENERIC NAME	AVAILABLE AS
+BETA-ADRENOCEPTOR BLOCKERS
+Acebutolol	Generic, Sectral
+Atenolol	Generic, Tenormin
+Betaxolol	Generic, Kerlone
+Bisoprolol	Generic, Zebeta
+Carvedilol	Generic, Coreg
+Esmolol	Generic, Brevibloc
+Labetalol	Generic, Normodyne, Trandate
+Metoprolol	Generic, Lopressor, Toprol-XL
+Nadolol	Generic, Corgard
+Nebivolol	Bystolic
+Penbutolol	Levatol
+Pindolol	Generic, Visken
+Propranolol	Generic, Inderal, Inderal LA
+Timolol	Generic, Blocadren
+CENTRALLY ACTING SYMPATHOPLEGIC DRUGS
+Clonidine	Generic, Catapres, Catapres-TTS
+Guanabenz	Generic, Wytensin
+Guanfacine	Generic, Tenex
+Methyldopa	Generic, Methyldopate HCl
+POSTGANGLIONIC SYMPATHETIC NERVE TERMINAL BLOCKERS
+Guanadrel	Hylorel
+Guanethidine	Ismelin
+Reserpine	Generic
+ALPHA1-SELECTIVE ADRENOCEPTOR BLOCKERS
+Doxazosin	Generic, Cardura
+Prazosin	Generic, Minipress
+Terazosin	Generic, Hytrin
+GANGLION-BLOCKING AGENTS
+Mecamylamine	Generic (orphan drug for Tourette’s syndrome)
+VASODILATORS USED IN HYPERTENSION
+Diazoxide	Hyperstat IV, Proglycem (oral for insulinoma)
+Fenoldopam	Corlopam
+Hydralazine	Generic, Apresoline
+Minoxidil	Generic, Loniten
+ Topical	Rogaine
+Nitroprusside	Generic, Nitropress
+CALCIUM CHANNEL BLOCKERS
+Amlodipine	Generic, Norvasc
+Clevidipine	Cleviprex
+Diltiazem	Generic, Cardizem, Cardizem CD, Cardizem SR, Dilacor XL
+Felodipine	Generic, Plendil
+Isradipine	Generic, DynaCirc, Dynacirc CR
+Nicardipine	Generic, Cardene, Cardene SR, Cardene IV)
+Nifedipine	Generic, Adalat, Procardia, Adalat CC, Procardia-XL
+Nisoldipine	Generic, Sular
+Verapamil	Generic, Calan, Isoptin, Calan SR, Verelan
+ANGIOTENSIN-CONVERTING ENZYME INHIBITORS
+Benazepril	Generic, Lotensin
+Captopril	Generic, Capoten
+Enalapril	Generic, Vasotec, Enalaprilat (parenteral)
+Fosinopril	Generic, Monopril
+Lisinopril	Generic, Prinivil, Zestril
+Moexipril	Generic, Univasc
+Perindopril	Generic, Aceon
+Quinapril	Generic, Accupril
+Ramipril	Generic, Altace
+Trandolapril	Generic, Mavik
+ANGIOTENSIN RECEPTOR BLOCKERS
+Azilsartan	Edarbi
+Candesartan	Generic, Atacand
+Eprosartan	Generic, Teveten
+Irbesartan	Generic, Avapro
+Losartan	Generic, Cozaar
+Olmesartan	Benicar
+Telmisartan	Generic, Micardis
+Valsartan	Diovan
+RENIN INHIBITOR
+Aliskiren	Tekturna
+
+:END:
+* Mechanisms of BP Control
+
+A. Postural Baroreflex
+Baroreflexes are responsible for rapid, moment-to-moment adjustments in blood pressure, such as in transition from a reclining to an upright posture (Figure 11–2). Central sympathetic neurons arising from the vasomotor area of the medulla are tonically active. Carotid baroreceptors are stimulated by the stretch of the vessel walls brought about by the internal pressure (arterial blood pressure). Baroreceptor activation inhibits central sympathetic discharge. Conversely, reduction in stretch results in a reduction in baroreceptor activity. Thus, in the case of a transition to upright posture, baroreceptors sense the reduction in arterial pressure that results from pooling of blood in the veins below the level of the heart as reduced wall stretch, and sympathetic discharge is disinhibited. The reflex increase in sympathetic outflow acts through nerve endings to increase peripheral vascular resistance (constriction of arterioles) and cardiac output (direct stimulation of the heart and constriction of capacitance vessels, which increases venous return to the heart), thereby restoring normal blood pressure. The same baroreflex acts in response to any event that lowers arterial pressure, including a primary reduction in peripheral vascular resistance (eg, caused by a vasodilating agent) or a reduction in intravascular volume (eg, due to hemorrhage or to loss of salt and water via the kidney).
+
+FIGURE 11–2
+Baroreceptor reflex arc. CP, cerebellar peduncle; IC, inferior colliculus.
+
+B. Renal Response to Decreased Blood Pressure
+By controlling blood volume, the kidney is primarily responsible for long-term blood pressure control. A reduction in renal perfusion pressure causes intrarenal redistribution of blood flow and increased reabsorption of salt and water. In addition, decreased pressure in renal arterioles as well as sympathetic neural activity (via β adrenoceptors) stimulates production of renin, which increases production of angiotensin II (see Figure 11–1 and Chapter 17). Angiotensin II causes (1) direct constriction of resistance vessels and (2) stimulation of aldosterone synthesis in the adrenal cortex, which increases renal sodium absorption and intravascular blood volume. Vasopressin released from the posterior pituitary gland also plays a role in maintenance of blood pressure through its ability to regulate water reabsorption by the kidney (see Chapters 15 and 17).
+
+FIGURE 11–3
+Sites of action of the major classes of antihypertensive drugs.
+* Polypharmacy
+For example, vasodilators such as hydralazine cause a significant decrease in peripheral vascular resistance, but evoke a strong compensatory tachycardia and salt and water retention (Figure 11–4) that are capable of almost completely reversing their effect. The addition of a β blocker prevents the tachycardia; addition of a diuretic (eg, hydrochlorothiazide) prevents the salt and water retention. In effect, all three drugs increase the sensitivity of the cardiovascular system to each other’s actions.
+
+FIGURE 11–4
+Compensatory responses to vasodilators; basis for combination therapy with β blockers and diuretics. image Effect blocked by diuretics. image Effect blocked by β blockers.
+* Diuretics
+Diuretics are effective in lowering blood pressure by 10–15 mm Hg in most patients, and diuretics alone often provide adequate treatment for mild or moderate essential hypertension. In more severe hypertension, diuretics are used in combination with sympathoplegic and vasodilator drugs to control the tendency toward sodium retention caused by these agents.
+
+ Diuretics may also cause magnesium depletion, impair glucose tolerance, and increase serum lipid concentrations. Diuretics increase uric acid concentrations and may precipitate gout. The use of low doses minimizes these adverse metabolic effects without impairing the antihypertensive action. Potassium-sparing diuretics may produce hyperkalemia, particularly in patients with renal insufficiency and those taking ACE inhibitors or angiotensin receptor blockers; spironolactone (a steroid) is associated with gynecomastia.
+** DRUGS THAT ALTER SYMPATHETIC NERVOUS SYSTEM FUNCTION
+In many patients, hypertension is initiated and sustained at least in part by sympathetic neural activation. In patients with moderate to severe hypertension, most effective drug regimens include an agent that inhibits function of the sympathetic nervous system. Drugs in this group are classified according to the site at which they impair the sympathetic reflex arc (Figure 11–2). This neuroanatomic classification explains prominent differences in cardiovascular effects of drugs and allows the clinician to predict interactions of these drugs with one another and with other drugs.
+
+The subclasses of sympathoplegic drugs exhibit different patterns of potential toxicity. Drugs that lower blood pressure by actions on the central nervous system tend to cause sedation and mental depression and may produce disturbances of sleep, including nightmares. Drugs that act by inhibiting transmission through autonomic ganglia (ganglion blockers) produce toxicity from inhibition of parasympathetic regulation, in addition to profound sympathetic blockade and are no longer used. Drugs that act chiefly by reducing release of norepinephrine from sympathetic nerve endings cause effects that are similar to those of surgical sympathectomy, including inhibition of ejaculation, and hypotension that is increased by upright posture and after exercise. Drugs that block postsynaptic adrenoceptors produce a more selective spectrum of effects depending on the class of receptor to which they bind.
+
+Finally, one should note that all of the agents that lower blood pressure by altering sympathetic function can elicit compensatory effects through mechanisms that are not dependent on adrenergic nerves. Thus, the antihypertensive effect of any of these agents used alone may be limited by retention of sodium by the kidney and expansion of blood volume. For this reason, sympathoplegic antihypertensive drugs are most effective when used concomitantly with a diuretic.
+
+** CENTRALLY ACTING SYMPATHOPLEGIC DRUGS
+Centrally acting sympathoplegic drugs were once widely used in the treatment of hypertension. With the exception of clonidine, these drugs are rarely used today.
+
+Mechanisms & Sites of Action
+These agents reduce sympathetic outflow from vasomotor centers in the brain stem but allow these centers to retain or even increase their sensitivity to baroreceptor control. Accordingly, the antihypertensive and toxic actions of these drugs are generally less dependent on posture than are the effects of drugs that act directly on peripheral sympathetic neurons.
+
+Methyldopa (L-α-methyl-3,4-dihydroxyphenylalanine) is an analog of L-dopa and is converted to α-methyldopamine and α-methylnorepinephrine; this pathway directly parallels the synthesis of norepinephrine from dopa illustrated in Figure 6–5. Alpha-methylnorepinephrine is stored in adrenergic nerve vesicles, where it stoichiometrically replaces norepinephrine, and is released by nerve stimulation to interact with postsynaptic adrenoceptors. However, this replacement of norepinephrine by a false transmitter in peripheral neurons is not responsible for methyldopa’s antihypertensive effect, because the α-methylnorepinephrine released is an effective agonist at the α adrenoceptors that mediate peripheral sympathetic constriction of arterioles and venules. In fact, methyldopa’s antihypertensive action appears to be due to stimulation of central α adrenoceptors by α-methylnorepinephrine or α-methyldopamine.
+
+The antihypertensive action of clonidine, a 2-imidazoline derivative, was discovered in the course of testing the drug for use as a nasal decongestant. After intravenous injection, clonidine produces a brief rise in blood pressure followed by more prolonged hypotension. The pressor response is due to direct stimulation of α adrenoceptors in arterioles. The drug is classified as a partial agonist at α receptors because it also inhibits pressor effects of other α agonists.
+
+Considerable evidence indicates that the hypotensive effect of clonidine is exerted at α adrenoceptors in the medulla of the brain. In animals, the hypotensive effect of clonidine is prevented by central administration of α antagonists. Clonidine reduces sympathetic and increases parasympathetic tone, resulting in blood pressure lowering and bradycardia. The reduction in pressure is accompanied by a decrease in circulating catecholamine levels. These observations suggest that clonidine sensitizes brain stem vasomotor centers to inhibition by baroreflexes.
+
+Thus, studies of clonidine and methyldopa suggest that normal regulation of blood pressure involves central adrenergic neurons that modulate baroreceptor reflexes. Clonidine and α-methylnorepinephrine bind more tightly to α2 than to α1 adrenoceptors. As noted in Chapter 6, α2 receptors are located on presynaptic adrenergic neurons as well as some postsynaptic sites. It is possible that clonidine and α-methylnorepinephrine act in the brain to reduce norepinephrine release onto relevant receptor sites. Alternatively, these drugs may act on postsynaptic α2 adrenoceptors to inhibit activity of appropriate neurons. Finally, clonidine also binds to a nonadrenoceptor site, the imidazoline receptor, which may also mediate antihypertensive effects.
+
+Methyldopa and clonidine produce slightly different hemodynamic effects: clonidine lowers heart rate and cardiac output more than does methyldopa. This difference suggests that these two drugs do not have identical sites of action. They may act primarily on different populations of neurons in the vasomotor centers of the brain stem.
+
+Guanabenz and guanfacine are centrally active antihypertensive drugs that share the central α-adrenoceptor-stimulating effects of clonidine. They do not appear to offer any advantages over clonidine and are rarely used.
+
+** METHYLDOPA
+Methyldopa was widely used in the past but is now used primarily for hypertension during pregnancy. It lowers blood pressure chiefly by reducing peripheral vascular resistance, with a variable reduction in heart rate and cardiac output.
+
+Most cardiovascular reflexes remain intact after administration of methyldopa, and blood pressure reduction is not markedly dependent on posture. Postural (orthostatic) hypotension sometimes occurs, particularly in volume-depleted patients. One potential advantage of methyldopa is that it causes reduction in renal vascular resistance. 
+
+Pharmacokinetics & Dosage
+Pharmacokinetic characteristics of methyldopa are listed in Table 11–2. Methyldopa enters the brain via an aromatic amino acid transporter. The usual oral dose of methyldopa produces its maximal antihypertensive effect in 4–6 hours, and the effect can persist for up to 24 hours. Because the effect depends on accumulation and storage of a metabolite (α-methylnorepinephrine) in the vesicles of nerve endings, the action persists after the parent drug has disappeared from the circulation.
+
+Toxicity
+The most common undesirable effect of methyldopa is sedation, particularly at the onset of treatment. With long-term therapy, patients may complain of persistent mental lassitude and impaired mental concentration. Nightmares, mental depression, vertigo, and extrapyramidal signs may occur but are relatively infrequent. Lactation, associated with increased prolactin secretion, can occur both in men and in women treated with methyldopa. This toxicity is probably mediated by inhibition of dopaminergic mechanisms in the hypothalamus.
+
+Other important adverse effects of methyldopa are development of a positive Coombs test (occurring in 10–20% of patients undergoing therapy for longer than 12 months), which sometimes makes cross-matching blood for transfusion difficult and rarely is associated with hemolytic anemia, as well as hepatitis and drug fever. Discontinuation of the drug usually results in prompt reversal of these abnormalities.
+
+** CLONIDINE
+Blood pressure lowering by clonidine results from reduction of cardiac output due to decreased heart rate and relaxation of capacitance vessels, as well as a reduction in peripheral vascular resistance.
+
+image
+
+Reduction in arterial blood pressure by clonidine is accompanied by decreased renal vascular resistance and maintenance of renal blood flow. As with methyldopa, clonidine reduces blood pressure in the supine position and only rarely causes postural hypotension. Pressor effects of clonidine are not observed after ingestion of therapeutic doses of clonidine, but severe hypertension can complicate a massive overdose.
+
+Pharmacokinetics & Dosage
+Typical pharmacokinetic characteristics are listed in Table 11–2. Clonidine is lipid-soluble and rapidly enters the brain from the circulation. Because of its relatively short half-life and the fact that its antihypertensive effect is directly related to blood concentration, oral clonidine must be given twice a day (or as a patch, below) to maintain smooth blood pressure control. However, as is not the case with methyldopa, the dose-response curve of clonidine is such that increasing doses are more effective (but also more toxic).
+
+A transdermal preparation of clonidine that reduces blood pressure for 7 days after a single application is also available. This preparation appears to produce less sedation than clonidine tablets but may be associated with local skin reactions.
+
+Toxicity
+Dry mouth and sedation are common. Both effects are centrally mediated and dose-dependent and coincide temporally with the drug’s antihypertensive effect.
+
+Clonidine should not be given to patients who are at risk for mental depression and should be withdrawn if depression occurs during therapy. Concomitant treatment with tricyclic antidepressants may block the antihypertensive effect of clonidine. The interaction is believed to be due to α-adrenoceptor-blocking actions of the tricyclics.
+
+Withdrawal of clonidine after protracted use, particularly with high dosages (more than 1 mg/d), can result in life-threatening hypertensive crisis mediated by increased sympathetic nervous activity. Patients exhibit nervousness, tachycardia, headache, and sweating after omitting one or two doses of the drug. Because of the risk of severe hypertensive crisis when clonidine is suddenly withdrawn, all patients who take clonidine should be warned of this possibility. If the drug must be stopped, it should be done gradually while other antihypertensive agents are being substituted. Treatment of the hypertensive crisis consists of reinstitution of clonidine therapy or administration of α- and β-adrenoceptor-blocking agents.
+
+GANGLION-BLOCKING AGENTS
+Historically, drugs that block activation of postganglionic autonomic neurons by acetylcholine were among the first agents used in the treatment of hypertension. Most such drugs are no longer available clinically because of intolerable toxicities related to their primary action (see below).
+
+Ganglion blockers competitively block nicotinic cholinoceptors on postganglionic neurons in both sympathetic and parasympathetic ganglia. In addition, these drugs may directly block the nicotinic acetylcholine channel, in the same fashion as neuromuscular nicotinic blockers.
+
+The adverse effects of ganglion blockers are direct extensions of their pharmacologic effects. These effects include both sympathoplegia (excessive orthostatic hypotension and sexual dysfunction) and parasympathoplegia (constipation, urinary retention, precipitation of glaucoma, blurred vision, dry mouth, etc). These severe toxicities are the major reason for the abandonment of ganglion blockers for the therapy of hypertension.
+
+** ADRENERGIC NEURON-BLOCKING AGENTS
+ These drugs lower blood pressure by preventing normal physiologic release of norepinephrine from postganglionic sympathetic neurons.
+
+ Guanethidine
+ Guanethidine is no longer available in the USA but may be used elsewhere. In high enough doses, guanethidine can produce profound sympathoplegia. Guanethidine can thus produce all of the toxicities expected from “pharmacologic sympathectomy,” including marked postural hypotension, diarrhea, and impaired ejaculation. Because of these adverse effects, guanethidine is now rarely used.
+
+ Guanethidine is too polar to enter the central nervous system. As a result, this drug has none of the central effects seen with many of the other antihypertensive agents described in this chapter.
+
+ Guanadrel is a guanethidine-like drug that is no longer used in the USA. Bethanidine and debrisoquin, antihypertensive agents not available for clinical use in the USA, are similar.
+
+ A. Mechanism and Sites of Action
+ Guanethidine inhibits the release of norepinephrine from sympathetic nerve endings (see Figure 6–4). This effect is probably responsible for most of the sympathoplegia that occurs in patients. Guanethidine is transported across the sympathetic nerve membrane by the same mechanism that transports norepinephrine itself (NET, uptake 1), and uptake is essential for the drug’s action. Once guanethidine has entered the nerve, it is concentrated in transmitter vesicles, where it replaces norepinephrine and causes a gradual depletion of norepinephrine stores in the nerve ending.
+
+ Because neuronal uptake is necessary for the hypotensive activity of guanethidine, drugs that block the catecholamine uptake process or displace amines from the nerve terminal (cocaine, amphetamine, tricyclic antidepressants, phenothiazines, and phenoxybenzamine) block its effects.
+
+ B. Pharmacokinetics and Dosage
+ Because of guanethidine’s long half-life (5 days), the onset of sympathoplegia is gradual (maximal effect in 1–2 weeks), and sympathoplegia persists for a comparable period after cessation of therapy. The dose should not ordinarily be increased at intervals shorter than 2 weeks.
+
+ C. Toxicity
+ Therapeutic use of guanethidine is often associated with symptomatic postural hypotension and hypotension following exercise, particularly when the drug is given in high doses. Guanethidine-induced sympathoplegia in men may be associated with delayed or retrograde ejaculation (into the bladder). Guanethidine commonly causes diarrhea, which results from increased gastrointestinal motility due to parasympathetic predominance in controlling the activity of intestinal smooth muscle.
+
+ Interactions with other drugs may complicate guanethidine therapy. Sympathomimetic agents, at doses available in over-the-counter cold preparations, can produce hypertension in patients taking guanethidine. Similarly, guanethidine can produce hypertensive crisis by releasing catecholamines in patients with pheochromocytoma. When tricyclic antidepressants are administered to patients taking guanethidine, the drug’s antihypertensive effect is attenuated, and severe hypertension may follow.
+
+ Reserpine
+ Reserpine, an alkaloid extracted from the roots of an Indian plant, Rauwolfia serpentina, was one of the first effective drugs used on a large scale in the treatment of hypertension. At present, it is rarely used owing to its adverse effects.
+
+ A. Mechanism and Sites of Action
+ Reserpine blocks the ability of aminergic transmitter vesicles to take up and store biogenic amines, probably by interfering with the vesicular membrane-associated transporter (VMAT, see Figure 6–4). This effect occurs throughout the body, resulting in depletion of norepinephrine, dopamine, and serotonin in both central and peripheral neurons. Chromaffin granules of the adrenal medulla are also depleted of catecholamines, although to a lesser extent than are the vesicles of neurons. Reserpine’s effects on adrenergic vesicles appear irreversible; trace amounts of the drug remain bound to vesicular membranes for many days.
+
+ Depletion of peripheral amines probably accounts for much of the beneficial antihypertensive effect of reserpine, but a central component cannot be ruled out. Reserpine readily enters the brain, and depletion of cerebral amine stores causes sedation, mental depression, and parkinsonism symptoms.
+
+ At lower doses used for treatment of mild hypertension, reserpine lowers blood pressure by a combination of decreased cardiac output and decreased peripheral vascular resistance.
+
+ B. Pharmacokinetics and Dosage
+ See Table 11–2.
+
+ C. Toxicity
+ At the low doses usually administered, reserpine produces little postural hypotension. Most of the unwanted effects of reserpine result from actions on the brain or gastrointestinal tract.
+
+ High doses of reserpine characteristically produce sedation, lassitude, nightmares, and severe mental depression; occasionally, these occur even in patients receiving low doses (0.25 mg/d). Much less frequently, ordinary low doses of reserpine produce extrapyramidal effects resembling Parkinson’s disease, probably as a result of dopamine depletion in the corpus striatum. Although these central effects are uncommon, it should be stressed that they may occur at any time, even after months of uneventful treatment. Patients with a history of mental depression should not receive reserpine, and the drug should be stopped if depression appears.
+
+ Reserpine rather often produces mild diarrhea and gastrointestinal cramps and increases gastric acid secretion. The drug should not be given to patients with a history of peptic ulcer.
+
+ ADRENOCEPTOR ANTAGONISTS
+ The detailed pharmacology of α- and β-adrenoceptor blockers is presented in Chapter 10.
+
+ BETA-ADRENOCEPTOR-BLOCKING AGENTS
+ Of the large number of β blockers tested, most have been shown to be effective in lowering blood pressure. The pharmacologic properties of several of these agents differ in ways that may confer therapeutic benefits in certain clinical situations.
+
+ Propranolol
+ Propranolol was the first β blocker shown to be effective in hypertension and ischemic heart disease. Propranolol has now been largely replaced by cardioselective β blockers such as metoprolol and atenolol. All β-adrenoceptor-blocking agents are useful for lowering blood pressure in mild to moderate hypertension. In severe hypertension, β blockers are especially useful in preventing the reflex tachycardia that often results from treatment with direct vasodilators. Beta blockers have been shown to reduce mortality after a myocardial infarction and some also reduce mortality in patients with heart failure; they are particularly advantageous for treating hypertension in patients with these conditions (see Chapter 13).
+
+ A. Mechanism and Sites of Action
+ Propranolol’s efficacy in treating hypertension as well as most of its toxic effects result from nonselective β blockade. Propranolol decreases blood pressure primarily as a result of a decrease in cardiac output. Other β blockers may decrease cardiac output or decrease peripheral vascular resistance to various degrees, depending on cardioselectivity and partial agonist activities.
+
+ Propranolol inhibits the stimulation of renin production by catecholamines (mediated by β1 receptors). It is likely that propranolol’s effect is due in part to depression of the renin-angiotensin-aldosterone system. Although most effective in patients with high plasma renin activity, propranolol also reduces blood pressure in hypertensive patients with normal or even low renin activity. Beta blockers might also act on peripheral presynaptic β adrenoceptors to reduce sympathetic vasoconstrictor nerve activity.
+
+ In mild to moderate hypertension, propranolol produces a significant reduction in blood pressure without prominent postural hypotension.
+
+ B. Pharmacokinetics and Dosage
+ See Table 11–2. Resting bradycardia and a reduction in the heart rate during exercise are indicators of propranolol’s β-blocking effect, and changes in these parameters may be used as guides for regulating dosage. Propranolol can be administered twice daily, and slow-release once-daily preparations are available.
+
+ C. Toxicity
+ The principal toxicities of propranolol result from blockade of cardiac, vascular, or bronchial β receptors and are described in more detail in Chapter 10. The most important of these predictable extensions of the β1-blocking action occur in patients with bradycardia or cardiac conduction disease, and those of the β2-blocking action occur in patients with asthma, peripheral vascular insufficiency, and diabetes.
+
+ When β blockers are discontinued after prolonged regular use, some patients experience a withdrawal syndrome, manifested by nervousness, tachycardia, increased intensity of angina, and increase of blood pressure. Myocardial infarction has been reported in a few patients. Although the incidence of these complications is probably low, β blockers should not be discontinued abruptly. The withdrawal syndrome may involve upregulation or supersensitivity of β adrenoceptors.
+
+ Metoprolol & Atenolol
+ Metoprolol and atenolol, which are cardioselective, are the most widely used β blockers in the treatment of hypertension. Metoprolol is approximately equipotent to propranolol in inhibiting stimulation of β1 adrenoceptors such as those in the heart but 50- to 100-fold less potent than propranolol in blocking β2 receptors. Relative cardioselectivity is advantageous in treating hypertensive patients who also suffer from asthma, diabetes, or peripheral vascular disease. Although cardioselectivity is not complete, metoprolol causes less bronchial constriction than propranolol at doses that produce equal inhibition of β1-adrenoceptor responses. Metoprolol is extensively metabolized by CYP2D6 with high first-pass metabolism. The drug has a relatively short half-life of 4–6 hours, but the extended-release preparation can be dosed once daily (Table 11–2). Sustained-release metoprolol is effective in reducing mortality from heart failure and is particularly useful in patients with hypertension and heart failure.
+
+ Atenolol is not extensively metabolized and is excreted primarily in the urine with a half-life of 6 hours; it is usually dosed once daily. Atenolol is reported to be less effective than metoprolol in preventing the complications of hypertension. A possible reason for this difference is that once-daily dosing does not maintain adequate blood levels of atenolol. The usual dosage is 50–100 mg/d. Patients with reduced renal function should receive lower doses.
+
+ Nadolol, Carteolol, Betaxolol, & Bisoprolol
+ Nadolol and carteolol, nonselective β-receptor antagonists, are not appreciably metabolized and are excreted to a considerable extent in the urine. Betaxolol and bisoprolol are β1-selective blockers that are primarily metabolized in the liver but have long half-lives. Because of these relatively long half-lives, these drugs can be administered once daily. Nadolol is usually begun at a dosage of 40 mg/d, carteolol at 2.5 mg/d, betaxolol at 10 mg/d, and bisoprolol at 5 mg/d. Increases in dosage to obtain a satisfactory therapeutic effect should take place no more often than every 4 or 5 days. Patients with reduced renal function should receive correspondingly reduced doses of nadolol and carteolol.
+
+ Pindolol, Acebutolol, & Penbutolol
+ Pindolol, acebutolol, and penbutolol are partial agonists, ie, β blockers with some intrinsic sympathomimetic activity. They lower blood pressure but are rarely used in hypertension.
+
+ Labetalol, Carvedilol, & Nebivolol
+ These drugs have both β-blocking and vasodilating effects. Labetalol is formulated as a racemic mixture of four isomers (it has two centers of asymmetry). Two of these isomers—the (S,S)- and (R,S)-isomers—are relatively inactive, a third (S,R)- is a potent α blocker, and the last (R,R)- is a potent β blocker. Labetalol has a 3:1 ratio of β:α antagonism after oral dosing. Blood pressure is lowered by reduction of systemic vascular resistance (via α blockade) without significant alteration in heart rate or cardiac output. Because of its combined α- and β-blocking activity, labetalol is useful in treating the hypertension of pheochromocytoma and hypertensive emergencies. Oral daily doses of labetalol range from 200 to 2400 mg/d. Labetalol is given as repeated intravenous bolus injections of 20–80 mg to treat hypertensive emergencies.
+
+ Carvedilol, like labetalol, is administered as a racemic mixture. The S(-) isomer is a nonselective β-adrenoceptor blocker, but both S(-) and R(+) isomers have approximately equal α-blocking potency. The isomers are stereoselectively metabolized in the liver, which means that their elimination half-lives may differ. The average half-life is 7–10 hours. The usual starting dosage of carvedilol for ordinary hypertension is 6.25 mg twice daily. Carvedilol reduces mortality in patients with heart failure and is therefore particularly useful in patients with both heart failure and hypertension.
+
+ Nebivolol is a β1-selective blocker with vasodilating properties that are not mediated by α blockade. D-Nebivolol has highly selective β1-blocking effects, while the L-isomer causes vasodilation; the drug is marketed as a racemic mixture. The vasodilating effect may be due to an increase in endothelial release of nitric oxide via induction of endothelial nitric oxide synthase. The hemodynamic effects of nebivolol therefore differ from those of pure β blockers in that peripheral vascular resistance is acutely lowered (by nebivolol) as opposed to increased acutely (by the older agents). Nebivolol is extensively metabolized and has active metabolites. The half-life is 10–12 hours, but the drug can be given once daily. Dosing is generally started at 5 mg/d, with dose escalation as high as 40 mg/d, if necessary. The efficacy of nebivolol is similar to that of other antihypertensive agents, but several studies report fewer adverse effects.
+
+ Esmolol
+ Esmolol is a β1-selective blocker that is rapidly metabolized via hydrolysis by red blood cell esterases. It has a short half-life (9–10 minutes) and is administered by intravenous infusion. Esmolol is generally administered as a loading dose (0.5–1 mg/kg), followed by a constant infusion. The infusion is typically started at 50–150 mcg/kg/min, and the dose increased every 5 minutes, up to 300 mcg/kg/min, as needed to achieve the desired therapeutic effect. Esmolol is used for management of intraoperative and postoperative hypertension, and sometimes for hypertensive emergencies, particularly when hypertension is associated with tachycardia or when there is concern about toxicity such as aggravation of severe heart failure, in which case a drug with a short duration of action that can be discontinued quickly is advantageous.
+
+ PRAZOSIN & OTHER ALPHA1 BLOCKERS
+ Mechanism & Sites of Action
+ Prazosin, terazosin, and doxazosin produce most of their antihypertensive effects by selectively blocking α1 receptors in arterioles and venules. These agents produce less reflex tachycardia when lowering blood pressure than do nonselective α antagonists such as phentolamine. Alpha1-receptor selectivity allows norepinephrine to exert unopposed negative feedback (mediated by presynaptic α2 receptors) on its own release (see Chapter 6); in contrast, phentolamine blocks both presynaptic and postsynaptic α receptors, with the result that reflex activation of sympathetic neurons by phentolamine’s effects produces greater release of transmitter onto β receptors and correspondingly greater cardioacceleration.
+
+ Alpha blockers reduce arterial pressure by dilating both resistance and capacitance vessels. As expected, blood pressure is reduced more in the upright than in the supine position. Retention of salt and water occurs when these drugs are administered without a diuretic. The drugs are more effective when used in combination with other agents, such as a β blocker and a diuretic, than when used alone. Owing to their beneficial effects in men with prostatic hyperplasia and bladder obstruction symptoms, these drugs are used primarily in men with concurrent hypertension and benign prostatic hyperplasia.
+
+ Pharmacokinetics & Dosage
+ Pharmacokinetic characteristics of prazosin are listed in Table 11–2. Terazosin is also extensively metabolized but undergoes very little first-pass metabolism and has a half-life of 12 hours. Doxazosin has an intermediate bioavailability and a half-life of 22 hours.
+
+ Terazosin can often be given once daily, with doses of 5–20 mg/d. Doxazosin is usually given once daily starting at 1 mg/d and progressing to 4 mg/d or more as needed. Although long-term treatment with these α blockers causes relatively little postural hypotension, a precipitous drop in standing blood pressure develops in some patients shortly after the first dose is absorbed. For this reason, the first dose should be small and should be administered at bedtime. Although the mechanism of this first-dose phenomenon is not clear, it occurs more commonly in patients who are salt- and volume-depleted.
+
+ Aside from the first-dose phenomenon, the reported toxicities of the α1 blockers are relatively infrequent and mild. These include dizziness, palpitations, headache, and lassitude. Some patients develop a positive test for antinuclear factor in serum while on prazosin therapy, but this has not been associated with rheumatic symptoms. The α1 blockers do not adversely and may even beneficially affect plasma lipid profiles, but this action has not been shown to confer any benefit on clinical outcomes.
+
+ OTHER ALPHA-ADRENOCEPTOR-BLOCKING AGENTS
+ The nonselective agents, phentolamine and phenoxybenzamine, are useful in diagnosis and treatment of pheochromocytoma and in other clinical situations associated with exaggerated release of catecholamines (eg, phentolamine may be combined with a β blocker to treat the clonidine withdrawal syndrome, described previously). Their pharmacology is described in Chapter 10.
+
+ VASODILATORS
+ Mechanism & Sites of Action
+ This class of drugs includes the oral vasodilators, hydralazine and minoxidil, which are used for long-term outpatient therapy of hypertension; the parenteral vasodilators, nitroprusside and fenoldopam, which are used to treat hypertensive emergencies; the calcium channel blockers, which are used in both circumstances; and the nitrates, which are used mainly in ischemic heart disease but sometimes also in hypertensive emergencies (Table 11–3).
+
+ TABLE 11–3
+ Mechanisms of action of vasodilators.
+ Mechanism	Examples
+ Release of nitric oxide from drug or endothelium	Nitroprusside, hydralazine, nitrates,1 histamine, acetylcholine
+ Reduction of calcium influx	Verapamil, diltiazem, nifedipine1
+ Hyperpolarization of cell membranes through opening of potassium channels	Minoxidil, diazoxide
+ Activation of dopamine receptors	Fenoldopam
+ 1
+ See Chapter 12.
+
+ Chapter 12 contains additional discussion of vasodilators. All the vasodilators that are useful in hypertension relax smooth muscle of arterioles, thereby decreasing systemic vascular resistance. Sodium nitroprusside and the nitrates also relax veins. Decreased arterial resistance and decreased mean arterial blood pressure elicit compensatory responses, mediated by baroreceptors and the sympathetic nervous system (Figure 11–4), as well as renin, angiotensin, and aldosterone. Because sympathetic reflexes are intact, vasodilator therapy does not cause orthostatic hypotension or sexual dysfunction.
+
+ Vasodilators work best in combination with other antihypertensive drugs that oppose the compensatory cardiovascular responses. (See Box: Resistant Hypertension & Polypharmacy.)
+
+ HYDRALAZINE
+ Hydralazine, a hydrazine derivative, dilates arterioles but not veins. It has been available for many years, although it was initially thought not to be particularly effective because tachyphylaxis to its antihypertensive effects developed rapidly. The benefits of combination therapy are now recognized, and hydralazine may be used more effectively, particularly in severe hypertension. The combination of hydralazine with nitrates is effective in heart failure and should be considered in patients with both hypertension and heart failure, especially in African-American patients.
+
+ Pharmacokinetics & Dosage
+ Hydralazine is well absorbed and rapidly metabolized by the liver during the first pass, so that bioavailability is low (averaging 25%) and variable among individuals. It is metabolized in part by acetylation at a rate that appears to be bimodally distributed in the population (see Chapter 4). As a consequence, rapid acetylators have greater first-pass metabolism, lower blood levels, and less antihypertensive benefit from a given dose than do slow acetylators. The half-life of hydralazine ranges from 1.5 to 3 hours, but vascular effects persist longer than do blood concentrations, possibly due to avid binding to vascular tissue.
+
+ image
+
+ Usual dosage ranges from 40 to 200 mg/d. The higher dosage was selected as the dose at which there is a small possibility of developing the lupus erythematosus-like syndrome described in the next section. However, higher dosages result in greater vasodilation and may be used if necessary. Dosing two or three times daily provides smooth control of blood pressure.
+
+ Toxicity
+ The most common adverse effects of hydralazine are headache, nausea, anorexia, palpitations, sweating, and flushing. In patients with ischemic heart disease, reflex tachycardia and sympathetic stimulation may provoke angina or ischemic arrhythmias. With dosages of 400 mg/d or more, there is a 10–20% incidence—chiefly in persons who slowly acetylate the drug—of a syndrome characterized by arthralgia, myalgia, skin rashes, and fever that resembles lupus erythematosus. The syndrome is not associated with renal damage and is reversed by discontinuance of hydralazine. Peripheral neuropathy and drug fever are other serious but uncommon adverse effects.
+
+ MINOXIDIL
+ Minoxidil is a very efficacious orally active vasodilator. The effect results from the opening of potassium channels in smooth muscle membranes by minoxidil sulfate, the active metabolite. Increased potassium permeability stabilizes the membrane at its resting potential and makes contraction less likely. Like hydralazine, minoxidil dilates arterioles but not veins. Because of its greater potential antihypertensive effect, minoxidil should replace hydralazine when maximal doses of the latter are not effective or in patients with renal failure and severe hypertension, who do not respond well to hydralazine.
+
+ image
+
+ Pharmacokinetics & Dosage
+ Pharmacokinetic parameters of minoxidil are listed in Table 11–2. Even more than with hydralazine, the use of minoxidil is associated with reflex sympathetic stimulation and sodium and fluid retention. Minoxidil must be used in combination with a β blocker and a loop diuretic.
+
+ Toxicity
+ Tachycardia, palpitations, angina, and edema are observed when doses of co-administered β blockers and diuretics are inadequate. Headache, sweating, and hypertrichosis (the latter particularly bothersome in women) are relatively common. Minoxidil illustrates how one person’s toxicity may become another person’s therapy. Topical minoxidil (as Rogaine) is used as a stimulant to hair growth for correction of baldness.
+
+ SODIUM NITROPRUSSIDE
+ Sodium nitroprusside is a powerful parenterally administered vasodilator that is used in treating hypertensive emergencies as well as severe heart failure. Nitroprusside dilates both arterial and venous vessels, resulting in reduced peripheral vascular resistance and venous return. The action occurs as a result of activation of guanylyl cyclase, either via release of nitric oxide or by direct stimulation of the enzyme. The result is increased intracellular cGMP, which relaxes vascular smooth muscle (see Figure 12–2).
+
+ In the absence of heart failure, blood pressure decreases, owing to decreased vascular resistance, whereas cardiac output does not change or decreases slightly. In patients with heart failure and low cardiac output, output often increases owing to afterload reduction.
+
+ image
+
+ Pharmacokinetics & Dosage
+ Nitroprusside is a complex of iron, cyanide groups, and a nitroso moiety. It is rapidly metabolized by uptake into red blood cells with release of nitric oxide and cyanide. Cyanide in turn is metabolized by the mitochondrial enzyme rhodanese, in the presence of a sulfur donor, to the less toxic thiocyanate. Thiocyanate is distributed in extracellular fluid and slowly eliminated by the kidney.
+
+ Nitroprusside rapidly lowers blood pressure, and its effects disappear within 1–10 minutes after discontinuation. The drug is given by intravenous infusion. Sodium nitroprusside in aqueous solution is sensitive to light and must therefore be made up fresh before each administration and covered with opaque foil. Infusion solutions should be changed after several hours. Dosage typically begins at 0.5 mcg/kg/min and may be increased up to 10 mcg/kg/min as necessary to control blood pressure. Higher rates of infusion, if continued for more than an hour, may result in toxicity. Because of its efficacy and rapid onset of effect, nitroprusside should be administered by infusion pump and arterial blood pressure continuously monitored via intra-arterial recording.
+
+ Toxicity
+ Other than excessive blood pressure lowering, the most serious toxicity is related to accumulation of cyanide; metabolic acidosis, arrhythmias, excessive hypotension, and death have resulted. In a few cases, toxicity after relatively low doses of nitroprusside suggested a defect in cyanide metabolism. Administration of sodium thiosulfate as a sulfur donor facilitates metabolism of cyanide. Hydroxocobalamin combines with cyanide to form the nontoxic cyanocobalamin. Both have been advocated for prophylaxis or treatment of cyanide poisoning during nitroprusside infusion. Thiocyanate may accumulate over the course of prolonged administration, usually several days or more, particularly in patients with renal insufficiency who do not excrete thiocyanate at a normal rate. Thiocyanate toxicity is manifested as weakness, disorientation, psychosis, muscle spasms, and convulsions, and the diagnosis is confirmed by finding serum concentrations greater than 10 mg/dL. Rarely, delayed hypothyroidism occurs, owing to thiocyanate inhibition of iodide uptake by the thyroid. Methemoglobinemia during infusion of nitroprusside has also been reported.
+
+ DIAZOXIDE
+ Diazoxide is an effective and relatively long-acting potassium channel opener that causes hyperpolarization in smooth muscle and pancreatic β cells. Because of its arteriolar dilating property, it was formerly used parenterally to treat hypertensive emergencies. Injection of diazoxide results in a rapid fall in systemic vascular resistance and mean arterial blood pressure. At present, it is used orally in the USA for the treatment of hypoglycemia in hyperinsulinism. Diazoxide inhibits insulin release from the pancreas (probably by opening potassium channels in the beta cell membrane) and is used to treat hypoglycemia secondary to insulinoma.
+
+ image
+
+ Pharmacokinetics & Dosage
+ Oral dosage for hypoglycemia is 3–8 mg/kg/day in 3 divided doses, with a maximum of 15 mg/kg/day. Diazoxide is similar chemically to the thiazide diuretics but has no diuretic activity. It is bound extensively to serum albumin and to vascular tissue. Diazoxide is partially metabolized; its metabolic pathways are not well characterized. The remainder is excreted unchanged. Its half-life is approximately 24 hours, but the relationship between blood concentration and hypotensive action is not well established. The blood pressure-lowering effect after a rapid injection is established within 5 minutes and lasts for 4–12 hours.
+
+ When diazoxide was first marketed for use in hypertension, a dose of 300 mg by rapid injection was recommended. It appears, however, that excessive hypotension can be avoided by beginning with smaller doses (50–150 mg). If necessary, doses of 150 mg may be repeated every 5–15 minutes until blood pressure is lowered satisfactorily. Alternatively, diazoxide may be administered by intravenous infusion at rates of 15–30 mg/min. Because of reduced protein binding, smaller doses should be administered to persons with chronic renal failure. The hypotensive effects of diazoxide are also greater when patients are pretreated with β blockers to prevent the reflex tachycardia and associated increase in cardiac output.
+
+ Toxicity
+ The most significant toxicity from parenteral diazoxide has been excessive hypotension, resulting from the original recommendation to use a fixed dose of 300 mg in all patients. Such hypotension has resulted in stroke and myocardial infarction. The reflex sympathetic response can provoke angina, electrocardiographic evidence of ischemia, and cardiac failure in patients with ischemic heart disease, and diazoxide should be avoided in this situation. Occasionally, hyperglycemia complicates diazoxide use, particularly in persons with renal insufficiency.
+
+ In contrast to the structurally related thiazide diuretics, diazoxide causes renal salt and water retention. However, because the drug is used for short periods only, this is rarely a problem.
+
+ FENOLDOPAM
+ Fenoldopam is a peripheral arteriolar dilator used for hypertensive emergencies and postoperative hypertension. It acts primarily as an agonist of dopamine D1 receptors, resulting in dilation of peripheral arteries and natriuresis. The commercial product is a racemic mixture with the (R)-isomer mediating the pharmacologic activity.
+
+ Fenoldopam is rapidly metabolized, primarily by conjugation. Its half-life is 10 minutes. The drug is administered by continuous intravenous infusion. Fenoldopam is initiated at a low dosage (0.1 mcg/kg/min), and the dose is then titrated upward every 15 or 20 minutes to a maximum dose of 1.6 mcg/kg/min or until the desired blood pressure reduction is achieved.
+
+ As with other direct vasodilators, the major toxicities are reflex tachycardia, headache, and flushing. Fenoldopam also increases intraocular pressure and should be avoided in patients with glaucoma.
+
+ CALCIUM CHANNEL BLOCKERS
+ In addition to their antianginal (see Chapter 12) and antiarrhythmic effects (see Chapter 14), calcium channel blockers also reduce peripheral resistance and blood pressure. The mechanism of action in hypertension (and, in part, in angina) is inhibition of calcium influx into arterial smooth muscle cells.
+
+ Verapamil, diltiazem, and the dihydropyridine family (amlodipine, felodipine, isradipine, nicardipine, nifedipine, nisoldipine, and nitrendipine [withdrawn in the USA]) are all equally effective in lowering blood pressure, and many formulations are currently approved for this use in the USA. Clevidipine is a newer member of this group that is formulated for intravenous use only.
+
+ Hemodynamic differences among calcium channel blockers may influence the choice of a particular agent. Nifedipine and the other dihydropyridine agents are more selective as vasodilators and have less cardiac depressant effect than verapamil and diltiazem. Reflex sympathetic activation with slight tachycardia maintains or increases cardiac output in most patients given dihydropyridines. Verapamil has the greatest depressant effect on the heart and may decrease heart rate and cardiac output. Diltiazem has intermediate actions. The pharmacology and toxicity of these drugs are discussed in more detail in Chapter 12. Doses of calcium channel blockers used in treating hypertension are similar to those used in treating angina. Some epidemiologic studies reported an increased risk of myocardial infarction or mortality in patients receiving short-acting nifedipine for hypertension. It is therefore recommended that short-acting oral dihydropyridines not be used for hypertension. Sustained-release calcium blockers or calcium blockers with long half-lives provide smoother blood pressure control and are more appropriate for treatment of chronic hypertension. Intravenous nicardipine and clevidipine are available for the treatment of hypertension when oral therapy is not feasible; parenteral verapamil and diltiazem can also be used for the same indication. Nicardipine is typically infused at rates of 2–15 mg/h. Clevidipine is infused starting at 1–2 mg/h and progressing to 4–6 mg/h. It has a rapid onset of action and has been used in acute hypertension occurring during surgery. Oral short-acting nifedipine has been used in emergency management of severe hypertension.
+
+ INHIBITORS OF ANGIOTENSIN
+ Renin, angiotensin, and aldosterone play important roles in some people with essential hypertension. Approximately 20% of patients with essential hypertension have inappropriately low and 20% have inappropriately high plasma renin activity. Blood pressure of patients with high-renin hypertension responds well to drugs that interfere with the system, supporting a role for excess renin and angiotensin in this population.
+
+ Mechanism & Sites of Action
+ Renin release from the kidney cortex is stimulated by reduced renal arterial pressure, sympathetic neural stimulation, and reduced sodium delivery or increased sodium concentration at the distal renal tubule (see Chapter 17). Renin acts upon angiotensinogen to yield the inactive precursor decapeptide angiotensin I. Angiotensin I is then converted, primarily by endothelial ACE, to the arterial vasoconstrictor octapeptide angiotensin II (Figure 11–5), which is in turn converted in the adrenal gland to angiotensin III. Angiotensin II has vasoconstrictor and sodium-retaining activity. Angiotensin II and III both stimulate aldosterone release. Angiotensin may contribute to maintaining high vascular resistance in hypertensive states associated with high plasma renin activity, such as renal arterial stenosis, some types of intrinsic renal disease, and malignant hypertension, as well as in essential hypertension after treatment with sodium restriction, diuretics, or vasodilators. However, even in low-renin hypertensive states, these drugs can lower blood pressure (see below).
+
+ FIGURE 11–5
+ Sites of action of drugs that interfere with the renin-angiotensin-aldosterone system. ACE, angiotensin-converting enzyme; ARBs, angiotensin receptor blockers.
+
+ image
+ A parallel system for angiotensin generation exists in several other tissues (eg, heart) and may be responsible for trophic changes such as cardiac hypertrophy. The converting enzyme involved in tissue angiotensin II synthesis is also inhibited by ACE inhibitors.
+
+ Three classes of drugs act specifically on the renin-angiotensin system: ACE inhibitors; the competitive inhibitors of angiotensin at its receptors, including losartan and other nonpeptide antagonists; and aliskiren, an orally active renin antagonist (see Chapter 17). A fourth group of drugs, the aldosterone receptor inhibitors (eg, spironolactone, eplerenone), is discussed with the diuretics. In addition, β blockers, as noted earlier, can reduce renin secretion.
+
+ ANGIOTENSIN-CONVERTING ENZYME (ACE) INHIBITORS
+ Captopril and other drugs in this class inhibit the converting enzyme peptidyl dipeptidase that hydrolyzes angiotensin I to angiotensin II and (under the name plasma kininase) inactivates bradykinin, a potent vasodilator that works at least in part by stimulating release of nitric oxide and prostacyclin. The hypotensive activity of captopril results both from an inhibitory action on the renin-angiotensin system and a stimulating action on the kallikrein-kinin system (Figure 11–5). The latter mechanism has been demonstrated by showing that a bradykinin receptor antagonist, icatibant (see Chapter 17), blunts the blood pressure-lowering effect of captopril.
+
+ Enalapril is an oral prodrug that is converted by hydrolysis to a converting enzyme inhibitor, enalaprilat, with effects similar to those of captopril. Enalaprilat itself is available only for intravenous use, primarily for hypertensive emergencies. Lisinopril is a lysine derivative of enalaprilat. Benazepril, fosinopril, moexipril, perindopril, quinapril, ramipril, and trandolapril are other long-acting members of the class. All are prodrugs, like enalapril, and are converted to the active agents by hydrolysis, primarily in the liver.
+
+ Angiotensin II inhibitors lower blood pressure principally by decreasing peripheral vascular resistance. Cardiac output and heart rate are not significantly changed. Unlike direct vasodilators, these agents do not result in reflex sympathetic activation and can be used safely in persons with ischemic heart disease. The absence of reflex tachycardia may be due to downward resetting of the baroreceptors or to enhanced parasympathetic activity.
+
+ Although converting enzyme inhibitors are most effective in conditions associated with high plasma renin activity, there is no good correlation among subjects between plasma renin activity and antihypertensive response. Accordingly, renin profiling is unnecessary.
+
+ ACE inhibitors have a particularly useful role in treating patients with chronic kidney disease because they diminish proteinuria and stabilize renal function (even in the absence of lowering of blood pressure). This effect is particularly valuable in diabetes, and these drugs are now recommended in diabetes even in the absence of hypertension. These benefits probably result from improved intrarenal hemodynamics, with decreased glomerular efferent arteriolar resistance and a resulting reduction of intraglomerular capillary pressure. ACE inhibitors have also proved to be extremely useful in the treatment of heart failure and as treatment after myocardial infarction, and there is evidence that ACE inhibitors reduce the incidence of diabetes in patients with high cardiovascular risk (see Chapter 13).
+
+ Pharmacokinetics & Dosage
+ Captopril’s pharmacokinetic parameters and dosing recommendations are listed in Table 11–2. Peak concentrations of enalaprilat, the active metabolite of enalapril, occur 3–4 hours after dosing with enalapril. The half-life of enalaprilat is about 11 hours. Typical doses of enalapril are 10–20 mg once or twice daily. Lisinopril has a half-life of 12 hours. Doses of 10–80 mg once daily are effective in most patients. All of the ACE inhibitors except fosinopril and moexipril are eliminated primarily by the kidneys; doses of these drugs should be reduced in patients with renal insufficiency.
+
+ Toxicity
+ Severe hypotension can occur after initial doses of any ACE inhibitor in patients who are hypovolemic as a result of diuretics, salt restriction, or gastrointestinal fluid loss. Other adverse effects common to all ACE inhibitors include acute renal failure (particularly in patients with bilateral renal artery stenosis or stenosis of the renal artery of a solitary kidney), hyperkalemia, dry cough sometimes accompanied by wheezing, and angioedema. Hyperkalemia is more likely to occur in patients with renal insufficiency or diabetes. Bradykinin and substance P seem to be responsible for the cough and angioedema seen with ACE inhibition.
+
+ ACE inhibitors are contraindicated during the second and third trimesters of pregnancy because of the risk of fetal hypotension, anuria, and renal failure, sometimes associated with fetal malformations or death. Recent evidence also implicates first-trimester exposure to ACE inhibitors in increased teratogenic risk. Captopril, particularly when given in high doses to patients with renal insufficiency, may cause neutropenia or proteinuria. Minor toxic effects seen more typically include altered sense of taste, allergic skin rashes, and drug fever, which may occur in up to 10% of patients.
+
+ Important drug interactions include those with potassium supplements or potassium-sparing diuretics, which can result in hyperkalemia. Nonsteroidal anti-inflammatory drugs may impair the hypotensive effects of ACE inhibitors by blocking bradykinin-mediated vasodilation, which is at least in part prostaglandin mediated.
+
+ ANGIOTENSIN RECEPTOR-BLOCKING AGENTS
+ Losartan and valsartan were the first marketed blockers of the angiotensin II type 1 (AT1) receptor. Azilsartan, candesartan, eprosartan, irbesartan, olmesartan, and telmisartan are also available. They have no effect on bradykinin metabolism and are therefore more selective blockers of angiotensin effects than ACE inhibitors. They also have the potential for more complete inhibition of angiotensin action compared with ACE inhibitors because there are enzymes other than ACE that are capable of generating angiotensin II. Angiotensin receptor blockers provide benefits similar to those of ACE inhibitors in patients with heart failure and chronic kidney disease. Losartan’s pharmacokinetic parameters are listed in Table 11–2. The adverse effects are similar to those described for ACE inhibitors, including the hazard of use during pregnancy. Cough and angioedema can occur but are uncommon. Angiotensin receptor-blocking drugs are most commonly used in patients who have had adverse reactions to ACE inhibitors. Combinations of ACE inhibitors and angiotensin receptor blockers or aliskiren, which had once been considered useful for more complete inhibition of the renin-angiotensin system, are not recommended due to toxicity demonstrated in recent clinical trials.
+
+ CLINICAL PHARMACOLOGY OF ANTIHYPERTENSIVE AGENTS
+ Hypertension presents a unique problem in therapeutics. It is usually a lifelong disease that causes few symptoms until the advanced stage. For effective treatment, medicines that may be expensive and sometimes produce adverse effects must be consumed daily. Thus, the physician must establish with certainty that hypertension is persistent and requires treatment and must exclude secondary causes of hypertension that might be treated by definitive surgical procedures. Persistence of hypertension, particularly in persons with mild elevation of blood pressure, should be established by finding an elevated blood pressure on at least three different office visits. Ambulatory blood pressure monitoring may be the best predictor of risk and therefore of need for therapy in mild hypertension, and is recommended for initial evaluation of all patients in the guidelines of some countries. Isolated systolic hypertension and hypertension in the elderly also benefit from therapy.
+
+ Once the presence of hypertension is established, the question of whether to treat and which drugs to use must be considered. The level of blood pressure, the age of the patient, the severity of organ damage (if any) due to high blood pressure, and the presence of cardiovascular risk factors all must be considered. Assessment of renal function and the presence of proteinuria are useful in antihypertensive drug selection. Treatment thresholds and goals are described in Table 11–1. At this stage, the patient must be educated about the nature of hypertension and the importance of treatment so that he or she can make an informed decision regarding therapy.
+
+ Once the decision is made to treat, a therapeutic regimen must be developed. Selection of drugs is dictated by the level of blood pressure, the presence and severity of end-organ damage, and the presence of other diseases. Severe high blood pressure with life-threatening complications requires more rapid treatment with more efficacious drugs. Most patients with essential hypertension, however, have had elevated blood pressure for months or years, and therapy is best initiated in a gradual fashion.
+
+ Education about the natural history of hypertension and the importance of treatment adherence as well as potential adverse effects of drugs is essential. Obesity should be treated and drugs that increase blood pressure (sympathomimetic decongestants, nonsteroidal anti-inflammatory drugs, oral contraceptives, and some herbal medications) should be eliminated if possible. Follow-up visits should be frequent enough to convince the patient that the physician thinks the illness is serious. With each follow-up visit, the importance of treatment should be reinforced and questions concerning dosing or side effects of medication encouraged. Other factors that may improve compliance are simplifying dosing regimens and having the patient monitor blood pressure at home.
+
+ OUTPATIENT THERAPY OF HYPERTENSION
+ The initial step in treating hypertension may be nonpharmacologic. Sodium restriction may be effective treatment for some patients with mild hypertension. The average American diet contains about 200 mEq of sodium per day. A reasonable dietary goal in treating hypertension is 70–100 mEq of sodium per day, which can be achieved by not salting food during or after cooking and by avoiding processed foods that contain large amounts of sodium. Eating a diet rich in fruits, vegetables, and low-fat dairy products with a reduced content of saturated and total fat, and moderation of alcohol intake (no more than two drinks per day) also lower blood pressure.
+
+ Weight reduction even without sodium restriction has been shown to normalize blood pressure in up to 75% of overweight patients with mild to moderate hypertension. Regular exercise has been shown in some but not all studies to lower blood pressure in hypertensive patients.
+
+ For pharmacologic management of mild hypertension, blood pressure can be normalized in many patients with a single drug. Most patients with moderate to severe hypertension require two or more antihypertensive medications (see Box: Resistant Hypertension & Polypharmacy). Thiazide diuretics, ACE inhibitors, angiotensin receptor blockers, and calcium channel blockers have all been shown to reduce complications of hypertension and may be used for initial drug therapy. There has been concern that diuretics, by adversely affecting the serum lipid profile or impairing glucose tolerance, may add to the risk of coronary disease, thereby offsetting the benefit of blood pressure reduction. However, a large clinical trial comparing different classes of antihypertensive mediations for initial therapy found that chlorthalidone (a thiazide diuretic) was as effective as other agents in reducing coronary heart disease death and nonfatal myocardial infarction, and was superior to amlodipine in preventing heart failure and superior to lisinopril in preventing stroke. Beta blockers are less effective in reducing cardiovascular events and are currently not recommended as first-line treatment for uncomplicated hypertension.
+
+ The presence of concomitant disease should influence selection of antihypertensive drugs because two diseases may benefit from a single drug. For example, drugs that inhibit the renin-angiotensin system are particularly useful in patients with diabetes or evidence of chronic kidney disease with proteinuria. Beta blockers or calcium channel blockers are useful in patients who also have angina; diuretics, ACE inhibitors, angiotensin receptor blockers, β blockers, or hydralazine combined with nitrates in patients who also have heart failure; and α1 blockers in men who have benign prostatic hyperplasia. Race may also affect drug selection: African Americans respond better on average to diuretics and calcium channel blockers than to β blockers and ACE inhibitors. Chinese patients are more sensitive to the effects of β blockers and may require lower doses.
+
+ If a single drug does not adequately control blood pressure, drugs with different sites of action can be combined to effectively lower blood pressure while minimizing toxicity (“stepped care”). If three drugs are required, combining a diuretic, an ACE inhibitor or angiotensin receptor blocker, and a calcium channel blocker is often effective. If a fourth drug is needed, a sympathoplegic agent such as a β blocker or clonidine should be considered. In the USA, fixed-dose drug combinations containing a β blocker, plus an ACE inhibitor or angiotensin receptor blocker, plus a thiazide; and a calcium channel blocker plus an ACE inhibitor are available. Fixed-dose combinations have the drawback of not allowing for titration of individual drug doses but have the advantage of allowing fewer pills to be taken, potentially enhancing compliance.
+
+ Assessment of blood pressure during office visits should include measurement of recumbent, sitting, and standing pressures. An attempt should be made to normalize blood pressure in the posture or activity level that is customary for the patient. Although there is still some debate about how much blood pressure should be lowered, the recent Systolic Blood Pressure Intervention Trial (SPRINT) and several meta-analyses suggest a target systolic blood pressure of 120 mm Hg for patients at high cardiovascular risk. Systolic hypertension (> 150 mm Hg in the presence of normal diastolic blood pressure) is a strong cardiovascular risk factor in people older than 60 years of age and should be treated. Recent advances in outpatient treatment include home blood pressure telemonitoring with pharmacist case management, which has been shown to improve blood pressure control.
+
+ In addition to noncompliance with medication, causes of failure to respond to drug therapy include excessive sodium intake and inadequate diuretic therapy with excessive blood volume, and drugs such as tricyclic antidepressants, nonsteroidal anti-inflammatory drugs, over-the-counter sympathomimetics, abuse of stimulants (amphetamine or cocaine), or excessive doses of caffeine and oral contraceptives that can interfere with actions of some antihypertensive drugs or directly raise blood pressure.
+
+ MANAGEMENT OF HYPERTENSIVE EMERGENCIES
+ Despite the large number of patients with chronic hypertension, hypertensive emergencies are relatively rare. Marked or sudden elevation of blood pressure may be a serious threat to life, however, and prompt control of blood pressure is indicated. Most frequently, hypertensive emergencies occur in patients whose hypertension is severe and poorly controlled and in those who suddenly discontinue antihypertensive medications.
+
+ Clinical Presentation & Pathophysiology
+ Hypertensive emergencies include hypertension associated with vascular damage (termed malignant hypertension) and hypertension associated with hemodynamic complications such as heart failure, stroke, or dissecting aortic aneurysm. The underlying pathologic process in malignant hypertension is a progressive arteriopathy with inflammation and necrosis of arterioles. Vascular lesions occur in the kidney, which releases renin, which in turn stimulates production of angiotensin and aldosterone, which further increase blood pressure.
+
+ Hypertensive encephalopathy is a classic feature of malignant hypertension. Its clinical presentation consists of severe headache, mental confusion, and apprehension. Blurred vision, nausea and vomiting, and focal neurologic deficits are common. If untreated, the syndrome may progress over a period of 12–48 hours to convulsions, stupor, coma, and even death.
+
+ Treatment of Hypertensive Emergencies
+ The general management of hypertensive emergencies requires monitoring the patient in an intensive care unit with continuous recording of arterial blood pressure. Fluid intake and output must be monitored carefully and body weight measured daily as an indicator of total body fluid volume during the course of therapy.
+
+ Parenteral antihypertensive medications are used to lower blood pressure rapidly (within a few hours); as soon as reasonable blood pressure control is achieved, oral antihypertensive therapy should be substituted because this allows smoother long-term management of hypertension. The goal of treatment in the first few hours or days is not complete normalization of blood pressure because chronic hypertension is associated with autoregulatory changes in cerebral blood flow. Thus, rapid normalization of blood pressure may lead to cerebral hypoperfusion and brain injury. Rather, blood pressure should be lowered by about 25%, maintaining diastolic blood pressure at no less than 100–110 mm Hg. Subsequently, blood pressure can be reduced to normal levels using oral medications over several weeks. The parenteral drugs used to treat hypertensive emergencies include sodium nitroprusside, nitroglycerin, labetalol, calcium channel blockers, fenoldopam, and hydralazine. Esmolol is often used to manage intraoperative and postoperative hypertension. Diuretics such as furosemide are administered to prevent the volume expansion that typically occurs during administration of powerful vasodilators.
+
+ Favorite Table | Download (.pdf) | Print
+ SUMMARY Drugs Used in Hypertension
+ Subclass, Drug	Mechanism of Action	Effects	Clinical Applications	Pharmacokinetics, Toxicities, Interactions
+ DIURETICS
+ • Thiazides: Hydrochlorothiazide, chlorthalidone	Block Na/Cl transporter in renal distal convoluted tubule	Reduce blood volume and poorly understood vascular effects	Hypertension, mild heart failure	 
+ • Loop diuretics: Furosemide	Block Na/K/2Cl transporter in renal loop of Henle	Like thiazides • greater efficacy	Severe hypertension, heart failure	See Chapter 15
+ • Spironolactone, eplerenone	Block aldosterone receptor in renal collecting tubule	Increase Na and decrease K excretion • poorly understood reduction in heart failure mortality	Aldosteronism, heart failure, hypertension	 
+ SYMPATHOPLEGICS, CENTRALLY ACTING
+ • Clonidine, methyldopa	Activate α2 adrenoceptors	Reduce central sympathetic outflow • reduce norepinephrine release from noradrenergic nerve endings	Hypertension • clonidine also used in withdrawal from abused drugs	Oral • clonidine also as patch • Toxicity: sedation • methyldopa hemolytic anemia
+ SYMPATHETIC NERVE TERMINAL BLOCKERS
+ • Reserpine	Blocks vesicular amine transporter in noradrenergic nerves and depletes transmitter stores	Reduces all sympathetic effects, especially cardiovascular, and reduce blood pressure	Hypertension but rarely used	Oral • long duration (days) • Toxicity: psychiatric depression, gastrointestinal disturbances
+ • Guanethidine, guanadrel	Interferes with amine release and replaces norepinephrine in vesicles	Same as reserpine	Same as reserpine	Severe orthostatic hypotension • sexual dysfunction • availability limited
+ α BLOCKERS
+ • Prazosin
+
+ • Terazosin
+
+ • Doxazosin
+
+ Selectively block α1 adrenoceptors	Prevent sympathetic vasoconstriction • reduce prostatic smooth muscle tone	Hypertension • benign prostatic hyperplasia	Oral • Toxicity: Orthostatic hypotension
+ β BLOCKERS
+ • Metoprolol, others
+
+ • Carvedilol
+
+ • Nebivolol
+
+ Block β1 receptors; carvedilol also blocks α receptors; nebivolol also releases nitric oxide	Prevent sympathetic cardiac stimulation • reduce renin secretion	Hypertension • heart failure • coronary disease	See Chapter 10
+ • Propranolol: Nonselective prototype β blocker
+
+ • Metoprolol and atenolol: Very widely used β1-selective blockers
+
+ VASODILATORS
+ • Verapamil
+
+ • Diltiazem
+
+ Nonselective block of L-type calcium channels	Reduce cardiac rate and output • reduce vascular resistance	Hypertension, angina, arrhythmias	See Chapter 12
+ • Nifedipine, amlodipine, other dihydropyridines	Block vascular calcium channels > cardiac calcium channels	Reduce vascular resistance	Hypertension, angina	See Chapter 12
+ • Hydralazine
+
+ • Minoxidil
+
+ Causes nitric oxide release
+
+ Metabolite opens K channels in vascular smooth muscle
+
+ Vasodilation • reduces vascular resistance • arterioles more sensitive than veins • reflex tachycardia	Hypertension • minoxidil also used to treat hair loss	Oral • Toxicity: Angina, tachycardia • Hydralazine: Lupus-like syndrome • Minoxidil: Hypertrichosis
+ PARENTERAL AGENTS
+ • Nitroprusside
+
+ • Fenoldopam
+
+ • Diazoxide
+
+ • Labetalol
+
+ Releases nitric oxide
+
+ Activates D1 receptors
+
+ Opens K channels
+
+ α, β blocker
+
+ Powerful vasodilation	Hypertensive emergencies • diazoxide now used only in hypoglycemia	Parenteral • short duration • Toxicity: Excessive hypotension, shock
+ ANGIOTENSIN-CONVERTING ENZYME (ACE) INHIBITORS
+ • Captopril, many others	Inhibit angiotensin-converting enzyme	Reduce angiotensin II levels • reduce vasoconstriction and aldosterone secretion • increase bradykinin	Hypertension • heart failure, diabetes	Oral • Toxicity: Cough, angioedema • hyperkalemia • renal impairment • teratogenic
+ ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)
+ • Losartan, many others	Block AT1 angiotensin receptors	Same as ACE inhibitors but no increase in bradykinin	Hypertension • heart failure	Oral • Toxicity: Same as ACE inhibitors but less cough
+ RENIN INHIBITOR
+ • Aliskiren	Inhibits enzyme activity of renin	Reduces angiotensin I and II and aldosterone	Hypertension	Oral • Toxicity: Hyperkalemia, renal impairment • potential teratogen
+ Favorite Table | Download (.pdf) | Print

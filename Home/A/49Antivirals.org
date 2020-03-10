@@ -1,0 +1,980 @@
+
+Basic & Clinical Pharmacology, 14e
+Chapter 49: Antiviral Agents
+Sharon Safrin
+[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_134543.jpg][abb
+]][[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_134550.jpg][49-1]]
+
+
+AGENTS TO TREAT HERPES SIMPLEX VIRUS (HSV) & VARICELLA-ZOSTER VIRUS (VZV) INFECTIONS
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_134710.jpg][49.1]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_134653.jpg][49-2]]
+AGENTS TO TREAT CYTOMEGALOVIRUS (CMV) INFECTIONS
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_134753.jpg][49.2]]
+ANTIRETROVIRAL AGENTS
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_134805.jpg][49-3]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_134852.jpg][49.3a]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_134925.jpg][49-3b
+]]*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_134947.jpg][49-3c]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_135034.jpg][49.4]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_135050.jpg][49.5]]
+ANTIHEPATITIS AGENTS
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_135125.jpg][49.6]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_135135.jpg][49.7]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_135145.jpg][49-4]]
+ANTI-INFLUENZA AGENTS
+
+OTHER ANTIVIRAL AGENTS
+
+CASE STUDY
+CASE STUDY
+A 35-year-old white woman who recently tested seropositive for both HIV and hepatitis B virus surface antigen is referred for evaluation. She is feeling well overall but reports a 25-pack-year smoking history. She drinks 3–4 beers per week and has no known medication allergies. She has a history of heroin use and is currently receiving methadone. Physical examination reveals normal vital signs and no abnormalities. White blood cell count is 5800 cells/mm3 with a normal differential, hemoglobin is 11.8 g/dL, all liver tests are within normal limits, CD4 cell count is 278 cells/mm3, and viral load (HIV RNA) is 110,000 copies/mL. What other laboratory tests should be ordered? Which antiretroviral medications would you begin?
+
+Viruses are obligate intracellular parasites; their replication depends primarily on synthetic processes of the host cell. Therefore, to be effective, antiviral agents must either block viral entry into or exit from the cell or be active inside the host cell. As a corollary, nonselective inhibitors of virus replication may interfere with host cell function and result in toxicity.
+
+Progress in antiviral chemotherapy began in the early 1950s, when the search for anti-cancer drugs generated several new compounds capable of inhibiting viral DNA synthesis. The two first-generation antiviral agents, 5-iododeoxyuridine and trifluorothymidine, had poor specificity (ie, they inhibited host cell DNA as well as viral DNA) that rendered them too toxic for systemic use. However, both agents are effective when used topically for the treatment of herpes keratitis.
+
+Knowledge of the mechanisms of viral replication has provided insights into critical steps in the viral life cycle that can serve as potential targets for antiviral therapy. Recent research has focused on identifying agents with greater selectivity, higher potency, in vivo stability, and reduced toxicity. Antiviral therapy is now available for herpes simplex virus (HSV), cytomegalovirus (CMV), varicella zoster virus (VZV), hepatitis C virus (HCV), hepatitis B virus (HBV), influenza, human immunodeficiency virus (HIV), and respiratory syncytial virus (RSV). Antiviral drugs share the common property of being virustatic; they are active only against replicating viruses and do not affect latent virus. Whereas some infections require monotherapy for brief periods of time (eg, HSV, influenza), others require multiple drug therapy for indefinite periods (HIV). In chronic illnesses such as viral hepatitis and HIV infection, potent inhibition of viral replication is crucial in limiting the extent of systemic damage.
+
+Favorite Table | Download (.pdf) | Print
+ACRONYMS & OTHER NAMES
+3TC	Lamivudine
+AZT	Zidovudine (previously azidothymidine)
+CMV	Cytomegalovirus
+CYP	Cytochrome P450
+d4T	Stavudine
+ddC	Zalcitabine
+ddI	Didanosine
+EBV	Epstein-Barr virus
+FTC	Emtricitabine
+HBeAg	Hepatitis e antigen
+HBV, HCV	Hepatitis B virus, C virus
+HHV-6, -8	Human herpesvirus-6, human herpesvirus-8
+HIV	Human immunodeficiency virus
+HSV	Herpes simplex virus
+INSTI	Integrase strand transfer inhibitor
+NNRTI	Nonnucleoside reverse transcriptase inhibitor
+NRTI	Nucleoside/nucleotide reverse transcriptase inhibitor
+PI	Protease inhibitor
+RSV	Respiratory syncytial virus
+SVR	Sustained viral response
+UGT1A1	UDP-glucuronosyltransferase 1A1
+VZV	Varicella-zoster virus
+Viral replication requires several steps (see Figure 49–1). Antiviral agents can potentially target any of these steps.
+
+FIGURE 49–1
+The major sites of antiviral drug action. Note: Interferon alfas are speculated to have multiple sites of action. (Modified and reproduced, with permission, from Trevor AJ, Katzung BG, Masters SB: Pharmacology: Examination & Board Review, 9th ed. McGraw-Hill, 2010. Copyright © The McGraw-Hill Companies, Inc.)
+
+image
+AGENTS TO TREAT HERPES SIMPLEX VIRUS (HSV) & VARICELLA-ZOSTER VIRUS (VZV) INFECTIONS
+Three oral nucleoside analogs are licensed for the treatment of HSV and VZV infections: acyclovir, valacyclovir, and famciclovir. They have similar mechanisms of action and comparable indications for clinical use (see Table 49–1); all are well tolerated.
+
+Table 49–1
+Agents to treat or prevent herpes simplex virus (HSV) and varicella-zoster virus (VZV) infections.
+Agent	Treatment of First Episode	Treatment of Recurrent Episodes	Suppression
+Genital Herpes
+Acyclovir, oral1	400 mg tid × 7–10 days or 200 mg 5 times daily	800 mg tid × 2 days or 800 mg bid × 5 days or 400 mg tid × 5 days	400–800 mg bid-tid2
+Famciclovir, oral1	250 mg tid × 7–10 days	1000 mg bid × 1 day or 125 mg bid × 5 days or 500 mg once then 250 mg bid × 2 days2	250–500 mg bid2
+Valacyclovir, oral1	1000 mg bid × 10 days	500 mg bid × 3 days or 1 g qd × 5 days	500–1000 mg qd–bid2
+Orolabial herpes
+Acyclovir, oral1	400 mg tid × 7–10 days or 200 mg 5 times daily	200–400 mg 5 times daily × 5 days	400–800 mg bid–tid2
+Famciclovir, oral1	500 mg tid × 7–10 days	1500 mg once or 750 mg bid	500 mg bid
+Valacyclovir, oral1	1 g bid × 7–10 days	2 g bid × 1 day	500–1000 mg qd
+Acyclovir, topical (5% cream)	 	5 times daily × 4 days	 
+Docosanol, topical (10% cream)	 	5 times daily	 
+Penciclovir, topical (1% cream)	 	Every 2 h while awake	 
+Herpes proctitis, treatment
+Acyclovir, oral1	400 mg 5 times daily until healed
+Severe HSV infection or HSV infection in the immunocompromised host, treatment
+Acyclovir, IV1	5–10 mg/kg q8h × 7–14 days
+Herpes encephalitis, treatment
+Acyclovir, IV1	10–15 mg/kg q8h × 21 days
+Neonatal HSV infection, treatment
+Acyclovir, IV1	10–20 mg/kg q8h × 14–21 days
+Herpetic keratoconjunctivitis, treatment
+Ganciclovir, topical (0.15% gel)	5 times daily
+Trifluridine, topical (1% solution)	Every 2 h while awake
+Varicella infection, treatment
+Acyclovir, oral1	20 mg/kg (maximum 800 mg) qid × 5 days
+Valacyclovir, oral1	20 mg/kg (maximum, 1 g) tid × 5 days
+Zoster infection, treatment
+Acyclovir, oral1	800 mg 5 times daily × 7–10 days
+Famciclovir, oral1	500 mg tid × 7 days
+Valacyclovir, oral1	1 g tid × 7 days
+Severe VZV infection or VZV infection in the immunocompromised host, treatment
+Acyclovir, IV1	10–15 mg/kg q8h × ≥7 days
+Acyclovir-resistant HSV or VZV infection, treatment
+Foscarnet, IV1	40–60 mg/kg q8h until healed2
+1
+Dose adjustment is necessary for renal insufficiency.
+
+2
+Higher doses may be necessary in HIV-infected patients.
+
+HIV, human immunodeficiency virus; HSV, herpes simplex virus; IV, intravenous; VZV, varicella-zoster virus.
+
+Comparative trials have demonstrated similar efficacies of these three agents for the treatment of HSV, with shortening of the duration of symptoms by approximately 2 days, the time to lesion healing by 4 days, and the duration of viral shedding by 7 days in first episodes of genital herpes and shortening of the overall time course by 1–2 days in recurrent genital herpes. Treatment of first-episode genital herpes does not alter the frequency or severity of recurrent outbreaks. Long-term suppression with antiherpes agents in patients with frequent recurrences of genital herpes decreases the frequency of symptomatic recurrences and of asymptomatic viral shedding, thus decreasing the rate of sexual transmission. However, outbreaks may resume upon discontinuation of suppression. The efficacy of the antiherpes agents in orolabial herpes is generally less than that in anogenital herpes.
+
+The antiherpes agents significantly decrease the total number of lesions, duration of symptoms, and viral shedding in patients with varicella (if begun within 24 hours after the onset of rash) or cutaneous zoster (if begun within 72 hours); the risk of post-herpetic neuralgia is also reduced if treatment is initiated early. In comparative trials with acyclovir for the treatment of patients with zoster, rates of cutaneous healing with valacyclovir or famciclovir were similar, but the latter agents were associated with a shorter duration of zoster-associated pain. Since VZV is less susceptible to the antiherpes agents than HSV, higher doses are required (Table 49–1).
+
+The antiherpes agents may also be administered prophylactically for the prevention of HSV or VZV infection in patients undergoing organ transplantation, as well as for the treatment of these infections should they occur.
+
+ACYCLOVIR
+Acyclovir is an acyclic guanosine derivative with clinical activity against HSV-1, HSV-2, and VZV, but it is approximately 10 times more potent against HSV-1 and HSV-2 than against VZV. In vitro activity against Epstein-Barr virus (EBV), cytomegalovirus (CMV), and human herpesvirus-6 (HHV-6) is present but weaker.
+
+Acyclovir requires three phosphorylation steps for activation. It is converted first to the monophosphate derivative by the virus-specified thymidine kinase and then to the di- and triphosphate compounds by host cell enzymes (Figure 49–2). Because it requires the viral kinase for initial phosphorylation, acyclovir is selectively activated—and the active metabolite accumulates—only in infected cells. Acyclovir triphosphate inhibits viral DNA synthesis by two mechanisms: competition with deoxyGTP for the viral DNA polymerase, resulting in binding to the DNA template as an irreversible complex; and chain termination following incorporation into the viral DNA.
+
+FIGURE 49–2
+Mechanism of action of antiherpes agents.
+
+image
+The bioavailability of oral acyclovir is low (15–20%) and is unaffected by food. Topical formulations produce high concentrations in herpetic lesions, but systemic concentrations are undetectable by this route.
+
+Acyclovir is cleared primarily by glomerular filtration and tubular secretion. The half-life is 2.5–3 hours in patients with normal renal function and 20 hours in patients with anuria. Acyclovir diffuses readily into most tissues and body fluids. Cerebrospinal fluid concentrations are 20–50% of serum values.
+
+Acyclovir is the only one of the three antiherpes agents that is available for intravenous use in the United States. Intravenous acyclovir is the treatment of choice for herpes simplex encephalitis, neonatal HSV infection, and serious HSV or VZV infections (Table 49–1). In neonates with central nervous system HSV, oral acyclovir suppression for 6 months following acute treatment improves neurodevelopmental outcomes. In immunocompromised patients with VZV infection, intravenous acyclovir reduces the incidence of cutaneous and visceral dissemination.
+
+Topical acyclovir cream is substantially less effective than oral therapy for primary HSV infection. It is of no benefit in treating recurrent genital herpes.
+
+Resistance to acyclovir can develop in HSV or VZV through alteration in either the viral thymidine kinase or the DNA polymerase, and clinically resistant infections have been reported in immunocompromised hosts. Most clinical isolates are resistant on the basis of deficient thymidine kinase activity and thus are cross-resistant to valacyclovir, famciclovir, and ganciclovir. Agents such as foscarnet, cidofovir, and trifluridine do not require activation by viral thymidine kinase and therefore have preserved activity against the most prevalent acyclovir-resistant strains (Figure 49–2).
+
+Acyclovir is generally well tolerated, although nausea, diarrhea, and headache may occur. Intravenous infusion may be associated with reversible renal toxicity (ie, crystalline nephropathy or interstitial nephritis) or neurologic effects (eg, tremors, delirium, seizures). However, these are uncommon with adequate hydration and avoidance of rapid infusion rates. High doses of acyclovir cause chromosomal damage and testicular atrophy in rats, but there has been no evidence of teratogenicity, reduction in sperm production, or cytogenetic alterations in peripheral blood lymphocytes in patients receiving daily suppression of genital herpes for more than 10 years. A recent study found no evidence of increased birth defects in infants exposed to acyclovir during the first trimester. In fact, the American College of Obstetricians and Gynecologists recommends suppressive acyclovir therapy beginning at week 36 in pregnant women with active recurrent genital herpes to reduce the risk of recurrence at delivery and possibly the need for cesarean section.
+
+Concurrent use of nephrotoxic agents may enhance the potential for nephrotoxicity. Probenecid and cimetidine decrease acyclovir clearance and increase exposure. Somnolence and lethargy may occur in patients receiving concomitant zidovudine and acyclovir.
+
+VALACYCLOVIR
+Valacyclovir is the L-valyl ester of acyclovir. It is rapidly converted to acyclovir after oral administration via first-pass enzymatic hydrolysis in the liver and intestine, resulting in serum levels that are three to five times greater than those achieved with oral acyclovir and approximate those achieved with intravenous acyclovir. Oral bioavailability is 54–70%, and cerebrospinal fluid levels are about 50% of those in serum. Elimination half-life is 2.5–3.3 hours.
+
+Valacyclovir is generally well tolerated, although nausea, headache, vomiting, or rash may occur. At high doses, confusion, hallucinations, and seizures have been reported. AIDS patients who received high-dosage valacyclovir chronically (ie, 8 g/d) had increased gastrointestinal intolerance as well as thrombotic thrombocytopenic purpura/hemolytic-uremic syndrome; this dose has also been associated with confusion and hallucinations in transplant patients. There is no evidence of an increased risk of birth defects in infants exposed to valacyclovir during pregnancy.
+
+FAMCICLOVIR
+Famciclovir is the diacetyl ester prodrug of 6-deoxypenciclovir, an acyclic guanosine analog. After oral administration, famciclovir is rapidly deacetylated and oxidized by first-pass metabolism to penciclovir. It is active in vitro against HSV-1, HSV-2, VZV, EBV, and HBV. As with acyclovir, activation by phosphorylation is catalyzed by the virus-specified thymidine kinase in infected cells, followed by competitive inhibition of the viral DNA polymerase to block DNA synthesis. Unlike acyclovir, however, penciclovir does not cause chain termination. Penciclovir triphosphate has lower affinity for the viral DNA polymerase than acyclovir triphosphate, but it achieves higher intracellular concentrations. The most commonly encountered clinical mutants of HSV are thymidine kinase-deficient; these are cross-resistant to acyclovir and famciclovir.
+
+The bioavailability of penciclovir from orally administered famciclovir is 70%. The intracellular half-life of penciclovir triphosphate is prolonged, at 7–20 hours. Penciclovir is excreted primarily in the urine.
+
+Oral famciclovir is generally well tolerated, although headache, nausea, or diarrhea may occur. As with acyclovir, testicular toxicity has been demonstrated in animals receiving repeated doses. However, men receiving daily famciclovir (250 mg every 12 hours) for 18 weeks had no changes in sperm morphology or motility. In one study, there was no evidence of increased birth defects in infants exposed to famciclovir during the first trimester. The incidence of mammary adenocarcinoma was increased in female rats receiving famciclovir for 2 years.
+
+PENCICLOVIR
+The guanosine analog penciclovir, the active metabolite of famciclovir, is available for topical use. Penciclovir cream (1%) shortened the median duration of recurrent herpes labialis by ~17 hours compared to placebo when applied within 1 hour of the onset of prodromal symptoms and continued every 2 hours during waking hours for 4 days. Adverse effects are uncommon, other than application site reactions in ~1%.
+
+DOCOSANOL
+Docosanol is a saturated 22-carbon aliphatic alcohol that inhibits fusion between the host cell plasma membrane and the HSV envelope, thereby preventing viral entry into cells and subsequent viral replication. Topical docosanol 10% cream is available without a prescription. When applied within 12 hours of the onset of prodromal symptoms, five times daily, median healing time was shortened by 18 hours compared with placebo in recurrent orolabial herpes. Application site reactions occur in ~2%.
+
+TRIFLURIDINE
+Trifluridine (trifluorothymidine) is a fluorinated pyrimidine nucleoside that inhibits viral DNA synthesis in HSV-1, HSV-2, CMV, vaccinia, and some adenoviruses. It is phosphorylated intracellularly by host cell enzymes, and then competes with thymidine triphosphate for incorporation by the viral DNA polymerase (Figure 49–2). Incorporation of trifluridine triphosphate into both viral and host DNA prevents its systemic use. Application of a 1% solution is effective in treating keratoconjunctivitis and recurrent epithelial keratitis due to HSV-1 or HSV-2. Cutaneous application of trifluridine solution, alone or in combination with interferon-alfa, has been used successfully in the treatment of acyclovir-resistant HSV infections.
+
+INVESTIGATIONAL AGENTS
+Two compounds (pritelivir and amenamevir) belong to the new class of helicase-primase inhibitors and are under development for HSV infection. Valomaciclovir, an inhibitor of the viral DNA polymerase, is currently under clinical evaluation for the treatment of patients with acute zoster and acute EBV infection (infectious mononucleosis).
+
+AGENTS TO TREAT CYTOMEGALOVIRUS (CMV) INFECTIONS
+CMV infections occur primarily in the setting of advanced immunosuppression and are typically due to reactivation of latent infection. Dissemination of infection results in end-organ disease, including retinitis, colitis, esophagitis, central nervous system disease, and pneumonitis. Although the incidence in HIV-infected patients has markedly decreased with the advent of potent antiretroviral therapy, clinical reactivation of CMV infection after organ transplantation is still prevalent.
+
+The availability of oral valganciclovir has decreased the use of intravenous ganciclovir, intravenous foscarnet, and intravenous cidofovir for the prophylaxis and treatment of end-organ CMV disease (Table 49–2). Oral valganciclovir has replaced oral ganciclovir because of its lower pill burden.
+
+TABLE 49–2
+Agents to treat cytomegalovirus (CMV) infection.
+Agent	Route of Administration	Use	Recommended Adult Dosage
+Valganciclovir1	Oral	CMV retinitis treatment	Induction: 900 mg bid × 21 days
+ 	 	 	Maintenance: 900 mg daily
+ 	Oral	CMV prophylaxis (transplant patients)	900 mg daily
+Ganciclovir1	Intravenous	CMV retinitis treatment	Induction: 5 mg/kg q12h × 14–21 days
+ 	 	 	Maintenance: 5 mg/kg/d or 6 mg/kg five times per week
+Foscarnet1	Intravenous	CMV retinitis treatment	Induction: 60 mg/kg q8h or 90 mg/kg q12h × 14–21 days
+ 	 	 	Maintenance: 90–120 mg/kg/d
+Cidofovir1	Intravenous	CMV retinitis treatment	
+Induction: 5 mg/kg/wk × 2 weeks
+
+Maintenance: 5 mg/kg every week
+
+1
+Dosage must be reduced in patients with renal insufficiency.
+
+GANCICLOVIR
+Ganciclovir is an acyclic guanosine analog that requires activation by triphosphorylation before inhibiting the viral DNA polymerase. Initial phosphorylation is catalyzed by the virus-specified protein kinase phosphotransferase UL97 in CMV-infected cells. The activated compound competitively inhibits viral DNA polymerase and causes termination of viral DNA elongation (Figure 49–2). Ganciclovir has in vitro activity against CMV, HSV, VZV, EBV, HHV-6, and HHV-8. Its activity against CMV is up to 100 times greater than that of acyclovir.
+
+Ganciclovir is administered intravenously; the bioavailability of oral ganciclovir is poor, and it is no longer available in the USA. Ganciclovir gel is available for the treatment of acute herpetic keratitis. Cerebrospinal fluid concentrations are approximately 50% of serum concentrations. The elimination half-life is 4 hours, and the intracellular half-life is prolonged at 16–24 hours. Clearance of the drug is linearly related to creatinine clearance. Ganciclovir is readily cleared by hemodialysis.
+
+Intravenous ganciclovir has been shown to delay progression of CMV retinitis in immunocompromised patients. Dual therapy with foscarnet and ganciclovir is more effective in delaying progression of retinitis than either drug alone in patients with AIDS (see Foscarnet), although adverse effects are compounded. Intravenous ganciclovir is also used to treat CMV colitis, esophagitis, and pneumonitis (the latter often in combination with intravenous cytomegalovirus immunoglobulin) in immunocompromised patients. Intravenous ganciclovir, followed by either oral ganciclovir or high-dose oral acyclovir, reduces the risk of CMV infection in transplant recipients. Limited data in infants with symptomatic congenital neurologic CMV disease suggest that treatment with IV ganciclovir may reduce hearing loss. The risk of Kaposi’s sarcoma is reduced in AIDS patients receiving long-term ganciclovir, presumably because of activity against HHV-8.
+
+Intravitreal injections of ganciclovir or the intraocular ganciclovir implant may be used to treat CMV retinitis. Concurrent therapy with a systemic anti-CMV agent is necessary to prevent other sites of end-organ CMV disease.
+
+Resistance to ganciclovir increases with duration of use. The more common mutation, in UL97, results in decreased levels of the triphosphorylated (ie, active) form of ganciclovir. The less common UL54 mutation in DNA polymerase results in higher levels of resistance and potential cross-resistance with cidofovir and foscarnet. Antiviral susceptibility testing is recommended in patients in whom resistance is suspected clinically.
+
+The most common adverse effect of intravenous ganciclovir treatment is myelosuppression, which although reversible may be dose-limiting. Other potential adverse effects are nausea, diarrhea, fever, rash, headache, insomnia, and peripheral neuropathy. Central nervous system toxicity (confusion, seizures, psychiatric disturbance) and hepatotoxicity have been rarely reported. Intravitreal ganciclovir has been associated with vitreous hemorrhage and retinal detachment. Ganciclovir is mutagenic in mammalian cells and carcinogenic and embryotoxic at high doses in animals and causes aspermatogenesis; the clinical significance of these preclinical data is unclear.
+
+Levels of ganciclovir may rise in patients concurrently taking probenecid or trimethoprim. Concurrent use of ganciclovir with didanosine may result in increased levels of didanosine.
+
+VALGANCICLOVIR
+Valganciclovir is an L-valyl ester prodrug of ganciclovir that exists as a mixture of two diastereomers. After oral administration, both diastereomers are rapidly hydrolyzed to ganciclovir by esterases in the intestinal wall and liver.
+
+Valganciclovir has a bioavailability of 60% and should be taken with food. The AUC0–24h resulting from oral valganciclovir (900 mg once daily) is similar to that after 5 mg/kg once daily of intravenous ganciclovir and approximately 1.65 times that of oral ganciclovir. The major route of elimination is renal, through glomerular filtration and active tubular secretion. Plasma concentrations of valganciclovir are reduced ~50% by hemodialysis.
+
+Valganciclovir is as effective as intravenous ganciclovir for the treatment of CMV retinitis and is also indicated for the prevention of CMV disease in high-risk solid organ and bone marrow transplant recipients. Adverse effects, drug interactions, and resistance patterns are the same as those associated with ganciclovir.
+
+FOSCARNET
+Foscarnet (phosphonoformic acid) is an inorganic pyrophosphate analog that inhibits herpesvirus DNA polymerase, RNA polymerase, and HIV reverse transcriptase directly without requiring activation by phosphorylation. Foscarnet blocks the pyrophosphate binding site of these enzymes and inhibits cleavage of pyrophosphate from deoxynucleotide triphosphates. It has in vitro activity against HSV, VZV, CMV, EBV, HHV-6, HHV-8, HIV-1, and HIV-2.
+
+Foscarnet is available in an intravenous formulation only; poor oral bioavailability and gastrointestinal intolerance preclude oral use. Cerebrospinal fluid concentrations are 43–67% of steady-state serum concentrations. Although the mean plasma half-life is 3–7 hours, up to 30% of foscarnet may be deposited in bone, with a half-life of several months. The clinical repercussions of this are unknown. Clearance of foscarnet is primarily renal and is directly proportional to creatinine clearance. Serum drug concentrations are reduced ~50% by hemodialysis.
+
+Foscarnet is effective in the treatment of end-organ CMV disease (ie, retinitis, colitis, and esophagitis), including ganciclovir-resistant disease; it is also effective against acyclovir-resistant HSV and VZV infections. The dosage of foscarnet must be titrated according to the patient’s calculated creatinine clearance before each infusion. Use of an infusion pump to control the rate of infusion is important to prevent toxicity, and large volumes of fluid are required because of the drug’s poor solubility. The combination of ganciclovir and foscarnet is synergistic in vitro against CMV and has been shown to be superior to either agent alone in delaying progression of retinitis; however, toxicity is also increased when these agents are administered concurrently. As with ganciclovir, a decrease in the incidence of Kaposi’s sarcoma has been observed in patients who have received long-term foscarnet.
+
+Foscarnet has been administered intravitreally for the treatment of CMV retinitis in patients with AIDS, but data regarding efficacy and safety are incomplete.
+
+Resistance to foscarnet in HSV and CMV isolates is due to point mutations in the DNA polymerase gene and is typically associated with prolonged or repeated exposure to the drug. Mutations in the HIV-1 reverse transcriptase gene have also been described. Although foscarnet-resistant CMV isolates are typically cross-resistant to ganciclovir, foscarnet activity is usually maintained against ganciclovir- and cidofovir-resistant isolates of CMV.
+
+Potential adverse effects of foscarnet include renal impairment, hypo- or hypercalcemia, hypo- or hyperphosphatemia, hypokalemia, and hypomagnesemia. Saline preloading helps prevent nephrotoxicity, as does avoidance of concomitant administration of drugs with nephrotoxic potential (eg, amphotericin B, pentamidine, aminoglycosides). The risk of severe hypocalcemia, caused by chelation of divalent cations, is increased with concomitant use of pentamidine. Genital ulcerations associated with foscarnet therapy may be due to high levels of ionized drug in the urine. Nausea, vomiting, anemia, elevation of liver enzymes, and fatigue have been reported; the risk of anemia may be additive in patients receiving concurrent zidovudine. Central nervous system toxicity includes headache, hallucinations, and seizures; the risk of seizures may be increased with concurrent use of imipenem. Foscarnet caused chromosomal damage in preclinical studies.
+
+CIDOFOVIR
+Cidofovir is a cytosine nucleotide analog with in vitro activity against CMV, HSV-1, HSV-2, VZV, EBV, HHV-6, HHV-8, adenovirus, poxviruses, polyomaviruses, and human papillomavirus. In contrast to ganciclovir, phosphorylation of cidofovir to the active diphosphate is independent of viral enzymes (Figure 49–2); thus activity is maintained against thymidine kinase-deficient or altered strains of CMV or HSV. Cidofovir diphosphate acts both as a potent inhibitor of and as an alternative substrate for viral DNA polymerase, competitively inhibiting DNA synthesis and becoming incorporated into the viral DNA chain. Cidofovir-resistant isolates tend to be cross-resistant with ganciclovir but retain susceptibility to foscarnet.
+
+Although the terminal half-life of cidofovir is approximately 2.6 hours, the active metabolite cidofovir diphosphate has a prolonged intracellular half-life of 17–65 hours, thus allowing infrequent dosing. A separate metabolite, cidofovir phosphocholine, has a half-life of at least 87 hours and may serve as an intracellular reservoir of active drug. Cerebrospinal fluid penetration is poor. Elimination is by active renal tubular secretion. High-flux hemodialysis reduces serum levels of cidofovir by approximately 75%.
+
+Intravenous cidofovir is effective for the treatment of CMV retinitis and is used experimentally to treat adenovirus, human papillomavirus, BK polyomavirus, vaccinia, and poxvirus infections. Intravenous cidofovir must be administered with high-dose probenecid (2 g at 3 hours before the infusion and 1 g at 2 and 8 hours after), which blocks active tubular secretion and decreases nephrotoxicity. Before each infusion, cidofovir dosage must be adjusted for alterations in the calculated creatinine clearance or for the presence of urine protein, and aggressive adjunctive hydration is required. Initiation of cidofovir therapy is contraindicated in patients with existing renal insufficiency. Direct intravitreal administration of cidofovir is not recommended because of ocular toxicity.
+
+The primary adverse effect of intravenous cidofovir is a dose-dependent proximal tubular nephrotoxicity, which may be reduced with prehydration using normal saline. Proteinuria, azotemia, metabolic acidosis, and Fanconi’s syndrome may occur. Concurrent administration of other potentially nephrotoxic agents (eg, amphotericin B, aminoglycosides, nonsteroidal anti-inflammatory drugs, pentamidine, foscarnet) should be avoided. Prior administration of foscarnet may increase the risk of nephrotoxicity. Other potential adverse effects include uveitis, ocular hypotony, and neutropenia (15–24%). Concurrent probenecid use may result in other toxicities or drug-drug interactions (see Chapter 36). Cidofovir is mutagenic, gonadotoxic, and embryotoxic, and causes hypospermia and mammary adenocarcinomas in animals.
+
+EXPERIMENTAL AGENTS
+Brincidofovir is a nucleoside agent with activity against HSV, CMV, adenovirus, BK virus, and poxvirus. It is currently under clinical investigation for CMV and adenovirus infections.
+
+ANTIRETROVIRAL AGENTS
+Substantial advances have been made in antiretroviral therapy since the introduction of the first agent, zidovudine, in 1987. Six classes of antiretroviral agents are currently available for use: nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs), non-nucleoside reverse transcriptase inhibitors (NNRTIs), protease inhibitors (PIs), fusion inhibitors, CCR5 co-receptor antagonists, and integrase strand transfer inhibitors (INSTIs) (Table 49–3). These agents inhibit HIV replication at different parts of the cycle (Figure 49–3).
+
+FIGURE 49–3
+Life cycle of HIV. Binding of viral glycoproteins to host cell CD4 and chemokine receptors leads to fusion of the viral and host cell membranes via gp41 and entry of the virion into the cell. After uncoating, reverse transcription copies the single-stranded HIV RNA genome into double-stranded DNA, which is integrated into the host cell genome. Gene transcription by host cell enzymes produces messenger RNA, which is translated into proteins that assemble into immature noninfectious virions that bud from the host cell membrane. Maturation into fully infectious virions is through proteolytic cleavage. NNRTIs, nonnucleoside reverse transcriptase inhibitors; NRTIs, nucleoside/nucleotide reverse transcriptase inhibitors.
+
+image
+TABLE 49–3
+Currently available antiretroviral agents.
+Agent	Class of Agent	Recommended Adult Dosage	Administration Recommendation	Characteristic Adverse Effects	Comments
+Abacavir	NRTI1	300 mg bid or 600 mg qd	Test to rule out the presence of the HLA-B5701 allele prior to initiation of therapy.	Rash, hypersensitivity reaction, nausea; possible increase in myocardial infarction	Avoid alcohol.
+Atazanavir	PI2	400 mg qd or 300 mg qd with ritonavir 100 mg qd or cobicistat 150 mg qd; adjust dose in hepatic insufficiency	Take with food. Avoid concomitant antacids. Separate dosing acid-reducing agents by ≥10 h.	Nausea, rash, myalgia, indirect hyperbilirubinemia, diarrhea, ↑ liver enzymes, prolonged PR interval	See footnote 4. Avoid elvitegravir/cobicistat, etravirine, fosamprenavir, nevirapine, tipranavir. Avoid in severe hepatic insufficiency. The oral powder contains phenylalanine.
+Darunavir	PI2	
+Treatment-naïve: 800 mg qd with ritonavir 100 mg qd or cobicistat 150 mg qd
+
+Treatment-experienced: 600 mg bid with ritonavir 100 mg bid
+
+Take with food.	Diarrhea, headache, nausea, rash, hyperlipidemia, ↑ liver enzymes, ↑ serum amylase	See footnote 4. Avoid elvitegravir/ cobicistat and simeprevir. Avoid in patients with sulfa allergy.
+Delavirdine	NNRTI	400 mg tid	Separate dosing from ddI or antacids by ≥1 h.	Rash, ↑ liver enzymes, headache, nausea, diarrhea	See footnote 4. Avoid concurrent fosamprenavir. Teratogenic in rats.
+Didanosine (ddI)	NRTI1	
+Tablets, 400 mg qd or 200 mg bid3 adjusted for weight
+
+Buffered powder, 250 mg bid3
+
+Take on an empty stomach.	Peripheral neuropathy, pancreatitis, diarrhea.	Avoid concurrent neuropathic drugs (eg, stavudine, zalcitabine, isoniazid), ribavirin, or allopurinol. Chewable tablets contain phenylalanine.
+Dolutegravir	INSTI	
+INSTI-naïve: 50 mg qd
+
+If co-administered with efavirenz, fosamprenavir/ritonavir, tipranavir/ritonavir, or rifampin or if certain INSTI mutations: 50 mg bid
+
+Separate dosing from antacids and polyvalent cations by ≥2 h.	Insomnia, headache, hypersensitivity reaction, ↑ liver enzymes	Avoid carbamazepine, dofetilide, nevirapine, phenobarbital, phenytoin.
+Efavirenz	NNRTI	600 mg qd	Take on an empty stomach, at bedtime.	Neuropsychiatric symptoms, rash, ↑ liver enzymes, headache, nausea	See footnote 4. Avoid elvitegravir/ cobicistat, etravirine, indinavir, simeprevir. Teratogenic in primates.
+Elvitegravir	INSTI	
+Treatment-naïve: 150 mg qd with cobicistat 150, emtricitabine 200, and tenofovir
+
+Treatment-experienced: 85 mg–150 mg qd with a protease inhibitor
+
+Take with food. Separate dosing from antacids by ≥2 h.	Diarrhea, rash, ↑ liver enzymes	See footnote 4. Avoid efavirenz and nevirapine.
+Emtricitabine	NRTI1	200 mg qd3	 	Headache, diarrhea, nausea, rash, hyperpigmentation	Avoid concurrent lamivudine.
+Enfuvirtide	Fusion inhibitor	90 mg subcutaneously bid	 	Injection site reactions, hypersensitivity reaction, insomnia, headache, dizziness, nausea, eosinophilia; possible increased bacterial pneumonia	 
+Etravirine	NNRTI	200 mg bid	Take with food.	Rash, nausea, diarrhea	See footnote 4. Avoid atazanavir, efavirenz, elvitegravir/cobicistat, fosamprenavir, indinavir, tipranavir.
+Fosamprenavir	PI2	1400 mg bid or 700 mg bid with ritonavir 100 mg bid or 1400 mg daily with ritonavir 100–200 mg qd; adjust dose in hepatic insufficiency	 	Rash, diarrhea, nausea, headache, ↑ liver enzymes	See footnote 4. Avoid elvitegravir/ cobicistat, etravirine, lopinavir/ritonavir, nevirapine. Avoid in patients with sulfa allergy or severe hepatic insufficiency. Avoid cimetidine, disulfiram, metronidazole, vitamin E, ritonavir oral solution, and alcohol with the oral solution.
+Indinavir	PI2	800 mg tid or 800 mg bid with ritonavir 100–200 mg bid; adjust dose in cirrhosis	Best on an empty stomach. Drink at least 48 oz liquid daily. Separate dosing from ddI by ≥1 h.	Nephrolithiasis, nausea, indirect hyperbilirubinemia, headache, diarrhea; possible increase in myocardial infarction	See footnote 4. Avoid efavirenz and etravirine.
+Lamivudine	NRTI1	150 mg bid or 300 mg qd3	 	Nausea, headache, dizziness, fatigue	Do not administer with emtricitabine or zalcitabine.
+Lopinavir/ritonavir	PI/PI2	400/100 mg bid or 800/200 mg qd	Separate dosing from ddI by 1 h.	Diarrhea, nausea, hypertriglyceridemia, ↑ liver enzymes; possible increase in myocardial infarction	See footnote 4. Avoid darunavir, elvitegravir/cobicistat, fosamprenavir, tipranavir. Avoid disulfiram and metronidazole with oral solution.
+Maraviroc	CCR5 inhibitor	300 mg bid; 150 bid with CYP3A inhibitors; 600 mg bid with CYP3A inducers	 	Cough, muscle pain, diarrhea, sleep disturbance, ↑ liver enzymes; possible increase in myocardial infarction	See footnote 4. Do not administer in patients with severe renal dysfunction.
+Nelfinavir	PI2	750 mg tid or 1250 mg bid	Take with food.	Diarrhea, nausea, flatulence	See footnote 4. The oral powder contains phenylalanine.
+Nevirapine	NNRTI	200 mg bid	Dose-escalate from 200 mg daily over 14 days.	Rash, hepatitis (occasionally fulminant), nausea, headache	See footnote 4. Avoid atazanavir, dolutegravir, elvitegravir/cobicistat, fosamprenavir. Contraindicated with moderate or severe hepatic impairment.
+Raltegravir	INSTI	400 mg bid	 	Nausea, headache, fatigue, muscle aches, ↑ amylase levels, ↑ liver enzymes	The chewable tablets contain phenylalanine.
+Rilpivirine	NNRTI	25 mg qd	Take with food. Separate dosing from antacids or H2 blockers by ≥4 h.	Headache, insomnia, depression, rash, ↑ liver enzymes	See footnote 4.
+Rilpivirine	PI2	1000 mg bid with ritonavir 100 mg bid	Take within 2 h of a full meal.	Nausea, diarrhea, abdominal pain, dyspepsia, rash	See footnote 4. Avoid darunavir, garlic capsules, tipranavir and drugs that increase the QT interval. Avoid in severe hepatic insufficiency.
+Stavudine	NRTI1	30–40 mg bid, depending on weight3	 	Peripheral neuropathy, pancreatitis, rapidly progressive ascending neuromuscular weakness (rare)	Avoid zidovudine and neuropathic drugs (eg, ddI, zalcitabine, isoniazid).
+Tenofovir alafenamide	NRTI1	10 mg qd with emtricitabine plus elvitegravir/cobicistat; 25 mg qd with emtricitabine ± rilpivirine	 	Gastrointestinal symptoms, headache, ↑ creatinine, proteinuria	Avoid inducers of p-glycoprotein (rifampin, rifabutin, phenytoin, phenobarbital, St John’s Wort, tipranavir/ritonavir). Also avoid in severe renal insufficiency.
+Tenofovir disoproxil fumarate	NRTI1	300 mg qd3	 	Nausea, diarrhea, vomiting, flatulence, headache, renal insufficiency	Avoid atazanavir, didanosine, probenecid.
+Tipranavir	PI2	500 mg bid with ritonavir 200 mg bid	Take with food. Separate from ddI by ≥2 h. Avoid antacids.	Diarrhea, nausea, vomiting, abdominal pain, rash, ↑ liver enzymes, hyperlipidemia	See footnote 4. Avoid concurrent atazanavir, elvitegravir/cobicistat, etravirine, fosamprenavir, lopinavir/ritonavir, saquinavir. Avoid in patients with severe hepatic insufficiency, who are at risk for bleeding, or with sulfa allergy. Avoid vitamin E with the oral solution.
+Zidovudine	NRTI1	200 mg tid or 300 mg bid3	 	Macrocytic anemia, neutropenia, nausea, headache, insomnia, myopathy	Avoid concurrent stavudine and myelosuppressive drugs (eg, ganciclovir, ribavirin).
+1
+All NRTI agents carry the risk of lactic acidosis with hepatic steatosis as a potential adverse event.
+
+2
+All PI agents carry the risk of hyperlipidemia, fat maldistribution, hyperglycemia, and insulin resistance as potential adverse events.
+
+3
+Adjust dose in renal insufficiency.
+
+4
+Because of altered systemic exposures, concurrent drugs that interact with the CYP3A4 system should be used with caution, including alfuzosin, amiodarone, aprepitant, artemether/lumefantrine, astemizole, atovaquone, benzodiazepines (diazepam, midazolam, triazolam), bexarotene, bepridil, bosentan, bupropion, calcium channel blockers (diltiazem, felodipine, nifedipine, nimodipine, verapamil), carbamazepine, ceritinib, cimetidine, cisapride, clopidogrel, colchicine, conivaptan, corticosteroids, cyclosporine, dabrafenib, dapsone, desipramine, direct Factor Xa inhibitors (apixaban, rivaroxaban), disopyramide, dofetilide, dronedarone, enzalutamide, ergot alkaloid derivatives, ethinyl estradiol/norethindrone acetate, flecainide, fluticasone, gestodene, idelalisib, irinotecan, ivacaftor, levodopa, lidocaine, lumacaftor, lurasidone, macrolide agents (clarithromycin, telithromycin), methadone, mitotane, nafcillin, PDE5 inhibitors, phenobarbital, phenytoin, pimozide, primidone, propafenone, protein pump inhibitors, quinidine, ranolazine, rifabutin, salmeterol, spironolactone, statin agents, St. John’s wort, tacrolimus, triazole antifungal agents (itraconazole ketoconazole, posaconazole, voriconazole), terfenadine, and warfarin.
+
+INSTI, integrase strand transfer inhibitor; NNRTI, nonnucleoside reverse transcriptase inhibitor; NRTI, nucleoside/nucleotide reverse transcriptase inhibitor; PI, protease inhibitor.
+
+Knowledge of viral dynamics through the use of viral load and resistance testing has made it clear that combination therapy with maximally potent agents will reduce viral replication to the lowest possible level, thereby reducing the number of cumulative mutations and decreasing the likelihood of emergence of resistance. Thus, administration of combination antiretroviral therapy, typically including at least three antiretroviral agents with differing susceptibility patterns, has become the standard of care. Viral susceptibility to specific agents varies among patients and may change with time. Therefore, such combinations must be chosen with care and tailored to the individual, as must changes to a given regimen. In addition to potency and susceptibility, important factors in the selection of agents for any given patient are tolerability, convenience, and optimization of adherence. New drugs with high potency, low toxicity, and good tolerability increase the feasibility of early, lifelong treatment. As new agents have become available, several older ones have had diminished usage, because of either suboptimal safety or inferior efficacy. Zalcitabine (ddC; dideoxycytidine) is no longer marketed, and regimens containing zidovudine (AZT; azidothymidine), ddI (didanosine), or stavudine (d4T) are infrequently recommended as first-line regimens.
+
+Decrease of the circulating viral load by antiretroviral therapy is correlated with enhanced survival as well as decreased morbidity. Also, the use of antiretroviral therapy strongly reduces the risk for heterosexual and same-sex HIV transmission.
+
+Discussion of antiretroviral agents in this chapter is specific to HIV-1. Patterns of susceptibility of HIV-2 to these agents may vary; however, there is innate resistance to the NNRTIs and enfuvirtide as well as a lower barrier of resistance to NRTIs and PIs.
+
+NUCLEOSIDE & NUCLEOTIDE REVERSE TRANSCRIPTASE INHIBITORS (NRTIs)
+The NRTIs act by competitive inhibition of HIV-1 reverse transcriptase; incorporation into the growing viral DNA chain causes premature chain termination due to inhibition of binding with the incoming nucleotide (Figure 49–3). Each agent requires intracytoplasmic activation via phosphorylation by cellular enzymes to the triphosphate form.
+
+Typical resistance mutations include M184V, L74V, D67N, and M41L. Lamivudine or emtricitabine therapy tends to select rapidly for the M184V mutation in regimens that are not fully suppressive. While the M184V mutation confers reduced susceptibility to abacavir, didanosine, and zalcitabine, its presence may restore phenotypic susceptibility to zidovudine. The K65R/N mutation is associated with reduced susceptibility to tenofovir, abacavir, lamivudine, and emtricitabine.
+
+All NRTIs may be associated with mitochondrial toxicity, which may manifest as peripheral neuropathy, pancreatitis, lipoatrophy, and hepatic steatosis. Less commonly, lactic acidosis may occur, which can be fatal. NRTI treatment should be suspended in the setting of rapidly rising aminotransferase levels, progressive hepatomegaly, or metabolic acidosis of unknown cause. Lipoatrophy and insulin resistance may occur most frequently with use of the thymidine analogs stavudine and zidovudine, and least frequently with use of tenofovir, lamivudine, emtricitabine, and abacavir.
+
+ABACAVIR
+Abacavir is a guanosine analog that is well absorbed following oral administration (83%) and is unaffected by food. The serum half-life is 1.5 hours. The drug undergoes hepatic glucuronidation and carboxylation. Dosage reduction is recommended in mild hepatic impairment; no data are available for patients with moderate or severe liver disease. Since the drug is metabolized by alcohol dehydrogenase, serum levels of abacavir may be increased with concurrent alcohol (ie, ethanol) ingestion. Cerebrospinal fluid levels are approximately one-third those of plasma. Abacavir is one of the NRTI agents recommended for use in pregnancy (Table 49–5).
+
+Hypersensitivity reactions, occasionally fatal, have been reported in up to 8% of patients receiving abacavir and may be more severe in association with once-daily dosing. Symptoms, which generally occur within the first 6 weeks of therapy, include fever, fatigue, nausea, vomiting, diarrhea, and abdominal pain. Dyspnea, pharyngitis, and cough, and elevations in serum aminotransferase or creatine kinase levels may also be present, with skin rash in ~50% of patients. Rechallenge is contraindicated. Screening for HLA-B*5701 before initiation of abacavir therapy is important to identify patients with an increased risk for abacavir-associated hypersensitivity reaction (see Table 5–4). Although the positive predictive value of this test is only about 50%, it has a negative predictive value approaching 100%.
+
+Rash occurs in approximately 5% of patients, typically in the first 6 weeks of treatment. Less frequent adverse events are fever, nausea, vomiting, diarrhea, headache, dyspnea, fatigue, and pancreatitis. In some studies but not in others, abacavir has been associated with an increased risk of myocardial infarction. The class effects of mitochondrial toxicity and disorders of lipid metabolism seem to be less common with abacavir than with other nucleoside analogs.
+
+DIDANOSINE
+Didanosine (ddI) is a synthetic analog of deoxyadenosine. Oral bioavailability is approximately 40%. Buffered or enteric-coated formulations are necessary to prevent inactivation by gastric acid. Cerebrospinal fluid concentrations of the drug are approximately 20% of serum concentrations. Serum half-life is 1.5 hours, but the intracellular half-life of the activated compound is 20–24 hours. The drug is eliminated by both cellular metabolism and renal excretion.
+
+The major clinical toxicities associated with didanosine therapy are peripheral distal sensory neuropathy and dose-dependent pancreatitis. Therefore, co-administration with drugs or conditions that increase the risk of either (eg, alcohol abuse, hypertriglyceridemia, pregnancy, zalcitabine, stavudine, isoniazid, vincristine, ribavirin, and hydroxyurea), should be avoided. Other reported adverse effects include diarrhea (particularly with the buffered formulation), hepatitis, esophageal ulceration, cardiomyopathy, central nervous system toxicity (headache, irritability, insomnia), and hypertriglyceridemia. Concurrent stavudine increases the risk of lactic acidosis. Reports of retinal changes and optic neuritis in patients receiving didanosine, particularly in adults receiving high doses and in children, mandate periodic retinal examinations.
+
+Increased levels of didanosine when administered with tenofovir necessitate dose reduction. Concurrent allopurinol or ribavirin is contraindicated. The buffer in didanosine tablets interferes with the absorption of delavirdine and nelfinavir, necessitating separation in time. The chewable tablets contain phenylalanine, which can be harmful to patients with phenylketonuria.
+
+EMTRICITABINE
+Emtricitabine (FTC) is a fluorinated analog of lamivudine with a long intracellular half-life (>24 hours), allowing for once-daily dosing. Oral bioavailability of the capsules is 93% and is unaffected by food, but penetration into the cerebrospinal fluid is low. Elimination is by both glomerular filtration and active tubular secretion. The serum half-life is about 10 hours.
+
+Emtricitabine is one of the NRTI agents recommended for use in pregnancy (Table 49–5). The combination of tenofovir and emtricitabine is recommended as pre-exposure prophylaxis to reduce HIV acquisition in high-risk persons.
+
+Both emtricitabine and lamivudine may select for the M184V/I mutation and therefore should not be used together.
+
+The most common adverse effects observed in patients receiving emtricitabine are headache, diarrhea, nausea, and rash. Hyperpigmentation of the palms or soles may be observed (~ 3%), particularly in African Americans (up to 13%). Clinically significant drug-drug interactions involving emtricitabine have not been identified. Due to its activity against HBV, exacerbation of HBV may occur if therapy is interrupted or discontinued in patients co-infected with HIV.
+
+LAMIVUDINE
+Lamivudine (3TC) is a cytosine analog with in vitro activity against both HIV-1 and HBV.
+
+Oral bioavailability exceeds 80% and is not food-dependent. The mean cerebrospinal fluid:plasma ratio of lamivudine is 0.1–0.2. Serum half-life is 2.5 hours, whereas the intracellular half-life of the triphosphorylated compound is 11–14 hours. Lamivudine is predominantly eliminated in the urine by active organic cation secretion.
+
+Lamivudine is one of the recommended NRTI agents for use in pregnant women (Table 49–5).
+
+Adverse effects are uncommon but include headache, dizziness, insomnia, fatigue, dry mouth, and gastrointestinal discomfort. Due to its activity against HBV, exacerbation of HBV may occur if therapy is interrupted or discontinued in patients co-infected with HIV and HBV. Since both emtricitabine and lamivudine may select for the M184V/I mutation, these agents should not be used together. Levels of lamivudine may increase when administered with trimethoprim-sulfamethoxazole. Lamivudine and zalcitabine may inhibit the intracellular phosphorylation of one another; therefore, their concurrent use should be avoided if possible.
+
+STAVUDINE
+The thymidine analog stavudine (d4T) has high oral bioavailability (86%) that is not food-dependent. The serum half-life is 1.1 hours, the intracellular half-life is 3.0–3.5 hours, and mean cerebrospinal fluid concentrations are 55% of those of plasma. Excretion is by active tubular secretion and glomerular filtration.
+
+The major toxicity is a dose-related peripheral sensory neuropathy; incidence may be increased with concomitant neurotoxic drugs such as didanosine, vincristine, isoniazid, or ribavirin, or in patients with advanced immunosuppression. Other potential adverse effects are pancreatitis, arthralgias, and elevation in serum aminotransferases. Caution is advised in patients with liver dysfunction. A rare adverse effect is a rapidly progressive ascending neuromuscular weakness. Lactic acidosis with hepatic steatosis, as well as lipodystrophy, appear to occur more frequently in patients receiving stavudine than in those receiving other NRTI agents. Stavudine should not be administered with didanosine due to increased risk of both lactic acidosis and pancreatitis. This combination has been implicated in several deaths in HIV-infected pregnant women. Since zidovudine may reduce the intracellular phosphorylation of stavudine, these two drugs should not be used together.
+
+TENOFOVIR DISOPROXIL FUMARATE
+Tenofovir is an acyclic nucleoside phosphonate (ie, nucleotide) analog of adenosine with activity against HIV and HBV. Like the nucleoside analogs, tenofovir competitively inhibits HIV reverse transcriptase and causes chain termination after incorporation into DNA. However, only two rather than three intracellular phosphorylations are required for active inhibition of DNA synthesis.
+
+Tenofovir disoproxil fumarate is a water-soluble prodrug of active tenofovir. The oral bioavailability increases from 25% in the fasted state to 39% after a high-fat meal. The prolonged serum (12–17 hours) and intracellular half-lives allow once-daily dosing. Elimination occurs by both glomerular filtration and active tubular secretion, and dosage adjustment in patients with renal insufficiency is recommended.
+
+Tenofovir disoproxil fumarate is one of the NRTI agents recommended for use in pregnancy (Table 49–5). The combination of tenofovir and emtricitabine is recommended as pre-exposure prophylaxis to reduce HIV acquisition in high-risk persons.
+
+Gastrointestinal complaints (eg, nausea, diarrhea, vomiting, flatulence) are the most common adverse effects but rarely require discontinuation. Since tenofovir is formulated with lactose, these may occur more frequently in patients with lactose intolerance. Cumulative loss of renal function has been observed, possibly increased with concurrent use of boosted PI regimens. Acute renal failure and Fanconi’s syndrome have also been reported. For this reason, tenofovir should be used with caution in patients at risk for renal dysfunction. Serum creatinine levels should be monitored during therapy and tenofovir discontinued for new proteinuria, glycosuria, or calculated glomerular filtration rate <30 mL/min. Tenofovir-associated proximal renal tubulopathy causes excessive renal phosphate and calcium losses and 1-hydroxylation defects of vitamin D; loss of bone mineral density and osteomalacia have been reported. Tenofovir may compete with other drugs that are actively secreted by the kidneys, such as cidofovir, acyclovir, and ganciclovir. Concurrent use of probenecid is contraindicated. Tenofovir levels may increase, and levels of telaprevir decrease, when these agents are co-administered. Due to its activity against HBV, exacerbation of HBV may occur if therapy is interrupted or discontinued in patients co-infected with HIV and HBV.
+
+TENOFOVIR ALAFENAMIDE
+Tenofovir alafenamide is a phosphonoamidate prodrug of tenofovir that is currently available in co-formulation with other antiretroviral agents (with emtricitabine, with elvitegravir plus cobicistat plus emtricitabine, and with rilpivirine plus emtricitabine). Plasma levels of active tenofovir in plasma are approximately 90% lower with tenofovir alafenamide than with tenofovir disoproxil, since metabolism occurs in lymphocytes and macrophages (as well as hepatocytes and some other cells) rather than blood.
+
+Tenofovir alafenamide is a substrate of P-glycoprotein, and levels of tenofovir can be affected by inhibitors or inducers of P-glycoprotein. Ritonavir and cobicistat can increase plasma concentrations of tenofovir, while darunavir can decrease tenofovir concentrations.
+
+Tenofovir alafenamide appears to have less renal and bone toxicity than tenofovir disoproxil fumarate; however this is still under investigation. It does not require dose adjustment in patients with creatinine clearance >30 mL/min.
+
+Tenofovir alafenamide is a substrate of P-glycoprotein, and levels of tenofovir can be affected by inhibitors or inducers of P-glycoprotein. Ritonavir and cobicistat can increase plasma concentrations of tenofovir, while darunavir can decrease tenofovir concentrations.
+
+Adverse effects appear to be uncommon but may include gastrointestinal symptoms or headache. Tenofovir alafenamide is active against hepatitis B and has been approved for treatment of HBV infection.
+
+ZIDOVUDINE
+Zidovudine (azidothymidine; AZT) is a deoxythymidine analog that is well absorbed (63%) and distributed to most body tissues and fluids, including the cerebrospinal fluid, where drug levels are 60–65% of those in serum. Although the serum half-life averages 1 hour, the intracellular half-life of the phosphorylated compound is 3–4 hours, allowing twice-daily dosing. Zidovudine is eliminated primarily by renal excretion following glucuronidation in the liver.
+
+Zidovudine was the first antiretroviral agent to be approved and has been well studied. Studies evaluating the use of zidovudine during pregnancy, labor, and postpartum showed significant reductions in the rate of vertical transmission, and zidovudine remains one of the NRTI agents recommended for use in pregnant women (Table 49–5). Zidovudine is also recommended as an option for postexposure prophylaxis in individuals exposed to HIV.
+
+The most common adverse effects of zidovudine are macrocytic anemia (1–4%) and neutropenia (2–8%). Gastrointestinal intolerance, headaches, and insomnia may occur but tend to resolve during therapy. A symptomatic myopathy may occur with prolonged use. Lipoatrophy appears to be more common in patients receiving zidovudine or other thymidine analogs. High doses can cause anxiety, confusion, and tremulousness.
+
+Induction or inhibition of glucuronidation may alter serum levels of zidovudine when co-administered with atovaquone, lopinavir/ritonavir, probenecid, or valproic acid. Concurrent stavudine is contraindicated due to competitive inhibition of intracellular phosphorylation.
+
+NONNUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS (NNRTIs)
+The NNRTIs bind directly to HIV-1 reverse transcriptase (Figure 49–3), resulting in allosteric inhibition of RNA- and DNA-dependent DNA polymerase activity. The binding site of NNRTIs is near to but distinct from that of NRTIs. Unlike the NRTI agents, NNRTIs neither compete with nucleoside triphosphates nor require phosphorylation to be active.
+
+The second-generation NNRTIs (etravirine, rilpivirine) have higher potency, longer half-lives and reduced side-effect profiles compared with older NNRTIs (delavirdine, efavirenz, nevirapine).
+
+Baseline genotypic testing is recommended prior to initiating NNRTI treatment because primary resistance rates range from approximately 2% to 8%. NNRTI resistance occurs rapidly with monotherapy and can result from a single mutation. The K103N and Y181C mutations confer resistance to the first-generation NNRTIs, but not to etravirine or rilpivirine. Other mutations (eg, L100I, Y188C, G190A) may also confer cross-resistance among the NNRTI class. However, there is no cross-resistance between the NNRTIs and the NRTIs; in fact, some nucleoside-resistant viruses display hypersusceptibility to NNRTIs.
+
+As a class, NNRTI agents tend to be associated with varying levels of gastrointestinal intolerance and skin rash, the latter of which may infrequently be serious (eg, Stevens-Johnson syndrome). A further limitation to use of NNRTI agents as a component of antiretroviral therapy is their metabolism by the CYP450 system, leading to innumerable potential drug-drug interactions (Tables 49–3 and 49–4). All NNRTI agents are substrates for CYP3A4 and can act as inducers (nevirapine), inhibitors (delavirdine), or mixed inducers and inhibitors (efavirenz, etravirine). Given the large number of non-HIV medications that are also metabolized by this pathway (see Chapter 4), drug-drug interactions must be expected and looked for; dosage adjustments are frequently required and some combinations are contraindicated.
+
+TABLE 49–4
+Clinically significant drug-drug interactions pertaining to two-drug antiretroviral combinations.1
+Agent	Drugs That Increase Its Serum Levels	Drugs That Decrease Its Serum Levels
+Atazanavir	Ritonavir	Didanosine, efavirenz, elvitegravir/cobicistat, etravirine, fosamprenavir, nevirapine, stavudine, tenofovir, tipranavir
+Darunavir	Indinavir	Efavirenz, lopinavir/ritonavir, saquinavir
+Delavirdine2	 	Didanosine, fosamprenavir
+Didanosine	Tenofovir	Atazanavir, ritonavir
+Dolutegravir	 	Efavirenz, etravirine, nevirapine
+Efavirenz2	Darunavir	 
+Elvitegravir3	Ritonavir	Efavirenz, nevirapine
+Etravirine	Atazanavir, delavirdine, indinavir, lopinavir/ritonavir	Efavirenz, nevirapine, ritonavir, saquinavir, tipranavir
+Fosamprenavir	Atazanavir, delavirdine, etravirine, ritonavir	Didanosine, efavirenz, lopinavir/ritonavir, maraviroc, nevirapine, tipranavir
+Indinavir	Darunavir, delavirdine, nelfinavir, ritonavir	Didanosine, efavirenz, etravirine, nevirapine
+Lopinavir/ritonavir	Darunavir	Didanosine, efavirenz, fosamprenavir, nelfinavir, nevirapine, tipranavir
+Maraviroc	Atazanavir, darunavir, lopinavir/ritonavir, nevirapine, saquinavir, ritonavir	Efavirenz, etravirine, tipranavir
+Nelfinavir	Delavirdine, indinavir, ritonavir, saquinavir	 
+Nevirapine2	Fosamprenavir	 
+Raltegravir	Atazanavir	Etravirine, tipranavir
+Rilpivirine2	Darunavir, lopinavir/ritonavir	 
+Saquinavir	Atazanavir, delavirdine, indinavir, lopinavir/ritonavir, nelfinavir, ritonavir	Efavirenz, etravirine, nevirapine, tipranavir
+Tenofovir alafenamide	Ritonavir	Darunavir
+Tenofovir disoproxil fumarate	Atazanavir	 
+Tipranavir	 	Efavirenz
+1
+Dose adjustment may be necessary if co-administered.
+
+2
+NNRTI-NNRTI drug-drug interactions are not listed.
+
+3
+Drug-drug interactions are rare with elvitegravir as a single agent but multiple if co-administered with either cobicistat or ritonavir.
+
+DELAVIRDINE
+Delavirdine has an oral bioavailability of about 85%, but this is reduced by antacids or H2-blockers. It is extensively bound (~98%) to plasma proteins and has correspondingly low cerebrospinal fluid levels. Serum half-life is approximately 6 hours.
+
+Skin rash occurs in up to 38% of patients receiving delavirdine; it typically occurs during the first 1–3 weeks of therapy and does not preclude rechallenge. However, severe rash such as erythema multiforme and Stevens-Johnson syndrome have rarely been reported. Other possible adverse effects are headache, fatigue, nausea, diarrhea, and increased serum aminotransferase levels. Delavirdine has been shown to be teratogenic in rats, causing ventricular septal defects and other malformations at dosages not unlike those achieved in humans. Thus, pregnancy should be avoided when taking delavirdine.
+
+Delavirdine is extensively metabolized by CYP3A and CYP2D6 enzymes. Therefore, there are numerous potential drug-drug interactions to consider (Tables 49–3 and 49–4). The concurrent use of delavirdine with fosamprenavir is not recommended because of bidirectional interactions. Co-administration of delavirdine with indinavir or saquinavir prolongs the elimination half-life of the latter agents, thus allowing them to be dosed twice rather than thrice daily.
+
+EFAVIRENZ
+Efavirenz can be given once daily because of its long half-life (40–55 hours). It is moderately well absorbed following oral administration (45%). Since toxicity may increase owing to increased bioavailability after a high-fat meal, efavirenz should be taken on an empty stomach. Efavirenz is principally metabolized by CYP3A4 and CYP2B6 to inactive hydroxylated metabolites; the remainder is eliminated in the feces as unchanged drug. It is highly bound to albumin (~ 99%), and cerebrospinal fluid levels range from 0.3% to 1.2% of plasma levels.
+
+The principal adverse effects of efavirenz involve the central nervous system. Dizziness, drowsiness, insomnia, nightmares, and headache tend to diminish with continued therapy; dosing at bedtime may also be helpful. Psychiatric symptoms such as depression, mania, and psychosis have been observed in the weeks following initiation and may necessitate discontinuation. Skin rash has been reported early in therapy in up to 28% of patients; the rash is usually mild to moderate in severity and typically resolves despite continuation. Rarely, rash has been severe or life-threatening. Other potential adverse reactions are nausea, vomiting, diarrhea, crystalluria, elevated liver enzymes, and an increase in total serum cholesterol by 10–20%. High rates of fetal abnormalities, such as neural tube defects, occurred in pregnant monkeys exposed to efavirenz in doses roughly equivalent to the human dosage; several cases of congenital anomalies have been reported in humans. Efavirenz is one of the NNRTI agents recommended for use in pregnancy (Table 49–5), but should be initiated after the first 8 weeks due to birth defects observed in a primate study.
+
+TABLE 49–5
+The use of antiretroviral agents in pregnancy.
+Recommended Agents	Alternate Agents
+Nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs)
+ Abacavir, emtricitabine, lamivudine, tenofovir disoproxil fumarate, zidovudine	
+Non-nucleoside reverse transcriptase inhibitors (NNRTIs)
+ Efavirenz	Rilpivirine
+Protease inhibitors (PIs)
+ Atazanavir/ritonavir, darunavir/ritonavir	Lopinavir/ritonavir
+Integrase inhibitors
+ Raltegravir	 
+As both an inducer and an inhibitor of CYP3A4, efavirenz induces its own metabolism and interacts with the metabolism of many other drugs (Tables 49–3 and 49–4). Co-administration with boceprevir, elvitegravir/cobicistat, etravirine, indinavir, itraconazole, ketoconazole, and simeprevir is contraindicated. Levels of efavirenz may be reduced by concomitant nevirapine. Levels of lopinavir/ritonavir, maraviroc, methadone, and telaprevir may be reduced when administered with efavirenz.
+
+ETRAVIRINE
+Etravirine, a diarylpyrimidine, was designed to be effective against strains of HIV that had developed resistance to first-generation NNRTIs due to mutations such as K103N and Y181C. Although etravirine has a higher genetic barrier to resistance than the other NNRTIs, mutations selected by etravirine usually are associated with resistance to efavirenz, nevirapine, and delavirdine.
+
+Etravirine should be taken with a meal to increase systemic exposure. It is highly protein-bound and is primarily metabolized by the liver. Mean terminal half-life is ~41 hours.
+
+The most common adverse effects of etravirine are rash, nausea, and diarrhea. The rash is typically mild and usually resolves after 1–2 weeks without discontinuation of therapy. Rarely, rash has been severe or life-threatening. Laboratory abnormalities include elevations in serum cholesterol, triglyceride, glucose, and hepatic aminotransferase levels. Aminotransferase elevations are more common in patients with HBV or HCV co-infection.
+
+Etravirine is a substrate as well as an inducer of CYP3A4 and an inhibitor of CYP2C9 and CYP2C19 and thus has potential for numerous drug-drug interactions (Tables 49–3 and 49–4). Some of the interactions are difficult to predict. For example, etravirine may decrease itraconazole and ketoconazole concentrations but increase voriconazole concentrations. Etravirine should not be given with atazanavir, clopidogrel, efavirenz, elvitegravir/cobicistat, fosamprenavir, indinavir, and tipranavir. In addition, co-administration with clarithromycin or with the antimalarial agent artemether/lumefantrine should be avoided if possible.
+
+NEVIRAPINE
+The oral bioavailability of nevirapine is excellent (>90%) and is not food-dependent. The drug is highly lipophilic and achieves cerebrospinal fluid levels that are 45% of those in plasma. Serum half-life is 25–30 hours. It is extensively metabolized by the CYP3A isoform to hydroxylated metabolites and then excreted, primarily in the urine.
+
+A single dose of nevirapine (200 mg) is effective in the prevention of transmission of HIV from mother to newborn when administered at the onset of labor and followed by a 2-mg/kg dose to the neonate within 3 days of delivery. However, nevirapine is no longer recommended for use in pregnancy due to the potential for adverse events and low barrier to resistance.
+
+Rash, usually a maculopapular eruption that spares the palms and soles, occurs in up to 20% of patients, usually in the first 4–6 weeks of therapy. Although typically mild and self-limited, rash is dose-limiting in about 7% of patients. Women appear to have an increased incidence of rash. When initiating therapy, gradual dose escalation over 14 days is recommended to decrease the incidence of rash. Severe and life-threatening skin rashes, including Stevens-Johnson syndrome and toxic epidermal necrolysis, are rare but are more common than with other NNRTIs. Nevirapine therapy should be immediately discontinued in patients with severe rash and in those with accompanying constitutional symptoms; since rash may accompany hepatotoxicity, liver tests should be assessed. Symptomatic liver toxicity may occur in up to 4% of patients, may be severe, and is more frequent in those with higher pretherapy CD4 cell counts (ie, >250 cells/mm3 in women and >400 cells/mm3 in men), in women, and in those with HBV or HCV co-infection. Fulminant, life-threatening hepatitis has been reported, typically within the first 18 weeks of therapy. Other adverse effects include fever, nausea, headache, and somnolence.
+
+Nevirapine is a moderate inducer of CYP3A metabolism, resulting in numerous potential drug-drug interactions (see Tables 49–3 and 49–4). Co-administration of artemether/lumefantrine, atazanavir, dolutegravir, elvitegravir/cobicistat, fosamprenavir, ketoconazole, and rifampin should be avoided.
+
+RILPIVIRINE
+Rilpivirine, a diarylpyrimidine, must be administered with a meal (preferably high fat or >400 kcal). Its oral bioavailability is dependent on an acid gastric environment for optimal absorption; thus antacids and H2-receptor antagonists should be separated in time and proton pump inhibitors are contraindicated. The drug is highly protein bound and the terminal elimination half-life is 50 hours.
+
+Rilpivirine is one of the NNRTI agents recommended for use in pregnancy (Table 49–5). Rilpivirine is primarily metabolized by CYP3A4, and drugs that induce or inhibit CYP3A4 may thus affect the clearance of rilpivirine (see Table 49–3). However, clinically significant drug-drug interactions with other antiretroviral agents have not been identified to date.
+
+The most common adverse effects associated with rilpivirine therapy are rash, depression, headache, insomnia, and increased serum aminotransferases. Increased serum cholesterol, and fat redistribution syndrome have also been reported. Higher doses have been associated with QTc prolongation. Inhibition of renal tubular secretion of creatinine causes a reversible elevation in serum creatinine, but glomerular filtration rate is not affected.
+
+PROTEASE INHIBITORS (PIs)
+During the later stages of the HIV growth cycle, the gag and gag-pol gene products are translated into polyproteins, and these become immature budding particles. The HIV protease is responsible for cleaving these precursor molecules to produce the final structural proteins of the mature virion core. By preventing post-translational cleavage of the Gag-Pol polyprotein, protease inhibitors (PIs) prevent the processing of viral proteins into functional conformations, resulting in the production of immature, noninfectious viral particles (Figure 49–3). Unlike the NRTIs, PIs do not need intracellular activation.
+
+Specific genotypic alterations that confer phenotypic resistance are fairly common with these agents, thus contraindicating monotherapy. Some of the most common mutations conferring broad resistance to PIs are substitutions at the 10, 46, 54, 82, 84, and 90 codons; the number of mutations may predict the level of phenotypic resistance. The I50L substitution emerging during atazanavir therapy has been associated with increased susceptibility to other PIs. Darunavir and tipranavir appear to have improved virologic activity in patients harboring HIV-1 resistant to other PIs.
+
+As a class, PIs are associated with gastrointestinal intolerance, which may be dose-limiting, and lipodystrophy, which includes both metabolic (hyperglycemia, hyperlipidemia) and morphologic (lipoatrophy, fat deposition) derangements. A syndrome of redistribution and accumulation of body fat that results in central obesity, dorsocervical fat enlargement (buffalo hump), peripheral and facial wasting, breast enlargement, and a cushingoid appearance has been observed, least commonly with atazanavir. PIs may be associated with cardiac conduction abnormalities, including PR and QT interval prolongation. A baseline electrocardiogram and avoidance of other agents causing prolonged PR or QT intervals should be considered. Abacavir, lopinavir/ritonavir, and fosamprenavir/ritonavir have been associated with an increased risk of cardiovascular disease in some, but not all, studies. Drug-induced hepatitis and rare severe hepatotoxicity have been reported to varying degrees with all PIs; the frequency of hepatic events is higher with tipranavir/ritonavir than with other PIs. Unconjugated hyperbilirubinemia may occur with atazanavir or indinavir. Whether PI agents are associated with bone loss and osteoporosis after long-term use is under investigation. PIs have been associated with increased spontaneous bleeding in patients with hemophilia A or B; an increased risk of intracranial hemorrhage has been reported in patients receiving tipranavir/ritonavir. Darunavir, amprenavir, fosamprenavir, and tipranavir are sulfonamides; caution should be used in patients with a history of sulfa allergy.
+
+All of the antiretroviral PIs are extensively metabolized by CYP3A4, with ritonavir having the most pronounced inhibitory effect and saquinavir the least. Some PI agents, such as amprenavir and ritonavir, are also inducers of specific CYP isoforms. As a result, there is enormous potential for drug-drug interactions with other antiretroviral agents and other commonly used medications (Tables 49–3 and 49–4). Expert resources about drug-drug interactions should be consulted, as dosage adjustments are frequently required and some combinations are contraindicated. It is noteworthy that the potent CYP3A4 inhibitory properties of ritonavir are used to clinical advantage by having it “boost” the levels of other PI agents when given in combination, thus acting as a pharmacokinetic enhancer rather than an antiretroviral agent. Ritonavir boosting increases drug exposure, thereby prolonging the drug’s half-life and allowing reduction in frequency; in addition, the genetic barrier to resistance is raised.
+
+ATAZANAVIR
+Atazanavir is an azapeptide PI with a pharmacokinetic profile that allows once-daily dosing. Atazanavir requires an acidic medium for absorption and exhibits pH-dependent aqueous solubility; therefore, it should be taken with meals. Separation of ingestion from acid-reducing agents by at least 12 hours is recommended and concurrent proton pump inhibitors are contraindicated. Atazanavir is able to penetrate both the cerebrospinal and seminal fluids. The plasma half-life is 6–7 hours, which increases to approximately 11 hours when co-administered with ritonavir. The primary route of elimination is biliary; atazanavir should not be given to patients with severe hepatic insufficiency.
+
+Boosted atazanavir is one of the recommended PI agents for use in pregnant women (Table 49–5).
+
+The most common adverse effects in patients receiving atazanavir are diarrhea and nausea; vomiting, abdominal pain, headache, and peripheral neuropathy may also occur. Skin rash, reported in ~20% of patients, is generally mild; however severe rash and Stevens Johnson syndrome have been reported. As with indinavir, indirect hyperbilirubinemia with overt jaundice may occur in approximately 10% of patients, owing to inhibition of the UGT1A1 glucuronidation enzyme. Elevation of serum aminotransferases has separately been observed, usually in patients with underlying HBV or HCV co-infection. Kidney stones, gallstones, PR prolongation, and decreased bone mineral density have also been reported. In contrast to the other PIs, atazanavir does not appear to be associated with dyslipidemia or hyperglycemia. The oral powder contains phenylalanine, which can be harmful to patients with phenylketonuria.
+
+As an inhibitor of CYP3A4, CYP2C9, and UGT1A1, the potential for drug-drug interactions with atazanavir is great (Tables 49–3 and 49–4). Due to decreased atazanavir levels, atazanavir should not be administered with bosentan, elvitegravir/cobicistat, etravirine, fosamprenavir, nevirapine, proton pump inhibitors, or tipranavir. Tenofovir and efavirenz should not be co-administered with atazanavir unless ritonavir is added to boost levels. In addition, co-administration of atazanavir with other drugs that inhibit UGT1A1, such as irinotecan, may increase its levels. Atovaquone and voriconazole levels may be decreased with coadministration, and levels of maraviroc and ranolazine may be increased.
+
+DARUNAVIR
+Darunavir must be co-administered with ritonavir or cobicistat. Darunavir should be taken with meals to improve bioavailability. It is highly protein-bound and primarily metabolized by the liver.
+
+Boosted darunavir is one of the PI agents recommended for use in pregnancy (Table 49–5).
+
+Adverse effects include diarrhea, nausea, headache, and increases in amylase and hepatic aminotransferase levels. Rash occurs in 2–7% of patients and may occasionally be severe. Liver toxicity, including severe hepatitis, has been reported, such that liver function tests should be monitored; the risk may be higher for persons with HBV, HCV, or other chronic liver disease. Darunavir contains a sulfonamide moiety and may cause a hypersensitivity reaction, particularly in patients with sulfa allergy.
+
+Darunavir both inhibits and is metabolized by the CYP3A enzyme system, conferring many possible drug-drug interactions (Tables 49–3 and 49–4). In addition, the co-administered ritonavir is a potent inhibitor of CYP3A and CYP2D6, and an inducer of other hepatic enzyme systems. Co-administration with elvitegravir/cobicistat or simeprevir is contraindicated due to bidirectional drug-drug interactions. Levels of cyclophosphamide, digoxin, and simeprevir may be increased when administered with darunavir, and levels of paroxetine and sertraline may be decreased.
+
+FOSAMPRENAVIR
+Fosamprenavir is a prodrug of amprenavir that is rapidly hydrolyzed by enzymes in the intestinal epithelium. Because of its significantly lower daily pill burden, fosamprenavir tablets have replaced amprenavir capsules for adults. Fosamprenavir is most often administered in combination with low-dose ritonavir.
+
+After hydrolysis of fosamprenavir, amprenavir is rapidly absorbed from the gastrointestinal tract, and its prodrug can be taken with or without food. However, high-fat meals decrease absorption and thus should be avoided. The plasma half-life is relatively long (7–11 hours). Amprenavir is metabolized in the liver and should be used with caution in the setting of hepatic insufficiency.
+
+The most common adverse effects of fosamprenavir are headache, nausea, diarrhea, perioral paresthesias, depression. Fosamprenavir contains a sulfa moiety and may cause a rash in up to 19% of patients, sometimes severe enough to warrant drug discontinuation.
+
+Amprenavir is both an inducer and an inhibitor of CYP3A4 (Tables 49–3 and 49–4). Co-administration of elvitegravir/cobicistat, etravirine, lopinavir/ritonavir, nevirapine, posaconazole, or ranolazine is contraindicated. The oral suspension, which contains propylene glycol, is contraindicated in young children, pregnant women, patients with renal or hepatic failure, and those using metronidazole or disulfiram. Also, the oral solutions of amprenavir and ritonavir should not be co-administered because the propylene glycol in one and the ethanol in the other may compete for the same metabolic pathway, leading to accumulation of either. Because the oral solution contains vitamin E at several times the recommended daily dosage, supplemental vitamin E should be avoided.
+
+INDINAVIR
+Indinavir requires an acidic environment for optimum solubility and therefore must be consumed on an empty stomach or with a small, low-fat, low-protein meal for maximal absorption (60–65%). The serum half-life is 1.5–2 hours, protein binding is ~60%, and the drug has a high level of cerebrospinal fluid penetration (up to 76% of serum levels). Excretion is primarily fecal. An increase in AUC by 60% and in half-life to 2.8 hours in the setting of hepatic insufficiency necessitates dose reduction.
+
+The most common adverse effects of indinavir are unconjugated hyperbilirubinemia and nephrolithiasis due to urinary crystallization of the drug. Nephrolithiasis can occur within days after initiating therapy, with an estimated incidence of approximately 10%. Acute renal failure and interstitial fibrosis have also been reported. Consumption of at least 48 ounces of water daily is important to maintain adequate hydration, and serum creatinine levels should be monitored. Nausea, diarrhea, sicca syndrome, headache, blurred vision, and elevations of serum aminotransferase levels have also been reported. Insulin resistance may be more common with indinavir than with the other PIs, occurring in 3–5% of patients. In some studies but not in others, indinavir has been associated with a higher risk of myocardial infarction. There have also been rare cases of acute hemolytic anemia.
+
+Since indinavir is an inhibitor of CYP3A4, numerous and complex drug interactions can occur (Tables 49–3 and 49–4). Boosting with ritonavir allows for twice-daily rather than thrice-daily dosing and eliminates the food restriction associated with use of indinavir. However, there is potential for an increase in nephrolithiasis with this combination compared with indinavir alone; thus, a high fluid intake (1.5–2 L/d) is advised. Indinavir should not be co-administered with astemizole, cerivastatin, efavirenz, ergotamine, etravirine, lovastatin, pimozide, rifampin, simvastatin, terfenadine, or triazolam. Levels of amlodipine, levodopa, and trazodone may be increased with concurrent administration of indinavir.
+
+LOPINAVIR
+Lopinavir is available only in combination with low-dose ritonavir as a pharmacologic “booster” via inhibition of its CYP3A-mediated metabolism, resulting in increased exposure and a reduced pill burden.
+
+Lopinavir is highly protein bound (98–99%), and its half-life is 5–6 hours. It is extensively metabolized by CYP3A, which is inhibited by ritonavir. Lopinavir/ritonavir is one of the recommended antiretroviral agents for use in pregnant women (Table 49–5).
+
+The most common adverse effects of lopinavir are diarrhea, nausea, vomiting, increased serum lipids, and increased serum aminotransferases (more common in patients with HBV or HCV co-infection). Prolongation of the PR and/or QT interval may occur. In some studies but not in others, lopinavir/ritonavir has been associated with a higher risk of myocardial infarction. Pancreatitis has rarely been reported. Ritonavir-boosted lopinavir may be more commonly associated with gastrointestinal adverse events than other PIs.
+
+Potential drug-drug interactions are extensive (Tables 49–3 and 49–4). Levels of lamotrigine and methadone may be reduced with co-administration, and levels of bosentan may be increased. Concurrent use of darunavir, elvitegravir/cobicistat, fosamprenavir, and tipranavir is contraindicated. Since the oral solution of lopinavir/ritonavir contains alcohol, concurrent disulfiram and metronidazole are contraindicated. The oral solution also contains propylene glycol, contraindicating the co-administration of other drugs containing propylene glycol.
+
+NELFINAVIR
+Nelfinavir has high absorption in the fed state (70–80%), undergoes metabolism by CYP3A, and is excreted primarily in the feces. The plasma half-life in humans is 3.5–5 hours, and the drug is more than 98% protein-bound.
+
+The most common adverse effects associated with nelfinavir (10–30%) are diarrhea and flatulence. Diarrhea responds to anti-diarrheal medications but may be dose-limiting. Nelfinavir is an inhibitor of the CYP3A system, and multiple drug interactions may occur (Tables 49–3 and 49–4). An increased dosage of nelfinavir is recommended when co-administered with rifabutin (with a decreased dose of rifabutin), whereas a decrease in saquinavir dose is suggested with concurrent nelfinavir. Do not co-administer with astemizole, cerivastatin, cisapride, ergotamine, lovastatin, omeprazole, pimozide, quinidine, rifampin, simvastatin, or terfenadine. The oral powder contains phenylalanine, which can be harmful to patients with phenylketonuria.
+
+RITONAVIR
+Ritonavir has a high bioavailability (~75%) that increases with food. It is 98% protein-bound and has a serum half-life of 3–5 hours. Metabolism to an active metabolite occurs via the CYP3A and CYP2D6 isoforms; excretion is primarily in the feces. Ritonavir as a pharmacologic “booster” is one of the recommended antiretroviral agents for use in pregnant women (Table 49–5).
+
+Adverse effects of full-dose ritonavir include asthenia, gastrointestinal disturbances, and hepatitis; these are greatly reduced with the lower doses used for boosting. Dose escalation over 1–2 weeks decreases these side effects. Other potential adverse effects include altered taste, paresthesias (circumoral or peripheral), elevated serum aminotransferase and lipid levels, headache, elevations in serum creatine kinase, and pancreatitis. Inhibition of renal tubular secretion of creatinine causes a reversible elevation in serum creatinine, but glomerular filtration rate is not affected.
+
+Ritonavir is a potent inhibitor of CYP3A4, resulting in many potential drug interactions (Tables 49–3 and 49–4). However, this characteristic has been used to great advantage when ritonavir is administered in low doses (100–200 mg twice daily) in combination with any of the other PI agents, to permit lower or less frequent dosing (or both) with greater tolerability as well as the potential for greater efficacy against resistant virus. Therapeutic levels of digoxin and theophylline should be monitored when co-administered with ritonavir. The concurrent use of saquinavir and ritonavir is contraindicated due to an increased risk of QT prolongation (with torsades de pointes arrhythmia) and PR interval prolongation. Concurrent simeprevir is also contraindicated.
+
+SAQUINAVIR
+In its original formulation as a hard gel capsule, oral saquinavir was poorly bioavailable (~4% after food). However, reformulation of saquinavir for once-daily dosing in combination with low-dose ritonavir has both improved antiviral efficacy and decreased gastrointestinal adverse effects. A previous formulation of saquinavir in soft gel capsules is no longer available.
+
+Saquinavir should be taken within 2 hours after a fatty meal for enhanced absorption. Saquinavir is 97% protein-bound, and serum half-life is approximately 2 hours. Saquinavir has a large volume of distribution, but penetration into the cerebrospinal fluid is negligible. Excretion is primarily in the feces. Gastrointestinal discomfort (nausea, diarrhea, abdominal discomfort, dyspepsia) may occur. When administered in combination with low-dose ritonavir, there appears to be less dyslipidemia or gastrointestinal toxicity than with some of the other boosted PI regimens. Since prolongation of the QT interval and torsades de pointes have rarely been reported, saquinavir should not be used in patients with congenital long QT syndrome, AV block, refractory hypokalemia or hypomagnesemia, or in combination with drugs that both increase saquinavir plasma concentrations and prolong the QT interval. The concurrent use of saquinavir and ritonavir may confer an increased risk of QT or PR prolongation.
+
+Saquinavir is subject to extensive first-pass metabolism by CYP3A4 and functions as a CYP3A4 inhibitor as well as a substrate; thus, there are many potential drug-drug interactions (Tables 49–3 and 49–4). Increased saquinavir levels when co-administered with omeprazole necessitate close monitoring for toxicities. Digoxin levels should be monitored. Liver tests should be monitored if saquinavir is co-administered with delavirdine or rifampin. Concurrent darunavir or tipranavir is contraindicated.
+
+TIPRANAVIR
+Tipranavir is a newer PI indicated for use in treatment-experienced patients who harbor strains resistant to other PI agents. It is used in combination with ritonavir to achieve effective serum levels.
+
+Bioavailability is poor but is increased when taken with a high-fat meal. The drug is metabolized by the liver microsomal system and is contraindicated in patients with hepatic insufficiency. Tipranavir contains a sulfonamide moiety and should not be administered to patients with known sulfa allergy.
+
+The most common adverse effects of tipranavir are diarrhea, nausea, vomiting, and abdominal pain. An urticarial or maculopapular rash occurs in 10–14%, and may be more common with co-administered ethinyl estradiol. Liver toxicity, including life-threatening hepatic decompensation, has been observed and may be more common than with other PIs, particularly in patients with chronic HBV or HCV infection. Because of an increased risk for intracranial hemorrhage in patients receiving tipranavir/ritonavir, the drug should be avoided in patients with head trauma or bleeding diathesis. Other potential adverse effects include depression, elevation in serum amylase, increased serum lipids, and decreased white blood cell count.
+
+Tipranavir both inhibits and induces the CYP3A4 system. When used in combination with ritonavir, its net effect is inhibition. Tipranavir also induces the P-glycoprotein transporter and thus may alter the disposition of many other drugs (Tables 49–3 and 49–4). Concurrent use with atazanavir, elvitegravir/cobicistat, etravirine, fosamprenavir, lopinavir/ritonavir and saquinavir should be avoided. Supplemental vitamin E is contraindicated in patients receiving the oral solution.
+
+FUSION INHIBITORS
+The process of HIV-1 entry into host cells is complex; each step presents a potential target for inhibition. Viral attachment to the host cell entails binding of the viral envelope glycoprotein complex gp160 (consisting of gp120 and gp41) to its cellular receptor CD4. This binding induces conformational changes in gp120 that enable access to the chemokine receptors CCR5 or CXCR4. Chemokine receptor binding induces further conformational changes in gp120, allowing exposure to gp41 and leading to fusion of the viral envelope with the host cell membrane and subsequent entry of the viral core into the cellular cytoplasm.
+
+ENFUVIRTIDE
+Enfuvirtide is a synthetic 36-amino-acid peptide fusion inhibitor that blocks HIV entry into the cell (Figure 49–3). Enfuvirtide binds to the gp41 subunit of the viral envelope glycoprotein, preventing the conformational changes required for the fusion of the viral and cellular membranes.
+
+Enfuvirtide, which must be administered by subcutaneous injection, is the only parenterally administered antiretroviral agent. Metabolism appears to be by proteolytic hydrolysis without involvement of the CYP450 system. Elimination half-life is 3.8 hours.
+
+Resistance to enfuvirtide can result from mutations in gp41; the frequency and significance of this phenomenon are being investigated. However, enfuvirtide lacks cross-resistance with the other currently approved antiretroviral drug classes.
+
+The most common adverse effects are local injection site reactions, consisting of painful erythematous nodules. Although frequent, these are typically mild-to-moderate in severity and rarely lead to discontinuation. Other potential side effects include insomnia, headache, dizziness, and nausea. Hypersensitivity reactions may rarely occur, are of varying severity, and may recur on rechallenge. Eosinophilia is the primary laboratory abnormality seen with enfuvirtide administration. In Phase 3 studies, bacterial pneumonia was seen at a higher rate in patients who received enfuvirtide than in those who did not receive enfuvirtide. No drug-drug interactions have been identified that would require the alteration of the dosage of concomitant antiretroviral or other drugs.
+
+ENTRY INHIBITORS
+MARAVIROC
+Maraviroc is approved for use in combination with other antiretroviral agents in adult patients infected only with CCR5-tropic HIV-1. Maraviroc binds specifically and selectively to the host protein CCR5, one of two chemokine receptors necessary for entrance of HIV into CD4+ cells. Since maraviroc is active against HIV that uses the CCR5 co-receptor exclusively, and not against HIV strains with CXCR4, dual, or mixed tropism, co-receptor tropism should be determined by specific testing before maraviroc is started. Substantial proportions of patients, particularly those with advanced HIV infection, are likely to have virus that is not exclusively CCR5-tropic.
+
+The absorption of maraviroc is rapid but variable, with the time to maximum absorption generally 1–4 hours after ingestion of the drug. Most of the drug (≥ 75%) is excreted in the feces, whereas approximately 20% is excreted in urine. The recommended dose of maraviroc varies according to renal function and the concomitant use of CYP3A inducers or inhibitors (Table 49–3). Maraviroc is contraindicated in patients with severe or end-stage renal impairment and caution is advised when used in patients with preexisting hepatic impairment and in those co-infected with HBV or HCV. Maraviroc has excellent penetration into the cervicovaginal fluid, with levels almost four times higher than the corresponding concentrations in blood plasma.
+
+Resistance to maraviroc is associated with one or more mutations in the V3 loop of gp120. However, emergence of CXCR4 virus (either previously undetected or newly developed) appears to be a more common cause of virologic failure than the development of resistance mutations. There appears to be no cross-resistance with drugs from any other class, including the fusion inhibitor enfuvirtide.
+
+Maraviroc is a substrate for CYP3A4 and therefore requires adjustment in the presence of drugs that interact with these enzymes (Tables 49–3 and 49–4). It is also a substrate for P-glycoprotein, which limits intracellular concentrations of the drug. The dosage of maraviroc must be decreased if it is co-administered with strong CYP3A inhibitors (eg, delavirdine, ketoconazole, itraconazole, clarithromycin, or any protease inhibitor other than tipranavir) and must be increased if co-administered with CYP3A inducers (eg, efavirenz, etravirine, carbamazepine, phenytoin, or St. John’s wort). Concurrent use of rifampin is contraindicated.
+
+Potential adverse effects of maraviroc include upper respiratory tract infection, cough, pyrexia, rash, dizziness, muscle and joint pain, diarrhea, sleep disturbance, and elevations in serum aminotransferases. Hepatotoxicity has been reported, which may be preceded by a systemic allergic reaction (ie, pruritic rash, eosinophilia, or elevated IgE); discontinuation of maraviroc should be prompt if this constellation occurs. Myocardial ischemia and infarction have been observed in patients receiving maraviroc; therefore caution is advised in patients at increased cardiovascular risk. There is an increased risk of postural hypotension in patients with severe renal impairment.
+
+There has been concern that blockade of the chemokine CCR5 receptor—a human protein—may result in decreased immune surveillance, with a subsequent increased risk of malignancy or infection. To date, however, there has been no evidence of an increased risk of either malignancy or infection in patients receiving maraviroc.
+
+INTEGRASE STRAND TRANSFER INHIBITORS (INSTIs)
+This class of agents binds integrase, a viral enzyme essential to the replication of both HIV-1 and HIV-2. By doing so, it inhibits strand transfer, the third and final step of provirus integration, thus interfering with the integration of reverse-transcribed HIV DNA into the chromosomes of host cells (Figure 49–3). As a class, these agents tend to be well tolerated, with headache and gastrointestinal effects the most commonly reported adverse events. Their use in combination antiretroviral regimens or with cobicistat (ie, elvitegravir) means that additional adverse events and/or drug-drug interactions need to be considered as well. The available data suggest that effects upon lipid metabolism are favorable compared with efavirenz and PIs. Rare severe events include systemic hypersensitivity reactions and rhabdomyolysis.
+
+DOLUTEGRAVIR
+The frequency of dosing of dolutegravir depends on the presence or absence of integrase inhibitor-associated resistance mutations and the concurrent use of efavirenz, fosamprenavir/ritonavir, tipranavir/ritonavir, or rifampin. Dolutegravir should be taken 2 hours before or 6 hours after cation-containing antacids or laxatives, sucralfate, oral iron supplements, oral calcium supplements, or buffered medications. Peak plasma concentrations occur within 2–3 hours of ingestion. Dolutegravir is highly protein bound (99%). The terminal half-life is ~14 hours. Serum levels may be reduced in patients with severe renal insufficiency.
+
+Adverse effects of dolutegravir are infrequent but may include insomnia, headache, increased serum aminotransferase levels, and, rarely, rash. A hypersensitivity reaction, including rash and systemic symptoms, has been reported; the drug should be discontinued immediately if this occurs and not restarted. Dolutegravir increases serum creatinine by inhibiting tubular secretion of creatinine but has no effect on actual glomerular filtration rate.
+
+Dolutegravir is primarily metabolized via UGT1A1 with some contribution from CYP3A. Therefore, multiple drug-drug interactions may occur (Table 49–3 and 49–4). Levels of dolutegravir may decrease when co-administered with efavirenz, etravirine, nevirapine, rifampin, or rifapentine, in some instances necessitating increased doses of dolutegravir or boosting or both. Co-administration with the metabolic inducers oxcarbazepine, phenytoin, phenobarbital, carbamazepine, and St. John’s wort should be avoided. Dolutegravir inhibits the renal organic cation transporter OCT2, thereby increasing plasma concentrations of drugs eliminated via OCT2 such as dofetilide and metformin. For this reason, co-administration with dofetilide is contraindicated and close monitoring, with potential for dose adjustment, is recommended for co-administration with metformin.
+
+ELVITEGRAVIR
+Elvitegravir should be taken with food, and it should be taken 2 hours before or 6 hours after cation-containing antacids or laxatives, sucralfate, oral iron supplements, oral calcium supplements, or buffered medications. Peak levels occur within 4 hours of ingestion; elvitegravir is highly protein bound (>98%).
+
+Elvitegravir requires boosting with an additional drug, such as cobicistat (a pharmacokinetic enhancer that inhibits CYP3A4 as well as certain intestinal transport proteins) or ritonavir. Cobicistat inhibits renal tubular secretion of creatinine; therefore, fixed-dose combinations need to be adjusted for renal function.
+
+There appear to be few adverse effects associated with elvitegravir per se but may include diarrhea, rash, and elevation in hepatic aminotransferases.
+
+Elvitegravir is primarily metabolized by CYP3A enzymes, so drugs that induce or inhibit the action of CYP3A may affect serum levels of elvitegravir (Table 49–3 and 49–4). In addition, cobicistat and ritonavir strongly inhibit CYP3A. Elvitegravir levels may be lowered by concurrent efavirenz or nevirapine, rifampin, rifabutin, carbamazepine, phenytoin, or St. John’s wort. Concurrent use of azole antifungal drugs is contraindicated due to a potential increase in elvitegravir levels; rifabutin levels may also be increased by concurrent elvitegravir. Elvitegravir also induces CYP2D9 and may lower concentrations of substrates of this enzyme. With the fixed dose combination, concurrent alfuzosin or atazanavir, cisapride, darunavir, efavirenz, etravirine, fosamprenavir, ledipasvir, lopinavir/ritonavir, methylprednisolone, midazolam, nevirapine, pimozide, prednisolone, rifampin, rifabutin are contraindicated.
+
+RALTEGRAVIR
+Absolute bioavailability of the pyrimidinone analog raltegravir has not been established but does not appear to be food-dependent. Terminal half-life is ~ 9 hours. The drug does not interact with the cytochrome P450 system but is metabolized by glucuronidation, particularly UGT1A1. Therefore, concurrent use of inducers or inhibitors of UGT1A1 such as rifampin and rifapentine may necessitate dosage adjustment of raltegravir. The chewable tablets contain phenylalanine, which can be harmful to patients with phenylketonuria.
+
+Raltegravir is one of the antiretroviral agents recommended for use in pregnancy (Table 49–5).
+
+Adverse effects of raltegravir are uncommon but include nausea, headache, fatigue, muscle aches, and increased serum amylase and aminotransferase levels. Severe, potentially life-threatening and fatal skin reactions have been reported, including Stevens-Johnson syndrome, hypersensitivity reaction, and toxic epidermal necrolysis.
+
+ANTIHEPATITIS AGENTS
+The advantages of nucleoside/nucleotide analogs (NA) therapy of hepatitis over interferons (IFN) include fewer adverse effects and a one-pill-a-day oral administration. The main advantages of IFN over NAs are the absence of resistance, and achievement of higher rates of viral agglutinin reduction. However, the disadvantages of IFN are that less than 50% of persons treated will respond, its high cost, administration by injection, and common adverse effects, which preclude its use in many persons, particularly in resource-limited settings. A number of relative and absolute contraindications to IFN also exist, which include the presence of decompensated cirrhosis and hypersplenism, thyroid disease, autoimmune diseases, severe coronary artery disease, renal transplant disease, pregnancy, seizures and psychiatric illness, concomitant use of certain drugs, retinopathy, thrombocytopenia and leucopenia. IFN also cannot be used in infants less than 1 year and in pregnant women.
+
+INTERFERON ALFA
+Interferons are host cytokines that exert complex antiviral, immunomodulatory, and antiproliferative actions (see Chapter 55). Interferon alfa appears to function by induction of intracellular signals following binding to specific cell membrane receptors, resulting in inhibition of viral penetration, translation, transcription, protein processing, maturation, and release, as well as increased host expression of major histocompatibility complex antigens, enhanced phagocytic activity of macrophages, and augmentation of the proliferation and survival of cytotoxic T cells.
+
+Interferon alfa-2b is licensed for the treatment for chronic HBV infection; interferon alfa-2a, interferon alfa-2b, and interferon alfacon-1 are licensed for treatment of chronic HCV infection (Table 49–6). Interferon alfa-2a and interferon alfa-2b may be administered either subcutaneously or intramuscularly; half-life is 2–5 hours, depending on the route of administration. Alfa interferons are filtered at the glomerulus and undergo rapid proteolytic degradation during tubular reabsorption, such that detection in the systemic circulation is negligible. Liver metabolism and subsequent biliary excretion are considered minor pathways.
+
+TABLE 49–6
+Drugs used to treat chronic hepatitis B virus infection.
+Agent	Recommended Adult Dosage	Potential Adverse Effects
+Nucleoside/nucleotide analogs
+Entecavir1	500 or 1000 mg qd orally	Headache, fatigue, upper abdominal pain; lactic acidosis
+Tenofovir alafenamide fumarate	25 mg qd orally	Nausea, abdominal pain, diarrhea, dizziness, fatigue, nephropathy, lactic acidosis
+Tenofovir disoproxil1	300 mg qd orally	Nausea, abdominal pain, diarrhea, dizziness, fatigue, nephropathy, lactic acidosis
+Adefovir dipivoxil1	10 mg qd orally	Renal dysfunction, lactic acidosis
+Lamivudine1	100 mg qd orally	Headache, nausea, diarrhea, dizziness, myalgia, and malaise, lactic acidosis
+Telbivudine1	600 mg qd orally	Fatigue, headache, cough, nausea, diarrhea, myopathy, peripheral neuropathy, lactic acidosis
+Interferon alfa-2b	5 million IU/d or 10 million IU three times weekly subcutaneously or intramuscularly	Flu-like symptoms, fatigue, mood disturbances, cytopenias, autoimmune disorders
+Pegylated interferon alfa-2a1	180 mcg once weekly subcutaneously	Flu-like symptoms, fatigue, mood disturbances, cytopenias, autoimmune disorders
+1
+Dose must be reduced in patients with renal insufficiency.
+
+IU, international units.
+
+Pegylation (the attachment of polyethylene glycol to a protein) reduces the rate of absorption following subcutaneous injection, reduces renal and cellular clearance, and decreases the immunogenicity of the protein, resulting in a longer half-life and steadier plasma concentrations. Renal elimination of pegylated interferon alfa-2a and pegylated interferon alfa-2b accounts for about 30% of clearance; dose must be adjusted in renal insufficiency due to impaired clearance. The polyethylene glycol moiety is a nontoxic polymer that is readily excreted in the urine.
+
+Pegylated interferon alfa-2a is licensed to treat chronic HBV and HCV infection; pegylated interferon alfa-2b is licensed to treat chronic HCV infection. However, the availability of newer and highly effective antiviral agents for HCV infection has greatly diminished the use of the interferons for this indication.
+
+The adverse effects of interferon alfa include a flu-like syndrome (ie, headache, fevers, chills, myalgias, and malaise) that occurs within 6 hours after dosing in more than 30% of patients; it tends to resolve upon continued administration. Transient hepatic enzyme elevations may occur in the first 8–12 weeks of therapy and appear to be more common in responders. Potential adverse effects during chronic therapy include neurotoxicities (mood disorders, depression, somnolence, confusion, seizures), myelosuppression, profound fatigue, weight loss, rash, cough, myalgia, alopecia, tinnitus, reversible hearing loss, retinopathy, pneumonitis, and possibly cardiotoxicity. Induction of autoantibodies may occur, causing exacerbation or unmasking of autoimmune disease (particularly thyroiditis).
+
+Contraindications to interferon alfa therapy include hepatic decompensation, autoimmune disease, and history of cardiac arrhythmia. Caution is advised in the setting of psychiatric disease, epilepsy, thyroid disease, ischemic cardiac disease, severe renal insufficiency, and cytopenia. Alfa interferons are abortifacient in primates and should not be administered in pregnancy. Potential drug-drug interactions include increased theophylline and methadone levels. Co-administration with didanosine is not recommended because of a risk of hepatic failure, and co-administration with zidovudine may exacerbate cytopenias.
+
+TREATMENT OF HEPATITIS B VIRUS INFECTION
+No specific treatment is available for the treatment of acute hepatitis B infection, which most often resolves spontaneously.
+
+The goals of chronic HBV therapy are the suppression of HBV DNA to undetectable levels, seroconversion of HBeAg (or more rarely, HBsAg) from positive to negative, and reduction in elevated serum aminotransferase levels. These endpoints are correlated with improvement in necroinflammatory disease, a decreased risk of hepatocellular carcinoma and cirrhosis, and a decreased need for liver transplantation. All of the currently licensed therapies achieve these goals. In contrast to the treatment of HCV infection (see below), cure is rare. In addition, because current therapies suppress HBV replication without eradicating the virus, initial responses may not be durable. The covalently closed circular (ccc) viral DNA exists in stable form indefinitely within the cell, serving as a reservoir for HBV throughout the life of the cell and resulting in the capacity to reactivate. Relapse is more common in patients co-infected with hepatitis D virus.
+
+As of 2017 eight drugs were approved for treatment of chronic HBV infection in the United States: five oral nucleoside/nucleotide analogs (lamivudine, adefovir dipivoxil, tenofovir disoproxil, tenofovir alafenamide, entecavir, telbivudine) and two injectable interferon drugs (interferon alfa-2b, pegylated interferon alfa-2a) (Table 49–6). The use of standard interferon has been supplanted by long-acting pegylated interferon, allowing once-weekly rather than daily or thrice-weekly dosing. The advantages of interferon are its finite duration of treatment, the absence of selection of resistant variants, and a more durable response. However, adverse effects from interferon are more frequent, and may be severe. Furthermore, interferon cannot be used in patients with decompensated disease. In general, nucleoside/nucleotide analog therapies have better tolerability and produce a higher response rate than the interferons, and are now considered the first line of therapy. Combination therapies may reduce the development of resistance. The optimal duration of therapy remains unknown.
+
+Several anti-HBV agents have anti-HIV activity as well, including tenofovir disoproxil, tenofovir alafenamide, lamivudine, and adefovir dipivoxil. Emtricitabine, an NRTI used in HIV infection, has resulted in excellent biochemical, virologic, and histologic improvement in patients with chronic HBV infection, although it is not approved for this indication. Although agents with dual HBV and HIV activity are particularly useful as part of a first-line regimen in co-infected patients, it is important to note that acute exacerbation of hepatitis may occur upon discontinuation or interruption of these agents; this may be severe or even fatal.
+
+ADEFOVIR DIPIVOXIL
+Although initially and abortively developed for treatment of HIV infection, adefovir dipivoxil gained approval, at lower and less toxic doses, for treatment of HBV infection. Adefovir dipivoxil is the diester prodrug of adefovir, an acyclic phosphonated adenine nucleotide analog. It is phosphorylated by cellular kinases to the active diphosphate metabolite and then competitively inhibits HBV DNA polymerase and causes chain termination after incorporation into viral DNA. Adefovir is active in vitro against a wide range of DNA and RNA viruses, including HBV, HIV, and herpesviruses.
+
+Oral bioavailability of adefovir dipivoxil is ~ 59% and is unaffected by meals; it is rapidly and completely hydrolyzed to the parent compound by intestinal and blood esterases. Protein binding is low (<5%). The intracellular half-life of the diphosphate is prolonged, ranging from 5 to 18 hours in various cells; this makes once-daily dosing feasible. Adefovir is excreted by both glomerular filtration and active tubular secretion and requires dose adjustment for renal dysfunction; however, it may be administered to patients with decompensated liver disease.
+
+Of the oral agents, adefovir may be slower to suppress HBV DNA levels and the least likely to induce HBeAg seroconversion. Emergence of resistance is up to 29% after 5 years of use. However, there is no cross-resistance between adefovir and lamivudine or entecavir.
+
+Adefovir is well tolerated at doses used to treat HBV infection. A reversible increase in serum creatinine has been reported in 3–9% of patients after 4–5 years of treatment. Other potential adverse effects are headache, diarrhea, asthenia, and abdominal pain. As with other NRTI agents, lactic acidosis and hepatic steatosis are a risk owing to mitochondrial dysfunction. Pivalic acid, a by-product of adefovir metabolism, can esterify free carnitine and result in decreased carnitine levels. However, it is not necessary to administer carnitine supplementation with the low doses used to treat patients with HBV (10 mg/d). Adefovir is embryotoxic in rats at high doses and is genotoxic in preclinical studies.
+
+ENTECAVIR
+Entecavir is an orally administered cyclopentyl guanosine nucleoside analog that competitively inhibits all three functions of HBV DNA polymerase, including base priming, reverse transcription of the negative strand, and synthesis of the positive strand of HBV DNA. Oral bioavailability approaches 100% but is decreased by food; therefore, entecavir should be taken on an empty stomach. The intracellular half-life of the active phosphorylated compound is 15 hours and plasma half-life is prolonged at 128–149 hours, allowing once-daily dosing. It is excreted by the kidney, undergoing both glomerular filtration and net tubular secretion, and dosage should be adjusted in the setting of renal insufficiency.
+
+Suppression of HBV DNA levels was greater with entecavir than with lamivudine or adefovir in comparative trials. Entecavir appears to have a higher barrier to the emergence of resistance than lamivudine. Although selection of resistant isolates with the S202G mutation has been documented during therapy, clinical resistance is rare (<1% at 5 years). However, resistance is more frequent in lamivudine-refractory patients (~ 50% at 5 years). Entecavir has weak anti-HIV activity and can induce development of the M184V variant in HBV/HIV co-infected patients, resulting in resistance to emtricitabine and lamivudine.
+
+Entecavir is well tolerated. Potential adverse events are headache, fatigue, dizziness, nausea, and upper abdominal pain. Co-administration of entecavir with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of either entecavir or the co-administered drug. Severe lactic acidosis was reported in a case series of entecavir; thus caution is advised for administration in the setting of severe hepatic decompensation. Lung adenomas and carcinomas in mice, hepatic adenomas and carcinomas in rats and mice, vascular tumors in mice, and brain gliomas and skin fibromas in rats have been observed at varying exposures, although clinical relevance is unknown.
+
+LAMIVUDINE
+The pharmacokinetics of lamivudine are described earlier in this chapter (see Nucleoside and Nucleotide Reverse Transcriptase Inhibitors). The more prolonged intracellular half-life in HBV-infected cell lines (17–19 hours) than in HIV-infected cell lines (10.5–15.5 hours) allows for lower doses and less frequent administration. Lamivudine can be safely administered to patients with decompensated liver disease. Prolonged treatment has been shown to decrease clinical progression of HBV, as well as development of hepatocellular cancer by approximately 50%. Also, lamivudine has been effective in preventing vertical transmission of HBV from mother to newborn when given in the last 4 weeks of gestation.
+
+Lamivudine inhibits HBV DNA polymerase and HIV reverse transcriptase by competing with deoxycytidine triphosphate for incorporation into the viral DNA, resulting in chain termination. Although lamivudine results in rapid and potent virus suppression, chronic therapy is limited by the emergence of lamivudine-resistant HBV isolates (eg, L180M or M204I/V), estimated to occur in 15–30% of patients at 1 year and in up to 65% after 5 years of therapy. Resistance has been associated with flares of hepatitis and progressive liver disease. Cross-resistance between lamivudine and emtricitabine or entecavir may occur; however, adefovir and tenofovir maintain activity against lamivudine-resistant strains of HBV.
+
+In the doses used for HBV infection, lamivudine has an excellent safety profile. Headache, nausea, diarrhea, dizziness, myalgia, and malaise are rare. Co-infection with HIV may increase the risk of pancreatitis.
+
+TELBIVUDINE
+Telbivudine is a thymidine nucleoside analog with activity against HBV DNA polymerase. It is phosphorylated by cellular kinases to the active triphosphate form, which has an intracellular half-life of 14 hours. The phosphorylated compound competitively inhibits HBV DNA polymerase, resulting in incorporation into viral DNA and chain termination. It is not active in vitro against HIV-1.
+
+Oral bioavailability is unaffected by food. Plasma protein binding is low (3%) and distribution wide. The serum half-life is approximately 15 hours and excretion is renal. There are no known metabolites and no known interactions with the CYP450 system or other drugs.
+
+Telbivudine induced greater rates of virologic response than either lamivudine or adefovir in comparative trials. However, emergence of resistance, typically due to the M204I mutation, may occur in up to 22% of patients with durations of therapy exceeding 1 year, and may result in virologic rebound. Telbivudine is not effective in patients with lamivudine-resistant HBV.
+
+Adverse effects are mild; they include fatigue, headache, cough, nausea, and diarrhea. Both uncomplicated myalgia and myopathy with elevated creatinine kinase levels have been reported, as has peripheral neuropathy. As with other nucleoside analogs, lactic acidosis and severe hepatomegaly with steatosis may occur during therapy as well as flares of hepatitis after discontinuation.
+
+TENOFOVIR DISOPROXIL
+Tenofovir, a nucleotide analog of adenosine in use as an antiretroviral agent, has potent activity against HBV. The characteristics of tenofovir disoproxil are described earlier in this chapter. Tenofovir maintains activity against lamivudine- and entecavir-resistant hepatitis virus isolates. Although similar in structure to adefovir dipivoxil, comparative trials show a higher rate of virologic response and histologic improvement, and a lower rate of emergence of resistance in patients with chronic HBV infection. Resistance to tenofovir has not been documented in clinical trials, even among patients who have been treated with tenofovir for up to 8 years. However, efficacy is lower in patients who have resistance to adefovir and double mutations (A181T/V and N236T).
+
+The most common adverse effects of tenofovir in patients with HBV infection are nausea, abdominal pain, diarrhea, dizziness, and fatigue. Chronic renal insufficiency secondary to a proximal tubulopathy may occur, and may progress to renal failure. Decreases in bone mineral density and Fanconi’s syndrome, as observed in HIV-infected patients treated with tenofovir, have not been described in patients with HBV infection receiving tenofovir disoproxil. Tenofovir alafenamide fumarate (TAF) is an orally bioavailable prodrug of tenofovir that enables enhanced delivery of the parent nucleotide and its active diphosphate metabolite into lymphoid cells and hepatocytes, so that the dose of tenofovir can be reduced and toxicities minimized.
+
+EXPERIMENTAL AGENTS
+The nucleoside analog emtricitabine (see HIV) is under clinical investigation for treatment of HBV infection. The entry inhibitors Myrcludex B and cyclosporine, as well as cccDNA inhibitors, are being evaluated. Research is also ongoing to develop and test new agents that can “cure” HBV by eliminating all replicative forms, including covalently closed circular DNA (cccDNA). Broadly curative antiviral strategies include agents that could directly target infected cells as well as novel immunotherapeutic strategies that boost HBV-specific adaptive immune responses or activate innate intrahepatic immunity. New molecules under investigation include entry inhibitors and short-interfering RNAs (siRNAs), and capsid inhibitors
+
+TREATMENT OF HEPATITIS C INFECTION
+In contrast to the treatment of patients with chronic HBV infection, the primary goal of treatment in patients with HCV infection is viral eradication. In clinical trials, the primary efficacy end point is typically achievement of sustained viral response (SVR), defined as the absence of detectable viremia 24 weeks after completion of therapy. SVR is associated with improvement in liver histology, reduction in risk of end-stage liver disease and hepatocellular carcinoma, and, occasionally, with regression of cirrhosis as well. Late relapse occurs in less than 5% of patients who achieve SVR.
+
+In acute hepatitis C, the rate of clearance of the virus without therapy is estimated at 20–35%. Therefore, most practitioners choose to delay therapy for a minimum of 6 months after the initial infection. If treatment is initiated thereafter due to persistent HCV RNA viremia, the regimens are the same as those administered or chronic HCV infection.
+
+The advent of the first-generation direct-acting antiviral agents (DAAs) boceprevir and telaprevir dramatically altered the landscape for the optimal treatment of chronic HCV infection, which was previously treated with the combination of interferon-alfa (replaced by pegylated interferon-alfa) and ribavirin. Since interferon-containing regimens tend to be associated with higher rates of serious adverse events (including anemia and rash), longer treatment durations, more frequent dosing, and clinically significant drug-drug interactions, they are gradually being replaced by combination regimens of DAAs (see Table 49–7). Moreover, while the first-generation HCV protease inhibitors (ie, boceprevir, telaprevir) markedly improved the effectiveness of pegylated interferon plus ribavirin, they have been replaced by newer DAAs over the past 2 years, which can be administered in all-oral, interferon-free combinations—with or without ribavirin—with improved efficacy and tolerability, improved dosing schedules, lesser genotype specificity, and fewer potential drug-drug interactions. However, the DAA regimens are expensive.
+
+There are four current classes of DAAs, which are defined by their mechanism of action and therapeutic target: nonstructural protein (NS) 3/4A protease inhibitors, NS5B nucleoside polymerase inhibitors, NS5B non-nucleoside polymerase inhibitors, and NS5A inhibitors. The main targets of the DAAs are the HCV-encoded proteins that are vital to the replication of the virus (Figure 49–1).
+
+Table 49–7
+Direct-acting antiviral combination regimens for the treatment of chronic hepatitis C infection in adult patients without cirrhosis.1
+Regimen	Class of Agent(s)	HCV Genotype(s)
+Velpatasvir 100 mg /sofosbuvir 400 mg once daily × 12 weeks	NS5A inhibitor/NS5B polymerase inhibitor	1, 2, 3, 4, 5, 6
+Elbasvir 50 mg/grazoprevir 100 mg once daily × 12 weeks2	NS5A inhibitor/NS 3/4A protease inhibitor	1a, 1b, 4
+Ledipasvir 90 mg/sofosbuvir 400 mg once daily × 12 weeks	NS5A inhibitor/NS5B polymerase inhibitor	1a, 1b, 4, 5, 6
+Paritaprevir 150/ritonavir 100/ombitasvir 25 once daily plus dasabuvir 250 mg bid plus weight-based ribavirin × 12 weeks	NS 3/4A protease inhibitor/ NS5A inhibitor plus NS5B polymerase inhibitor plus guanosine analog	1a, 1b
+Paritaprevir 150/ritonavir 100/ombitasvir 25 once daily plus weight-based ribavirin × 12 weeks	NS 3/4A protease inhibitor/ NS5A inhibitor plus guanosine analog	4
+Simeprevir 150 mg plus sofosbuvir 400 mg once daily × 12 weeks	NS3/4A protease inhibitor plus NS5B polymerase inhibitor	1a, 1b
+Daclatasvir 60 mg3 plus sofosbuvir 400 mg once daily × 12 weeks	NS5A inhibitor plus NS5B polymerase inhibitor	1a, 1b, 2, 3
+Sofosbuvir 400 mg once daily plus weight-based ribavirin × 12 weeks	NS5B polymerase inhibitor plus guanosine analog	2, 3
+1
+Regimens may differ in the presence of cirrhosis.
+
+2
+As an alternative regimen, elbasvir 50 mg/grazoprevir 100 mg once daily may be given in combination with weight-based ribavirin for 16 weeks.
+
+3
+Dose adjustment may be required if co-administered with a CYP 3A substrate.
+
+The safety profiles of all the combination regimens (see Table 49–7) are generally excellent, with adverse events of mild severity and very low rates of discontinuation due to adverse events in clinical trials in the absence of concurrent ribavirin use.
+
+NS5A INHIBITORS
+The NS5A protein plays a role in both viral replication and the assembly of HCV; however the exact mechanism of action of the HCV NS5A inhibitors remains unclear.
+
+Daclatasvir
+Daclatasvir is used in combination with sofosbuvir for treatment of HCV genotypes 1, 2, and 3. It may be taken with or without food and does not require adjustment for renal or hepatic impairment. Exposure of daclatasvir was similar between healthy and HCV-infected subjects. Protein binding is ~99%. It is metabolized via CYP3A and excreted primarily in the feces. Terminal elimination half-life is 12–15 hours.
+
+Daclatasvir is generally well tolerated. The most common adverse effects in patients receiving daclatasvir/sofosbuvir were headache and fatigue, usually mild or moderate in severity. Serious symptomatic bradycardia has been reported in patients receiving daclatasvir with sofosbuvir and amiodarone.
+
+Daclatasvir is primarily metabolized through CYP3A metabolism and should not be given with strong inducers of this enzyme. In addition, dose adjustment is required when co-administered with strong CYP3A inhibitors or moderate CYP3A inducers. Daclatasvir is an inhibitor of P-glycoprotein transporter (P-gp), organic anion transporting polypeptide (OATP) 1B1 and 1B3, and breast cancer resistance protein (BCRP).
+
+Elbasvir
+Elbasvir has in vitro activity against most major HCV genotypes, as well as some viral variants resistant to earlier NS5A inhibitors. It is only available as a fixed-dose combination with grazoprevir, recommended for treatment of HCV genotypes 1 and 4 (see Table 49–7).
+
+The presence of baseline NS5A resistance-associated variants (RAVs) significantly reduced rates of SVR at 12 weeks using elbasvir/grazoprevir regimen in patients with genotype 1a. Since 10–15% of patients without prior exposure will have NS5A RAVs, baseline testing should be considered prior initiation of therapy.
+
+Absorption is not food-dependent. Peak concentrations after ingestion occur at a median of 3 hours. Elbasvir is extensively bound to plasma proteins (>99.9%), partially eliminated by oxidative metabolism, and primarily excreted in the feces. Elbasvir/grazoprevir should not be administered to patients with moderate or severe hepatic impairment or in conjunction with organic anion transporting polypeptides 1B1/3 (OATP1B1/3) inhibitors, strong inducers or inhibitors of CYP3A, or efavirenz.
+
+The most commonly reported side effects during therapy with elbasvir/grazoprevir were fatigue, headache, and nausea. Elevations in serum aminotransferases may occur.
+
+Ledipasvir
+Ledipasvir was the first NS5A inhibitor to be available in the United States. It is available in a fixed-dose combination with sofosbuvir. Ledipasvir is not recommended for treatment of HCV genotype 2 infection (since potency is lost in the presence of the highly prevalent L31M polymorphism) or genotype 3 (due to the availability of more efficacious therapies (see Table 49–7).
+
+Ledipasvir is not affected by food intake. Median peak plasma concentrations occur 4–4.5 hours after oral administration of ledipasvir/sofosbuvir. It is highly bound (>99.8%) to plasma proteins; unchanged ledipasvir is the major species present in feces. The median terminal half-life of ledipasvir following administration of ledipasvir/sofosbuvir is 47 hours. No dose adjustment is required in the setting of mild or moderate renal insufficiency or mild, moderate or severe hepatic insufficiency. The dose in patients with severe renal insufficiency has not yet been determined.
+
+Ledipasvir is an inhibitor of the drug transporters P-gp and BCRP and may increase intestinal absorption of co-administered substrates for these transporters. Additionally, co-administration of P-gp inducers (e.g., rifampin or St. John’s wort) with ledipasvir/sofosbuvir may decrease plasma concentrations of both of these agents.
+
+The most common adverse reactions in patients receiving ledipasvir/sofosbuvir were fatigue, headache and asthenia. Serious symptomatic bradycardia has been reported in patients receiving ledipasvir with sofosbuvir and amiodarone.
+
+Ombitasvir
+Ombitasvir is available only as a fixed-dose combination with paritaprevir and ritonavir for the treatment of HCV genotype 4, and is given in combination with dasabuvir, paritaprevir, and ritonavir to treat genotype 1 (see Table 49–7). As in HIV infection, ritonavir is administered as a pharmacologic “booster” to increase plasma concentrations of paritaprevir via its effect on CYP3A, although it does not have activity against HCV.
+
+The absolute bioavailability of ombitasvir is 48%. Peak plasma concentrations are reached 5 hours post-ingestion of the combination. It is 99.9% protein-bound; the route of metabolism is via biliary excretion. Ombitasvir/paritaprevir/ritonavir is contraindicated in patients with moderate or severe hepatic impairment.
+
+Ombitasvir is an inhibitor of UGT1A1. Although ombitasvir is not metabolized by the CYP3A system, paritaprevir, ritonavir, and dasabuvir are, with the resulting potential for multiple drug-drug interactions. Co-administration of the combination with drugs that highly dependent on CYP3A for clearance, moderate or strong inducers of CYP3A, strong inducers of CYP2C8, or strong inhibitors of CYP2C8 is contraindicated.
+
+The most commonly reported adverse reactions in patients receiving ombitasvir were nausea, pruritus and insomnia. Increased serum aminotransferases have also been reported, particularly in women using concomitant ethinyl estradiol-containing contraceptive medications.
+
+Velpatasvir
+Velpatasvir is available only in a fixed-dose combination with the sofosbuvir. It is the first once-daily single-tablet regimen with pangenotypic activity. No dose adjustment is required for patients with mild or moderate renal insufficiency, or any degree of hepatic impairment. Sofosbuvir exposure is increased in patients with severe renal impairment, including those on dialysis.
+
+Velpatasvir is administered without regard to food; peak plasma concentrations are observed at 3 hours post-dose. It is >99% bound to plasma proteins. Metabolism is by CYP2B6 CYP2C8, and CYP3A4. Its median terminal half-lives is 15 hours.
+
+Velpatasvir and sofosbuvir are substrates of P-gp and BCRP; velpatasvir is also transported by OATP1B1 and OATP1B3. Inducers of P-gp and/or moderate or potent inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., rifampin, St. John’s wort, carbamazepine) may decrease plasma concentrations of velpatasvir and/or sofosbuvir; co-administration with drugs that inhibit P-gp and/or BCRP may increase velpatasvir and/or sofosbuvir concentrations and drugs that inhibit CYP2B6, CYP2C8, or CYP3A4 may increase plasma concentration of velpatasvir.
+
+The most common adverse events in patients receiving velpatasvir/sofosbuvir were headache and fatigue.
+
+NS5B RNA POLYMERASE INHIBITORS
+NS5B is an RNA-dependent RNA polymerase involved in post-translational processing that is necessary for replication of HCV. The enzyme has a catalytic site for nucleoside binding and at least four other sites at which a non-nucleoside compound can bind and cause allosteric alteration. The enzyme’s structure is highly conserved across all HCV genotypes, giving agents that inhibit NS5B efficacy against all six genotypes.
+
+There are two classes of polymerase inhibitors; these act at distinct stages of RNA synthesis. Nucleoside/nucleotide analogs (eg, sofosbuvir) target the catalytic site of NS5B, and are activated within the hepatocyte through phosphorylation to nucleoside triphosphate, which competes with nucleotides, resulting in chain termination. Non-nucleoside analogues (e.g., dasabuvir) act as allosteric inhibitors of NS5B.
+
+Dasabuvir
+Dasabuvir is a non-nucleoside NS5B polymerase inhibitor, available only as a fixed-dose combination with ombitasvir, paritaprevir, and ritonavir for treatment of HCV genotype 1. Ritonavir functions as a pharmacologic booster to increase paritaprevir plasma concentrations.
+
+The absolute bioavailability of dasabuvir is 70%. Peak plasma concentrations are reached 4 hours post-ingestion of the combination. It is >99.5% protein-bound. The primary route of metabolism is via CYP2C8, as well as CYP3A. This combination is contraindicated in patients with moderate or severe hepatic impairment.
+
+The metabolism of paritaprevir, ritonavir, and dasabuvir by the CYP3A system incurs multiple potential drug-drug interactions. Co-administration of the combination with drugs that highly dependent on CYP3A for clearance, moderate or strong inducers of CYP3A, strong inducers of CYP2C8, or strong inhibitors of CYP2C8 is contraindicated.
+
+The most commonly reported adverse reactions in patients receiving dasabuvir were nausea, pruritus and insomnia. Increased serum aminotransferases have also been reported, particularly in women using concomitant ethinyl estradiol-containing contraceptive medications.
+
+Sofosbuvir
+The nucleotide analog sofosbuvir is administered in combination with several other anti-HCV medications, including daclatasvir, simeprevir, peginterferon-alfa plus ribavirin, or ribavirin alone. It is also available in a fixed-dose combination with ledipasvir for treatment of HCV genotypes 1, 4, 5, and 6 (see Table 49–7).
+
+Sofosbuvir is a prodrug that is rapidly converted after ingestion to GS-331007, which is efficiently taken up by hepatocytes and converted by cellular kinase to its pharmacologically active uridine analog 5’-triphosphate form GS-461203. The triphosphate is incorporated by the HCV RNA polymerase into the elongating RNA primer strand, resulting in chain termination.
+
+Sofosbuvir is administered without regard to food; peak plasma concentrations are observed at 0.5–1 hour post-dose. It is 61–65% bound to plasma proteins and is metabolized in the liver. Renal clearance is the major elimination pathway for GS-331007. The median terminal half-lives of sofosbuvir and GS-331007 are 0.4 and 27 hours, respectively. No dose adjustment is required for patients with mild or moderate renal insufficiency, or any degree of hepatic impairment. Sofosbuvir exposure is increased in patients with severe renal impairment, including those on dialysis.
+
+Sofosbuvir is a substrate of drug transporter P-gp; therefore, potent P-gp inducers in the intestine may decrease sofosbuvir concentrations and should not be co-administered.
+
+Sofosbuvir is generally well tolerated. Drug-specific adverse effects are difficult to discern since it is always administered with other antiviral agents. In patients receiving sofosbuvir with ledipasvir, the most commonly reported adverse effects were fatigue, headache, and asthenia. Rare cases of symptomatic bradycardia have been reported patients taking sofosbuvir and amiodarone in combination with another DAAs, particularly in patients also receiving beta blockers, or in those with underlying cardiac comorbidities and/or advanced liver disease.
+
+NS3/4A PROTEASE INHIBITORS
+NS3/4A protease inhibitors are inhibitors of the NS3/4A serine protease, an enzyme involved in post-translational processing and replication of HCV (Figure 49–4).
+
+FIGURE 49–4
+HCV genome and potential targets of drug action. C, E1, E2, etc, protein products of specific genes; Nucs, nucleoside inhibitors; Non-Nucs, nonnucleoside inhibitors. (Adapted, with permission, from Asselah T, Marcellin P: Direct-acting antivirals for the treatment of chronic hepatitis C: One pill a day for tomorrow. Liver Int 2012;32 Suppl 1:88.)
+
+image
+Grazoprevir
+Grazoprevir is a potent, pan-genotypic protease inhibitor, reversibly binding to HCV NS3/4A protease. It is distinct from earlier-generation protease inhibitors due to its pan-genotypic activity, as well activity against some of the major resistance-associated variants (R155K and D168Y) resulting in failure with first-generation protease inhibitors. It is only available in combination with elbasvir for treatment of HCV genotypes 1 and 4.
+
+Grazoprevir can be taken without regard to food. Oral exposures are ~2-fold greater in HCV-infected subjects than in healthy subjects. Peak plasma concentrations are reached at a median of 2 hours after ingestion. Grazoprevir is extensively bound to plasma proteins (98.8%), and distributes predominantly to the liver, likely facilitated by active transport through the OATP1B1/3 liver uptake transporter. It is partially eliminated by oxidative metabolism, primarily by CYP3A and is mostly eliminated in the feces. Its geometric mean terminal half-life is 31 hours.
+
+Elbasvir/grazoprevir should not be administered to patients with moderate or severe hepatic impairment, or in conjunction with organic anion transporting polypeptides 1B1/3 (OATP1B1/3) inhibitors, strong inducers or inhibitors of CYP3A, or efavirenz.
+
+The most commonly reported side effects during therapy with elbasvir/grazoprevir were fatigue, headache, and nausea. Elevations in serum aminotransferases may occur.
+
+Paritaprevir
+Paritaprevir is only available as a fixed-dose combination with ombitasvir and ritonavir for treatment of HCV genotype 4, and is administered in combination with dasabuvir for genotype 1 infection. Ritonavir functions as a pharmacologic booster of paritaprevir concentrations via its effect on CYP metabolism, although it does not have activity against HCV.
+
+The absolute bioavailability of paritaprevir is 53%. Peak plasma concentrations are reached 4–5 hours post-ingestion of the combination. It is ~98% protein-bound. The primary route of metabolism is via CYP3A4, as well as CYP3A5. Ombitasvir/paritaprevir/ritonavir is contraindicated in patients with moderate or severe hepatic impairment.
+
+The metabolism of paritaprevir, ritonavir, and dasabuvir by the CYP3A system incurs multiple potential drug-drug interactions. Co-administration of the combination with drugs highly dependent on CYP3A for clearance, moderate or strong inducers of CYP3A, strong inducers of CYP2C8, or strong inhibitors of CYP2C8 is contraindicated.
+
+The most commonly reported adverse reactions in patients receiving paritaprevir were nausea, pruritus and insomnia. Increased serum aminotransferases have also been reported, particularly in women using concomitant ethinyl estradiol–containing contraceptive medications.
+
+Simeprevir
+Simeprevir was one of the earliest protease inhibitors available; however, it is considered a second-generation HCV protease inhibitor because of the enhanced binding affinity and specificity for NS3/4A. It is used in combination with sofosbuvir, with or without ribavirin, for treatment of HCV genotype 1, or it may be administered in combination with peg interferon-alfa and ribavirin. Simeprevir must be taken with food to maximize absorption. Mean absolute bioavailability is 62%. Peak plasma concentrations are reached 4–6 hours post-ingestion. It is extensively bound to plasma proteins (>99%), metabolized in the liver by CYP3A pathways, and undergoes biliary excretion. Simeprevir is not recommended in patients with moderate or severe hepatic impairment because of 2- to 5-fold increases in exposure. In addition, mean simeprevir exposures are more than threefold higher in patients of East Asian ancestry compared with Caucasians, leading to potentially higher frequencies of adverse events.
+
+Simeprevir is a substrate and mild inhibitor of CYP3A and a substrate and inhibitor of P-gp and OATP1B1/3. Co-administration with moderate or strong inhibitors or inducers of CYP3A may significantly increase or decrease the plasma concentration of simeprevir.
+
+In patients with genotype 1a, the presence of a baseline NS3A polymorphism Q80K was associated with significantly reduced SVR at 12 weeks in patients treated with simeprevir plus peginterferon and ribavirin. Therefore, baseline screening for the Q80K mutation is recommended prior to initiation of therapy.
+
+Simeprevir is generally well tolerated. Photosensitivity and rash have been reported, occasionally severe; pruritus or nausea may also occur. Transient, mild elevations in bilirubin have been observed with simeprevir due to decreased bilirubin elimination related to inhibition of the hepatic transporters OATP1B1 and MRP2, but no pattern to suggest liver toxicity has been observed. Since simeprevir contains a sulfa moiety, caution should be used in patients with a history of sulfa allergy.
+
+RIBAVIRIN
+Ribavirin is a guanosine analog that is phosphorylated intracellularly by host cell enzymes. Although its mechanism of action has not been fully elucidated, it appears to interfere with the synthesis of guanosine triphosphate, to inhibit capping of viral messenger RNA, and to inhibit the viral RNA–dependent polymerase of certain viruses. Ribavirin triphosphate inhibits the replication of a wide range of DNA and RNA viruses, including influenza A and B, parainfluenza, respiratory syncytial virus, paramyxoviruses, HCV, and HIV-1.
+
+The absolute oral bioavailability of ribavirin is 45–64%, increases with high-fat meals, and decreases with co-administration of antacids. Plasma protein binding is negligible, volume of distribution is large, and cerebrospinal fluid levels are about 70% of those in plasma. Ribavirin elimination is primarily through the urine; therefore, clearance is decreased in patients with creatinine clearances <30 mL/min.
+
+Higher doses of ribavirin (ie, 1000–1200 mg/d rather than 800 mg/d) and/or a longer duration of therapy may be more efficacious, but the risk of toxicity is also increased. A dose-dependent hemolytic anemia occurs in 10–20% of patients, usually within the first weeks of therapy. Other potential adverse effects are depression, fatigue, irritability, rash, cough, insomnia, nausea, and pruritus. Contraindications include anemia, end-stage renal failure, ischemic vascular disease, and pregnancy. Ribavirin is teratogenic and embryotoxic in animals as well as mutagenic in mammalian cells. Therefore, two effective forms of contraception should be used by both sexual partners during treatment and for several months thereafter.
+
+The co-administration of ribavirin with didanosine causes significantly increased levels of didanosine; co-administration with azathioprine may result in myelotoxicity due to accumulation of azathioprine.
+
+ANTI-INFLUENZA AGENTS
+Influenza virus strains are classified by their core proteins (ie, A, B, or C), species of origin (eg, avian, swine), and geographic site of isolation. Influenza A, the only strain that causes pandemics, is classified into 16 H (hemagglutinin) and 9 N (neuraminidase) known subtypes based on surface proteins. Although influenza B viruses usually infect only people, influenza A viruses can infect a variety of animal hosts, including birds, providing an extensive reservoir. Current influenza A subtypes that are circulating among worldwide populations include H1N1, H1N2, and H3N2. Although avian influenza subtypes are typically highly species-specific, they have on rare occasions crossed the species barrier to infect humans and cats. Viruses of the H5 and H7 subtypes (eg, H5N1, H7N9) may rapidly mutate within poultry flocks from a low to high pathogenic form and have recently expanded their host range to cause both avian and human disease. However, person-to-person spread of these avian viruses to date has been rare, limited, and unsustained.
+
+There are 5 anti-influenza drugs approved for use: 3 are neuraminidase inhibitors (oral oseltamivir, inhaled zanamivir, IV peramivir) and 2 are adamantanes (amantadine, rimantadine). Treatment is recommended for individuals with severe infection or at high risk for complications. The neuraminidase inhibitors have activity against both influenza A and influenza B, and there is currently a low level of resistance. The adamantanes have activity against influenza A viruses only, and in recent past seasons there was a high level of resistance (>99%) among both influenza H3N2 and influenza A H1N1.
+
+OSELTAMIVIR & ZANAMIVIR
+The neuraminidase inhibitors oseltamivir and zanamivir, analogs of sialic acid, interfere with release of progeny influenza A and B virus from infected host cells, thus halting the spread of infection within the respiratory tract. These agents competitively and reversibly interact with the active enzyme site to inhibit viral neuraminidase activity at low nanomolar concentrations, resulting in clumping of newly released influenza virions to each other and to the membrane of the infected cell. Early administration is crucial because replication of influenza virus peaks at 24–72 hours after the onset of illness. Initiation of a 5-day course of therapy within 48 hours after the onset of illness (75 mg twice daily) modestly decreases the duration of symptoms, as well as duration of viral shedding and viral titer; some studies have also shown a decrease in the incidence of complications. Once-daily prophylaxis (75 mg once daily) is 70–90% effective in preventing disease after exposure.
+
+Oseltamivir is an orally administered prodrug that is activated by hepatic esterases and widely distributed throughout the body. Oral bioavailability is ~ 80%, plasma protein binding is low, and concentrations in the middle ear and sinus fluid are similar to those in plasma. The half-life of oseltamivir is 6–10 hours, and excretion is by glomerular filtration and tubular secretion. Probenecid reduces renal clearance by 50%. Serum concentrations of oseltamivir carboxylate, the active metabolite of oseltamivir, increase with declining renal function; therefore, dosage should be adjusted in patients with renal insufficiency. Potential adverse effects include nausea, vomiting, and headache. Taking oseltamivir with food does not interfere with absorption and may decrease nausea and vomiting. Fatigue and diarrhea have also been reported and appear to be more common with prophylactic use. Rash is rare. Neuropsychiatric events (self-injury or delirium) have been reported, particularly in adolescents and adults living in Japan.
+
+Zanamivir is administered directly to the respiratory tract via inhalation. Of the active compound, 10–20% reaches the lungs; the remainder is deposited in the oropharynx. The concentration of the drug in the respiratory tract is estimated to be more than 1000 times the 50% inhibitory concentration for neuraminidase, and the pulmonary half-life is 2.8 hours. Of the total dose (10 mg twice daily for 5 days for treatment or 10 mg once daily for prevention), 5–15% is absorbed and excreted in the urine with minimal metabolism. Potential adverse effects include cough, bronchospasm (occasionally severe), reversible decrease in pulmonary function, and transient nasal and throat discomfort. Zanamivir administration is not recommended for patients with underlying airway disease.
+
+Although resistance to oseltamivir and zanamivir may emerge during therapy and be transmissible, >98% of H1N1 and H3N2 strains as well as 100% of influenza B virus tested by the Centers for Disease Control in the 2014–2015 season retained susceptibility to both agents.
+
+PERAMIVIR
+The neuraminidase inhibitor peramivir, a cyclopentane analog, has activity against both influenza A and B viruses, and is approved as a single 600-mg IV dose for the treatment of acute uncomplicated influenza in adults. As with the other neuraminidase inhibitors, early treatment is optimal (ie, within 48 hours).
+
+Less than 30% of peramivir is protein-bound. Peramivir is not significantly metabolized in humans and the major route of elimination is the kidney. Dose adjustment is required for renal insufficiency. The elimination half-life following IV administration is ~20 hours.
+
+The main potential side effect is diarrhea, although serious skin or hypersensitivity reactions (e.g., Stevens-Johnson syndrome, erythema multiforme) have been rarely reported. In addition, as with the other neuraminidase inhibitors, an increased risk of hallucinations, delirium, and abnormal behavior in patients with influenza receiving peramivir has been reported.
+
+AMANTADINE & RIMANTADINE
+Amantadine (1-aminoadamantane hydrochloride) and its α-methyl derivative, rimantadine, are tricyclic amines of the adamantane family that block the M2 proton ion channel of the virus particle and inhibit uncoating of the viral RNA within infected host cells, thus preventing its replication. They are active against influenza A only. Rimantadine is four to ten times more active than amantadine in vitro. Amantadine is well absorbed and 67% protein-bound, with a plasma half-life of 12–18 hours that varies by creatinine clearance. Rimantadine is about 40% protein-bound and has a half-life of 24–36 hours. Nasal mucus concentrations of rimantadine average 50% higher than those in plasma, and cerebrospinal fluid levels are 52–96% of those in the serum. Amantadine is excreted unchanged in the urine, whereas rimantadine undergoes extensive metabolism by hydroxylation, conjugation, and glucuronidation before urinary excretion. Dose reductions are required for both agents in the elderly and in patients with renal insufficiency, and for rimantadine in patients with severe hepatic insufficiency.
+
+In the absence of resistance, both amantadine and rimantadine are 70–90% protective in the prevention of clinical illness when initiated before exposure and limit the duration of clinical illness by 1–2 days when administered as treatment. However, due to high rates of resistance in both H1N1 and H3N2 viruses, these agents are no longer recommended for the prevention or treatment of influenza.
+
+The most common adverse effects are gastrointestinal (nausea, anorexia) and central nervous system (nervousness, difficulty in concentrating, insomnia, light-headedness). More serious side effects (eg, marked behavioral changes, delirium, hallucinations, agitation, and seizures) may be due to alteration of dopamine neurotransmission (see Chapter 28); are less frequent with rimantadine than with amantadine; are associated with high plasma concentrations; may occur more frequently in patients with renal insufficiency, seizure disorders, or advanced age; and may increase with concomitant antihistamines, anticholinergic drugs, hydrochlorothiazide, and trimethoprim-sulfamethoxazole. Clinical manifestations of anticholinergic activity tend to be present in acute amantadine overdose. Both agents are teratogenic and embryotoxic in rodents, and birth defects have been reported after exposure during pregnancy.
+
+INVESTIGATIONAL AGENTS
+An IV formulation of zanamivir is being evaluated in clinical trials and is available for compassionate use from the manufacturer. A long-acting neuraminidase inhibitor, laninamivir octanoate, may retain activity against oseltamivir-resistant virus. DAS181 is a host-directed antiviral agent with activity against influenza and parainfluenza that acts by removing the virus receptor, sialic acid, from adjacent glycan structures.
+
+OTHER ANTIVIRAL AGENTS
+INTERFERONS
+Interferons have been studied for numerous clinical indications. In addition to HBV and HCV infections (see Antihepatitis Agents), intralesional injection of interferon alfa-2b or alfa-n3 may be used for treatment of condylomata acuminata (see Chapter 61).
+
+RIBAVIRIN
+In addition to oral administration for HCV infection in combination with interferon alfa (see Antihepatitis Agents), aerosolized ribavirin is administered by nebulizer (20 mg/mL for 12–18 hours continuously per day) to children and infants with severe respiratory syncytial virus (RSV) bronchiolitis or pneumonia to reduce the severity and duration of illness. Systemic absorption is low (<1%). Aerosolized ribavirin may cause conjunctival or bronchial irritation and the aerosolized drug may precipitate on contact lenses. Ribavirin is teratogenic and embryotoxic. Health care workers and pregnant women should be protected against extended inhalation exposure.
+
+Ribavirin has in vitro activity against a number of viruses, including Lassa, West Nile, measles, influenza, and parainfluenza. However, clinical data regarding effectiveness are lacking.
+
+PALIVIZUMAB
+Palivizumab is a humanized monoclonal antibody directed against an epitope in the A antigen site on the F surface protein of RSV. It is licensed for the prevention of RSV infection in high-risk infants and children, such as premature infants and those with bronchopulmonary dysplasia or congenital heart disease. A placebo-controlled trial using once-monthly intramuscular injections (15 mg/kg) for 5 months beginning at the start of the RSV season demonstrated a 55% reduction in the risk of hospitalization for RSV in treated patients, as well as decreases in the need for supplemental oxygen, the illness severity score, and need for intensive care. Although resistant strains have been isolated in the laboratory, no resistant clinical isolates have yet been identified. Potential adverse effects include upper respiratory tract infection, fever, rhinitis, rash, diarrhea, vomiting, cough, otitis media, and elevation in serum aminotransferase levels.
+
+Agents under investigation for the treatment or prophylaxis of patients with RSV infection include small molecule inhibitors that interfere with RSV fusion through interaction with the F protein of RSV (e.g., GS-5806) and the oral nucleoside analog ALS-008176.
+
+IMIQUIMOD
+Imiquimod is an immune response modifier shown to be effective in the topical treatment of external genital and perianal warts (ie, condyloma acuminatum; see Chapter 61). The 5% cream is applied three times weekly and washed off 6–10 hours after each application. Recurrences appear to be less common than after ablative therapies. Imiquimod may also be effective against molluscum contagiosum but is not licensed in the USA for this indication. Local skin reactions are the most common adverse effect; these tend to resolve within weeks after therapy. However, pigmentary skin changes may persist. Systemic adverse effects such as fatigue and influenza-like syndrome have occasionally been reported.
+
+Favorite Table | Download (.pdf) | Print
+PREPARATIONS AVAILABLE
+GENERIC NAME	AVAILABLE AS
+Abacavir	Generic, Ziagen
+Abacavir/lamivudine	Epzicom
+Abacavir/lamivudine/zidovudine	Trizivir
+Acyclovir	Generic, Zovirax
+Adefovir	Generic, Hepsera
+Amantadine	Generic, Symmetrel
+Atazanavir	Reyataz
+Boceprevir	Victrelis
+Cidofovir	Generic, Vistide
+Darunavir	Prezista (must be taken with ritonavir)
+Delavirdine	Rescriptor
+Didanosine (dideoxyinosine, ddI)	Generic, Videx, Videx-EC
+Docosanol	Abreva (over-the-counter)
+Efavirenz	Sustiva
+Emtricitabine	Emtriva
+Emtricitabine/tenofovir	Truvada
+Emtricitabine/tenofovir/efavirenz	Atripla
+Enfuvirtide	Fuzeon
+Entecavir	Baraclude
+Etravirine	Intelence
+Famciclovir	Generic, Famvir
+Fosamprenavir	Lexiva
+Foscarnet	Generic, Foscavir
+Ganciclovir	Generic, Cytovene
+Imiquimod	Generic, Aldara, others
+Indinavir	Crixivan
+Interferon alfa-2a	Roferon-A
+Interferon alfa-2b	Intron-A
+Interferon alfa-2b/ribavirin	Rebetron
+Interferon alfa-n3	Alferon N
+Interferon alfacon-1	Infergen
+Lamivudine	Generic, Epivir, Epivir-HBV
+Lamivudine/zidovudine	Combivir
+Lamivudine/abacavir/zidovudine	Trizivir
+Lopinavir/ritonavir	Kaletra
+Maraviroc	Selzentry
+Nelfinavir	Viracept
+Nevirapine	Generic, Viramune
+Oseltamivir	Tamiflu
+Palivizumab	Synagis
+Peginterferon alfa-2a (pegylated interferon alfa-2a)	Pegasys
+Peginterferon alfa-2b (pegylated interferon alfa-2b)	PEG-Intron
+Penciclovir	Denavir
+Raltegravir	Isentress
+Ribavirin	Generic, Rebetol
+Ribavirin/interferon alfa-2b	Rebetron
+Ribavirin Aerosol	Virazole
+Rilpivirine	Edurant
+Rilpivirine/emtricitabine/-tenofovir	Complera
+Rimantadine	Generic, Flumadine
+Ritonavir	Norvir
+Saquinavir	Invirase
+Sofosbuvir	Sovaldi
+Stavudine	Generic, Zerit, Zerit XR
+Telaprevir	Incivek
+Telbivudine	Tyzeka
+Tenofovir	Viread
+Tipranavir	Aptivus
+Trifluridine	Generic, Viroptic
+Valacyclovir	Generic, Valtrex
+Valganciclovir	Valcyte
+Zalcitabine (dideoxycytidine, ddC)	Hivid (withdrawn)
+Zanamivir	Relenza
+Zidovudine (azidothymidine, AZT)	Generic, Retrovir
+Zidovudine/lamivudine	Combivir
+Zidovudine/lamivudine/abacavir	Trizivir
+REFERENCES
+American Association for the Study of Liver Diseases (AASLD)-Infectious Diseases Society of America (IDSA): Recommendations for testing, managing, and treating hepatitis C. www.hcvguidelines.org.
+Günthard  HF  et al: Antiretroviral Treatment of Adult HIV Infection: 2014 Recommendations of the International Antiviral Society–USA Panel. JAMA 2014;312:410.  [PubMed: 25038359] OpenURL
+Medical Letter: Antiviral drugs. Med Lett Drugs Ther 2013;11:19.
+Panel on Antiretroviral Guidelines for Adults and Adolescents: Guidelines for the use of antiretroviral agents in HIV-1 infected adults and adolescents. Department of Health and Human Services. https://www.aidsinfo.nih.gov/guidelines.
+Panel on Treatment of HIV-Infected Pregnant Women and Prevention of Perinatal Transmission: Recommendations for Use of Antiretroviral Drugs in Pregnant HIV-1-Infected Women for Maternal Health and Interventions to Reduce Perinatal HIV Transmission in the United States. https://www.aidsinfo.nih.gov/contentfiles/lvguidelines/PerinatalGL.pdf.
+Terrault  NA  et al: AASLD Guidelines for Treatment of Chronic Hepatitis B. Hepatology 2016;63:261.  [PubMed: 26566064] OpenURL
+
+RELEVANT WEBSITES
+https://www.aidsinfo.nih.gov
+www.hiv-druginteractions.org
+www.hivinsite.com
+www.iasusa.org
+www.hepatitisc.uw.edu/page/treatment/drugs
+
+CASE STUDY ANSWER
+CASE STUDY ANSWER
+Combination antiviral therapy against both HIV and hepatitis B virus (HBV) is indicated in this patient, given the high viral load and low CD4 cell count. However, the use of methadone and possibly excessive alcohol consumption necessitate caution. Tenofovir plus emtricitabine (two nucleoside/nucleotide reverse transcriptase inhibitors) would be excellent choices as the NRTI “backbone” of a fully suppressive regimen, since both are active against HIV-1 and HBV, do not interact with methadone, and are available in a once-daily, fixed-dose combination. A strand inhibitor such as raltegravir or dolutegravir, or the boosted combination of darunavir/ritonavir could be added. There are other alternatives as well. Prior to initiation of this regimen, renal and liver function should be checked, HBV DNA level should be assessed, the patient should be screened for Hepatitis A and HCV infection, and a bone mineral density test should be considered. Pregnancy should be ruled out, and the patient should be counseled that efavirenz should not be taken during pregnancy. Avoidance of alcohol should be recommended. The potential for lowered methadone levels with darunavir, if used, necessitates close monitoring and possibly an increased dose of methadone. Finally, the patient should be made aware that abrupt cessation of these medications may precipitate an acute flare of hepatitis.
+
+McGraw Hill
+Copyright © McGraw-Hill Education
+All rights reserved.
+Your IP address is 136.35.42.93
+Terms of Use   •  Privacy Policy   •  Notice   •  Accessibility
+Access Provided by: University of Kansas Med Ctr
+Silverchair

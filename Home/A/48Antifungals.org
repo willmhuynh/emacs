@@ -1,0 +1,270 @@
+
+SYSTEMIC ANTIFUNGAL DRUGS FOR SYSTEMIC INFECTIONS
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_135339.jpg][48.1]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_135403.jpg][48-1]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_135353.jpg][48.2]]
+ORAL SYSTEMIC ANTIFUNGAL DRUGS FOR MUCOCUTANEOUS INFECTIONS
+TOPICAL ANTIFUNGAL THERAPY
+
+
+Basic & Clinical Pharmacology, 14e
+Chapter 48: Antifungal Agents
+Harry W. Lampiris; Daniel S. Maddix
+
+
+CASE STUDY
+CASE STUDY
+The patient is a 37-year-old African-American man who lives in San Jose, California. He was recently incarcerated near Bakersfield, California and returned to Oakland about 3 months ago. He is currently experiencing one month of severe headache and double vision. He has a temperature of 38.6°C (101.5°F) and the physical exam reveals nuchal rigidity and right-sided sixth cranial nerve palsy. MRI of his brain is normal, and lumbar puncture reveals 330 WBC with 20% eosinophils, protein 75, and glucose 20. HIV test is negative, TB skin test is negative, CSF cryptococcal antigen is negative, and CSF gram stain is negative. Patient receives empiric therapy for bacterial meningitis with vancomycin and ceftriaxone, and is unimproved after 72 hours of treatment. After 3 days a white mold is identified growing from his CSF culture. What medical therapy would be most appropriate now?
+
+Human fungal infections have increased dramatically in incidence and severity in recent years, owing mainly to advances in surgery, cancer treatment, treatment of patients with solid organ and bone marrow transplantation, the HIV epidemic, and increasing use of broad-spectrum antimicrobial therapy in critically ill patients. These changes have resulted in increased numbers of patients at risk for fungal infections.
+
+For many years, amphotericin B was the only efficacious antifungal drug available for systemic use. While highly effective in many serious infections, it is also quite toxic. In the last several decades, pharmacotherapy of fungal disease has been revolutionized by the introduction of the relatively nontoxic azole drugs (both oral and parenteral formulations) and the echinocandins (only available for parenteral administration). The new agents in these classes offer more targeted, less toxic therapy than older agents such as amphotericin B for patients with serious systemic fungal infections. Combination therapy is being reconsidered, and new formulations of old agents are becoming available. Unfortunately, the appearance of azole-resistant and echinocandin-resistant organisms, as well as the rise in the number of patients at risk for mycotic infections, has created new challenges.
+
+The antifungal drugs presently available fall into the following categories: systemic drugs (oral or parenteral) for systemic infections, oral systemic drugs for mucocutaneous infections, and topical drugs for mucocutaneous infections.
+
+SYSTEMIC ANTIFUNGAL DRUGS FOR SYSTEMIC INFECTIONS
+AMPHOTERICIN B
+Amphotericin A and B are antifungal antibiotics produced by Streptomyces nodosus. Amphotericin A is not in clinical use.
+
+Chemistry & Pharmacokinetics
+Amphotericin B is an amphoteric polyene macrolide (polyene = containing many double bonds; macrolide = containing a large lactone ring of 12 or more atoms). It is nearly insoluble in water and is therefore prepared as a colloidal suspension of amphotericin B and sodium deoxycholate for intravenous injection. Several formulations have been developed in which amphotericin B is packaged in a lipid-associated delivery system (Table 48–1 and Box: Lipid Formulation of Amphotericin B).
+
+image
+
+TABLE 48–1
+Properties of conventional amphotericin B and some lipid formulations.1
+Drug	Physical Form	Dosing (mg/kg/d)	Cmax	Clearance	Nephrotoxicity	Infusional Toxicity	Daily Cost ($)
+Conventional formulation
+Fungizone	Micelles	1	—	—	—	—	24
+Lipid formulations
+AmBisome	Spheres	3–5	↑	↓	↓	↓	1300
+Amphotec	Disks	5	↓	↑	↓	↑(?)	660
+Abelcet	Ribbons	5	↓	↑	↓	↓(?)	570
+1
+Changes in Cmax (peak plasma concentration), clearance, nephrotoxicity, and infusional toxicity are relative to conventional amphotericin B.
+
+Lipid Formulation of Amphotericin B
+Therapy with amphotericin B is often limited by toxicity, especially drug-induced renal impairment. This has led to the development of lipid drug formulations on the assumption that lipid-packaged drug binds to the mammalian membrane less readily, permitting the use of effective doses of the drug with lower toxicity. Liposomal amphotericin preparations package the active drug in lipid delivery vehicles, in contrast to the colloidal suspensions, which were previously the only available forms. Amphotericin binds to the lipids in these vehicles with an affinity between that for fungal ergosterol and that for human cholesterol. The lipid vehicle then serves as an amphotericin reservoir, reducing nonspecific binding to human cell membranes. This preferential binding allows for a reduction of toxicity without sacrificing efficacy and permits use of larger doses. Furthermore, some fungi contain lipases that may liberate free amphotericin B directly at the site of infection.
+
+Three such formulations are now available and have differing pharmacologic properties as summarized in Table 48–1. Although clinical trials have demonstrated different renal and infusion-related toxicities for these preparations compared with regular amphotericin B, there are no trials comparing the different formulations with each other. Limited studies have suggested at best a moderate improvement in the clinical efficacy of the lipid formulations compared with conventional amphotericin B. Because the lipid preparations are much more expensive, their use is usually restricted to patients intolerant to, or not responding to, conventional amphotericin treatment.
+
+Amphotericin B is poorly absorbed from the gastrointestinal tract. Oral amphotericin B is thus effective only on fungi within the lumen of the tract and cannot be used for treatment of systemic disease. The intravenous injection of 0.6 mg/kg/d of amphotericin B results in average blood levels of 0.3–1 mcg/mL; the drug is more than 90% bound by serum proteins. Although it is mostly metabolized, some amphotericin B is excreted slowly in the urine over a period of several days. The serum half-life is approximately 15 days. Hepatic impairment, renal impairment, and dialysis have little impact on drug concentrations, and therefore no dose adjustment is required. The drug is widely distributed in most tissues, but only 2–3% of the blood level is reached in cerebrospinal fluid, thus occasionally necessitating intrathecal therapy for certain types of fungal meningitis.
+
+Mechanisms of Action & Resistance
+Amphotericin B is selective in its fungicidal effect because it exploits the difference in lipid composition of fungal and mammalian cell membranes. Ergosterol, a cell membrane sterol, is found in the cell membrane of fungi, whereas the predominant sterol of bacteria and human cells is cholesterol. Amphotericin B binds to ergosterol and alters the permeability of the cell by forming amphotericin B–associated pores in the cell membrane (Figure 48–1). As suggested by its chemistry, amphotericin B combines avidly with lipids (ergosterol) along the double bond–rich side of its structure and associates with water molecules along the hydroxyl-rich side. This amphipathic characteristic facilitates pore formation by multiple amphotericin molecules, with the lipophilic portions around the outside of the pore and the hydrophilic regions lining the inside. The pore allows the leakage of intracellular ions and macromolecules, eventually leading to cell death. Some binding to human membrane sterols does occur, probably accounting for the drug’s prominent toxicity.
+
+FIGURE 48–1
+Targets of antifungal drugs. Except for flucytosine (and possibly griseofulvin, not shown), all currently available antifungals target the fungal cell membrane or cell wall.
+
+image
+Resistance to amphotericin B occurs if ergosterol binding is impaired, either by decreasing the membrane concentration of ergosterol or by modifying the sterol target molecule to reduce its affinity for the drug.
+
+Antifungal Activity & Clinical Uses
+Amphotericin B remains the antifungal agent with the broadest spectrum of action. It has activity against the clinically significant yeasts, including Candida albicans and Cryptococcus neoformans; the organisms causing endemic mycoses, including Histoplasma capsulatum, Blastomyces dermatitidis, and Coccidioides immitis; and the pathogenic molds, such as Aspergillus fumigatus and the agents of mucormycosis. Some fungal organisms such as Candida lusitaniae and Pseudallescheria boydii display intrinsic amphotericin B resistance.
+
+Owing to its broad spectrum of activity and fungicidal action, amphotericin B remains a useful agent for nearly all life-threatening mycotic infections, although newer, less toxic agents have largely replaced it for most conditions. Amphotericin B is often used as the initial induction regimen to rapidly reduce fungal burden and then replaced by one of the newer azole drugs (described below) for chronic therapy or prevention of relapse. Such induction therapy is especially important for immunosuppressed patients and those with severe fungal pneumonia, severe cryptococcal meningitis, or disseminated infections with one of the endemic mycoses such as histoplasmosis or coccidioidomycosis. Once a clinical response has been elicited, these patients then often continue maintenance therapy with an azole; therapy may be lifelong in patients at high risk for disease relapse. For treatment of systemic fungal disease, amphotericin B is given by slow intravenous infusion at a dosage of 0.5–1 mg/kg/d. Intrathecal therapy for fungal meningitis is poorly tolerated and fraught with difficulties related to maintaining cerebrospinal fluid access. Thus, intrathecal therapy with amphotericin B is being increasingly supplanted by other therapies but remains an option in cases of fungal central nervous system infections that have not responded to other agents.
+
+Local or topical administration of amphotericin B has been used with success. Mycotic corneal ulcers and keratitis can be cured with topical drops as well as by direct subconjunctival injection. Fungal arthritis has been treated with adjunctive local injection directly into the joint. Candiduria responds to bladder irrigation with amphotericin B, and this route has been shown to produce no significant systemic toxicity.
+
+Adverse Effects
+The toxicity of amphotericin B can be divided into two broad categories: immediate reactions, related to the infusion of the drug, and those occurring more slowly.
+
+A. Infusion-Related Toxicity
+Infusion-related reactions are nearly universal and consist of fever, chills, muscle spasms, vomiting, headache, and hypotension. They can be ameliorated by slowing the infusion rate or decreasing the daily dose. Premedication with antipyretics, antihistamines, meperidine, or corticosteroids can be helpful. When starting therapy, many clinicians administer a test dose of 1 mg intravenously to gauge the severity of the reaction. This can serve as a guide to an initial dosing regimen and premedication strategy.
+
+B. Cumulative Toxicity
+Renal damage is the most significant toxic reaction. Renal impairment occurs in nearly all patients treated with clinically significant doses of amphotericin. The degree of azotemia is variable and often stabilizes during therapy, but it can be serious enough to necessitate dialysis. A reversible component is associated with decreased renal perfusion and represents a form of prerenal renal failure. An irreversible component results from renal tubular injury and subsequent dysfunction. The irreversible form of amphotericin nephrotoxicity usually occurs in the setting of prolonged administration (>4 g cumulative dose). Renal toxicity commonly manifests as renal tubular acidosis and severe potassium and magnesium wasting. There is some evidence that the prerenal component can be attenuated with sodium loading, and it is common practice to administer normal saline infusions with the daily doses of amphotericin B.
+
+Abnormalities of liver function tests are occasionally seen, as is a varying degree of anemia due to reduced erythropoietin production by damaged renal tubular cells. After intrathecal therapy with amphotericin, seizures and a chemical arachnoiditis may develop, often with serious neurologic sequelae.
+
+FLUCYTOSINE
+Chemistry & Pharmacokinetics
+Flucytosine (5-FC) was discovered in 1957 during a search for novel antineoplastic agents. Though devoid of anti-cancer properties, it became apparent that it is a potent antifungal agent. Flucytosine is a water-soluble pyrimidine analog related to the chemotherapeutic agent 5-fluorouracil (5-FU). Its spectrum of action is much narrower than that of amphotericin B.
+
+image
+
+Flucytosine is currently available in North America only in an oral formulation. The dosage is 100 mg/kg/d in divided doses in patients with normal renal function. It is well absorbed (>90%), with serum concentrations peaking 1–2 hours after an oral dose. It is poorly protein-bound and penetrates well into all body fluid compartments, including the cerebrospinal fluid. It is eliminated by glomerular filtration with a half-life of 3–4 hours and is removed by hemodialysis. Levels rise rapidly with renal impairment and can lead to toxicity. Toxicity is more likely to occur in AIDS patients and those with renal insufficiency. Peak serum concentrations should be measured periodically in patients with renal insufficiency and maintained between 50 and 100 mcg/mL.
+
+Mechanisms of Action & Resistance
+Flucytosine is taken up by fungal cells via the enzyme cytosine permease. It is converted intracellularly first to 5-FU and then to 5-fluorodeoxyuridine monophosphate (FdUMP) and fluorouridine triphosphate (FUTP), which inhibit DNA and RNA synthesis, respectively (Figure 48–1). Human cells are unable to convert the parent drug to its active metabolites, resulting in selective toxicity.
+
+Synergy with amphotericin B has been demonstrated in vitro and in vivo. It may be related to enhanced penetration of the flucytosine through amphotericin-damaged fungal cell membranes. In vitro synergy with azole drugs also has been seen, although the mechanism is unclear.
+
+Resistance is thought to be mediated through altered metabolism of flucytosine, and, although uncommon in primary isolates, it develops rapidly in the course of flucytosine monotherapy.
+
+Clinical Uses & Adverse Effects
+The spectrum of activity of flucytosine is restricted to C neoformans, some Candida sp, and the dematiaceous molds that cause chromoblastomycosis. Flucytosine is rarely used as a single agent because of its demonstrated synergy with other agents and to avoid the development of secondary resistance. At present clinical use is confined to combination therapy with amphotericin B for cryptococcal meningitis, or with itraconazole for chromoblastomycosis. Flucytosine also has limited utility as monotherapy for fluconazole-resistant candidal urinary tract infections.
+
+The adverse effects of flucytosine result from metabolism (possibly by intestinal flora) to the toxic antineoplastic compound fluorouracil. Bone marrow toxicity with anemia, leukopenia, and thrombocytopenia are the most common adverse effects, with derangement of liver enzymes occurring less frequently. A form of toxic enterocolitis can occur. There seems to be a narrow therapeutic window, with an increased risk of toxicity at higher drug levels and resistance developing rapidly at subtherapeutic concentrations. The use of drug concentration measurements may be helpful in reducing the incidence of toxic reactions, especially when flucytosine is combined with nephrotoxic agents such as amphotericin B.
+
+AZOLES
+Chemistry & Pharmacokinetics
+Azoles are synthetic compounds that can be classified as either imidazoles or triazoles according to the number of nitrogen atoms in the five-membered azole ring, as indicated below. The imidazoles consist of ketoconazole, miconazole, and clotrimazole (Figure 48–2). The latter two drugs are now used only in topical therapy. The triazoles include itraconazole, fluconazole, voriconazole, isavuconazole, and posaconazole. Other triazoles are currently under investigation.
+
+image
+
+FIGURE 48–2
+Structural formulas of some antifungal azoles.
+
+image
+The pharmacology of each of the azoles is unique and accounts for some of the variations in clinical use. Table 48–2 summarizes the differences among six of the azoles.
+
+TABLE 48–2
+Pharmacologic properties of six systemic azole drugs.
+ 	Water Solubility	Absorption	CSF: Serum Concentration Ratio	t½ (hours)	Elimination	Formulations
+Ketoconazole	Low	Variable	<0.1	7–10	Hepatic	Oral
+Itraconazole	Low	Variable	<0.01	24–42	Hepatic	Oral, IV
+Fluconazole	High	High	>0.7	22–31	Renal	Oral, IV
+Voriconazole	High	High	>0.21	6	Hepatic	Oral, IV
+Posaconazole	Low	High	—	25	Hepatic	Oral, IV
+Isavuconazole	High	High	—	130	Hepatic	Oral, IV
+Mechanisms of Action & Resistance
+The antifungal activity of azole drugs results from the reduction of ergosterol synthesis by inhibition of fungal cytochrome P450 enzymes (Figure 48–1). The selective toxicity of azole drugs results from their greater affinity for fungal than for human cytochrome P450 enzymes. Imidazoles exhibit a lesser degree of selectivity than the triazoles, accounting for their higher incidence of drug interactions and adverse effects.
+
+Resistance to azoles occurs via multiple mechanisms. Once rare, increasing numbers of resistant strains are being reported, suggesting that increasing use of these agents for prophylaxis and therapy may be selecting for clinical drug resistance in certain settings.
+
+Clinical Uses, Adverse Effects, & Drug Interactions
+The spectrum of action of azole medications is broad, including many species of Candida, C neoformans, the endemic mycoses (blastomycosis, coccidioidomycosis, histoplasmosis), the dermatophytes, and, in the case of itraconazole, posaconazole, isavuconazole, and voriconazole, even Aspergillus infections. They are also useful in the treatment of intrinsically amphotericin-resistant organisms such as P boydii.
+
+As a group, the azoles are relatively nontoxic. The most common adverse reaction is relatively minor gastrointestinal upset. All azoles have been reported to cause abnormalities in liver enzymes and, very rarely, clinical hepatitis. Adverse effects specific to individual agents are discussed below.
+
+All azole drugs are prone to drug interactions because they affect the mammalian cytochrome P450 enzyme system to some extent. The most significant reactions are indicated below.
+
+KETOCONAZOLE
+Ketoconazole was the first oral azole introduced into clinical use. It is distinguished from triazoles by its greater propensity to inhibit mammalian cytochrome P450 enzymes; that is, it is less selective for fungal P450 than are the newer azoles. As a result, systemic ketoconazole has fallen out of clinical use in the USA and is not discussed in any detail here. It is no longer recommended for the treatment of fungal nail or skin infections.
+
+ITRACONAZOLE
+Itraconazole is available in oral and intravenous formulations and is used at a dosage of 100–400 mg/d. Drug absorption from capsules is increased by food and by low gastric pH. Like other lipid-soluble azoles, it interacts with hepatic microsomal enzymes, though to a lesser degree than ketoconazole. An important drug interaction is reduced bioavailability of itraconazole when taken with rifamycins (rifampin, rifabutin, rifapentine). It does not affect mammalian steroid synthesis, and its effects on the metabolism of other hepatically cleared medications are much less than those of ketoconazole. While itraconazole displays potent antifungal activity, effectiveness can be limited by reduced bioavailability. Newer formulations, including an oral liquid and an intravenous preparation, have utilized cyclodextrin as a carrier molecule to enhance solubility and bioavailability. Like ketoconazole, itraconazole penetrates poorly into the cerebrospinal fluid. Itraconazole is the azole of choice for treatment of disease due to the dimorphic fungi Histoplasma, Blastomyces, and Sporothrix. Itraconazole has activity against Aspergillus sp, but it has been replaced by voriconazole as the azole of choice for aspergillosis. Itraconazole is used extensively in the treatment of dermatophytoses and onychomycosis.
+
+FLUCONAZOLE
+Fluconazole displays a high degree of water solubility and good cerebrospinal fluid penetration. Unlike ketoconazole and itraconazole, its oral bioavailability is high. Drug interactions are also less common because fluconazole has the least effect of all the azoles on hepatic microsomal enzymes. Because of fewer hepatic enzyme interactions and better gastrointestinal tolerance, fluconazole has the widest therapeutic index of the azoles, permitting more aggressive dosing in a variety of fungal infections. The drug is available in oral and intravenous formulations and is used at a dosage of 100–800 mg/d.
+
+Fluconazole is the azole of choice in the treatment and secondary prophylaxis of cryptococcal meningitis. Intravenous fluconazole has been shown to be equivalent to amphotericin B in treatment of candidemia in ICU patients with normal white blood cell counts, although echinocandins may have superior activity for this indication. Fluconazole is the agent most commonly used for the treatment of mucocutaneous candidiasis. Activity against the dimorphic fungi is mainly limited to coccidioidal disease, and in particular for meningitis, where high doses of fluconazole often obviate the need for intrathecal amphotericin B. Fluconazole displays no activity against Aspergillus or other filamentous fungi.
+
+Prophylactic use of fluconazole has been demonstrated to reduce fungal disease in bone marrow transplant recipients and AIDS patients, but the emergence of fluconazole-resistant fungi has raised concerns about this indication.
+
+VORICONAZOLE
+Voriconazole is available in intravenous and oral formulations. The recommended dosage is 400 mg/d. The drug is well absorbed orally, with a bioavailability exceeding 90%, and it exhibits less protein binding than itraconazole. Metabolism is predominantly hepatic. Voriconazole is a clinically relevant inhibitor of mammalian CYP3A4, and dose reduction of a number of medications is required when voriconazole is started. These include cyclosporine, tacrolimus, and HMG-CoA reductase inhibitors. Observed toxicities include rash and elevated hepatic enzymes. Visual disturbances are common, occurring in up to 30% of patients receiving intravenous voriconazole, and include blurring and changes in color vision or brightness. These visual changes usually occur immediately after a dose of voriconazole and resolve within 30 minutes. Photosensitivity dermatitis is commonly observed in patients receiving chronic oral therapy.
+
+Voriconazole is similar to itraconazole in its spectrum of action, having excellent activity against Candida sp (including some fluconazole-resistant species such as Candida krusei) and the dimorphic fungi. Voriconazole is less toxic than amphotericin B and is the treatment of choice for invasive aspergillosis and some environmental molds (see Box: Iatrogenic Fungal Meningitis). Measurement of voriconazole levels may predict toxicity and clinical efficacy, especially in immunocompromised patients. Therapeutic trough levels should be between 1 and 5 mcg/mL.
+
+Iatrogenic Fungal Meningitis
+In September 2012, the U.S. Centers for Disease Control and Prevention (CDC) in Atlanta received reports of a number of cases of fungal meningitis in patients who had received injections with the corticosteroid methylprednisolone. An investigation revealed a multistate outbreak of septic arthritis, paraspinal infections, and meningitis due to environmental molds, with the black mold Exserohilum rostratum being the most commonly isolated species. The outbreak was traced to the injection of methylprednisolone that was contaminated during its preparation by a compounding pharmacy facility in New England. Methylprednisolone injections are commonly given to patients with joint or back arthritis, and in the affected cases the patients were not only inadvertently injected with spores of environmental molds, but the normal immune response to this infection was inhibited by the potent immunosuppressive effect of the corticosteroid. As of November 2013 more than 750 cases of fungal infection had been identified in 20 states, with over 60 deaths. Treatment of these infections was challenging, and the CDC recommended the use of intravenous voriconazole as first-line therapy, with the addition of liposomal amphotericin B in cases of severe infection.
+
+POSACONAZOLE
+Posaconazole was originally available only in a liquid oral formulation and is used at a dosage of 800 mg/d, divided into two or four doses. Absorption is improved when taken with meals high in fat. An intravenous form of posaconazole and a sustained acting tablet form with higher bioavailability are now available. Posaconazole is rapidly distributed to the tissues, resulting in high tissue levels but relatively low blood levels. Measurement of posaconazole levels is recommended in patients with serious invasive fungal infections (especially mold infections); steady-state posaconazole levels should be between 0.5 and 1.5 mcg/mL. Drug interactions with increased levels of CYP3A4 substrates such as tacrolimus and cyclosporine have been documented.
+
+Posaconazole is the broadest-spectrum member of the azole family, with activity against most species of Candida and Aspergillus. It is the first azole with significant activity against the agents of mucormycosis. It is currently licensed for salvage therapy in invasive aspergillosis, as well as prophylaxis of fungal infections during induction chemotherapy for leukemia, and for allogeneic bone marrow transplant patients with graft-versus-host disease.
+
+ISAVUCONAZOLE (ISAVUCONAZONIUM SULFATE)
+Isavuconazonium sulfate is a prodrug of the newest triazole, isavuconazole; 186 mg of the water-soluble prodrug is equivalent to 100 mg of isavuconazole. It is available as highly bioavailable oral capsules and an intravenous formulation. Following a 2-day loading dose of 372 mg administered every 8 hours, isavuconazonium sulfate is given as a single 372-mg daily dose. Food does not significantly impact the oral absorption of isavuconazonium sulfate. Measurement of isavuconazole levels has not been demonstrated to be of benefit. Coadministration with strong 3A4 inhibitors (eg, ritonavir) or inducers (eg, rifampin) is not recommended.
+
+Isavuconazole has an antifungal spectrum similar to that of posaconazole. It is currently licensed for the treatment of invasive aspergillosis and invasive mucormycosis. Data from published clinical trials are limited. Preliminary evidence indicates that it is better tolerated than voriconazole.
+
+ECHINOCANDINS
+Chemistry & Pharmacokinetics
+Echinocandins are the newest class of antifungal agents to be developed. They are large cyclic peptides linked to a long-chain fatty acid. Caspofungin, micafungin, and anidulafungin are the only licensed agents in this category of antifungals, although other drugs are under active investigation. These agents are active against Candida and Aspergillus, but not C neoformans or the agents of zygomycosis and mucormycosis.
+
+Echinocandins are available only in intravenous formulations. Caspofungin is administered as a single loading dose of 70 mg, followed by a daily dose of 50 mg. Caspofungin is water soluble and highly protein-bound. The half-life is 9–11 hours, and the metabolites are excreted by the kidneys and gastrointestinal tract. Dosage adjustments are required only in the presence of severe hepatic insufficiency. Micafungin displays similar properties with a half-life of 11–15 hours and is used at a dose of 150 mg/d for treatment of esophageal candidiasis, 100 mg/d for treatment of candidemia, and 50 mg/d for prophylaxis of fungal infections. Anidulafungin has a half-life of 24–48 hours. For esophageal candidiasis, it is administered intravenously at 100 mg on the first day and 50 mg/d thereafter for 14 days. For candidemia, a loading dose of 200 mg is recommended with 100 mg/d thereafter for at least 14 days after the last positive blood culture.
+
+Mechanism of Action
+Echinocandins act at the level of the fungal cell wall by inhibiting the synthesis of β(1–3)-glucan (Figure 48–1). This results in disruption of the fungal cell wall and cell death.
+
+Clinical Uses & Adverse Effects
+Caspofungin is currently licensed for disseminated and mucocutaneous candidal infections, as well as for empiric antifungal therapy during febrile neutropenia, and has largely replaced amphotericin B for the latter indication. Of note, caspofungin is licensed for use in invasive aspergillosis only as salvage therapy in patients who have failed to respond to amphotericin B, and not as primary therapy. Micafungin is licensed for mucocutaneous candidiasis, candidemia, and prophylaxis of candidal infections in bone marrow transplant patients. Anidulafungin is approved for use in esophageal candidiasis and invasive candidiasis, including candidemia.
+
+Echinocandin agents are extremely well tolerated, with minor gastrointestinal side effects and flushing reported infrequently. Elevated liver enzymes have been noted in several patients receiving caspofungin in combination with cyclosporine, and this combination should be avoided. Micafungin has been shown to increase levels of nifedipine, cyclosporine, and sirolimus. Anidulafungin does not seem to have significant drug interactions, but histamine release may occur during intravenous infusion. Clinically significant echinocandin resistance is an emerging concern especially with invasive Candida glabrata infections in immunocompromised patients.
+
+ORAL SYSTEMIC ANTIFUNGAL DRUGS FOR MUCOCUTANEOUS INFECTIONS
+GRISEOFULVIN
+Griseofulvin is a very insoluble fungistatic drug derived from a species of penicillium. Its only use is in the systemic treatment of dermatophytosis (see Chapter 61). It is administered in a microcrystalline oral form at a dosage of up to 1 g/d. Absorption is improved when it is given with fatty foods. Griseofulvin’s mechanism of action at the cellular level is unclear, but it is deposited in newly forming skin where it binds to keratin, protecting the skin from new infection. Because its action is to prevent infection of these new skin structures, griseofulvin must be administered for 2–6 weeks for skin and hair infections to allow the replacement of infected keratin by the resistant structures. Nail infections may require therapy for months to allow regrowth of the new protected nail and is often followed by relapse. Adverse effects include an allergic syndrome much like serum sickness, serious skin reactions, a lupus-like syndrome, hepatotoxicity, and drug interactions with warfarin and phenobarbital. Griseofulvin has been largely replaced by newer antifungal medications such as itraconazole and terbinafine.
+
+TERBINAFINE
+Terbinafine is a synthetic allylamine that is available in an oral formulation and is used at a dosage of 250 mg/d. It is used in the treatment of dermatophytoses, especially onychomycosis (see Chapter 61). Like griseofulvin, terbinafine is a keratophilic medication, but unlike griseofulvin, it is fungicidal. Like the azole drugs, it interferes with ergosterol biosynthesis, but rather than interacting with the P450 system, terbinafine inhibits the fungal enzyme squalene epoxidase (Figure 48–1). This leads to the accumulation of the sterol squalene, which is toxic to the organism. One 250-mg tablet given daily for 12 weeks achieves a cure rate of up to 90% for onychomycosis and is more effective than griseofulvin or itraconazole. Adverse effects are rare, consisting primarily of gastrointestinal upset and headache, but serious hepatotoxicity has been reported. Terbinafine does not seem to affect the P450 system and has demonstrated no significant drug interactions to date.
+
+TOPICAL ANTIFUNGAL THERAPY
+NYSTATIN
+Nystatin is a polyene macrolide much like amphotericin B. It is too toxic for parenteral administration and is only used topically. Nystatin is currently available in creams, ointments, suppositories, and other forms for application to skin and mucous membranes. It is not absorbed to a significant degree from skin, mucous membranes, or the gastrointestinal tract. As a result, nystatin has little toxicity, although oral use is often limited by the unpleasant taste.
+
+Nystatin is active against most Candida sp and is most commonly used for suppression of local candidal infections. Some common indications include oropharyngeal thrush, vaginal candidiasis, and intertriginous candidal infections.
+
+TOPICAL AZOLES
+The two azoles most commonly used topically are clotrimazole and miconazole; several others are available (see Preparations Available). Both are available over the counter and are often used for vulvovaginal candidiasis. Oral clotrimazole troches are available for treatment of oral thrush and are a pleasant-tasting alternative to nystatin. In cream form, both agents are useful for dermatophytic infections, including tinea corporis, tinea pedis, and tinea cruris. Absorption is negligible, and adverse effects are rare.
+
+Topical and shampoo forms of ketoconazole are also available and useful in the treatment of seborrheic dermatitis and pityriasis versicolor. Several other azoles are available for topical use (see Preparations Available).
+
+TOPICAL ALLYLAMINES
+Terbinafine and naftifine are allylamines available as topical creams (see Chapter 61). Both are effective for treatment of tinea cruris and tinea corporis. These are prescription drugs in the USA.
+
+Favorite Table | Download (.pdf) | Print
+SUMMARY Antifungal Drugs
+Subclass, Drug	Mechanism of Action	Effects	Clinical Applications	Pharmacokinetics, Toxicities, Interactions
+POLYENE MACROLIDE
+ • Amphotericin B	Forms pores in fungal membranes (which contain ergosterol) but not in mammalian (cholesterol- containing) membranes	Loss of intracellular contents through pores is fungicidal • broad spectrum of action	Localized and systemic candidemia • Cryptococcus • Histoplasma • Blastomyces • Coccidioides • Aspergillus	Oral form is not absorbed • IV for systemic use • intrathecal for fungal meningitis • topical for ocular and bladder infections • duration, days • Toxicity: Infusion reactions • renal impairment • Interactions: Additive with other renal toxic drugs
+ • Lipid formulations: Lower toxicity, higher doses can be used
+PYRIMIDINE ANALOG
+ • Flucytosine	Interferes with DNA and RNA synthesis selectively in fungi	Synergistic with amphotericin • systemic toxicity in host due to DNA and RNA effects	Cryptococcus and chromoblastomycosis infections	Oral • duration, hours • renal excretion • Toxicity: Myelosuppression
+AZOLES
+ • Ketoconazole	Blocks fungal P450 enzymes and interferes with ergosterol synthesis	Poorly selective • also interferes with mammalian P450 function	Broad spectrum but toxicity restricts use to topical therapy	Oral, topical • Toxicity and interactions: Interferes with steroid hormone synthesis and phase I drug metabolism
+ • Itraconazole	Same as for ketoconazole	Much more selective than ketoconazole	Broad spectrum: Candida, Cryptococcus, blastomycosis, coccidioidomycosis, histoplasmosis	Oral and IV • duration, 1–2 d • poor entry into central nervous system (CNS) • Toxicity and interactions: Low toxicity
+ • Fluconazole, voriconazole, posaconazole, isavuconazole: Fluconazole has excellent CNS penetration, used in fungal meningitis
+ECHINOCANDINS
+ • Caspofungin	Blocks β-glucan synthase	Prevents synthesis of fungal cell wall	Fungicidal Candida sp • also used in aspergillosis	IV only • duration, 11–15 h • Toxicity: Minor gastrointestinal effects, flushing • Interactions: Increases cyclosporine levels (avoid combination)
+ • Micafungin, anidulafungin: Micafungin increases levels of nifedipine, cyclosporine, sirolimus; anidulafungin is relatively free of this interaction
+ALLYLAMINE
+ • Terbinafine	Inhibits epoxidation of squalene in fungi • increased levels are toxic to fungi	Reduces ergosterol • prevents synthesis of fungal cell membrane	Mucocutaneous fungal infections	Oral • duration, days • Toxicity: Gastrointestinal upset, headache, hepatotoxicity • Interactions: None reported
+Favorite Table | Download (.pdf) | Print
+PREPARATIONS AVAILABLE
+GENERIC NAME	AVAILABLE AS
+Amphotericin B	 
+ Parenteral:	 
+  Conventional formulation	Generic
+  Lipid formulations	Abelcet, AmBisome
+Anidulafungin	Eraxis
+Butenafine	Mentax
+Butoconazole	Gynazole-1
+Caspofungin	Cancidas
+Clotrimazole	Generic, Lotrimin, Mycelex, others
+Econazole	Generic, Ecoza
+Fluconazole	Generic, Diflucan
+Flucytosine	Generic, Ancobon
+Griseofulvin	Grifulvin, Gris-Peg
+Itraconazole	Generic, Sporanox, Onmel
+Ketoconazole	Generic, Nizoral, others
+Micafungin	Mycamine
+Miconazole	Generic, Oravig, Micatin
+Naftifine	Naftin
+Natamycin	Natacyn
+Nystatin	Generic
+Oxiconazole	Generic, Oxistat, others
+Posaconazole	Noxafil
+Sulconazole	Exelderm
+Terbinafine	Generic, Lamisil
+Terconazole	Generic, Terazol 3, Terazol 7
+Tioconazole	Vagistat-1, Monistat 1
+Tolnaftate	Generic, Aftate, Tinactin, others
+Voriconazole	Generic, Vfend
+REFERENCES
+Ashbee  HR  et al: Therapeutic drug monitoring (TDM) of antifungal agents: Guidelines from the British Society for Medical Mycology. J Antimicrob Chemother 2014;69:1162.  [PubMed: 24379304] OpenURL
+Cornely  OA  et al: Posazonacole vs. fluconazole or itraconazole prophylaxis in patients with neutropenia. N Engl J Med 2007;356:348.  [PubMed: 17251531] OpenURL
+Diekema  DJ  et al: Activities of caspofungin, itraconazole, posaconazole, ravuconazole, voriconazole, and amphotericin B against 448 recent clinical isolates of filamentous fungi. J Clin Microbiol 2003;41:3623.  [PubMed: 12904365] OpenURL
+Felton  T, Troke  PF, Hope  WW: Tissue penetration of antifungal agents. Clin Microbiol Rev 2014:27:68.  [PubMed: 24396137] OpenURL
+Herbrecht  R  et al: Voriconazole versus amphotericin B for primary therapy of invasive aspergillosis. N Engl J Med 2002;347:408.  [PubMed: 12167683] OpenURL
+Lewis  RE: Current concepts in antifungal pharmacology. Mayo Clin Proc 2011;86:805.  [PubMed: 21803962] OpenURL
+Nett  JE, Andes  DR: Antifungal agents: Spectrum of activity, pharmacology, and clinical indications. Infect Dis Clin North Am 2016;30:51.  [PubMed: 26739608] OpenURL
+Pasqualotto  AC, Denning  DW: New and emerging treatments for fungal infection. J Antimicrob Chemother 2008;61(Suppl 1):i19.  [PubMed: 18063600] OpenURL
+Perlin  DS: Echinocandin resistance, susceptibility testing and prophylaxis: Implications for patient management. Drugs 2014;74:1573.  [PubMed: 25255923] OpenURL
+Rogers  TR: Treatment of zygomycosis: Current and new options. J Antimicrob Chemother 2008;61(Suppl 1):i35.  [PubMed: 18063603] OpenURL
+Wong-Beringer  A, Jacobs  RA, Guglielmo  BJ: Lipid formulations of amphotericin B: Clinical efficacy and toxicities. Clin Infect Dis 1998;27:603.  [PubMed: 9770163] OpenURL
+
+CASE STUDY ANSWER
+CASE STUDY ANSWER
+The mold subsequently isolated from the patient’s CSF was identified as Coccidioides immitis. Patients of African-American and Southeast Asian descent as well as immunocompromised patients are at an increased risk for developing chronic forms of coccidioidomycosis such as meningitis. C. immitis is a dimorphic fungus that grows in the soil of the San Joaquin Valley in California, while closely related C posadasii is found elsewhere in desert regions of the southwest USA, parts of Mexico, and Central and South America. Oral therapy with fluconazole was initiated at a dose of 800 mg/day and patient’s headache, fever, and double vision resolved within 7 days. Patients experiencing treatment failure with fluconazole may require treatment with intrathecal amphotericin B. Generally, coccidioidal meningitis requires lifelong therapy because of a high incidence of disease relapse with treatment discontinuation and is 100% fatal without antifungal treatment.
+
+McGraw Hill
+Copyright © McGraw-Hill Education
+All rights reserved.
+Your IP address is 136.35.42.93
+Terms of Use   •  Privacy Policy   •  Notice   •  Accessibility
+Access Provided by: University of Kansas Med Ctr
+Silverchair

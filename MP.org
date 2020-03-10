@@ -1,0 +1,19 @@
+#+OPTIONS: toc:2
+#+ATTR_ORG: width 800
+#+TOC: listings
+#+TOC: tables
+#+TAGS: drill(d) mnemonic(m)
+
+* Home
+
+* KUMC
+
+* Gym
+
+* Far
+
+* Close
+** McD
+DM
+
+

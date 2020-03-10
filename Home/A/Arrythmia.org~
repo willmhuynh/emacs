@@ -1,0 +1,541 @@
+:Properties:
+Basic & Clinical Pharmacology, 14e
+Chapter 14: Agents Used in Cardiac Arrhythmias
+Robert D. Harvey; Augustus O. Grant
+
+PREPARATIONS AVAILABLE
+GENERIC NAME	AVAILABLE AS
+SODIUM CHANNEL BLOCKERS
+Disopyramide	Generic, Norpace, Norpace CR
+Flecainide	Generic, Tambocor
+Lidocaine	Generic, Xylocaine
+Mexiletine	Generic, Mexitil
+Procainamide	Generic, Pronestyl, Procan-SR
+Propafenone	Generic, Rythmol
+Quinidine sulfate (83% quinidine base)	Generic
+Quinidine gluconate (62% quinidine base)	Generic
+Quinidine polygalacturonate (60% quinidine base)	Cardioquin
+BETA BLOCKERS LABELED FOR USE AS ANTIARRHYTHMICS
+Acebutolol	Generic, Sectral
+Esmolol	Generic, Brevibloc
+Propranolol	Generic, Inderal
+ACTION POTENTIAL-PROLONGING AGENTS
+Amiodarone	Generic, Cordarone
+Dofetilide	Tikosyn
+Dronedarone	Multaq
+Ibutilide	Generic, Corvert
+Sotalol	Generic, Betapace
+CALCIUM CHANNEL BLOCKERS
+Diltiazem	Generic, Cardizem
+Verapamil	Generic, Calan, Isoptin
+MISCELLANEOUS
+Adenosine	Generic, Adenocard
+Magnesium sulfate	Generic
+DRUGS THAT ACT ON CHLORIDE CHANNELS
+Ivacaftor (labeled for use in cystic fibrosis)	Kalydeco
+Crofelemer (labeled for use in diarrhea induced by anti-HIV drugs)	Fulyzaq
+
+:END:
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Friday\20_03_06_102521.jpg][14-1 Normal Cardiac activity]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Friday\20_03_06_103746.jpg][14-2 Action potential electrolyte ]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Friday\20_03_06_103827.jpg][14-3 Na channel action potential 14-3]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Friday\20_03_06_103917.jpg][14-4 membrane potential dependence]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Friday\20_03_06_104521.jpg][14-5 Mechanisms of arrythmias 14-5]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_121529.jpg][T14-1 Molecular Basis of Arrythmias
+]]*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_122158.jpg][14-7 ECG Common Arrythmias]]
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_122049.jpg][14-8 ECG Torsades]]
+Basic Pharm of Antiarrythmics
+*[[C:\Users\willm\Documents\emacs\assets\img\2020-03_Saturday\20_03_07_122313.jpg][T14-2 Membrane actiosn of antiarrythmic drugs
+]]
+
+
+Cardiac arrhythmias are a common problem in clinical practice, occurring in up to 25% of patients treated with digitalis, 50% of anesthetized patients, and over 80% of patients with acute myocardial infarction*. Arrhythmias may require treatment because rhythms that are too rapid, too slow, or asynchronous can reduce cardiac output. Some arrhythmias can precipitate more serious or even lethal rhythm disturbances; for example, early premature ventricular depolarizations can precipitate ventricular fibrillation. In such patients, antiarrhythmic drugs may be lifesaving. On the other hand, the hazards of antiarrhythmic drugs—and in particular the fact that they can precipitate lethal arrhythmias in some patients—have led to a reevaluation of their relative risks and benefits. In general, treatment of asymptomatic or minimally symptomatic arrhythmias should be avoided for this reason.
+Mapping of reentrant pathways and ablation can be carried out by means of catheters threaded into the heart from peripheral arteries and veins. Studies have also shown that paroxysmal and persistent atrial fibrillation may arise from one or more of the pulmonary veins. Both forms of atrial fibrillation can be cured by electrically isolating the pulmonary veins by radiofrequency or cryotherapy catheter ablation or during concomitant cardiac surgery. Because catheter ablation therapy can often permanently cure atrial fibrillation, and because it does not involve adverse effects of drugs, it has become a very common treatment for chronic atrial fibrillation.
+
+Another form of nonpharmacologic therapy is the implantable cardioverter-defibrillator (ICD), a device that can automatically detect and treat potentially fatal arrhythmias such as ventricular fibrillation. ICDs are now widely used in patients who have been resuscitated from such arrhythmias, and several trials have shown that ICD treatment reduces mortality in patients with coronary artery disease who have an ejection fraction ≤ 30% and in patients with class II or III heart failure and no prior history of arrhythmias. The increasing use of nonpharmacologic antiarrhythmic therapies reflects both advances in the relevant technologies and an increasing appreciation of the dangers of long-term therapy with currently available drugs.
+
+
+
+* ELECTROPHYSIOLOGY OF NORMAL CARDIAC RHYTHM
+Ionic Basis of Membrane Electrical Activity
+The electrical excitability of cardiac cells is a function of the unequal distribution of ions across the plasma membrane—chiefly sodium (Na+), potassium (K+), calcium (Ca2+), and chloride (Cl−)—and the relative permeability of the membrane to each ion. The gradients are generated by transport mechanisms that move these ions across the membrane against their concentration gradients. The most important of these transport mechanisms is the Na+/K+-ATPase, or sodium pump, described in Chapter 13. It is responsible for keeping the intracellular sodium concentration low and the intracellular potassium concentration high relative to their respective extracellular concentrations. Other transport mechanisms maintain the gradients for calcium and chloride.
+
+As a result of the unequal distribution, when the membrane becomes permeable to a given ion, that ion tends to move down its concentration gradient. However, because of its charged nature, ion movement is also affected by differences in the electrical charge across the membrane, or the transmembrane potential. The potential difference that is sufficient to offset or balance the concentration gradient of an ion is referred to the equilibrium potential (Eion) for that ion, and for a monovalent cation at physiologic temperature, it can be calculated by a modified version of the Nernst equation:
+
+Pumps and exchangers that contribute indirectly to the membrane potential by creating ion gradients (as discussed above) can also contribute directly because of the current they generate through the unequal exchange of charged ions across the membrane. Such transporters are referred to as being “electrogenic.” An important example is the sodium-calcium exchanger (NCX). Throughout most of the cardiac action potential, this exchanger couples the movement of one calcium ion out of the cell for every three sodium ions that move in, thus generating a net inward or depolarizing current. Although this current is typically small during diastole, when intracellular calcium levels are low, spontaneous release of calcium from intracellular storage sites can generate a depolarizing current that contributes to pacemaker activity as well as arrhythmogenic events called delayed afterdepolarizations (see below).
+
+image
+Although a small fraction of the sodium channels activated during the upstroke may actually remain open well into the later phases of the action potential, sustained depolarization during the plateau (phase 2) is due primarily to the activity of calcium channels. Because the equilibrium potential for calcium, like sodium, is very positive, these channels generate a depolarizing inward current. Cardiac calcium channels activate and inactivate in what appears to be a manner similar to sodium channels, but in the case of the most common type of calcium channel (the “L” type), the transitions occur more slowly and at more positive potentials. After activation, these channels eventually inactivate and the permeability to potassium begins to increase, leading to final repolarization (phase 3) of the action potential. Two types of potassium channels are particularly important in phase 3 repolarization. They generate what are referred to as the rapidly activating (IKr) and slowly activating (IKs) delayed rectifier potassium currents. Repolarization, especially late in phase 3, is also aided by the inward rectifying potassium channels that are responsible for the resting membrane potential.
+
+It is noteworthy that other delayed rectifier-type potassium currents also play important roles in repolarization of certain cardiac cell types. For example, the ultra-rapidly activating delayed rectifier potassium current (IKur) is particularly important in repolarizing the atrial action potential. The resting membrane potential and repolarization of atrial myocytes are also affected by potassium channels that are gated by the parasympathetic neurotransmitter acetylcholine.
+
+Purkinje cells are similar to atrial and ventricular cells in that they generate an action potential with a fast upstroke due to the activity of sodium channels. However, unlike atrial and ventricular cells, the membrane potential during phase 4 exhibits spontaneous depolarization. This is due to the presence of pacemaker channels that generate an inward depolarizing pacemaker current. This is sometimes referred to as the “funny” current (If), because the channels involved have the unusual property of being activated by membrane hyperpolarization. Under some circumstances, Purkinje cells can act as pacemakers for the heart by spontaneously depolarizing and initiating an action potential that is then propagated throughout the ventricular myocardium. However, under normal conditions, the action potential in Purkinje cells is triggered by impulses that originate in the SA node and are conducted to these cells through the AV node.
+
+Pacemaking activity in the SA node is due to spontaneous depolarization during phase 4 of the action potential as well (Figure 14–1). This diastolic depolarization is mediated in part by the activity of pacemaker channels. It is also thought to be due to the net inward current generated by the sodium-calcium exchanger, which is activated by the spontaneous release of calcium from intracellular storage sites. Unlike the action potential in Purkinje cells, spontaneous depolarization in the SA node triggers the upstroke of an action potential that is primarily due to an increase in permeability to calcium, not sodium. Because the calcium channels involved open or activate slowly, the maximum upstroke velocity of the action potential in SA node cells is relatively slow. Repolarization occurs when the calcium channels subsequently close due to inactivation and delayed rectifier-type potassium channels open.
+
+A similar process is involved in generating action potentials in the AV node. Although the intrinsic rate of spontaneous diastolic depolarization in the AV node is typically faster than that of Purkinje cells, it is still slower than the rate of depolarization in the SA node. Therefore, action potentials in the AV node are normally triggered by impulses that originate in the SA node and are conducted to the AV node through the atria. It is important to recognize that action potential upstroke velocity is a key determinant of impulse conduction velocity. Because the action potential upstroke in AV node cells is mediated by calcium channels, which open or activate relatively slowly, impulse conduction through the AV node is slow. This contributes to the delay between atrial and ventricular contraction.
+
+Electrical activity in the SA node and AV node is significantly influenced by the autonomic nervous system (see Chapter 6). Sympathetic activation of β adrenoceptors speeds pacemaker activity in the SA node and impulse propagation through the AV node by enhancing pacemaker and calcium channel activity, respectively. Conversely, parasympathetic activation of muscarinic receptors slows pacemaker activity and conduction velocity by inhibiting the activity of these channels, as well as by increasing the potassium conductance by turning on acetylcholine-activated potassium channels.
+
+The Effect of Membrane Potential on Excitability
+A key factor in the pathophysiology of arrhythmias and the actions of antiarrhythmic agents is the relationship between the membrane potential and the effect it has on the ion channels responsible for excitability of the cell. During the plateau of atrial, ventricular, or Purkinje cell action potentials, most sodium channels are inactivated, rendering the cell refractory or inexcitable. Upon repolarization, recovery from inactivation takes place (in the terminology of Figure 14–3, the h gates reopen), making the channels available again for excitation. This is a time- and voltage-dependent process. The actual time required for enough sodium channels to recover from inactivation in order that a new propagated response can be generated is called the refractory period. Full recovery of excitability typically does not occur until action potential repolarization is complete. Thus, refractoriness or excitability can be affected by factors that alter either action potential duration or the resting membrane potential. This relationship can also be significantly impacted by certain classes of antiarrhythmic agents. One example is drugs that block sodium channels. They can reduce the extent and rate of recovery from inactivation (Figure 14–4). Changes in refractoriness caused by either altered recovery from inactivation or altered action potential duration can be important in the genesis or suppression of certain arrhythmias. A reduction in the number of available sodium channels can reduce excitability. In some cases, it may result in the cell being totally refractory or inexcitable. In other cases, there may be a reduction in peak sodium permeability. This can reduce the maximum upstroke velocity of the action potential, which will in turn reduce action potential conduction velocity.
+
+FIGURE 14–4
+Dependence of sodium channel function on the membrane potential preceding the stimulus. Left: The fraction of sodium channels available for opening in response to a stimulus is determined by the membrane potential immediately preceding the stimulus. The decrease in the fraction available when the resting potential is depolarized in the absence of a drug (control curve) results from the voltage-dependent closure of h gates in the channels. The curve labeled Drug illustrates the effect of a typical local anesthetic antiarrhythmic drug. Most sodium channels are inactivated during the plateau of the action potential. Right: The time constant for recovery from inactivation after repolarization also depends on the resting potential. In the absence of drug, recovery occurs in less than 10 ms at normal resting potentials (−85 to −95 mV). Depolarized cells recover more slowly (note logarithmic scale). In the presence of a sodium channel-blocking drug, the time constant of recovery is increased, but the increase is far greater at depolarized potentials than at more negative ones.
+
+image
+In cells like those found in the SA and AV nodes, where excitability is determined by the availability of calcium channels, excitability is most sensitive to drugs that block these channels. As a result, calcium channel blockers can decrease pacemaker activity in the SA node as well as conduction velocity in the AV node.
+
+MECHANISMS OF ARRHYTHMIAS
+Many factors can precipitate or exacerbate arrhythmias: ischemia, hypoxia, acidosis or alkalosis, electrolyte abnormalities, excessive catecholamine exposure, autonomic influences, drug toxicity (eg, digitalis or antiarrhythmic drugs), overstretching of cardiac fibers, and the presence of scarred or otherwise diseased tissue. However, all arrhythmias result from (1) disturbances in impulse formation and/or (2) disturbances in impulse conduction.
+
+Disturbances of Impulse Formation
+Pacemaking activity is regulated by both sympathetic and parasympathetic activity (see above). Therefore, factors that antagonize or enhance these effects can alter normal impulse formation, producing either bradycardia or tachycardia. Genetic mutations have also been found to alter normal pacemaking activity.
+
+Under certain circumstances, abnormal activity can be generated by latent pacemakers, cells that show slow phase 4 depolarization even under normal conditions (eg, Purkinje cells). Such cells are particularly prone to accelerated pacemaker activity, especially under conditions such as hypokalemia. Abnormalities in impulse formation can also be the result of afterdepolarizations (Figure 14–5). These can be either early afterdepolarizations (EADs), which occur during phase 3 of the action potential, or delayed afterdepolarizations (DADs), which occur during phase 4. EADs are usually triggered by factors that prolong action potential duration. When this prolongation occurs in ventricular cells, there is often a corresponding increase in the QT interval of the electrocardiogram (ECG). Such an effect can be caused by genetic mutations associated with congenital long QT (LQT) syndrome (see Box: Molecular & Genetic Basis of Cardiac Arrhythmias). A number of drugs (antiarrhythmic as well as non-antiarrhythmic agents) can produce “acquired” or drug-induced LQT syndrome, which is typically due to block of rapidly activating delayed rectifier potassium channels. Many forms of LQT syndrome are exacerbated by other factors that prolong action potential duration, including hypokalemia and slow heart rates. DADs, on the other hand, often occur when there is an excess accumulation of intracellular calcium (see Chapter 13), especially at fast heart rates. They are thought to be responsible for arrhythmias associated with digitalis toxicity, excess catecholamine stimulation, and myocardial ischemia.
+
+FIGURE 14–5
+Two forms of abnormal activity, early (top) and delayed afterdepolarizations (bottom). In both cases, abnormal depolarizations arise during or after a normally evoked action potential. They are therefore often referred to as “triggered” automaticity; that is, they require a normal action potential for their initiation.
+
+image
+Molecular & Genetic Basis of Cardiac Arrhythmias
+It is now possible to define the molecular basis of several congenital and acquired cardiac arrhythmias. The best example is the polymorphic ventricular tachycardia known as torsades de pointes (Figure 14–8), which is associated with prolongation of the QT interval (especially at the onset of the tachycardia), syncope, and sudden death. This represents prolongation of the action potential of at least some ventricular cells (Figure 14–1). The effect can, in theory, be attributed to either increased inward current (gain of function) or decreased outward current (loss of function) during the plateau of the action potential. Action potential prolongation is thought to generate early afterdepolarizations (Figure 14–5) that then trigger torsades de pointes.
+
+Recent molecular genetic studies have identified up to 300 different mutations in at least eight ion channel genes that produce congenital long QT (LQT) syndrome (Table 14–1). Loss-of-function mutations in potassium channel genes (HERG, KCNE2, KCNQ1, KCNE1, and KCNJ2) result in decreased outward plateau current, while gain-of-function mutations in the sodium channel gene (SCN5A) or calcium channel gene (CACNA1c) cause increases in inward plateau current.
+
+TABLE 14–1
+
+The identification of the precise molecular mechanisms underlying various forms of the LQT syndromes now raises the possibility that specific therapies may be developed for individuals with defined molecular abnormalities. Indeed, preliminary reports suggest that the sodium channel blocker mexiletine can correct the clinical manifestations of congenital LQT subtype 3, while β-blockers have been used to prevent arrhythmias triggered by sympathetic stimulation in patients with LQT subtype 1.
+
+The molecular basis of several other congenital cardiac arrhythmias associated with sudden death has also recently been identified. At least three forms of short QT syndrome have been identified that are linked to gain-of-function mutations in different potassium channel genes (KCNH2, KCNQ1, and KCNJ2). Catecholaminergic polymorphic ventricular tachycardia, a disease that is characterized by stress- or emotion-induced syncope, can be caused by mutations in at least two different genes (hRyR2 and CASQ2) of proteins expressed in the sarcoplasmic reticulum that control intracellular calcium homeostasis. Mutations in two different ion channel genes (HCN4 and SCN5A) have been linked to congenital forms of sick sinus syndrome. Several forms of Brugada syndrome, which is characterized by ventricular fibrillation associated with persistent ST-segment elevation, and progressive cardiac conduction disorder (PCCD), which is characterized by impaired conduction in the His-Purkinje system and right or left bundle block leading to complete AV block, have been linked to loss-of-function mutations in the sodium channel gene (SCN5A). At least one form of familial atrial fibrillation is caused by a gain-of-function mutation in a potassium channel gene (KCNQ1).
+
+Disturbances of Impulse Conduction
+The most common form of conduction disturbance affects the AV node, causing various degrees of heart block. The result can be a simple slowing of impulse propagation through the AV node, which is reflected by an increase in the PR interval of the ECG. At the extreme, the result can be complete heart block, where no impulses are conducted from the atria to the ventricles. In this situation, ventricular activity is generated by a latent pacemaker, such as a Purkinje cell. Because the AV node is typically under the tonic influence of the parasympathetic nervous system, which slows conduction, AV block can sometimes be relieved by antimuscarinic agents like atropine.
+
+A serious form of conduction abnormality involves reentry (also known as “circus movement”). In this situation, one impulse reenters and excites areas of the heart more than once. The path of the reentering impulse may be confined to very small areas, such as within or near the AV node or where a Purkinje fiber makes contact with the ventricular wall (Figure 14–6), or it may involve large portions of the atria or ventricles. Some forms of reentry are strictly anatomically determined. For example, in Wolff-Parkinson-White syndrome, the reentry circuit consists of atrial tissue, the AV node, ventricular tissue, and an accessory AV connection (bundle of Kent, a bypass tract). Depending on how many round trips through the pathway a reentrant impulse makes before dying out, the arrhythmia may be manifest as one or a few extra beats or as a sustained tachycardia. Circulating impulses can also give off “daughter impulses” that can spread to the rest of the heart. In cases such as atrial or ventricular fibrillation, multiple reentry circuits may meander through the heart in apparently random paths, resulting in the loss of synchronized contraction.
+
+FIGURE 14–6
+Schematic diagram of a reentry circuit that might occur in small bifurcating branches of the Purkinje system where they enter the ventricular wall. A: Normally, electrical excitation branches around the circuit, is transmitted to the ventricular branches, and becomes extinguished at the other end of the circuit due to collision of impulses. B: An area of unidirectional block develops in one of the branches, preventing anterograde impulse transmission at the site of block, but the retrograde impulse may be propagated through the site of block if the impulse finds excitable tissue; that is, the refractory period is shorter than the conduction time. This impulse then reexcites tissue it had previously passed through, and a reentry arrhythmia is established.
+
+image
+An example of how reentry can occur is illustrated in Figure 14–6. In this scenario, there are three key elements: (1) First is an obstacle (anatomic or physiologic) to homogeneous impulse conduction, thus establishing a circuit around which the reentrant wave front can propagate. (2) The second element is unidirectional block at some point in the circuit. That is, something has occurred such that an impulse reaching the site initially encounters refractory tissue. This can occur under conditions such as ischemia, which cause an increase in extracellular potassium that partially depolarizes the resting membrane potential, slowing sodium channel recovery from inactivation and prolonging the refractory period in the affected area. (3) Finally, conduction time around the circuit must be long enough so that by the time the impulse returns to the site after traveling around the obstacle, the tissue is no longer refractory. In other words, conduction time around the circuit must exceed the effective refractory period duration in the area of unidirectional block. Representative ECGs of important arrhythmias are shown in Figures 14–7 and 14–8.
+
+FIGURE 14–7
+Electrocardiograms of normal sinus rhythm and some common arrhythmias. Major deflections (P, Q, R, S, and T) are labeled in each electrocardiographic record except in panel 5, in which electrical activity is completely disorganized and none of these deflections is recognizable. (Adapted, with permission, from Goldman MJ: Principles of Clinical Electrocardiography, 11th ed. McGraw-Hill, 1982. Copyright © The McGraw-Hill Companies, Inc.)
+
+image
+FIGURE 14–8
+Electrocardiogram from a patient with the long QT syndrome during two episodes of torsades de pointes. The polymorphic ventricular tachycardia is seen at the start of this tracing and spontaneously halts at the middle of the panel. A single normal sinus beat (NSB) with an extremely prolonged QT interval follows, succeeded immediately by another episode of ventricular tachycardia of the torsades type. The usual symptoms include dizziness or transient loss of consciousness. (Reproduced, with permission, from Basic and Clinical Pharmacology, 10th edition, McGraw-Hill, 2007. Copyright © The McGraw-Hill Companies, Inc.)
+
+image
+Unidirectional block can be caused by prolongation of refractory period duration due to depression of sodium channel activity in atrial, ventricular, and Purkinje cells. In the AV node, it may also be a result of depressed calcium channel activity. Drugs that abolish reentry may do so by further reducing excitability by blocking sodium (Figure 14–4) or calcium channels, thus converting an area of unidirectional block to bidirectional block. Drugs that block repolarizing potassium currents may also be effective in converting a region of unidirectional block to bidirectional block by prolonging action potential duration, and thereby increasing the refractory period duration.
+
+* BASIC PHARMACOLOGY OF THE ANTIARRHYTHMIC AGENTS
+Mechanisms of Action
+Arrhythmias are caused by abnormal pacemaker activity or abnormal impulse propagation. Thus, the aim of therapy of the arrhythmias is to reduce ectopic pacemaker activity and modify conduction or refractoriness in reentry circuits to disable circus movement. The major pharmacologic mechanisms currently available for accomplishing these goals are (1) sodium channel blockade, (2) blockade of sympathetic autonomic effects in the heart, (3) prolongation of the effective refractory period, and (4) calcium channel blockade.
+
+Antiarrhythmic drugs decrease the automaticity of ectopic pacemakers more than that of the SA node. They also reduce conduction and excitability and increase the refractory period to a greater extent in depolarized tissue than in normally polarized tissue. This is accomplished chiefly by selectively blocking the sodium or calcium channels of depolarized cells (Figure 14–9). Therapeutically useful channel-blocking drugs bind readily to activated channels (ie, during phase 0) or inactivated channels (ie, during phase 2) but bind poorly or not at all to rested channels. Therefore, these drugs block electrical activity when there is a fast tachycardia (many channel activations and inactivations per unit time) or when there is significant loss of resting potential (many inactivated channels during rest). This type of drug action is often described as use-dependent or state-dependent; that is, channels that are being used frequently, or are in an inactivated state, are more susceptible to block. Channels in normal cells that become blocked by a drug during normal activation-inactivation cycles will rapidly lose the drug from the receptors during the resting portion of the cycle (Figure 14–9). Channels in myocardium that is chronically depolarized (ie, has a resting potential more positive than −75 mV) recover from block very slowly if at all (see also right panel, Figure 14–4).
+
+FIGURE 14–9
+State- and frequency-dependent block of sodium channels by antiarrhythmic drugs. Top: Diagram of a mechanism for the selective depressant action of antiarrhythmic drugs on sodium channels. The upper portion of the figure shows the population of channels moving through a cycle of activity during an action potential in the absence of drugs: R (rested) → A (activated) → I (inactivated). Recovery takes place via the I → R pathway. Antiarrhythmic drugs (D) that act by blocking sodium channels can bind to their receptors in the channels, as shown by the vertical arrows, to form drug-channel complexes, indicated as R-D, A-D, and I-D. Binding of the drugs to the receptor varies with the state of the channel. Most sodium channel blockers bind to the active and inactivated channel receptor much more strongly than to the rested channel. Furthermore, recovery from the I-D state to the R-D state is much slower than from I to R. As a result, rapid activity (more activations and inactivations) and depolarization of the resting potential (more channels in the I state) will favor blockade of the channels and selectively suppress arrhythmic cells. Bottom: Progressive reduction of inward sodium current (downward deflections) in the presence of a lidocaine derivative. The largest curve is the initial sodium current elicited by a depolarizing voltage step; subsequent sodium current amplitudes are progressively reduced owing to prior accumulated block and block during each depolarization. (Adapted, with permission, from Starmer FC, Grant AO, Strauss HC: Mechanisms of use-dependent block of sodium channels in excitable membranes by local anesthetics. Biophys J 1984;46:15. Copyright Elsevier.)
+
+image
+In cells with abnormal automaticity, most of these drugs reduce the phase 4 slope by blocking either sodium or calcium channels, thereby reducing the ratio of sodium (or calcium) permeability to potassium permeability. As a result, the membrane potential during phase 4 stabilizes closer to the potassium equilibrium potential. In addition, some agents may increase the threshold (make it more positive). Beta-adrenoceptor-blocking drugs indirectly reduce the phase 4 slope by blocking the positive chronotropic action of norepinephrine in the heart.
+
+In reentry arrhythmias, which depend on critically depressed conduction, most antiarrhythmic agents slow conduction further by one or both of two mechanisms: (1) steady-state reduction in the number of available unblocked channels, which reduces the excitatory currents to a level below that required for propagation (Figure 14–4, left); and (2) prolongation of recovery time of the channels still able to reach the rested and available state, which increases the effective refractory period (Figure 14–4, right). As a result, early extrasystoles are unable to propagate at all; later impulses propagate more slowly and are subject to bidirectional conduction block.
+
+By these mechanisms, antiarrhythmic drugs can suppress ectopic automaticity and abnormal conduction occurring in depolarized cells—rendering them electrically silent—while minimally affecting the electrical activity in normally polarized parts of the heart. However, as dosage is increased, these agents also depress conduction in normal tissue, eventually resulting in drug-induced arrhythmias. Furthermore, a drug concentration that is therapeutic (antiarrhythmic) under the initial circumstances of treatment may become “proarrhythmic” (arrhythmogenic) during fast heart rates (more development of block), acidosis (slower recovery from block for most drugs), hyperkalemia, or ischemia.
+
+* SPECIFIC ANTIARRHYTHMIC AGENTS
+The most widely used scheme for the classification of antiarrhythmic drug actions recognizes four classes:
+
+Class 1 action is sodium channel blockade. Subclasses of this action reflect effects on the action potential duration (APD) and the kinetics of sodium channel blockade. Drugs with class 1A action prolong the APD and dissociate from the channel with intermediate kinetics; drugs with class 1B action shorten the APD in some tissues of the heart and dissociate from the channel with rapid kinetics; and drugs with class 1C action have minimal effects on the APD and dissociate from the channel with slow kinetics.
+
+Class 2 action is sympatholytic. Drugs with this action reduce β-adrenergic activity in the heart.
+
+Class 3 action manifests as prolongation of the APD. Most drugs with this action block the rapid component of the delayed rectifier potassium current, IKr.
+
+Class 4 action is blockade of the cardiac calcium current. This action slows conduction in regions where the action potential upstroke is calcium dependent, eg, the SA and AV nodes.
+
+A given drug may have multiple classes of action as indicated by its membrane and ECG effects (Tables 14–2 and 14–3). For example, amiodarone shares all four classes of action. Drugs are usually discussed according to the predominant class of action. Certain antiarrhythmic agents, eg, adenosine and magnesium, do not fit readily into this scheme and are described separately.
+
+TABLE 14–2
+Membrane actions of antiarrhythmic drugs.
+Drug	Block of Sodium Channels	Refractory Period	Calcium Channel Blockade	Effect on Pacemaker Activity	Sympatholytic Action
+Normal Cells	Depolarized Cells	Normal Cells	Depolarized Cells
+Adenosine	0	0	0	0	+	0	+
+Amiodarone	+	+++	↑↑	↑↑	+	↓↓	+
+Diltiazem	0	0	0	0	+++	↓↓	0
+Disopyramide	+	+++	↑	↑↑	+	↓	0
+Dofetilide	0	0	↑	?	0	0	0
+Dronedarone	+	+	na	na	+	na	+
+Esmolol	0	+	0	na	0	↓↓	+++
+Flecainide	+	+++	0	↑	0	↓↓	0
+Ibutilide	0	0	↑	?	0	0	0
+Lidocaine	0	+++	↓	↑↑	0	↓↓	0
+Mexiletine	0	+++	0	↑↑	0	↓↓	0
+Procainamide	+	+++	↑	↑↑↑	0	↓	+
+Propafenone	+	++	↑	↑↑	+	↓↓	+
+Propranolol	0	+	↓	↑↑	0	↓↓	+++
+Quinidine	+	++	↑	↑↑	0	↓↓	+
+Sotalol	0	0	↑↑	↑↑↑	0	↓↓	++
+Verapamil	0	+	0	↑	+++	↓↓	+
+Vernakalant1	+	+	+	+	na	0	na
+1
+Not available in the USA.
+
+na, data not available.
+
+TABLE 14–3
+Clinical pharmacologic properties of antiarrhythmic drugs.
+Drug	Effect on SA Nodal Rate	Effect on AV Nodal Refractory Period	PR Interval	QRS Duration	QT Interval	Usefulness in Arrhythmias
+Supra-ventricular	Ventricular	Half-Life
+Adenosine	↓↑	↑↑↑	↑↑↑	0	0	++++	?	<10 s
+Amiodarone	↓↓1	↑↑	Variable	↑	↑↑↑↑	+++	+++	(weeks)
+Diltiazem	↑↓	↑↑	↑	0	0	+++	-	4–8 h
+Disopyramide	↑↓1,2	↑↓2	↑↓2	↑↑	↑↑	+	+++	7–8 h
+Dofetilide	↓(?)	0	0	0	↑↑	++	None	7 h
+Dronedarone					↑	+++	-	24 h
+Esmolol	↓↓	↑↑	↑↑	0	0	+	+	10 min
+Flecainide	None,↓	↑	↑	↑↑↑	0	+3	++++	20 h
+Ibutilide	↓(?)	0	0	0	↑↑	++	?	6 h
+Lidocaine	None1	None	0	0	0	None4	+++	1–2 h
+Mexiletine	None1	None	0	0	0	None	+++	8–20 h
+Procainamide	↓1	↑↓2	↑↓2	↑↑	↑↑	+	+++	3–4 h
+Propafenone	0, ↓	↑	↑	↑↑↑	0	+	+++	5–7 h
+Propranolol	↓↓	↑↑	↑↑	0	0	+	+	5 h
+Quinidine	↑↓1,2	↑↓2	↑↓2	↑↑	↑↑	+	+++	6 h
+Sotalol	↓↓	↑↑	↑↑	0	↑↑↑	+++	+++	7–12 h
+Verapamil	↓↓	↑↑	↑↑	0	0	+++	-	7 h
+Vernakalant		↑	↑			+++	-	2 h
+1
+May suppress diseased sinus nodes.
+
+2
+Anticholinergic effect and direct depressant action.
+
+3
+Especially in Wolff-Parkinson-White syndrome.
+
+4
+May be effective in atrial arrhythmias caused by digitalis.
+
+* SODIUM CHANNEL-BLOCKING DRUGS (CLASS 1)
+Drugs with local anesthetic action block sodium channels and reduce the sodium current, INa. They are the oldest group of antiarrhythmic drugs and are still widely used.
+
+* PROCAINAMIDE (SUBGROUP 1A)
+Cardiac Effects
+By blocking sodium channels, procainamide slows the upstroke of the action potential, slows conduction, and prolongs the QRS duration of the ECG. The drug also prolongs the APD (a class 3 action) by nonspecific blockade of potassium channels. The drug may be somewhat less effective than quinidine (see below) in suppressing abnormal ectopic pacemaker activity but more effective in blocking sodium channels in depolarized cells.
+
+image
+
+Procainamide has direct depressant actions on SA and AV nodes, and these actions are only slightly counterbalanced by drug-induced vagal block.
+
+Extracardiac Effects
+Procainamide has ganglion-blocking properties. This action reduces peripheral vascular resistance and can cause hypotension, particularly with intravenous use. However, in therapeutic concentrations, its peripheral vascular effects are less prominent than those of quinidine. Hypotension is usually associated with excessively rapid procainamide infusion or the presence of severe underlying left ventricular dysfunction.
+
+Toxicity
+Procainamide’s cardiotoxic effects include excessive action potential prolongation, QT-interval prolongation, and induction of torsades de pointes arrhythmia and syncope. Excessive slowing of conduction can also occur. New arrhythmias can be precipitated.
+
+A troublesome adverse effect of long-term procainamide therapy is a syndrome resembling lupus erythematosus and usually consisting of arthralgia and arthritis. In some patients, pleuritis, pericarditis, or parenchymal pulmonary disease also occurs. Renal lupus is rarely induced by procainamide. During long-term therapy, serologic abnormalities (eg, increased antinuclear antibody titer) occur in nearly all patients, and in the absence of symptoms, these are not an indication to stop drug therapy. Approximately one third of patients receiving long-term procainamide therapy develop these reversible lupus-related symptoms.
+
+Other adverse effects include nausea and diarrhea (in about 10% of cases), rash, fever, hepatitis (<5%), and agranulocytosis (approximately 0.2%).
+
+Pharmacokinetics & Dosage
+Procainamide can be administered safely by intravenous and intramuscular routes and is well absorbed orally. A metabolite (N-acetylprocainamide, NAPA) has class 3 activity. Excessive accumulation of NAPA has been implicated in torsades de pointes during procainamide therapy, especially in patients with renal failure. Some individuals rapidly acetylate procainamide and develop high levels of NAPA. However, the lupus syndrome appears to be less common in these patients.
+
+Procainamide is eliminated by hepatic metabolism to NAPA and by renal elimination. Its half-life is only 3–4 hours, which necessitates frequent dosing or use of a slow-release formulation (the usual practice). NAPA is eliminated by the kidneys. Thus, procainamide dosage must be reduced in patients with renal failure. The reduced volume of distribution and renal clearance associated with heart failure also require reduction in dosage. The half-life of NAPA is considerably longer than that of procainamide, and it therefore accumulates more slowly. Thus, it is important to measure plasma levels of both procainamide and NAPA, especially in patients with circulatory or renal impairment.
+
+If a rapid procainamide effect is needed, an intravenous loading dose of up to 12 mg/kg can be given at a rate of 0.3 mg/kg/min or less rapidly. This dose is followed by a maintenance dosage of 2–5 mg/min, with careful monitoring of plasma levels. The risk of gastrointestinal (GI) or cardiac toxicity rises at plasma concentrations greater than 8 mcg/mL or NAPA concentrations greater than 20 mcg/mL.
+
+To control ventricular arrhythmias, a total procainamide dosage of 2–5 g/d is usually required. In an occasional patient who accumulates high levels of NAPA, less frequent dosing may be possible. This is also possible in renal disease, where procainamide elimination is slowed.
+
+Therapeutic Use
+Procainamide is effective against most atrial and ventricular arrhythmias. However, many clinicians attempt to avoid long-term therapy because of the requirement for frequent dosing and the common occurrence of lupus-related effects. Procainamide is the drug of second or third choice (after lidocaine or amiodarone) in most coronary care units for the treatment of sustained ventricular arrhythmias associated with acute myocardial infarction.
+
+* QUINIDINE (SUBGROUP 1A)
+Cardiac Effects
+Quinidine has actions similar to those of procainamide: it slows the upstroke of the action potential, slows conduction, and prolongs the QRS duration of the ECG, by blockade of sodium channels. The drug also prolongs the action potential duration by blockade of several potassium channels. Its toxic cardiac effects include excessive QT-interval prolongation and induction of torsades de pointes arrhythmia. Toxic concentrations of quinidine also produce excessive sodium channel blockade with slowed conduction throughout the heart. It also has modest antimuscarinic actions in the heart.
+
+image
+
+Extracardiac Effects
+Adverse GI effects of diarrhea, nausea, and vomiting are observed in one third to one half of patients. A syndrome of headache, dizziness, and tinnitus (cinchonism) is observed at toxic drug concentrations. Idiosyncratic or immunologic reactions, including thrombocytopenia, hepatitis, angioneurotic edema, and fever, are observed rarely.
+
+Pharmacokinetics & Therapeutic Use
+Quinidine is readily absorbed from the GI tract and eliminated by hepatic metabolism. It is rarely used because of cardiac and extracardiac adverse effects and the availability of better-tolerated antiarrhythmic drugs.
+
+* DISOPYRAMIDE (SUBGROUP 1A)
+Cardiac Effects
+The effects of disopyramide are very similar to those of procainamide and quinidine. Its cardiac antimuscarinic effects are even more marked than those of quinidine. Therefore, a drug that slows AV conduction should be administered with disopyramide when treating atrial flutter or fibrillation.
+
+image
+
+Toxicity
+Toxic concentrations of disopyramide can precipitate all of the electrophysiologic disturbances described under quinidine. As a result of its negative inotropic effect, disopyramide may precipitate heart failure de novo or in patients with preexisting depression of left ventricular function. Because of this effect, disopyramide is not used as a first-line antiarrhythmic agent in the USA. It should not be used in patients with heart failure.
+
+Disopyramide’s atropine-like activity accounts for most of its symptomatic adverse effects: urinary retention (most often, but not exclusively, in male patients with prostatic hyperplasia), dry mouth, blurred vision, constipation, and worsening of preexisting glaucoma. These effects may require discontinuation of the drug.
+
+Pharmacokinetics & Dosage
+In the USA, disopyramide is only available for oral use. The typical oral dosage of disopyramide is 150 mg three times a day, but up to 1 g/d has been used. In patients with renal impairment, dosage must be reduced. Because of the danger of precipitating heart failure, loading doses are not recommended.
+
+Therapeutic Use
+Although disopyramide has been shown to be effective in a variety of supraventricular arrhythmias, in the USA, it is approved only for the treatment of ventricular arrhythmias.
+
+* LIDOCAINE (SUBGROUP 1B)
+Lidocaine has a low incidence of toxicity and a high degree of effectiveness in arrhythmias associated with acute myocardial infarction. It is used only by the intravenous route.
+
+image
+
+Cardiac Effects
+Lidocaine blocks activated and inactivated sodium channels with rapid kinetics (Figure 14–10); the inactivated state block ensures greater effects on cells with long action potentials such as Purkinje and ventricular cells, compared with atrial cells. The rapid kinetics at normal resting potentials result in recovery from block between action potentials and no effect on conduction. In depolarized cells, the increased inactivation and slower unbinding kinetics result in the selective depression of conduction. Little effect is seen on the ECG in normal sinus rhythm.
+
+FIGURE 14–10
+Computer simulation of the effect of resting membrane potential on the blocking and unblocking of sodium channels by lidocaine as the membrane depolarizes. Upper tracing: Action potentials in a ventricular muscle cell. Lower tracing: Percentage of channels blocked by the drug. An 800-ms time segment is shown. Extra passage of time is indicated by breaks in the traces. Left side: At the normal resting potential of −85 mV, the drug combines with open (activated) and inactivated channels during each action potential, but block is rapidly reversed during diastole because the affinity of the drug for its receptor is so low when the channel recovers to the resting state at −85 mV. Middle: Metabolic injury is simulated, eg, ischemia due to coronary occlusion, that causes gradual depolarization over time. With subsequent action potentials arising from more depolarized potentials, the fraction of channels blocked increases because more channels remain in the inactivated state at less negative potentials (Figure 14–4, left), and the time constant for unblocking during diastole rapidly increases at less negative resting potentials (Figure 14–4, right). Right: Because of marked drug binding, conduction block and loss of excitability in this tissue result; that is, the “sick” (depolarized) tissue is selectively suppressed.
+
+image
+Toxicity
+Lidocaine is one of the least cardiotoxic of the currently used sodium channel blockers. Proarrhythmic effects, including SA node arrest, worsening of impaired conduction, and ventricular arrhythmias, are uncommon with lidocaine use. In large doses, especially in patients with preexisting heart failure, lidocaine may cause hypotension—partly by depressing myocardial contractility.
+
+Lidocaine’s most common adverse effects—like those of other local anesthetics—are neurologic: paresthesias, tremor, nausea of central origin, lightheadedness, hearing disturbances, slurred speech, and convulsions. These occur most commonly in elderly or otherwise vulnerable patients or when a bolus of the drug is given too rapidly. The effects are dose-related and usually short-lived; seizures respond to intravenous diazepam. In general, if plasma levels above 9 mcg/mL are avoided, lidocaine is well tolerated.
+
+Pharmacokinetics & Dosage
+Because of its extensive first-pass hepatic metabolism, only 3% of orally administered lidocaine appears in the plasma. Thus, lidocaine must be given parenterally. Lidocaine has a half-life of 1–2 hours. In adults, a loading dose of 150–200 mg administered over about 15 minutes (as a single infusion or as a series of slow boluses) should be followed by a maintenance infusion of 2–4 mg/min to achieve a therapeutic plasma level of 2–6 mcg/mL. Determination of lidocaine plasma levels is of great value in adjusting the infusion rate. Occasional patients with myocardial infarction or other acute illness require (and tolerate) higher concentrations. This may be due to increased plasma α1-acid glycoprotein, an acute-phase reactant protein that binds lidocaine, making less free drug available to exert its pharmacologic effects.
+
+In patients with heart failure, lidocaine’s volume of distribution and total body clearance may both be decreased. Therefore, both loading and maintenance doses should be decreased. Since these effects counterbalance each other, the half-life may not be increased as much as predicted from clearance changes alone. In patients with liver disease, plasma clearance is markedly reduced and the volume of distribution is often increased; the elimination half-life in such cases may be increased threefold or more. In liver disease, the maintenance dose should be decreased, but usual loading doses can be given. Elimination half-life determines the time to steady state. Although steady-state concentrations may be achieved in 8–10 hours in normal patients and patients with heart failure, 24–36 hours may be required in those with liver disease. Drugs that decrease liver blood flow (eg, propranolol, cimetidine) reduce lidocaine clearance and so increase the risk of toxicity unless infusion rates are decreased. With infusions lasting more than 24 hours, clearance falls and plasma concentrations rise. Renal disease has no major effect on lidocaine disposition.
+
+Therapeutic Use
+Lidocaine is the agent of choice for termination of ventricular tachycardia and prevention of ventricular fibrillation after cardioversion in the setting of acute ischemia. However, routine prophylactic use of lidocaine in this setting may actually increase total mortality, possibly by increasing the incidence of asystole, and is not the standard of care. Most physicians administer IV lidocaine only to patients with arrhythmias.
+
+* MEXILETINE (SUBGROUP 1B)
+Mexiletine is an orally active congener of lidocaine. Its electrophysiologic and antiarrhythmic actions are similar to those of lidocaine. (The anticonvulsant phenytoin [see Chapter 24] exerts similar electrophysiologic effects and has been used as an antiarrhythmic.) Mexiletine is used in the treatment of ventricular arrhythmias. The elimination half-life is 8–20 hours and permits administration two or three times per day. The usual daily dosage of mexiletine is 600–1200 mg/d. Dose-related adverse effects are seen frequently at therapeutic dosage. These are predominantly neurologic, including tremor, blurred vision, and lethargy. Nausea is also a common effect.
+
+image
+
+Mexiletine has also shown significant efficacy in relieving chronic pain, especially pain due to diabetic neuropathy and nerve injury. The usual dosage is 450–750 mg/d orally. This application is off label.
+
+* FLECAINIDE (SUBGROUP 1C)
+Flecainide is a potent blocker of sodium and potassium channels with slow unblocking kinetics. (Note that although it does block certain potassium channels, it does not prolong the action potential or the QT interval.) It is currently used for patients with otherwise normal hearts who have supraventricular arrhythmias. It has no antimuscarinic effects.
+
+image
+
+Flecainide is very effective in suppressing premature ventricular contractions. However, it may cause severe exacerbation of arrhythmia even when normal doses are administered to patients with preexisting ventricular tachyarrhythmias and those with a previous myocardial infarction and ventricular ectopy. This was dramatically demonstrated in the Cardiac Arrhythmia Suppression Trial (CAST), which was terminated prematurely because of a two and one-half-fold increase in mortality rate in the patients receiving flecainide and similar group 1C drugs. Flecainide is well absorbed and has a half-life of approximately 20 hours. Elimination is both by hepatic metabolism and by the kidney. The usual dosage of flecainide is 100–200 mg twice a day.
+
+* PROPAFENONE (SUBGROUP 1C)
+Propafenone has some structural similarities to propranolol and possesses weak β-blocking activity. Its spectrum of action is very similar to that of quinidine, but it does not prolong the action potential. Its sodium channel-blocking kinetics are similar to those of flecainide. Propafenone is metabolized in the liver, with an average half-life of 5–7 hours. The usual daily dosage of propafenone is 450–900 mg/d in three divided doses. The drug is used primarily for supraventricular arrhythmias. The most common adverse effects are a metallic taste and constipation; arrhythmia exacerbation can also occur.
+
+* MORICIZINE (SUBGROUP 1C)
+Moricizine is an antiarrhythmic phenothiazine derivative that was used for treatment of ventricular arrhythmias. It is a relatively potent sodium channel blocker that does not prolong action potential duration. Moricizine has been withdrawn from the US market.
+
+* BETA-ADRENOCEPTOR-BLOCKING DRUGS (CLASS 2)
+Propranolol and similar drugs have antiarrhythmic properties by virtue of their β-receptor-blocking action and direct membrane effects. As described in Chapter 10, some of these drugs have selectivity for cardiac β1 receptors, some have intrinsic sympathomimetic activity, some have marked direct membrane effects, and some prolong the cardiac action potential. The relative contributions of the β-blocking and direct membrane effects to the antiarrhythmic effects of these drugs are not fully known. Although β blockers are fairly well tolerated, their efficacy for suppression of ventricular ectopic depolarizations is lower than that of sodium channel blockers. However, there is good evidence that these agents can prevent recurrent infarction and sudden death in patients recovering from acute myocardial infarction (see Chapter 10).
+
+Esmolol is a short-acting β blocker used primarily as an antiarrhythmic drug for intraoperative and other acute arrhythmias. See Chapter 10 for more information. Sotalol is a nonselective β-blocking drug that prolongs the action potential (class 3 action).
+
+DRUGS THAT PROLONG EFFECTIVE REFRACTORY PERIOD BY PROLONGING THE ACTION POTENTIAL (CLASS 3)
+These drugs prolong action potentials, usually by blocking potassium channels in cardiac muscle or by enhancing inward current, eg, through sodium channels. Action potential prolongation by most of these drugs exhibits the undesirable property of “reverse use-dependence”: action potential prolongation is least marked at fast rates (where it is desirable) and most marked at slow rates, where it can contribute to the risk of torsades de pointes.
+
+Although most drugs in the class cause QT prolongation, there is considerable variability among drugs in their proarrhythmic tendency to cause torsades de pointes despite significant QT-interval prolongation. Recent studies suggest that excessive QT prolongation alone may not be the best predictor of drug-induced torsades de pointes. Other important factors in addition to QT prolongation include action potential stability and development of a triangular shape (triangulation), reverse use-dependence, and dispersion of repolarization time across the ventricles.
+
+* AMIODARONE
+In the USA, amiodarone is approved for oral and intravenous use to treat serious ventricular arrhythmias. However, the drug is also highly effective in the treatment of supraventricular arrhythmias such as atrial fibrillation. As a result of its broad spectrum of antiarrhythmic action, it is very extensively used for a wide variety of arrhythmias. Amiodarone has unusual pharmacokinetics and important extracardiac adverse effects. Dronedarone, an analog that lacks iodine atoms, has US Food and Drug Administration (FDA) approval for the treatment of atrial flutter and fibrillation. Celivarone is another noniodinated benzofuran derivative similar to dronedarone that is currently undergoing clinical trials for the prevention of ventricular tachycardia recurrence.
+
+image
+
+Cardiac Effects
+Amiodarone markedly prolongs the action potential duration (and the QT interval on the ECG) by blockade of IKr. During chronic administration, IKs is also blocked. The action potential duration is prolonged uniformly over a wide range of heart rates; that is, the drug does not have reverse use-dependent action. Despite its present classification as a class 3 agent, amiodarone also significantly blocks inactivated sodium channels. Its action potential-prolonging action reinforces this effect. Amiodarone also has weak adrenergic and calcium channel-blocking actions. Consequences of these actions include slowing of the heart rate and AV node conduction. The broad spectrum of actions may account for its relatively high efficacy and its low incidence of torsades de pointes despite significant QT-interval prolongation.
+
+Extracardiac Effects
+Amiodarone causes peripheral vasodilation. This action is prominent after intravenous administration and may be related to the action of the vehicle.
+
+Toxicity
+Amiodarone may produce symptomatic bradycardia and heart block in patients with preexisting sinus or AV node disease. The drug accumulates in many tissues, including the heart (10–50 times more so than in plasma), lung, liver, and skin, and is concentrated in tears. Dose-related pulmonary toxicity is the most important adverse effect. Even on a low dose of 200 mg/d or less, fatal pulmonary fibrosis may be observed in 1% of patients. Abnormal liver function tests and hypersensitivity hepatitis may develop during amiodarone treatment and liver function tests should be monitored regularly. The skin deposits result in a photodermatitis and a gray-blue skin discoloration in sun-exposed areas, eg, the malar regions. After a few weeks of treatment, asymptomatic corneal microdeposits are present in virtually all patients treated with amiodarone. Halos develop in the peripheral visual fields of some patients. Drug discontinuation is usually not required. Rarely, an optic neuritis may progress to blindness.
+
+Amiodarone blocks the peripheral conversion of thyroxine (T4) to triiodothyronine (T3). It is also a potential source of large amounts of inorganic iodine. Amiodarone may result in hypothyroidism or hyperthyroidism. Thyroid function should be evaluated before initiating treatment and should be monitored periodically. Because effects have been described in virtually every organ system, amiodarone treatment should be reevaluated whenever new symptoms develop in a patient, including arrhythmia aggravation.
+
+Pharmacokinetics
+Amiodarone is variably absorbed with a bioavailability of 35–65%. It undergoes hepatic metabolism, and the major metabolite, desethylamiodarone, is bioactive. The elimination half-life is complex, with a rapid component of 3–10 days (50% of the drug) and a slower component of several weeks. After discontinuation of the drug, effects are maintained for 1–3 months. Measurable tissue levels may be observed up to 1 year after discontinuation. A total loading dose of 10 g is usually achieved with 0.8–1.2 g daily doses. The maintenance dose is 200–400 mg daily. Pharmacologic effects may be achieved rapidly by intravenous loading. QT-prolonging effect is modest with this route of administration, whereas bradycardia and AV block may be significant.
+
+Amiodarone has many important drug interactions, and all medications should be reviewed when the drug is initiated and when the dose is adjusted. Amiodarone is a substrate for liver cytochrome CYP3A4, and its levels are increased by drugs that inhibit this enzyme, eg, the histamine H2 blocker cimetidine. Drugs that induce CYP3A4, eg, rifampin, decrease amiodarone concentration when coadministered. Amiodarone inhibits several cytochrome P450 enzymes and may result in high levels of many drugs, including statins, digoxin, and warfarin. The dose of warfarin should be reduced by one third to one half following initiation of amiodarone, and prothrombin times should be closely monitored.
+
+Therapeutic Use
+Low doses (100–200 mg/d) of amiodarone are effective in maintaining normal sinus rhythm in patients with atrial fibrillation. The drug is effective in the prevention of recurrent ventricular tachycardia. It is not associated with an increase in mortality in patients with coronary artery disease or heart failure. In many centers, the implanted cardioverter-defibrillator (ICD) has succeeded drug therapy as the primary treatment modality for ventricular tachycardia, but amiodarone may be used for ventricular tachycardia as adjuvant therapy to decrease the frequency of uncomfortable cardioverter-defibrillator discharges. The drug increases the pacing and defibrillation threshold, and these devices require retesting after a maintenance dose has been achieved.
+
+* DRONEDARONE
+Dronedarone is a structural analog of amiodarone in which the iodine atoms have been removed from the phenyl ring and a methanesulfonyl group has been added to the benzofuran ring. The design was intended to eliminate action of the parent drug on thyroxine metabolism and to modify the half-life of the drug. No thyroid dysfunction or pulmonary toxicity has been reported in short-term studies. However, liver toxicity, including two severe cases requiring liver transplantation, has been reported. Like amiodarone, dronedarone has multichannel actions, including blocking IKr, IKs, ICa, and INa. It also has β-adrenergic-blocking action. The drug has a half-life of 24 hours and can be administered twice daily at a fixed dose of 400 mg. Dronedarone absorption increases twofold to threefold when taken with food, and this information should be communicated to patients as a part of the dosing instructions. Dronedarone elimination is primarily nonrenal. It inhibits tubular secretion of creatinine, resulting in a 10–20% increase in serum creatinine; however, because the glomerular filtration rate is unchanged, no adjustments are required. Dronedarone is both a substrate and an inhibitor of CY3A4 and should not be co-administered with potent inhibitors of this enzyme, such as the azole and similar antifungal agents, and protease inhibitors.
+
+Dronedarone restores sinus rhythm in a small percentage of patients (< 15%) with atrial fibrillation. It produces a 10- to 15-bpm reduction of the ventricular rate compared to placebo. In one report, dronedarone doubled the interval between episodes of atrial fibrillation recurrence in patients with paroxysmal atrial fibrillation. Initial studies suggested a reduction in mortality or hospitalization in patients with atrial fibrillation. However, a study of dronedarone’s effects in permanent atrial fibrillation was terminated in 2011 because of increased risk of death, stroke, and heart failure. Similarly, a trial of dronedarone in advanced heart failure was terminated prematurely because of an increase in mortality. The drug carries a “black box” warning against its use in acute decompensated or advanced (class IV) heart failure.
+
+* SOTALOL
+Sotalol has both β-adrenergic receptor-blocking (class 2) and action potential-prolonging (class 3) actions. The drug is formulated as a racemic mixture of D- and L-sotalol. All the β-adrenergic-blocking activity resides in the L-isomer; the D- and L-isomers share action potential prolonging effects. Beta-adrenergic-blocking action is not cardioselective and is maximal at doses below those required for action potential prolongation.
+
+image
+
+Sotalol is well absorbed orally with bioavailability of nearly 100%. It is not metabolized in the liver and is not bound to plasma proteins. Excretion is predominantly by the kidneys in the unchanged form with a half-life of approximately 12 hours. Because of its relatively simple pharmacokinetics, sotalol exhibits few direct drug interactions. Its most significant cardiac adverse effect is an extension of its pharmacologic action: a dose-related incidence of torsades de pointes that approaches 6% at the highest recommended daily dose. Patients with overt heart failure may experience further depression of left ventricular function during treatment with sotalol.
+
+Sotalol is approved for the treatment of life-threatening ventricular arrhythmias and the maintenance of sinus rhythm in patients with atrial fibrillation. It is also approved for treatment of supraventricular and ventricular arrhythmias in the pediatric age group. Sotalol decreases the threshold for cardiac defibrillation.
+
+* DOFETILIDE
+Dofetilide has class 3 action potential prolonging action. This action is effected by a dose-dependent blockade of the rapid component of the delayed rectifier potassium current (IKr) and the blockade of IKr increases in hypokalemia. Dofetilide produces no relevant blockade of the other potassium channels or the sodium channel. Because of the slow rate of recovery from blockade, the extent of blockade shows little dependence on stimulation frequency. However, dofetilide does show less action potential prolongation at rapid rates because of the increased importance of other potassium channels such as IKs at higher frequencies.
+
+Dofetilide is 100% bioavailable. Verapamil increases peak plasma dofetilide concentration by increasing intestinal blood flow. Eighty percent of an oral dose is eliminated unchanged by the kidneys; the remainder is eliminated in the urine as inactive metabolites. Inhibitors of the renal cation secretion mechanism, eg, cimetidine, prolong the half-life of dofetilide. Since the QT-prolonging effects and risks of ventricular proarrhythmia are directly related to plasma concentration, dofetilide dosage must be based on the estimated creatinine clearance. Treatment with dofetilide should be initiated in hospital after baseline measurement of the rate-corrected QT interval (QTc) and serum electrolytes. A baseline QTc of greater than 450 ms (500 ms in the presence of an intraventricular conduction delay), bradycardia of less than 50 bpm, and hypokalemia are relative contraindications to its use.
+
+Dofetilide is approved for the maintenance of normal sinus rhythm in patients with atrial fibrillation. It is also effective in restoring normal sinus rhythm in patients with atrial fibrillation.
+
+* IBUTILIDE
+Ibutilide, like dofetilide, slows cardiac repolarization by blockade of the rapid component (IKr) of the delayed rectifier potassium current. Activation of slow inward sodium current has also been suggested as an additional mechanism of action potential prolongation. After intravenous administration, ibutilide is rapidly cleared by hepatic metabolism and the elimination half-life averages 6 hours. The metabolites are excreted by the kidney.
+
+Intravenous ibutilide is used for the acute conversion of atrial flutter and atrial fibrillation to normal sinus rhythm. The drug is more effective in atrial flutter than atrial fibrillation, with a mean time to termination of 20 minutes. The most important adverse effect is excessive QT-interval prolongation and torsades de pointes. Patients require continuous ECG monitoring for 4 hours after ibutilide infusion or until QTc returns to baseline.
+
+CALCIUM CHANNEL-BLOCKING DRUGS (CLASS 4)
+These drugs, of which verapamil is the prototype, were first introduced as antianginal agents and are discussed in greater detail in Chapter 12. Verapamil and diltiazem also have antiarrhythmic effects. The dihydropyridines (eg, nifedipine) do not share antiarrhythmic efficacy and may precipitate arrhythmias.
+
+VERAPAMIL
+Cardiac Effects
+Verapamil blocks both activated and inactivated L-type calcium channels. Thus, its effect is more marked in tissues that fire frequently, those that are less completely polarized at rest, and those in which activation depends exclusively on the calcium current, such as the SA and AV nodes. AV nodal conduction time and effective refractory period are consistently prolonged by therapeutic concentrations. Verapamil usually slows the SA node by its direct action, but its hypotensive action may occasionally result in a small reflex increase of SA rate.
+
+Verapamil can suppress both early and delayed afterdepolarizations and may abolish slow responses arising in severely depolarized tissue.
+
+Extracardiac Effects
+Verapamil causes peripheral vasodilation, which may be beneficial in hypertension and peripheral vasospastic disorders. Its effects on smooth muscle produce a number of extracardiac effects (see Chapter 12).
+
+Toxicity
+Verapamil’s cardiotoxic effects are dose-related and usually avoidable. A common error has been to administer intravenous verapamil to a patient with ventricular tachycardia misdiagnosed as supraventricular tachycardia. In this setting, hypotension and ventricular fibrillation can occur. Verapamil’s negative inotropic effects may limit its clinical usefulness in diseased hearts (see Chapter 12). Verapamil can induce AV block when used in large doses or in patients with AV nodal disease. This block can be treated with atropine and β-receptor stimulants.
+
+Adverse extracardiac effects include constipation, lassitude, nervousness, and peripheral edema.
+
+Pharmacokinetics & Dosage
+The half-life of verapamil is approximately 4–7 hours. It is extensively metabolized by the liver; after oral administration, its bioavailability is only about 20%. Therefore, verapamil must be administered with caution in patients with hepatic dysfunction or impaired hepatic perfusion.
+
+In adult patients without heart failure or SA or AV nodal disease, parenteral verapamil can be used to terminate supraventricular tachycardia, although adenosine is the agent of first choice. Verapamil dosage is an initial bolus of 5 mg administered over 2–5 minutes, followed a few minutes later by a second 5 mg bolus if needed. Thereafter, doses of 5–10 mg can be administered every 4–6 hours, or a constant infusion of 0.4 mcg/kg/min may be used.
+
+Effective oral dosages are higher than intravenous dosage because of first-pass metabolism and range from 120 mg to 640 mg daily, divided into three or four doses.
+
+Therapeutic Use
+Supraventricular tachycardia is the major arrhythmia indication for verapamil. Adenosine or verapamil is preferred over older treatments (propranolol, digoxin, edrophonium, vasoconstrictor agents, and cardioversion) for termination. Verapamil can also reduce the ventricular rate in atrial fibrillation and flutter (“rate control”). It only rarely converts atrial flutter and fibrillation to sinus rhythm. Verapamil is occasionally useful in ventricular arrhythmias. However, intravenous verapamil in a patient with sustained ventricular tachycardia can cause hemodynamic collapse.
+
+DILTIAZEM
+Diltiazem appears to be similar in efficacy to verapamil in the management of supraventricular arrhythmias, including rate control in atrial fibrillation. An intravenous form of diltiazem is available for the latter indication and causes hypotension or bradyarrhythmias relatively infrequently.
+
+MISCELLANEOUS ANTIARRHYTHMIC AGENTS & OTHER DRUGS THAT ACT ON CHANNELS
+Certain agents used for the treatment of arrhythmias do not fit the conventional class 1–4 organization. These include digitalis (see Chapter 13), adenosine, magnesium, and potassium. It is also becoming clear that certain nonantiarrhythmic drugs, such as drugs acting on the renin-angiotensin-aldosterone system, fish oil, and statins, can reduce recurrence of tachycardias and fibrillation in patients with coronary heart disease or congestive heart failure.
+
+ADENOSINE
+Mechanism & Clinical Use
+Adenosine is a nucleoside that occurs naturally throughout the body. Its half-life in the blood is less than 10 seconds. Its cardiac mechanism of action involves activation of an inward rectifier K+ current and inhibition of calcium current. The results of these actions are marked hyperpolarization and suppression of calcium-dependent action potentials. When given as a bolus dose, adenosine directly inhibits AV nodal conduction and increases the AV nodal refractory period but has lesser effects on the SA node. Adenosine is currently the drug of choice for prompt conversion of paroxysmal supraventricular tachycardia to sinus rhythm because of its high efficacy (90–95%) and very short duration of action. It is usually given in a bolus dose of 6 mg followed, if necessary, by a dose of 12 mg. An uncommon variant of ventricular tachycardia is adenosine-sensitive. The drug is less effective in the presence of adenosine receptor blockers such as theophylline or caffeine, and its effects are potentiated by adenosine uptake inhibitors such as dipyridamole.
+
+Toxicity
+Adenosine causes flushing in about 20% of patients and shortness of breath or chest burning (perhaps related to bronchospasm) in over 10%. Induction of high-grade AV block may occur but is very short-lived. Atrial fibrillation may occur. Less common toxicities include headache, hypotension, nausea, and paresthesias.
+
+IVABRADINE
+The localized expression of the “funny” current If in the SA node and its important role in pacemaker activity provide an attractive therapeutic target for heart rate control. Ivabradine is a selective blocker of If. It slows pacemaker activity by decreasing diastolic depolarization of sinus node cells. It is an open channel blocker that shows use-dependent block. Unlike other heart rate-lowering agents such as β blockers, it reduces heart rate without affecting myocardial contractility, ventricular repolarization, or intracardiac conduction. At therapeutic concentrations, block of If is not complete. As a result, autonomic control of the sinus node pacemaker rate is retained.
+
+Elevated heart rate is an important determinant of the ischemic threshold in patients with coronary artery disease and a prognostic indicator in patients with congestive heart failure. Antianginal and anti-ischemic effects of ivabradine have been demonstrated in patients with coronary artery disease and chronic stable angina. In controlled clinical trials, ivabradine proved as effective as β blockers in the control of angina. In patients with left ventricular dysfunction and heart rates greater than 70 bpm, ivabradine reduced mean heart rate and the composite end points of cardiovascular mortality and hospitalization.
+
+Inappropriate sinus tachycardia is an uncommon disorder characterized by multiple symptoms, including palpitations, dizziness, orthostatic intolerance, and elevated heart rates. Conventional treatment includes β blockers and nondihydropyridine calcium channel blockers. Recent case reports and one clinical trial have shown that ivabradine provides an effective alternative to slow the heart rate in patients with inappropriate sinus tachycardia. The drug is administered in doses of 5–10 mg as needed. Visual disturbances attributable to the block of the If channels in the retina have been described. This side effect is limited by the low permeability of ivabradine in the blood-brain barrier. Ivabradine is in use elsewhere but is currently approved only for use in heart failure in the USA.
+
+RANOLAZINE
+Ranolazine was originally developed as an antianginal agent. Subsequent studies have demonstrated antiarrhythmic properties that are dependent on the blockade of multiple ion channels. The drug blocks the early INa and the late component of the Na+ current, INaL, the latter having a tenfold higher sensitivity to the drug. The block of both components of the sodium current is frequency- and voltage-dependent. Ranolazine also blocks the rapid component of the delayed rectifier K+ current IKr. The blockade of both INaL and IKr results in opposing effects on the APD; the net effect depends on the relative contribution of INaL and IKr to the APD. In normal ventricular myocytes, the net effect is prolongation of the APD and the QT interval. In myocytes isolated from mice bearing long QT-associated mutations, the net effect is APD shortening. In normal atrial myocytes, the net effect is prolongation of the APD. At rapid rates, eg, during tachycardia, the atrial action potential arises from the incompletely repolarized membrane and results in voltage-dependent reduction of INa. Ranolazine has relatively little effect on ICa and the remaining K+ currents at therapeutic concentrations.
+
+Ranolazine had been shown to have antiarrhythmic properties in both atrial and ventricular arrhythmias. It prevents the induction of and may terminate atrial fibrillation. It is currently undergoing clinical trials in combination with dronedarone for the suppression of atrial fibrillation. Ranolazine has been shown to suppress ventricular tachycardia in ischemic models and in a major clinical trial of its effects in coronary artery disease. The drug has not yet received FDA approval as an antiarrhythmic drug.
+
+VERNAKALANT
+Vernakalant is a multi-ion channel blocker, placing it in several classes of antiarrhythmic action. It causes frequency- and voltage-dependent block of the early and late components of the sodium current. The muscarinic potassium current IKACh, which is constitutively activated in atrial fibrillation, is blocked by vernakalant. The early-activating potassium channels Ito and Ikur are also blocked by the drug. These potassium channel currents play a more prominent role in atrial than ventricular repolarization. As a result, vernakalant produces only mild QT-interval prolongation. It does not produce torsades de pointes. Though not yet approved by the FDA, vernakalant can be administered intravenously for the rapid termination of atrial fibrillation in patients with no or minimal structural heart disease. In a direct comparison trial, vernakalant proved more effective than placebo or amiodarone in terminating atrial fibrillation in a 90-minute period. This relatively rapid action decreases the required observation period for untoward side effects following drug administration. Sinus bradycardia and hypotension are the only noticeable cardiovascular adverse effects.
+
+MAGNESIUM
+Originally used for patients with digitalis-induced arrhythmias who were hypomagnesemic, magnesium infusion has been found to have antiarrhythmic effects in some patients with normal serum magnesium levels. The mechanisms of these effects are not known, but magnesium is recognized to influence Na+/K+-ATPase, sodium channels, certain potassium channels, and calcium channels. Magnesium therapy appears to be indicated in patients with digitalis-induced arrhythmias if hypomagnesemia is present; it is also indicated in some patients with torsades de pointes even if serum magnesium is normal. The usual dosage is 1 g (as sulfate) given intravenously over 20 minutes and repeated once if necessary. A full understanding of the action and indications for the use of magnesium as an antiarrhythmic drug awaits further investigation.
+
+POTASSIUM
+The significance of the potassium ion concentrations inside and outside the cardiac cell membrane was discussed earlier in this chapter. The effects of increasing serum K+ can be summarized as (1) a resting potential depolarizing action and (2) a membrane potential stabilizing action, the latter caused by increased potassium permeability. Hypokalemia results in an increased risk of early and delayed afterdepolarizations, and ectopic pacemaker activity, especially in the presence of digitalis. Hyperkalemia depresses ectopic pacemakers (severe hyperkalemia is required to suppress the SA node) and slows conduction. Because both insufficient and excess potassium are potentially arrhythmogenic, potassium therapy is directed toward normalizing potassium gradients and pools in the body.
+
+DRUGS THAT ACT ON CHLORIDE CHANNELS
+Several types of chloride channels have been identified. At present, no drugs acting on chloride channels are in clinical use for cardiac indications. However, the chloride channels involved in cystic fibrosis and other conditions are of great clinical importance and have been the subject of intensive research (see Box: A Cystic Fibrosis Link in the Heart?).
+
+A Cystic Fibrosis Link in the Heart?
+Cystic fibrosis is a serious autosomal-recessive inherited disease that causes defective Cl− secretion in the lung. The defective Cl− secretion is caused by mutations of the CFTR (cystic fibrosis transmembrane conductance regulator) Cl− channel, resulting in the generation of thick and dehydrated mucus and chronic bacterial infections. Although more than 1600 types of mutations have been identified in the CFTR gene, most current therapies to treat cystic fibrosis lung disease target downstream consequences of the disease that are secondary to loss of CFTR Cl− channel function. Recently, the FDA approved the use of a new CFTR potentiator drug, ivacaftor, for treatment of a subset of cystic fibrosis patients (4%) with a specific (G551D) mutation. Ivacaftor improves CFTR channel function, resulting in better lung function. Another CFTR modulator, crofelemer, which inhibits CFTR Cl− channels, has recently been approved by the FDA for the treatment of diarrhea induced by antiviral drugs.
+
+Surprisingly, recent studies have demonstrated the expression of CFTR Cl− channels in the heart, where they appear to modulate action potential duration and membrane potential during sympathetic stimulation. Various animal models of cardiac disease have suggested that CFTR Cl− channels may play a role in hypertrophy and heart failure and may be cardioprotective against ischemia and reperfusion damage. The physiologic and pathophysiologic roles of CFTR Cl− channels in human heart remain to be defined clearly. It is not known if there are significant cardiac alterations in cystic fibrosis patients, and the possible effects of the two new CFTR channel modulators, ivacaftor and crofelemer, on heart function remain to be determined.
+
+PRINCIPLES IN THE CLINICAL USE OF ANTIARRHYTHMIC AGENTS
+The margin between efficacy and toxicity is particularly narrow for antiarrhythmic drugs. Risks and benefits must be carefully considered (see Box: Antiarrhythmic Drug-Use Principles Applied to Atrial Fibrillation).
+
+Antiarrhythmic Drug-Use Principles Applied to Atrial Fibrillation
+Atrial fibrillation is the most common sustained arrhythmia observed clinically. Its prevalence increases from approximately 0.5% in individuals younger than 65 years of age to 10% in individuals older than 80. Diagnosis is usually straightforward by means of an ECG. The ECG may also enable the identification of a prior myocardial infarction, left ventricular hypertrophy, and ventricular pre-excitation. Hyperthyroidism is an important treatable cause of atrial fibrillation, and a thyroid panel should be obtained at the time of diagnosis to exclude this possibility. With the clinical history and physical examination as a guide, the presence and extent of the underlying heart disease should be evaluated, preferably using noninvasive techniques such as echocardiography.
+
+- Treatment of atrial fibrillation is initiated to relieve patient symptoms and prevent the complications of thromboembolism and tachycardia-induced heart failure, the result of prolonged uncontrolled heart rates. The initial treatment objective is control of the ventricular rate. This is usually achieved by use of a calcium channel-blocking drug alone or in combination with a β-adrenergic blocker. Digoxin may be of value in the presence of heart failure. A second objective is a restoration and maintenance of normal sinus rhythm. Several studies show that rate control (maintenance of ventricular rate in the range of 60–80 bpm) has a better benefit-to-risk outcome than rhythm control (conversion to normal sinus rhythm) in the long-term health of patients with atrial fibrillation. If rhythm control is deemed desirable, sinus rhythm is usually restored by DC cardioversion in the USA. This is also the preferred strategy in an emergency, eg, atrial fibrillation associated with hypotension or angina. For the elective restoration of sinus rhythm, a single large oral dose of propefenone or flecainide may be used, provided that safety is initially documented in a monitored setting. Intravenous ibutilide can also restore sinus rhythm promptly.
+
+The selection of a drug to maintain normal sinus rhythm depends on the presence and type of underlying heart disease. An example of an algorithm for drug selection is given in Figure 14–11.
+
+Antiarrhythmic drugs remain the preferred rhythm control strategy. However, a comparison of initial strategies for the maintenance of normal sinus rhythm is currently undergoing clinical trial. The pivotal role of oral anticoagulation in the prevention of stroke is established. Currently guidelines identify patients who are at particular risk and should undergo long-term anticoagulation.
+
+Pretreatment Evaluation
+Several important steps must be taken before initiation of any antiarrhythmic therapy:
+
+Eliminate the cause. Precipitating factors must be recognized and eliminated if possible. These include not only abnormalities of internal homeostasis, such as hypoxia or electrolyte abnormalities (especially hypokalemia or hypomagnesemia), but also drug therapy and underlying disease states such as hyperthyroidism or cardiac disease. It is important to separate this abnormal substrate from triggering factors, such as myocardial ischemia or acute cardiac dilation, which may be treatable and reversible by different means.
+
+Make a firm diagnosis. A firm arrhythmia diagnosis should be established. For example, the misuse of verapamil in patients with ventricular tachycardia mistakenly diagnosed as supraventricular tachycardia can lead to catastrophic hypotension and cardiac arrest. As increasingly sophisticated methods to characterize underlying arrhythmia mechanisms become available and are validated, it may be possible to direct certain drugs toward specific arrhythmia mechanisms.
+
+Determine the baseline condition. Underlying heart disease is a critical determinant of drug selection for a particular arrhythmia in a particular patient. A key question is whether the heart is structurally abnormal. Few antiarrhythmic drugs have documented safety in patients with congestive heart failure or ischemic heart disease. In fact, some drugs pose a documented proarrhythmic risk in certain disease states, eg, class 1C drugs in patients with ischemic heart disease. A reliable baseline should be established against which to judge the efficacy of any subsequent antiarrhythmic intervention. Several methods are now available for such baseline quantification. These include prolonged ambulatory monitoring, electrophysiologic studies that reproduce a target arrhythmia, reproduction of a target arrhythmia by treadmill exercise, or the use of transtelephonic monitoring for recording of sporadic but symptomatic arrhythmias.
+
+Question the need for therapy. The mere identification of an abnormality of cardiac rhythm does not necessarily require that the arrhythmia be treated. An excellent justification for conservative treatment was provided by the Cardiac Arrhythmia Suppression Trial (CAST) referred to earlier.
+
+Benefits & Risks
+The benefits of antiarrhythmic therapy are difficult to establish. Two types of benefits can be envisioned: reduction of arrhythmia-related symptoms, such as palpitations, syncope, or cardiac arrest; and reduction in long-term mortality in asymptomatic patients. Among drugs discussed here, only β blockers have been definitely associated with reduction of mortality in relatively asymptomatic patients, and the mechanism underlying this effect is not established (see Chapter 10).
+
+FIGURE 14–11
+Selection of rhythm control therapies depends on presence and nature of any underlying heart disease. Patients may be divided into two broad categories: those with and those without underlying heart disease. Patient with heart failure, left ventricular ejection fraction (LVEF) less than 35%, coronary artery disease (CAD), valvular heart disease, and left ventricular hypertrophy (LVH) fall into the first category. The second category includes patients with mild LVH and with heart failure but a preserved ejection fraction (HFpEF). The recommendations are based on the guidelines of the American College of Cardiology Foundation (ACCF), the American Heart Association (AHA), the Heart Rhythm Society (HRS), and the Canadian Cardiology Society (CCS). AF, atrial fibrillation; ESC, European Society of Cardiology; LV, left ventricle.
+
+image
+Antiarrhythmic therapy carries with it a number of risks. In some cases, the risk of an adverse reaction is clearly related to high dosages or plasma concentrations. Examples include lidocaine-induced tremor or quinidine-induced cinchonism. In other cases, adverse reactions are unrelated to high plasma concentrations (eg, procainamide-induced agranulocytosis). For many serious adverse reactions to antiarrhythmic drugs, the combination of drug therapy and the underlying heart disease appears important.
+
+Several specific syndromes of arrhythmia provocation by antiarrhythmic drugs have also been identified, each with its underlying pathophysiologic mechanism and risk factors. Drugs such as quinidine, sotalol, ibutilide, and dofetilide, which act—at least in part—by slowing repolarization and prolonging cardiac action potentials, can result in marked QT prolongation and torsades de pointes. Treatment for torsades requires recognition of the arrhythmia, withdrawal of any offending agent, correction of hypokalemia, and treatment with maneuvers to increase heart rate (pacing or isoproterenol); intravenous magnesium also appears effective, even in patients with normal magnesium levels.
+
+Drugs that markedly slow conduction, such as flecainide, or high concentrations of quinidine can result in an increased frequency of reentry arrhythmias, notably ventricular tachycardia in patients with prior myocardial infarction in whom a potential reentry circuit may be present. Treatment here consists of recognition, withdrawal of the offending agent, and intravenous sodium to reverse unidirectional block.
+
+Conduct of Antiarrhythmic Therapy
+The urgency of the clinical situation determines the route and rate of drug initiation. When immediate drug action is required, the intravenous route is preferred. Therapeutic drug levels can be achieved by administration of multiple slow intravenous boluses. Drug therapy can be considered effective when the target arrhythmia is suppressed (according to the measure used to quantify it at baseline) and toxicities are absent. Conversely, drug therapy should not be considered ineffective unless toxicities occur at a time when arrhythmias are not suppressed.
+
+Monitoring plasma drug concentrations can be a useful adjunct to managing antiarrhythmic therapy. Plasma drug concentrations are also important in establishing compliance during long-term therapy as well as in detecting drug interactions that may result in very high concentrations at low drug dosages or very low concentrations at high dosages.
+
+* Summary 
+CLASS 1A
+ • Procainamide	INa (primary) and IKr (secondary) blockade	Slows conduction velocity and pacemaker rate • prolongs action potential duration and dissociates from INa channel with intermediate kinetics • direct depressant effects on sinoatrial (SA) and atrioventricular (AV) nodes	Most atrial and ventricular arrhythmias • drug of second choice for most sustained ventricular arrhythmias associated with acute myocardial infarction	Oral, IV, IM • eliminated by hepatic metabolism to N-acetylprocainamide (NAPA; see text) and renal elimination • NAPA implicated in torsades de pointes in patients with renal failure • Toxicity: Hypotension • long-term therapy produces reversible lupus-related symptoms
+ • Quinidine: Similar to procainamide but more toxic (cinchonism, torsades); rarely used in arrhythmias; see Chapter 52 for malaria
+
+ • Disopyramide: Similar to procainamide but significant antimuscarinic effects; may precipitate heart failure; not commonly used
+
+CLASS 1B
+ • Lidocaine	Sodium channel (INa) blockade	Blocks activated and inactivated channels with fast kinetics • does not prolong and may shorten action potential	Terminates ventricular tachycardias and prevents ventricular fibrillation after cardioversion	IV • first-pass hepatic metabolism • reduce dose in patients with heart failure or liver disease • Toxicity: Neurologic symptoms
+ • Mexiletine: Orally active congener of lidocaine; used in ventricular arrhythmias, chronic pain syndromes
+
+CLASS 1C
+ • Flecainide	Sodium channel (INa) blockade	Dissociates from channel with slow kinetics • no change in action potential duration	Supraventricular arrhythmias in patients with normal heart • do not use in ischemic conditions (post-myocardial infarction)	Oral • hepatic and kidney metabolism • half life ∼20 h • Toxicity: Proarrhythmic
+ • Propafenone: Orally active, weak β-blocking activity; supraventricular arrhythmias; hepatic metabolism
+
+ • Moricizine: Phenothiazine derivative, orally active; ventricular arrhythmias, proarrhythmic. Withdrawn in USA.
+
+CLASS 2
+ • Propranolol	β-Adrenoceptor blockade	Direct membrane effects (sodium channel block) and prolongation of action potential duration • slows SA node automaticity and AV nodal conduction velocity	Atrial arrhythmias and prevention of recurrent infarction and sudden death	Oral, parenteral • duration 4–6 h • Toxicity: Asthma, AV blockade, acute heart failure • Interactions: With other cardiac depressants and hypotensive drugs
+• Esmolol: Short-acting, IV only; used for intraoperative and other acute arrhythmias
+
+CLASS 3
+ • Amiodarone	Blocks IKr, INa, ICa-L channels, β adrenoceptors	Prolongs action potential duration and QT interval • slows heart rate and AV node conduction • low incidence of torsades de pointes	Serious ventricular arrhythmias and supraventricular arrhythmias	Oral, IV • variable absorption and tissue accumulation • hepatic metabolism, elimination complex and slow • Toxicity: Bradycardia and heart block in diseased heart, peripheral vasodilation, pulmonary and hepatic toxicity • hyper- or hypothyroidism. • Interactions: Many, based on CYP metabolism
+ • Dofetilide	IKr block	Prolongs action potential, effective refractory period	Maintenance or restoration of sinus rhythm in atrial fibrillation	Oral • renal excretion • Toxicity: Torsades de pointes (initiate in hospital with monitoring) • Interactions: Additive with other QT-prolonging drugs
+ • Sotalol: β-Adrenergic and IKr blocker, direct action potential prolongation properties, use for ventricular arrhythmias, atrial fibrillation
+
+ • Ibutilide: Potassium channel blocker, may activate inward current; IV use for conversion in atrial flutter and fibrillation
+
+ • Dronedarone: Amiodarone derivative; multichannel actions, reduces mortality in patients with atrial fibrillation
+
+ • Vernakalant: Investigational in the USA, multichannel actions in atria, prolongs atrial refractoriness, effective in atrial fibrillation
+
+CLASS 4
+ • Verapamil	Calcium channel (ICa-L type) blockade	Slows SA node automaticity and AV nodal conduction velocity • decreases cardiac contractility • reduces blood pressure	Supraventricular tachycardias, hypertension, angina	Oral, IV • hepatic metabolism • caution in patients with hepatic dysfunction • Toxicity & Interactions: See Chapter 12
+ • Diltiazem: Equivalent to verapamil
+
+MISCELLANEOUS
+ • Adenosine	Activates inward rectifier IK • blocks ICa	Very brief, usually complete AV blockade	Paroxysmal supraventricular tachycardias	IV only • duration 10–15 s • Toxicity: Flushing, chest tightness, dizziness • Interactions: Minimal
+ • Magnesium	Poorly understood • interacts with Na+/K+-ATPase, K+, and Ca2+ channels	Normalizes or increases plasma Mg2+	Torsades de pointes • digitalis-induced arrhythmias	IV • duration dependent on dosage • Toxicity: Muscle weakness in overdose
+ • Potassium	Increases K+ permeability, K+ currents	Slows ectopic pacemakers • slows conduction velocity in heart	Digitalis-induced arrhythmias • arrhythmias associated with hypokalemia	Oral, IV • Toxicity: Reentrant arrhythmias, fibrillation or arrest in overdose
+Favorite Table | Download (.pdf) | Print
+

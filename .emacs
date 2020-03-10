@@ -1,9 +1,11 @@
 					; if init ain't loading, package-install ivy
 (package-initialize)
 ;(ivy-mode 1)
+(save-place-mode t)
+
 
 ;(require 'org-learn)
-;(require 'org-drill)
+(require 'org-drill)
 (setq org-image-actual-width nil)
 ;(require 'org-annotate-file)
 ;(require 'org-bookmark)
@@ -124,6 +126,8 @@
          "* %t\n%a\n%?")
         ("a" "Anki Basic" entry (file+headline org-my-anki-file "Dispatch")
          "* %U\n%a\n:PROPERTIES:\n:ANKI:NOTE_TYPE: Basic\n:ANKI_DECK: 0emacs\n:TAGS:\n:END:\n** Front\n\n** Back\n%?")
+	("i" "IR" entry (file+headline org-my-anki-file "Dispatch")
+         "* %U\n%a\n:PROPERTIES:\n:ANKI:NOTE_TYPE: Basic\n:ANKI_DECK: IR-Cards\n:TAGS:\n:END:\n** Front\n\n** Back\n%?")
         ))
 
 ;; Org Settings
@@ -191,7 +195,21 @@ Entered on %U
 ** Front
 
 ** Back
-%?"))))
+%?")
+     ("i" "IR" entry
+      (file+headline org-my-anki-file "Dispatch")
+      "* %U
+%a
+:PROPERTIES:
+:ANKI:NOTE_TYPE: Basic
+:ANKI_DECK: IR-Cards
+:TAGS:
+:END:
+** Front
+
+** Back
+%?")
+     )))
  '(org-insert-mode-line-in-empty-file t)
  '(org-modules
    (quote

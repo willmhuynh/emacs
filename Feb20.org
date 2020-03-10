@@ -811,22 +811,6 @@ Adalimumab, etanercept
   :ID:       d2ff75b9-e76a-4e56-97bc-a889ca77460c
   :DRILL_LAST_INTERVAL: 4.0
   :DRILL_REPEATS_SINCE_FAIL: 2
-  :DRILL_TOTAL_REPEATS: 2
-  :DRILL_FAILURE_COUNT: 1
-  :DRILL_AVERAGE_QUALITY: 2.0
-  :DRILL_EASE: 2.5
-  :DRILL_LAST_QUALITY: 4
-  :DRILL_LAST_REVIEWED: [2020-02-20 Thu 00:29]
-  :END:e
-Cardio
-
-Familial PAH
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Thursday\20_07_25.jpg]]
-
-MR
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Thursday\20_15_14.jpg]]
-[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Thursday\20_15_20.jpg]]
-
 ** Bell Cafeteria
 Arrythmias
 *** Vending Machines                                                  :drill:
