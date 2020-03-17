@@ -1,0 +1,14 @@
+2020-03-17 18:37:13,459 - 1214357311 - checkConfigAndLoad:93 - DEBUG - loading config.pickle...
+2020-03-17 18:37:13,464 - 1214357311 - checkConfigAndLoad:96 - DEBUG - loaded config: {'isUpScalingDisabled': True, 'auto': False, 'keys': {'Ctrl': True, 'Alt': False, 'Shift': True, 'Extra': 'V'}, 'width': '1000', 'height': '1000', 'ratioKeep': 'either', 'scalingMode': 'smooth'}
+2020-03-17 18:37:13,465 - 1214357311 - __init__:77 - DEBUG - Setup init completed
+2020-03-17 18:37:16,448 - urllib3.connectionpool - _make_request:393 - DEBUG - https://ankiweb.net:443 "POST /update/desktop HTTP/1.1" 200 57
+2020-03-17 18:37:22,624 - urllib3.connectionpool - _new_conn:813 - DEBUG - Starting new HTTPS connection (1): sync3.ankiweb.net:443
+2020-03-17 18:37:26,258 - urllib3.connectionpool - _make_request:393 - DEBUG - https://sync3.ankiweb.net:443 "POST /sync/meta HTTP/1.1" 200 155
+2020-03-17 18:37:26,963 - urllib3.connectionpool - _make_request:393 - DEBUG - https://sync3.ankiweb.net:443 "POST /sync/start HTTP/1.1" 200 39
+2020-03-17 18:37:27,303 - urllib3.connectionpool - _make_request:393 - DEBUG - https://sync3.ankiweb.net:443 "POST /sync/applyGraves HTTP/1.1" 200 4
+2020-03-17 18:37:27,635 - urllib3.connectionpool - _make_request:393 - DEBUG - https://sync3.ankiweb.net:443 "POST /sync/applyChanges HTTP/1.1" 200 45
+2020-03-17 18:37:28,102 - urllib3.connectionpool - _make_request:393 - DEBUG - https://sync3.ankiweb.net:443 "POST /sync/chunk HTTP/1.1" 200 54
+2020-03-17 18:37:28,451 - urllib3.connectionpool - _make_request:393 - DEBUG - https://sync3.ankiweb.net:443 "POST /sync/applyChunk HTTP/1.1" 200 4
+2020-03-17 18:37:29,188 - urllib3.connectionpool - _make_request:393 - DEBUG - https://sync3.ankiweb.net:443 "POST /sync/sanityCheck2 HTTP/1.1" 200 16
+2020-03-17 18:37:29,529 - urllib3.connectionpool - _make_request:393 - DEBUG - https://sync3.ankiweb.net:443 "POST /sync/finish HTTP/1.1" 200 13
+2020-03-17 18:37:29,934 - urllib3.connectionpool - _make_request:393 - DEBUG - https://sync3.ankiweb.net:443 "POST /msync/begin HTTP/1.1" 200 55

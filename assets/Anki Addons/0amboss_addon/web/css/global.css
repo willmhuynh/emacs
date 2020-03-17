@@ -1,0 +1,4 @@
+/* Workaround for tooltips disappearing on thin #qa boundary */
+#qa {
+  padding-bottom: 2em;
+}

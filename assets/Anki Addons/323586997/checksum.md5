@@ -1,0 +1,15 @@
+; SlavaSoft Optimizing Checksum Utility - fsum 2.52.00337 <www.slavasoft.com>
+;
+; Generated on 01/26/20 at 21:41:53 
+;
+2d1ea1fcf0faf7b9f6498c23a443f11b *__init__.py
+c779fbb37596568b650822212f2afee6 *config.json
+006e9440e2fcc142e2618375b29d4556 *config.md
+1b5e1d24bea0ea6021895b106acb395b *config.py
+44ceecccef406131c0579d33c27b86c6 *const.py
+e49d7e2c101e6035e5f0c96c8b633a14 *main.py
+911d4f8560a75b17a5f3a7b3d94d5ddf *meta_id.json
+9be4f0b1a1e8b86d28a0874f3e6c4b0b *rememorize.py
+5ff462faf8f3a9b519d99f82daf7f303 *utils.py
+8881259d4f76bc19964cf8b766414e23 *manifest.json
+3f2f2487c32168631f19c95e91adb444 *VERSION

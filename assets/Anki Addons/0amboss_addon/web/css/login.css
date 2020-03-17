@@ -1,0 +1,114 @@
+.amboss-login {
+  font-family: Lato, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+#amboss-login-form .amboss-login-btn {
+  margin-top: 1em;
+  font-family: Lato, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  background-color: #32cdab;
+  border-color: #32cdab;
+}
+
+.amboss-login .amboss-login-btn-text {
+  font-family: Lato, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 0.65em;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+}
+
+.amboss-login-welcome {
+  padding: 1em;
+}
+
+.amboss-login-welcome-message {
+  font-size: 1.6em;
+}
+
+.amboss-login-logo {
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+#amboss-login-form {
+  padding-left: 1.2em;
+  padding-right: 1.2em;
+}
+
+.amboss-login-prompt {
+  font-weight: 700;
+  font-size: 1.5em;
+  line-height: 2em;
+  color: #303438;
+  padding-bottom: .5em;
+}
+
+.amboss-login-label {
+  font-weight: bold;
+  font-size: 0.7em;
+  line-height: 0.8em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #8393A0;
+  margin-top: 1.5em;
+}
+
+.amboss-login-input {
+  margin-bottom: .2em;
+}
+
+#version-warning {
+  display: none;
+  color: #303438;
+  font-size: 0.9em;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: #eb5e64;
+  padding: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+#version-warning.visible {
+  display: block;
+}
+
+.warning {
+  color: #eb5e64;
+}
+
+.amboss-login-unauthorized {
+  padding-top: 0.5em;
+  font-size: 1.2em;
+  color: #6A889A;
+  line-height: 1.5em;
+}
+
+.amboss-login-unauthorized-signoff {
+  font-weight: bold;
+}
+
+.amboss-login-forgot {
+  font-size: 0.8em;
+  text-align: right;
+}
+
+.amboss-login-forgot a,
+.amboss-login-forgot a:hover {
+  text-decoration: underline;
+  color: #6A889A;
+}
+
+.amboss-signup {
+  font-size: 1em;
+  padding-top: 2em;
+  text-align: center;
+}
+
+.amboss-signup-link, .amboss-signup-link:hover {
+  color: #303438;
+  text-decoration: underline;
+  text-underline-position: under;
+  font-weight: bold
+}

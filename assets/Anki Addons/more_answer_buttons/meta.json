@@ -1,0 +1,1 @@
+{"name": "More Answer Buttons for New Cards", "config": {"extra_buttons": [{"Description": "5-7d", "Label": "5-7", "ReschedMax": 7, "ReschedMin": 5, "ShortCut": "5"}, {"Description": "9-10d", "Label": "9-10", "ReschedMax": 10, "ReschedMin": 8, "ShortCut": "6"}, {"Description": "12-14d", "Label": "12-14", "ReschedMax": 14, "ReschedMin": 12, "ShortCut": "7"}]}}

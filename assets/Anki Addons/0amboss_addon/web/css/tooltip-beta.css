@@ -1,0 +1,50 @@
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-testing-footer,
+#amboss-card .amboss-card-testing-footer {
+  border-top: solid 1px !important;
+  border-color: #dce4e8 !important;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-testing-footer .amboss-card-testing-footer-wrapper,
+#amboss-card .amboss-card-testing-footer .amboss-card-testing-footer-wrapper {
+  padding-left: 1em !important;
+  padding-right: 1em !important;
+  margin-top: 0.2em !important;
+  margin-bottom: 0.2em !important;
+  text-align: center !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: baseline !important;
+}
+
+div.tippy-tooltip.amboss-theme
+  div.tippy-content
+  div.amboss-card
+  .amboss-card-testing-footer
+  *,
+#amboss-card .amboss-card-testing-footer * {
+  padding-top: 0.4em !important;
+  padding-bottom: 0.4em !important;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-version-info,
+#amboss-card .amboss-card-version-info {
+  color: #eb5e64 !important;
+  font-size: 0.9em !important;
+  font-weight: bold !important;
+}
+
+#amboss-card a.amboss-footer-link {
+  font-family: Lato, "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+  font-size: 0.8em !important;
+  font-weight: bold !important;
+  color: #9daebb !important;
+  text-decoration: none !important;
+  display: inline-block;
+  border-bottom: 1px solid #9daebb;
+  line-height: 0.5em;
+}
+
+#amboss-card a.amboss-footer-link:hover {
+  color: #51616d !important;
+  border-bottom: 1px solid #51616d;
+}

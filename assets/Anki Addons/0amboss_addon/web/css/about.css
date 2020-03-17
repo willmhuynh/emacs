@@ -1,0 +1,42 @@
+.amboss-about-logo {
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: 0.33em;
+}
+
+.amboss-about-text {
+  padding-left: 2em;
+  padding-right: 2em;
+  font-family: Lato, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 1em;
+}
+
+.amboss-about-center {
+  text-align: center;
+}
+
+.amboss-about-text-small {
+  font-size: 0.8em;
+}
+
+.amboss-about-header {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.6em;
+  line-height: 2em;
+  color: #303438;
+  padding-bottom: 0.5em;
+}
+
+.amboss-about-copyright {
+  padding-bottom: 0.5em;
+}
+
+.amboss-about-version {
+  font-weight: bold;
+  padding-bottom: 0.5em;
+}
+
+.amboss-about-table {
+  margin-top: 1em;
+}

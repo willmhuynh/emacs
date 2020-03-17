@@ -1,0 +1,10 @@
+{
+    "name": "AMBOSS add-on",
+    "package": "0amboss_addon",
+    "ankiweb_id": "",
+    "author": "amboss-mededu",
+    "version": "v0.1.17",
+    "homepage": "",
+    "conflicts": [],
+    "mod": 1576675929
+}

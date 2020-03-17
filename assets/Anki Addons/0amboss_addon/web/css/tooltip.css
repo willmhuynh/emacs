@@ -1,0 +1,230 @@
+div.tippy-tooltip.amboss-theme {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  border-radius: 5px !important;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card,
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card-placeholder,
+#amboss-card,
+#amboss-card-placeholder {
+  all: initial;
+  color: #000000 !important;
+  font-family: Lato, "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+  max-width: 100% !important;
+  max-height: 100% !important;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card-placeholder,
+#amboss-card-placeholder {
+  padding: 1em;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content,
+#amboss-card {
+  background-color: white !important;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content *,
+#amboss-card * {
+  background-color: inherit;
+  color: inherit;
+  font: inherit;
+  max-width: inherit;
+  max-height: inherit;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-header,
+#amboss-card .amboss-card-header,
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-abstract,
+#amboss-card .amboss-abstract,
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-destination-container,
+#amboss-card .amboss-destination-container {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-header,
+#amboss-card .amboss-card-header {
+  margin-bottom: 1.1em;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-server-notification,
+#amboss-card .amboss-card-server-notification {
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-server-notification .amboss-card-server-notification-warning,
+#amboss-card .amboss-card-server-notification-warning {
+  background: #F1D56B;
+  border-radius: 3.06853px;
+  padding: 1em 0.7em;
+  color: white;
+  display: flex;
+  align-items: center;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-server-notification .amboss-card-server-notification-warning-icon,
+#amboss-card .amboss-card-server-notification-warning-icon {
+  padding-right: 0.5em;
+  width: 32px;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-client-notification,
+#amboss-card .amboss-card-client-notification {
+  padding: 0 1em 1em;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-client-notification .amboss-card-client-notification-error,
+#amboss-card .amboss-card-client-notification-error {
+  color: red;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-client-notification .amboss-card-client-notification-access-expired,
+#amboss-card .amboss-card-client-notification-access-expired {
+  text-align: left;
+}
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-client-notification .amboss-card-client-notification-access-expired-header,
+#amboss-card .amboss-card-client-notification-access-expired-header {
+    font-weight: bold;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-title,
+#amboss-card .amboss-card-title {
+  font-size: 1.4em;
+  font-weight: bold;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  padding-top: 0;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-subtitles,
+#amboss-card .amboss-card-subtitles {
+  font-size: 1.1em;
+  margin-top: 0.3em;
+  margin-bottom: 1.1em;
+  line-height: 2em;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-synonyms,
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-translation,
+#amboss-card .amboss-synonyms,
+#amboss-card .amboss-translation {
+  font-size: 1.1em;
+  margin-bottom: 1.1em;
+  line-height: 1.4em;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-synonyms,
+#amboss-card .amboss-synonyms {
+  font-style: italic;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-translation,
+#amboss-card .amboss-translation {
+  color: rgb(106, 136, 154);
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-abstract,
+#amboss-card .amboss-abstract {
+  font-size: 1.1em;
+  margin-bottom: 1.1em;
+  line-height: 1.4em;
+  color: #51616d;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-destinations,
+#amboss-card .amboss-destinations {
+  display: flex;
+  align-self: center;
+  flex-direction: column;
+  align-content: stretch;
+}
+
+.amboss-destination-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-destination-container:hover,
+#amboss-card .amboss-destination-container:hover {
+  background-color: #f9fafb;
+}
+
+.amboss-destination-container:hover .amboss-destination-icon-left svg {
+  stroke: #0099ab;
+}
+
+.amboss-destination-container:hover div.amboss-destination-text {
+  text-decoration: underline #c0c8cc;
+  text-underline-position: under;
+}
+
+.amboss-destination-container .amboss-destination-container {
+  margin-bottom: 1em;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card a.amboss-destination-link,
+#amboss-card a.amboss-destination-link {
+  border-top: 1px solid #DCE4E8;
+  font-family: Lato, "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+  font-weight: 400 !important;
+  text-decoration: none !important;
+  background-color: white !important;
+  color: #303438 !important;
+  font-size: 1.1em !important;
+}
+
+.amboss-destination-icon-left, .amboss-destination-icon-right {
+  stroke: #9daebb;
+  width: 24px;
+  flex-shrink: 0;
+}
+
+.amboss-destination-icon-left {
+  padding-right: 12px;
+}
+
+.amboss-destination-icon-right {
+  padding-left: 12px;
+}
+
+.amboss-card-article-icon {
+  vertical-align: middle;
+}
+
+.amboss-destination-text {
+  flex-grow: 1;
+  line-height: 1.2em;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-card-logo,
+#amboss-card .amboss-card-logo {
+  text-align: center;
+  padding-top: 1em;
+}
+
+div.tippy-tooltip.amboss-theme div.tippy-content div.amboss-card .amboss-notification,
+#amboss-card {
+  padding-bottom: 1.1em;
+}
+
+@keyframes amboss-load-animation {
+  to {
+    stroke-dashoffset: 136;
+  }
+}
+
+.amboss-load {
+  stroke: rgb(22, 190, 157);
+  animation: 2s linear 0s infinite normal none running amboss-load-animation;
+  stroke-dasharray: 17px;
+}
