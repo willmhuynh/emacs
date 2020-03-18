@@ -1,0 +1,22 @@
+{
+	"AgainColor": "red",
+	"HardColor": "orange",
+	"GoodColor": "#30c257",
+	"EasyColor": "#61a8ff",
+	"Nightmode_AgainColor": "#ff6961",
+	"Nightmode_HardColor": "#ffb861",
+	"Nightmode_GoodColor": "#61ffb8",
+	"Nightmode_EasyColor": "#61a8ff",
+	"answer button width": "Full",
+	"border radius": "3",
+	"button color": "hover",
+	"button font size": "S",	
+	"button height": "S",
+	"button width": "S",
+	"confirmation": true,
+	"confirmation time": 450,
+	"confirmation x-offset": 0,
+	"confirmation y-offset": 0,
+	"outline": "yes",
+	"style main screen buttons": true
+}
