@@ -1,31 +1,28 @@
+(setq user-init-file "C:/Users/Will/Documents/emacs/.emacs")
 					; if init ain't loading, package-install ivy
 (package-initialize)
-;(ivy-mode 1)
+(ivy-mode 1)
 (save-place-mode t)
-
-
-;(require 'org-learn)
-(require 'org-drill)
-(setq org-image-actual-width nil)
-;(require 'org-annotate-file)
-;(require 'org-bookmark)
-;(require 'org-panel)
-;(require 'org-toc)
-;(require 'image+)
-
 (setq inhibit-startup-message 1)
-;; Place this file in C:\Users\Username\AppData\Roaming and point to the appropriate files
-(setq default-directory "C:/Users/Will/Documents/emacs")
-(setenv "HOME" "C:/Users/Will/Documents/emacs")
 
-(setq user-init-file "/.emacs")
-(setq user-emacs-directory "~/.emacs.d/")
-(add-to-list 'load-path "~/.emacs.d/elpa")
-;;(load "anki-cards.el")
-(let ((default-directory "~/.emacs.d/"))
-  (normal-top-level-add-subdirs-to-load-path))
+(setenv "HOME" "C:/Users/Will/Documents/emacs")
+(setq default-directory "~/")
+(add-to-list 'load-path "~/.emacs.d/")
+(add-to-list 'load-path "~/.emacs.d/lisp/")
+ (normal-top-level-add-subdirs-to-load-path)
+(add-to-list 'load-path "~/.emacs.d/elpa/tts-mode")
+(setq user-emacs-directory "~/.emacs.d")
 (setq org-agenda-files (quote ("~/Feb20.org")))
-(load-file "~/.emacs.d/elpa/read-aloud/read-aloud.el")
+
+(package-initialize 'org-drill)
+(package-initialize 'org-annotate-file)
+(package-initialize 'org-bookmark)
+(package-initialize 'org-panel)
+(package-initialize 'org-toc)
+
+(package-initialize 'image+)
+(package-initialize 'anki-cards)
+
 (add-to-list 'load-path "~/.emacs.d/elpa/tts-mode")
 (setq read-aloud-engine "jampal")
 ;; configure tts engine's command path if needed ;
@@ -35,6 +32,7 @@
 ;(setq espeak-program "E:/emacs/.emacs.d/elpa/tts-mode/espeak") ;
 ;(setq festival-program "E:/emacs/.emacs.d/elpa/tts-mode/festival") ;
 ;(setq say-program "E:/emacs/.emacs.d/elpa/tts-mode/say");
+
 
 ;; image settings
 (setq org-image-actual-width nil)
@@ -68,6 +66,7 @@
 
 ;; this is the start of William's Shit lol
 ;; Completion Framework: Ivy / Swiper / Counsel
+
 ;;Macros
 (global-set-key (kbd "C-c h") 'qlink)
 
@@ -122,23 +121,7 @@
          "* TODO %?\n  %i\n  %a")
         ("j" "Journal" entry (file+olp+datetree "E:/emacs/0rg/Journal.org")
          "* %?\nEntered on %U\n %i\n %a")
-        ("s" "Step" entry (file+headline "E:/Step.org" "Unsorted")
-         "* %t\n%a\n%?")
-        ("a" "Anki Basic" entry (file+headline org-my-anki-file "Dispatch")
-         "* %U\n%a\n:PROPERTIES:\n:ANKI:NOTE_TYPE: Basic\n:ANKI_DECK: 0emacs\n:TAGS:\n:END:\n** Front\n\n** Back\n%?")
-	("i" "IR" entry (file+headline org-my-anki-file "Dispatch")
-         "* %U\n%a\n:PROPERTIES:\n:ANKI:NOTE_TYPE: Basic\n:ANKI_DECK: IR-Cards\n:TAGS:\n:END:\n** Front\n\n** Back\n%?")
-        ))
-
-;; Org Settings
-(setq org-tag-alist '(("GIR" . ?g) ("HO" . ?h) ("CardioPulmEndo" . ?c) ("NeuroPsy" . ?n)("MSK" . ?m)("Repro" . ?r))) 
-(setq org-log-done 'time)
-(setq org-my-anki-file "E:/emacs/0rg/Anki.org")
-(setq org-capture-templates
-;%^g prompts for tag
-      '(("t" "Todo" entry (file+headline "E:/emacs/0rg/Todo.org" "Tasks")
-         "* TODO %?\n  %i\n  %a")
-        ("j" "Journal" entry (file+olp+datetree "E:/emacs/0rg/Journal.org")
+	("u" "Unsorted" entry (file+olp+datetree "C:/Users/Will/Documents/emacs/UnsortedHP.org")
          "* %?\nEntered on %U\n %i\n %a")
         ("s" "Step" entry (file+headline "E:/Step.org" "Unsorted")
          "* %t\n%a\n%?")
@@ -159,6 +142,26 @@
    ["#242424" "#e5786d" "#95e454" "#cae682" "#8ac6f2" "#333366" "#ccaa8f" "#f6f3e8"])
  '(custom-enabled-themes (quote (light-blue)))
  '(global-visual-line-mode t)
+ '(org-insert-mode-line-in-empty-file t)
+ '(org-modules
+   (quote
+    (org-bbdb org-bibtex org-docview org-gnus org-info org-irc org-mhe org-rmail org-w3m org-drill)))
+ '(package-archives
+   (quote
+    (("gnu" . "http://elpa.gnu.org/packages/")
+     ("melpa" . "https://melpa.org/packages/")
+     ("gnu" . "https://elpa.gnu.org/packages/")
+     ("org-learn" . "https://bitbucket.org/eeeickythump/org-drill/src/default/"))))
+ '(package-selected-packages
+   (quote
+    (ivy read-aloud greader orgnav pdf-tools org-noter org-link-minor-mode org-starter anki-editor projectile closure-lint-mode cider))))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
+
  '(org-capture-templates
    (quote
     (("u" "Unsorted" entry
@@ -210,26 +213,5 @@ Entered on %U
 ** Back
 %?")
      )))
- '(org-insert-mode-line-in-empty-file t)
- '(org-modules
-   (quote
-    (org-bbdb org-bibtex org-docview org-gnus org-info org-irc org-mhe org-rmail org-w3m org-drill)))
- '(package-archives
-   (quote
-    (("gnu" . "http://elpa.gnu.org/packages/")
-     ("melpa" . "https://melpa.org/packages/")
-     ("gnu" . "https://elpa.gnu.org/packages/")
-     ("org-learn" . "https://bitbucket.org/eeeickythump/org-drill/src/default/"))))
- '(package-selected-packages
-   (quote
-    (ivy read-aloud greader orgnav pdf-tools org-noter org-link-minor-mode org-starter anki-editor projectile closure-lint-mode cider))))
-(custom-set-faces
- ;; custom-set-faces was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- )
-
-
 
 
