@@ -7,13 +7,13 @@
 ** 
 * [[C:/Users/willm/Documents/emacs/Home/KUMC.org][KUMC]]
 ** Hemenway
-   Stats
+Stats
 * [[C:/Users/willm/Documents/emacs/Home/Gym.org][Gym]]
-* 
+** 
 * [[C:/Users/willm/Documents/emacs/Home/Near.org][Near]]
 ** CVS
 Cardiovasc
 ** McD
 DM
 * [[C:/Users/willm/Documents/emacs/Home/Far.org][Far]]
-* 
+** 

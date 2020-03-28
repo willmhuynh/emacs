@@ -1,0 +1,30 @@
+Test
+
+* 2020
+** 2020-02 February
+
+* Misc Notes
+- 888
+- East High
+| Anchors         |        | Subject               | Topic | Source | 1 | 2 | 3 |   |
+|-----------------+--------+-----------------------+-------+--------+---+---+---+---|
+| Pokemon - Pharm | Grass  | Antimicrobials, Fungi |       | SkPh   |   |   |   |   |
+|                 | Bug    | Bacteria              |       | SkM    |   |   |   |   |
+|                 | Poison | Viruses               |       | SkM    |   |   |   |   |
+|                 | Fire   | Heme/Infl             |       | SkPh   |   |   |   |   |
+|                 | Water  | STDs, Parasites       |       |        |   |   |   |   |
+|                 | Ice    |                       |       |        |   |   |   |   |
+|                 | Physic | NP, CNS               |       | SkPh   |   |   |   |   |
+|                 | Elec   | CV                    |       | SkPh   |   |   |   |   |
+|                 | Dark   | Neo                   |       | SkPh   |   |   |   |   |
+|                 | Ghost  |                       |       |        |   |   |   |   |
+|                 | Rock   | GI                    |       | SkPh   |   |   |   |   |
+|                 | Ground |                       |       |        |   |   |   |   |
+|                 | Steel  |                       |       |        |   |   |   |   |
+|                 | Normal | SMusc                 |       | SkPh   |   |   |   |   |
+|                 | Fight  |                       |       |        |   |   |   |   |
+|                 | Flying | Pulm                  |       | SkPh   |   |   |   |   |
+|                 | Dragon |                       |       |        |   |   |   |   |
+|                 | Fairy  |                       |       |        |   |   |   |   |
+|                 |        |                       |       |        |   |   |   |   |
+[[https://orgmode.org/orgcard.pdf]]* Misc Notes
