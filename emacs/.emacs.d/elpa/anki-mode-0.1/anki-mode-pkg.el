@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "anki-mode" "0.1" "TODO" '((emacs "24") (dash "2.12.0") (markdown-mode "2.2") (s "1.11.0") (request "0.3.0")) :commit "06dd1bd49b7a2b43cf9b744dd5caf67809f39d74" :keywords '("todo") :authors '(("David Shepherd" . "davidshepherd7@gmail.com")) :maintainer '("David Shepherd" . "davidshepherd7@gmail.com") :url "https://github.com/davidshepherd7/anki-mode")

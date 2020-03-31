@@ -1,0 +1,19 @@
+#+OPTIONS: toc:2
+#+ATTR_ORG: width 800
+#+TOC: listings
+#+TOC: tables
+#+TAGS: drill(d) mnemonic(m)
+* [[C:/Users/willm/Documents/emacs/Home/Home.org][Home]]
+** 
+* [[C:/Users/willm/Documents/emacs/Home/KUMC.org][KUMC]]
+** Hemenway
+Stats
+* [[C:/Users/willm/Documents/emacs/Home/Gym.org][Gym]]
+** 
+* [[C:/Users/willm/Documents/emacs/Home/Near.org][Near]]
+** CVS
+Cardiovasc
+** McD
+DM
+* [[C:/Users/willm/Documents/emacs/Home/Far.org][Far]]
+** 

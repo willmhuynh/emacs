@@ -1,0 +1,11 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*- 
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-capture-last-stored"
+ (filename . "e:/emacs/0rg/Anki.org")
+ (front-context-string)
+ (rear-context-string . "- Folic Acid]]\n\n")
+ (position . 183)
+ (annotation . "This is an annotation"))
+)
