@@ -3,6 +3,51 @@
 #+TOC: listings
 #+TOC: tables
 #+TAGS: drill(d) mnemonic(m)
+|           | Location | Topic           |         |
+|-----------+----------+-----------------+---------|
+| Home      | G        | Adrenal         | Pool    |
+|           |          |                 | Laundry |
+|           |          |                 | Gym     |
+|           |          |                 | Mail    |
+|           |          |                 | Study   |
+|           | M        |                 |         |
+|           | 4        | Sex             |         |
+|           | 12       |                 |         |
+|-----------+----------+-----------------+---------|
+| KUMC      | KBel     |                 |         |
+|           | KCam     |                 |         |
+|           | KDy      |                 |         |
+|           | KKirm    | Autonomics      |         |
+|           | KHeb     | BC              |         |
+|           |          | Micro           |         |
+|           |          | Thyroid, Thymus |         |
+|           |          |                 |         |
+|           | KHem     | Stat            |         |
+|           | KSH      | Neuro           |         |
+|           |          | Psy             |         |
+|-----------+----------+-----------------+---------|
+| Gym       | GYN      | Gyn             |         |
+|           | GYE      |                 |         |
+|           | GYRB     |                 |         |
+|           | GYQH     |                 |         |
+|           | GRU      |                 |         |
+|           | GRN      |                 |         |
+|           | GRO      |                 |         |
+|-----------+----------+-----------------+---------|
+| Near      | [[~/DB/MP/NCVS.org][NCVS]]     | CV              |         |
+|           | NMcD     | Endo:DM         |         |
+|           |          |                 |         |
+|           | NVC      | GI              |         |
+|           |          |                 |         |
+|-----------+----------+-----------------+---------|
+| Far       | F5       |                 |         |
+|           | FCostco  |                 |         |
+|           | FPC      |                 |         |
+|-----------+----------+-----------------+---------|
+| Old Homes | OFalls   |                 |         |
+|           | OOliver  |                 |         |
+|           | OSB      |                 |         |
+|-----------+----------+-----------------+---------|
 * [[C:/Users/willm/Documents/emacs/Home/Home.org][Home]]
 ** G
 Pool - Adrenal
@@ -53,3 +98,4 @@ DM
 ** Falls
 ** Oliver
 ** SB
+
