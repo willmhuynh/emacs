@@ -3,7 +3,8 @@
 #+TOC: listings
 #+TOC: tables
 #+TAGS: drill(d) mnemonic(m)
- [[~/Home/NCVS.org][NCVS]  
+ [[~/Home/NCVS.org][NCVS] ]
+
 [[~/Home/Unsorted.org][Unsorted]]
 |      | Location | Topic           |         |
 |------+----------+-----------------+---------|
@@ -37,6 +38,7 @@
 |      | GRO      |                 |         |
 |------+----------+-----------------+---------|
 | [[~/Home/Near.org][Near]] | [[~/Home/NCVS.org][NCVS]]     | CV              |         |
+|      |          | BC:Vit          |         |
 |      | NMcD     | Endo:DM         |         |
 |      |          |                 |         |
 |      | NVC      | GI              |         |

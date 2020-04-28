@@ -1,0 +1,269 @@
+* TODO ROKC, Underground
+  :PROPERTIES:
+  :ID:       39a8a447-1958-490e-8296-a4cb1416486c
+  :DRILL_LAST_INTERVAL: 0.0
+  :DRILL_REPEATS_SINCE_FAIL: 1
+  :DRILL_TOTAL_REPEATS: 1
+  :DRILL_FAILURE_COUNT: 1
+  :DRILL_AVERAGE_QUALITY: 0.0
+  :DRILL_EASE: 2.5
+  :DRILL_LAST_QUALITY: 0
+  :DRILL_LAST_REVIEWED: [2020-02-20 Thu 03:22]
+  :END:
+Derm
+Seborrheic Keratosis
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Thursday\20_37_28.jpg]]
+Rule of 9s - Burns
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Thursday\20_41_58.jpg]]
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Thursday\20_42_07.jpg]]
+Scarlet Fever
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Thursday\20_07_28.jpg]]
+
+
+** RU Inside                                                          :drill:
+   :PROPERTIES:
+   :ID:       ea86b891-9f72-4534-a2cc-71bbf95bed26
+   :END:
+*** Island
+Collagen
+Muscly peeps - myofibroblast - type III
+Reticular fibers, early wound healing
+Replaced w/ type 1 from fibroblasts
+
+*** Wall
+Skin
+**** Taurus
+Bullous - linear IgG & C3 @ dermoepidermal junction
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Wednesday\19_55_06.jpg]]
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Wednesday\19_55_15.jpg]]
+**** Draven
+Vulgaris
+*** Cave
+**** TODO - Coxsackie
+**** Milotic - Syph
+**** Pinchurchin - RMSF
+**** Excadrill
+Eczema
+Itching himself; ichthyosis vulgaris
+Filiagrin mutation (desquamation)
+
+**** HRID
+Dermatitis Herpetiformis
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Thursday\20_23_34.jpg]]
+** RU Parking                                                         :drill:
+   :PROPERTIES:
+   :ID:       e2aa8a3b-828a-42f2-a243-2ed8d481daaf
+   :END:
+*** Door
+**** Cassiopeia
+neurocutaneous syndromes
+Sturge - W Fang
+NF1 - 
+NF2
+TS - Tail
+* ROKC North                                                          :drill:
+  :PROPERTIES:
+  :ID:       828d8637-1ac1-4558-9965-bfc7b1d40d38
+  :DRILL_CARD_TYPE: simple
+  :END:
+Respiratory
+** Outside
+***** Koffing
+CURB-65
+for PNA
+Conf, BUN, RR, BP, 65
+2 = inpt
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_127.png]]
+** Boulder
+Phys
+*** 
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151c.png]]
+
+***** Azir's Pyramid
+Pulsus paradoxus
+Talys bride (tamponade), Oliver (OSA), Peri (carditis), Conrad (croup, asthma)
+
+** Tall
+***** Legion
+w/ bloody axe (haem, morax)
+ PNA w/ COPD
+> SS Cysteine [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Legionella_-_The_SS_Cysteine_Joins_the_Legion_-_26.png]]
+***** (asbestos)
+lower lung (vs other - upper)
+
+***** Silque
+Aspergillus
+ Invasive
+ -omas
+ allergic bronchopulmonary
+****** Froakie 
+ Amphotericin for invasive
+****** Android 16 (the hunky red head)
+ Corticosteroids for ABA
+***** TODO boo (dbz)
+***** Peony (FEH)
+PNA
+
+* YMCA                                                                :drill:
+  :PROPERTIES:
+  :ID:       b67c03c1-be74-49bc-bf21-01605f04bc53
+  :DRILL_CARD_TYPE: simple
+  :END:
+Micro
+** YQuality Hill
+G-
+LPS
+*** YQ Outside                                                        :drill:
+    :PROPERTIES:
+    :ID:       c6d2e83d-be08-445c-8cf6-1847735d1b69
+    :END:
+Bacilli
+**** Tree - comma shaped (3)
+***** combee
+***** Vibrava
+Rice water, which is *milky* (alkaline); pH > 9 
+***** Heliolisk
+**** Tree (3)
+***** Sudowoodo
+___ ___ 
+***** Yamper, coalossal (coli),  
+****** UP :foam
+#1 UTI uncomplicated
+green on EMB; P. fimbriae
+labile - a-cyclase
+stable - g-cyclase
+**** Entrance (3)
+***** Oranguru, salamence
+Shig, Salmon
+Gorilla = strong = low infective dose
+***** Klefki (used to enter, serratia)
+***** primeape (prot)
+*** Entrance & Front Desk
+Baccili - resp & zoonotic
+***** Drowzy
+Bordetella (he's bored
+***** Hypno 
+Influenza (he's influencing
+ Gram neg w/ PRP conjugated vaccine
+****** Rifle
+Rifampin
+Shotgun to dick - hepatotox, red fluids
+****** Olaf, Legion
+3Ceph or amox
+***** Legion (FEH)
+Legionella
+***** LIEbart (liepard) 
+Bartonella
+***** Lycanrock (dog)
+Pasteurella
+***** Lopunny
+Francisella
+***** Miltank
+Brucella
+****** aurelion
+Doxy
+****** Hattrem
+strep-tomycin
+*** Dance floor
+cocci
+***** Luvdisc (men)                                                     :axe:
+N. men
+Moraxella
+****** Primrose
+ with an ax (trimeth & amox Tx moraxella)
+*** Gym
+** YRBridge
+   G+, more like PURPLE bridge amirite? Cloyster?
+*** Locker
+Bacilli
+***** Legion2
+Anthrax
+****** Wooloo
+#wide mediastinum
+sheep herders
+****** Zyra, aurelion
+ fluoro,-cycline 
+****** Fury
+LF - cleaves Map-k > TNF-a > eschar
+EF - activate cAMP > edema
+***** Remoraid
+Bacteroides
+Amping (amp+sulf Tx)
+**** Cloyster
+Clostridia
+****** Mario 
+Pipe for perfringens
+van or metro for dif
+club - shape of botulin
+***** Shellder
+Corynebacteria
+Black pearl (shiny black on special medium)
+# Cystine-tellurite, Loeffler
+
+***** Delibird
+*** Zumba
+Cocci
+***** Hattenna
+Staph (wizard hat)
+***** Hattrem
+Strep
+
+***** Haterene
+Enterococcus (she's inside the castle)
+*** Clock in
+***** Noctowl
+Nocardia
+***** hoothoot
+actinomyces
+** YNorth
+Mycobacteria, Gram Indet, SPirochetes
+*** Entrance
+Mycobacteria
+***** Sandshrew
+M. leprae
+*** Gram Indeterminate
+***** Clamperl
+***** Mareep
+Coxiella
+***** Gardevoir
+Gardnerella
+***** Vel Koz
+mycoplasma
+***** Pinchurchin
+Ricket
+****** aurelion
+tx cycline
+*** Zumba
+***** Lyme
+***** Spinda
+leptoSPIR
+***** Milotic
+Syph, T. pal
+
+** YEast                                                              :drill:
+   :PROPERTIES:
+   :ID:       76682937-4436-46b1-a85d-be448c455f43
+   :END:
+Background
+*** YE Minigym
+Virulence Factors
+**** Rotom
+  Virulence Factors
+***** Heat - toxins
+    Endo - LPS
+# Lipid A = LPS activates TF
+    Exo - A (pseudomonas, inactivate EF2 like c.dif)
+***** Frost  COLD-i; 
+    Fimbriae, e. coli
+
+***** Fan  
+    A protein - s. aur, Fc of IgG
+    IgA protease - SHN
+******  hattrem, hypno, luvdisc
+***** Mow - Mowing, with gas; 
+    M protein, GAS
+
+***** Wash - capsular, Klefki w/ currant (RED - neg); 
+    Klebsular polysacch g-, 
+***** Phone
+***** Bike
