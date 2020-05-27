@@ -1,6 +1,23 @@
-(setq user-init-file "C:/Users/Will/Documents/emacs/.emacs")
+;(setq user-init-file "C:/Users/Will/Documents/emacs/.emacs")
+;https://org-roam.readthedocs.io/en/develop/tour/
 					; if init ain't loading, package-install ivy
+(require 'package)
+(let* ((no-ssl (and (memq system-type '(windows-nt ms-dos))
+                    (not (gnutls-available-p))))
+       (proto (if no-ssl "http" "https")))
+  (when no-ssl (warn "\
+Your version of Emacs does not support SSL connections,
+which is unsafe because it allows man-in-the-middle attacks.
+There are two things you can do about this warning:
+1. Install an Emacs version that does support SSL and be safe.
+2. Remove this warning from your init file so you won't see it again."))
+  (add-to-list 'package-archives (cons "melpa" (concat proto "://melpa.org/packages/")) t)
+  ;; Comment/uncomment this line to enable MELPA Stable if desired.  See `package-archive-priorities`
+  ;; and `package-pinned-packages`. Most users will not need or want to do this.
+  ;;(add-to-list 'package-archives (cons "melpa-stable" (concat proto "://stable.melpa.org/packages/")) t)
+  )
 (package-initialize)
+
 (ivy-mode 1)
 (save-place-mode t)
 (setq inhibit-startup-message 1)
@@ -11,8 +28,11 @@
 (add-to-list 'load-path "~/.emacs.d/lisp/")
  (normal-top-level-add-subdirs-to-load-path)
 (add-to-list 'load-path "~/.emacs.d/elpa/tts-mode")
+(add-to-list 'load-path "~/.emacs.d/lisp/org-roam")
 (setq user-emacs-directory "~/.emacs.d")
 (setq org-agenda-files (quote ("~/Feb20.org")))
+
+
 
 (package-initialize 'org-drill)
 (package-initialize 'org-annotate-file)
@@ -23,7 +43,17 @@
 (package-initialize 'image+)
 (package-initialize 'anki-cards)
 
+					;org-roam
+;(package-initialize 'org-roam)
+;(require 'org-roam)
+;(define-key 'org-roam-mode-map (kbd "C-c n l") #'org-roam)
+;(define-key 'org-roam-mode-map (kbd "C-c n f") #'org-roam-find-file)
+;(define-key 'org-roam-mode-map (kbd "C-c n b") #'org-roam-switch-to-buffer)
+;(define-key 'org-roam-mode-map (kbd "C-c n g") #'org-roam-switch-to-buffer)
+;(define-key 'org-mode-map (kbd "C-c n i") #'org-roam-insert)
+;(org-roam-mode +1)
 
+;TTS-mode
 (add-to-list 'load-path "~/.emacs.d/elpa/tts-mode")
 (setq read-aloud-engine "jampal")
 ;; configure tts engine's command path if needed ;
@@ -102,7 +132,7 @@
    (lambda (&optional arg) "Keyboard macro." (interactive "p") (kmacro-exec-ring-item (quote ([134217848 114 101 97 100 32 97 108 111 117 100 32 98 117 102 return] 0 "%d")) arg)))
 ;Read stop
 (fset 'rs
-   (lambda (&optional arg) "Keyboard macro." (interactive "p") (kmacro-exec-ring-item (quote ("\370read aloud stop" 0 "%d")) arg)))
+      (lambda (&optional arg) "Keyboard macro." (interactive "p") (kmacro-exec-ring-item (quote ("\370read aloud stop" 0 "%d")) arg)))
 
 ;; Annotation
 (defun bookmark-show-org-annotations ()
@@ -164,11 +194,10 @@
    (quote
     (("gnu" . "http://elpa.gnu.org/packages/")
      ("melpa" . "https://melpa.org/packages/")
-     ("gnu" . "https://elpa.gnu.org/packages/")
      ("org-learn" . "https://bitbucket.org/eeeickythump/org-drill/src/default/"))))
  '(package-selected-packages
    (quote
-    (ivy read-aloud greader orgnav pdf-tools org-noter org-link-minor-mode org-starter anki-editor projectile closure-lint-mode cider))))
+    (f org-roam ivy read-aloud greader orgnav pdf-tools org-noter org-link-minor-mode org-starter anki-editor projectile closure-lint-mode cider))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
