@@ -1,2 +1,237 @@
-* Mind Palace
-** [[file:Home/Kirmayer.org][Kirmayer]]
+#+OPTIONS: toc:2
+#+ATTR_ORG: width 800
+#+TOC: listings
+#+TOC: tables
+#+TAGS: drill(d) mnemonic(m)
+ [[~/Home/NCVS.org][NCVS]  
+[[~/Home/Unsorted.org][Unsorted]]
+|      | Location | Topic           |         |
+|------+----------+-----------------+---------|
+| [[~/Home/Home.org][Home]] | [[~/Home/HGPool.org][HGPool]]   | Adrenal         | Pool    |
+|      |          |                 | Laundry |
+|      |          |                 | Gym     |
+|      |          |                 | Mail    |
+|      |          |                 | Study   |
+|      | M        |                 |         |
+|      | 4        | Repro           |         |
+|      | 12       |                 |         |
+|------+----------+-----------------+---------|
+| [[~/Home/KUMC.org][KUMC]] | KBel     |                 |         |
+|      | KCam     |                 |         |
+|      | KDy      |                 |         |
+|      | KKirm    | Autonomics      |         |
+|      | KHeb     | BC              |         |
+|      |          | Micro           |         |
+|      |          | Thyroid, Thymus |         |
+|      |          |                 |         |
+|      | KHem     | Stat            |         |
+|      | KSH      | Neuro           |         |
+|      |          | Psy             |         |
+|------+----------+-----------------+---------|
+| [[~/Home/Gym.org][Gym]]  | GYN      | Gyn             |         |
+|      | GYE      |                 |         |
+|      | GYRB     |                 |         |
+|      | GYQH     |                 |         |
+|      | GRU      |                 |         |
+|      | GRN      |                 |         |
+|      | GRO      |                 |         |
+|------+----------+-----------------+---------|
+| [[~/Home/Near.org][Near]] | [[~/Home/NCVS.org][NCVS]]     | CV              |         |
+|      | NMcD     | Endo:DM         |         |
+|      |          |                 |         |
+|      | NVC      | GI              |         |
+|      |          |                 |         |
+|------+----------+-----------------+---------|
+| [[~/Home/Far.org][Far]]  | F5       |                 |         |
+|      | FCostco  |                 |         |
+|      | FPC      |                 |         |
+|------+----------+-----------------+---------|
+| [[~/Home/O.org][O]]    | OFalls   |                 |         |
+|      | OOliver  |                 |         |
+|      | OSB      |                 |         |
+|------+----------+-----------------+---------|
+* [[C:/Users/willm/Documents/emacs/Home/Home.org][Home]]
+** G
+Pool - Adrenal
+Laundry
+Gym
+Mail
+Study 
+** M 
+** 4
+Sex
+** 12
+* [[C:/Users/willm/Documents/emacs/Home/KUMC.org][KUMC]]
+** {Bel}l
+** {Cam}bridge
+** {Dyk}es
+** (K)irm
+Autonomics
+** HEB
+Biochem
+Micro
+Thyroid, Thymus
+
+** {Hem}enway
+Stats
+** SH
+Psy
+Neuro
+* [[C:/Users/willm/Documents/emacs/Home/Gym.org][Gym]]
+** YN
+** YE
+** YRB
+** YQH
+** RU
+** RN
+** RO
+* [[C:/Users/willm/Documents/emacs/Home/Near.org][Near]]
+** VC
+GI
+** CVS
+Cardiovasc
+** McD
+DM
+* [[C:/Users/willm/Documents/emacs/Home/Far.org][Far]]
+** 5
+** (C)ostco
+** PC
+* Old Homes
+** Falls
+** Oliver
+** SB
+
+
+* Footnotes
+
+[fn:1]
+Catecholamine Pathway
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_161x.png]]
+
+[fn:2] Cancers
+___ Hodg
+___ non-hodg
+DLBCL
+14,18 follicular
+8, 14 Burk, starry sky, tingible macro
+11, 14 mantle
+
+Primary cerebral lymphoma - single ring-enhancing; a/w EBV + AIDs
+
+[fn:3] Gene markers
+# CAP = onc; low = tsg
+___ Thyroid
+BRAF - papillary; psam, orphan annie
+PAX8-PAR - follicular,  _early invasion_
+RET -*medullamyloid* 
+p53 - aplastic; undiff, pleo giant cells
+___ Resp
+BRAF - small 
+ MYCL1
+ALK-EML4 - adeno
+!Krabs - KRAS - Kolon, resp, panc
+___ Panc
+smad4/dpc4 - pan
+___ Misc
+JAK2 marrow fibrosis
+
+# Clothes hanger
+Oncogenes
+BRAF - small cellung
+ MYCL1
+____ Resp
+ALK - EML4 fusion; adeno
+Krabs (KRAS - kolon, resp, panc
+
+[fn:4] [[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_Vasculitis_-_OneNote1k.jpg]]
+
+[fn:5] 
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Thursday\20_15_36.jpg][Brachial Plexus]]
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151n.jpg]]
+Branchial Arch System
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_151d.png]]
+:Pouches:
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_(1)_Pharyngeal_Arch_System_and_its_Derivatives_-_Y3.jpg]]
+1 - tympanic
+2-4 cerical sinus; overgrowth of 2
+2 - palatine tonsil
+3 - inf parathyroid, thymus
+4 - sup para, ultimobrachial body (parafollicular thyroid)
+
+ARCHES
+3 - stylopharyngeus - swallow elevation
+4 - cricothyroid (voice);
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02-Wednesday\19_23_39.jpg]]
+
+[fn:6] 
+CYP Drugs
+Substrate
+Warfarin
+Theo
+OCPs
+
+antipsych/epi/dep
+anesthetics
+statins
+
+*Active*
+*"Guiness, Coronas and PBRs induce chronic  alcoholism in men"*
+Griseo 
+Carbamazepine
+Pheny, Phenobarb
+Barb
+Rifampin
+
+modafinil
+EtOH
+nevirapine, nafcillin
+
+St. John, Sulfonylurea,
+(tofacitinib)
+
+*Inactive*
+*Sickfaces.com/grp*
+sodium valp
+INH
+Cimetidine
+-Ketocon
+
+-Flucon
+Alcohol, Amio
+Chloramph
++Erythromycin(macrolides)
+Sulfonamide
+
++Cipro
+-Omeprazole
+-Metro
+
+gemfibrozil
+ritonavir
+
+(quinidine,)
+
+[fn:7] Rule of 4s
+
+[fn:8] Amino Acids
+phe
+tyr
+
+[fn:9]
+Mnemonics
+Bacteria
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_ShareX_-_Image_viewer1.png]]
+Viruses
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_ShareX_-_Image_viewer3.jpg]]
+Coag Cascade
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_20_02_16_chrome.2f.png_(1262×657)_-_Google_Chrome4.png]]
+Arachidonic acid
+[[E:\Programs\ShareX-portable\000 Sharex\2020-02\20_02_16_ShareX_-_Image_viewer0.png]]
+
+[fn:10] Antibodies
+AMA - PBC (Amy w/ peanut butter cookie); mitochondrial
+
+[fn:11] Colon buzz words
+String - d.ileum; Crohn
+Pipe - descending ; UC
+ThumbprInt - Ischemic colitis; IBD
