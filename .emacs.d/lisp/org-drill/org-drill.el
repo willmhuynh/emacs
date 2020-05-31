@@ -161,7 +161,7 @@ Possible values:
 
 
 (defcustom org-drill-use-visible-cloze-face-p
-  nil
+  t
   "Use a special face to highlight cloze-deleted text in org mode
 buffers?"
   :group 'org-drill
